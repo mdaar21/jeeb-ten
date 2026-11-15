@@ -5,15 +5,16 @@ export type Answer = {
 export type Category = {
   id: number; title: string; group: string; icon: string; description: string; metric: string;
   source: { title: string; url: string; asOf: string; checkedAt: string };
+  rankingType?: 'editorial' | 'source'; difficulty?: 'easy' | 'standard'; region?: 'arab' | 'global'; domain?: string;
   answers: Answer[]; distractors?: Omit<Answer, 'rank'>[];
 };
 export type Entity = Omit<Answer, 'rank'>;
 export type Notice = { kind: 'correct' | 'wrong' | 'repeat' | 'clarify' | 'suggest' | 'info'; text: string; name?: string };
-export type Player = { name: string; token: string; errors: number; wrong: string[] };
+export type Player = { name: string; token: string; errors: number; wrong: string[]; members: string[]; turns: number };
 export type Game = {
-  id: string; categoryId: number; mode: 'solo' | 'local' | 'online';
-  status: 'waiting' | 'playing' | 'finished'; players: Player[]; current: number;
-  found: { rank: number; player: number }[];
+  id: string; categoryId: number; mode: 'solo' | 'teams';
+  status: 'playing' | 'finished'; players: Player[]; current: number;
+  found: { rank: number; player: number; member?: string }[];
   pending: { player: number; entityKey: string; name: string } | null;
   clarifying: { player: number; query: string } | null;
   notice: Notice | null; reason: 'complete' | 'mistakes' | null;
@@ -72,11 +73,14 @@ export function domain(id: number): string {
   if ([40,48,50].includes(id)) return 'cities';
   if ([73,74].includes(id)) return 'languages';
   if ([22,23,25,27,28,29,31,33,35].includes(id)) return 'athletes';
+  if (id === 15) return 'artists';
+  if ([14,17].includes(id)) return 'songs';
+  if ([37,38].includes(id)) return 'dishes';
   return `category-${id}`;
 }
 export function entityPool(category: Category, catalog: Category[]): Entity[] {
   const map = new Map<string, Entity>();
-  for (const list of catalog.filter(c => domain(c.id) === domain(category.id))) {
+  for (const list of catalog.filter(c => (c.domain || domain(c.id)) === (category.domain || domain(category.id)))) {
     for (const e of [...list.answers, ...(list.distractors || [])]) {
       const k = key(e), old = map.get(k);
       map.set(k, { ...e, aliases: [...new Set([...(old?.aliases || []), ...(e.aliases || [])])] });
@@ -88,10 +92,15 @@ export function entityPool(category: Category, catalog: Category[]): Entity[] {
 export type Match = { kind: 'exact' | 'suggest'; entity: Entity } | { kind: 'clarify' | 'unknown'; text: string };
 export function resolveAnswer(raw: string, category: Category, catalog: Category[]): Match {
   const q = normalize(raw);
-  if (!q || q.replace(/ /g, '').length < 2) return { kind: 'clarify', text: 'اكتب اسمًا أوضح عشان نقدر نتحقق منه.' };
+  if (!q) return { kind: 'clarify', text: 'اكتب اسمًا أوضح عشان نقدر نتحقق منه.' };
   const pool = entityPool(category, catalog);
   const compactQuery = q.replace(/ /g, '');
   const exact = pool.filter(e => names(e).some(name => name === q || name.replace(/ /g, '') === compactQuery));
+  const mediaDomain=['video-games','films','television'].includes(category.domain || domain(category.id));
+  if(exact.length>1&&!mediaDomain){
+    const local=category.answers.filter(e=>names(e).some(name=>name===q||name.replace(/ /g,'')===compactQuery));
+    if(local.length===1)return {kind:'exact',entity:local[0]};
+  }
   if (exact.length === 1) {
     // A source ranking seasons or editions must retain the distinction.
     const e = exact[0];
@@ -99,10 +108,11 @@ export function resolveAnswer(raw: string, category: Category, catalog: Category
       return { kind: 'clarify', text: 'تقصد أي جزء أو موسم؟ اكتب اسمه أو رقمه، وما نحسبها غلطة.' };
     return { kind: 'exact', entity: e };
   }
-  if (exact.length > 1) return { kind: 'clarify', text: 'الاسم يطابق أكثر من إصدار. حدّد الجزء أو الموسم أو سنة الإصدار، بدون خصم محاولة.' };
+  if (exact.length > 1) return { kind: 'clarify', text: mediaDomain?'الاسم يطابق أكثر من إصدار. حدّد الجزء أو الموسم أو سنة الإصدار، بدون خصم محاولة.':category.domain==='parks'?'تقصد أي فرع أو مدينة؟ اكتب اسمها، بدون خصم محاولة.':'الاسم يطابق أكثر من عنصر. اكتبه كاملًا، بدون خصم محاولة.' };
+  if (compactQuery.length < 2) return { kind: 'clarify', text: 'اكتب اسمًا أوضح عشان نقدر نتحقق منه.' };
   const explicitSeries = pool.some(e => e.series && normalize(e.series) === q);
-  if (explicitSeries || (['video-games','films','television'].includes(domain(category.id)) && seriesLabels.some(group => group.map(normalize).includes(q)))) {
-    return { kind: 'clarify', text: 'تقصد أي جزء أو موسم؟ اكتب الاسم كاملًا أو أضف رقمه، وما نحسبها غلطة.' };
+  if (explicitSeries || (['video-games','films','television'].includes(category.domain || domain(category.id)) && seriesLabels.some(group => group.map(normalize).includes(q)))) {
+    return { kind: 'clarify', text: category.domain==='parks'?'تقصد أي فرع أو مدينة؟ اكتب اسمها، بدون خصم محاولة.':'تقصد أي جزء أو موسم؟ اكتب الاسم كاملًا أو أضف رقمه، وما نحسبها غلطة.' };
   }
   const qNumbers = q.match(/\d+/g)?.join(',') || '';
   const ranked = pool.map(entity => {
@@ -123,15 +133,18 @@ export function resolveAnswer(raw: string, category: Category, catalog: Category
   return { kind: 'unknown', text: 'هالإجابة مو ضمن العشرة في هذه القائمة.' };
 }
 
-export function createGame(id: string, categoryId: number, mode: Game['mode'], names: string[]): Game {
-  const players = (mode === 'local' ? [names[0] || 'اللاعب الأول', names[1] || 'اللاعب الثاني'] : [names[0] || 'أنت'])
-    .map(name => ({ name: name.trim().slice(0, 24) || 'لاعب', token: crypto.randomUUID(), errors: 0, wrong: [] }));
-  return { id, categoryId, mode, status: mode === 'online' ? 'waiting' : 'playing',
-    players, current: mode === 'local' ? crypto.getRandomValues(new Uint8Array(1))[0] % 2 : 0,
+export function activeMember(player: Player): string { return player.members[player.turns % player.members.length]; }
+export function createGame(id: string, categoryId: number, mode: Game['mode'], names: string[], members: string[][] = []): Game {
+  const players = (mode === 'teams' ? [names[0] || 'الفريق الأول', names[1] || 'الفريق الثاني'] : ['أنت'])
+    .map((name,i) => ({ name: name.trim().slice(0, 24) || 'فريق', token: crypto.randomUUID(), errors: 0, wrong: [] as string[],
+      members: members[i]?.map(m=>m.trim().slice(0,24)).filter(Boolean).slice(0,30) || [mode==='solo'?'أنت':'لاعب 1'], turns: 0 }));
+  for(const p of players)if(!p.members.length)p.members=['لاعب 1'];
+  return { id, categoryId, mode, status: 'playing',
+    players, current: mode === 'teams' ? crypto.getRandomValues(new Uint8Array(1))[0] % 2 : 0,
     found: [], pending: null, clarifying: null, notice: null, reason: null, requests: [], created: Date.now() };
 }
 export function getResults(game: Game) {
-  const totals = game.players.map((p, i) => ({ name: p.name, found: game.found.filter(f => f.player === i).length,
+  const totals = game.players.map((p, i) => ({ name: p.name, members: p.members, found: game.found.filter(f => f.player === i).length,
     score: game.found.filter(f => f.player === i).reduce((sum, f) => sum + f.rank, 0), errors: p.errors }));
   let winner: number | null = null;
   if (game.mode !== 'solo') {
@@ -149,13 +162,14 @@ function settle(game: Game, category: Category, player: number, raw: string, ent
     game.notice = { kind: 'repeat', text: 'سبق وانكشفت هالإجابة. جرّب اسمًا ثانيًا.' }; return;
   }
   if (target) {
-    game.found.push({ rank: target.rank, player });
+    game.found.push({ rank: target.rank, player, member: activeMember(game.players[player]) });
     game.notice = { kind: 'correct', text: `صح! ${target.nameAr} بالمركز ${target.rank}.` };
   } else {
     game.players[player].errors++;
     game.players[player].wrong.push(raw.slice(0, 90));
     game.notice = { kind: 'wrong', text: 'مو ضمن العشرة في هالقائمة.' };
   }
+  game.players[player].turns++;
   if (game.players[player].errors === 5) { game.status = 'finished'; game.reason = 'mistakes'; }
   else if (game.found.length === 10) { game.status = 'finished'; game.reason = 'complete'; }
   else if (game.mode !== 'solo') game.current = 1 - game.current;
@@ -178,7 +192,12 @@ export function makeAttempt(game: Game, category: Category, catalog: Category[],
     const ordinals: Record<string,string> = { الاول:'1', اول:'1', الثاني:'2', ثاني:'2', الثالث:'3', ثالث:'3', الرابع:'4', رابع:'4', الخامس:'5', خامس:'5', السادس:'6', سادس:'6', السابع:'7', سابع:'7', الثامن:'8', ثامن:'8', التاسع:'9', تاسع:'9', العاشر:'10', عاشر:'10' };
     if (/^\d{1,4}$/.test(short) || ordinals[short]) query = `${game.clarifying.query} ${ordinals[short] || short}`;
   }
-  const match = resolveAnswer(query, category, catalog);
+  let match = resolveAnswer(query, category, catalog);
+  if(match.kind==='unknown'&&game.clarifying?.player===player&&query===raw.slice(0,120)){
+    const combined=`${game.clarifying.query} ${query}`;
+    const contextual=resolveAnswer(combined,category,catalog);
+    if(contextual.kind!=='unknown'){query=combined;match=contextual;}
+  }
   if (match.kind === 'clarify') {
     game.clarifying = { player, query: query.length > 3 ? query : game.clarifying?.query || query };
     game.notice = { kind: 'clarify', text: match.text };
@@ -194,12 +213,12 @@ export function makeAttempt(game: Game, category: Category, catalog: Category[],
 export function publicGame(game: Game, category: Category, viewer: number, version: number) {
   const over = game.status === 'finished';
   return { id: game.id, categoryId: game.categoryId, mode: game.mode, status: game.status, current: game.current,
-    you: viewer, version, players: game.players.map(p => ({ name: p.name, errors: p.errors, wrong: p.wrong })),
+    you: viewer, version, players: game.players.map(p => ({ name: p.name, members: p.members, activeMember: activeMember(p), activeMemberIndex: p.turns % p.members.length, errors: p.errors, wrong: p.wrong })),
     foundCount: game.found.length, notice: game.notice, reason: game.reason,
-    canPlay: game.status === 'playing' && (game.mode === 'local' || game.current === viewer),
+    canPlay: game.status === 'playing',
     slots: Array.from({ length: 10 }, (_, i) => {
       const rank = i + 1, found = game.found.find(f => f.rank === rank), a = category.answers.find(x => x.rank === rank)!;
-      return { rank, found: !!found, player: found?.player ?? null,
+      return { rank, found: !!found, player: found?.player ?? null, member: found?.member ?? null,
         name: found || over ? a.nameAr : null, nameEn: found || over ? a.nameEn : null };
     }),
     results: over ? getResults(game) : null };

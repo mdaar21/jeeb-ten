@@ -1,0 +1,7021 @@
+[
+  {
+    "id": 101,
+    "title": "10 شخصيات ماريو أيقونية",
+    "group": "ألعاب وشخصيات",
+    "icon": "🍄",
+    "domain": "mario-characters",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من شخصيات ماريو أيقونية",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "ويكيبيديا — عالم ماريو",
+      "url": "https://en.wikipedia.org/wiki/Mario_(franchise)",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c101-a1",
+        "nameAr": "ماريو",
+        "nameEn": "Mario",
+        "aliases": [],
+        "rank": 1
+      },
+      {
+        "id": "c101-a2",
+        "nameAr": "لويجي",
+        "nameEn": "Luigi",
+        "aliases": [
+          "لويجى"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c101-a3",
+        "nameAr": "الأميرة بيتش",
+        "nameEn": "Princess Peach",
+        "aliases": [
+          "Peach",
+          "بيتش",
+          "برنسس بيتش"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c101-a4",
+        "nameAr": "يوشي",
+        "nameEn": "Yoshi",
+        "aliases": [],
+        "rank": 4
+      },
+      {
+        "id": "c101-a5",
+        "nameAr": "باوزر",
+        "nameEn": "Bowser",
+        "aliases": [
+          "باوزير",
+          "كوپا",
+          "King Koopa"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c101-a6",
+        "nameAr": "تود",
+        "nameEn": "Toad",
+        "aliases": [
+          "تواد"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c101-a7",
+        "nameAr": "دونكي كونغ",
+        "nameEn": "Donkey Kong",
+        "aliases": [
+          "دونكي كونج",
+          "دونكي كونق",
+          "DK"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c101-a8",
+        "nameAr": "واريو",
+        "nameEn": "Wario",
+        "aliases": [],
+        "rank": 8
+      },
+      {
+        "id": "c101-a9",
+        "nameAr": "والويجي",
+        "nameEn": "Waluigi",
+        "aliases": [
+          "والويجى"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c101-a10",
+        "nameAr": "روزالينا",
+        "nameEn": "Rosalina",
+        "aliases": [],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c101-d1",
+        "nameAr": "الأميرة ديزي",
+        "nameEn": "Princess Daisy",
+        "aliases": [
+          "Daisy",
+          "ديزي"
+        ]
+      },
+      {
+        "id": "c101-d2",
+        "nameAr": "باوزر جونيور",
+        "nameEn": "Bowser Jr.",
+        "aliases": [
+          "Bowser Junior"
+        ]
+      },
+      {
+        "id": "c101-d3",
+        "nameAr": "توديت",
+        "nameEn": "Toadette",
+        "aliases": []
+      },
+      {
+        "id": "c101-d4",
+        "nameAr": "غومبا",
+        "nameEn": "Goomba",
+        "aliases": [
+          "جومبا"
+        ]
+      },
+      {
+        "id": "c101-d5",
+        "nameAr": "كوبا تروبا",
+        "nameEn": "Koopa Troopa",
+        "aliases": []
+      },
+      {
+        "id": "c101-d6",
+        "nameAr": "بو",
+        "nameEn": "Boo",
+        "aliases": []
+      },
+      {
+        "id": "c101-d7",
+        "nameAr": "شاي غاي",
+        "nameEn": "Shy Guy",
+        "aliases": []
+      },
+      {
+        "id": "c101-d8",
+        "nameAr": "بيردو",
+        "nameEn": "Birdo",
+        "aliases": []
+      },
+      {
+        "id": "c101-d9",
+        "nameAr": "ديدي كونغ",
+        "nameEn": "Diddy Kong",
+        "aliases": []
+      },
+      {
+        "id": "c101-d10",
+        "nameAr": "بولين",
+        "nameEn": "Pauline",
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "title": "10 شخصيات من عالم سونيك",
+    "group": "ألعاب وشخصيات",
+    "icon": "🦔",
+    "domain": "sonic-characters",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من شخصيات من عالم سونيك",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "SEGA Sonic Channel",
+      "url": "https://sonic.sega.jp/SonicChannel/character/",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c102-a1",
+        "nameAr": "سونيك",
+        "nameEn": "Sonic the Hedgehog",
+        "aliases": [
+          "Sonic",
+          "سونيك القنفذ"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c102-a2",
+        "nameAr": "تيلز",
+        "nameEn": "Miles Tails Prower",
+        "aliases": [
+          "Tails",
+          "Miles Prower",
+          "تايلز"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c102-a3",
+        "nameAr": "ناكلز",
+        "nameEn": "Knuckles the Echidna",
+        "aliases": [
+          "Knuckles",
+          "نكلز"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c102-a4",
+        "nameAr": "إيمي روز",
+        "nameEn": "Amy Rose",
+        "aliases": [
+          "Amy",
+          "ايمي"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c102-a5",
+        "nameAr": "شادو",
+        "nameEn": "Shadow the Hedgehog",
+        "aliases": [
+          "Shadow",
+          "شادو القنفذ"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c102-a6",
+        "nameAr": "الدكتور إيغمان",
+        "nameEn": "Dr. Eggman",
+        "aliases": [
+          "Eggman",
+          "Robotnik",
+          "Dr Robotnik",
+          "دكتور روبوتنيك",
+          "دكتور ايجمان"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c102-a7",
+        "nameAr": "سيلفر",
+        "nameEn": "Silver the Hedgehog",
+        "aliases": [
+          "Silver"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c102-a8",
+        "nameAr": "بليز",
+        "nameEn": "Blaze the Cat",
+        "aliases": [
+          "Blaze",
+          "بلايز"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c102-a9",
+        "nameAr": "روج",
+        "nameEn": "Rouge the Bat",
+        "aliases": [
+          "Rouge",
+          "روج الخفاش"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c102-a10",
+        "nameAr": "ميتال سونيك",
+        "nameEn": "Metal Sonic",
+        "aliases": [
+          "سونيك المعدني"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c102-d1",
+        "nameAr": "كريم الأرنب",
+        "nameEn": "Cream the Rabbit",
+        "aliases": [
+          "Cream"
+        ]
+      },
+      {
+        "id": "c102-d2",
+        "nameAr": "بيغ القط",
+        "nameEn": "Big the Cat",
+        "aliases": [
+          "Big"
+        ]
+      },
+      {
+        "id": "c102-d3",
+        "nameAr": "فيكتور",
+        "nameEn": "Vector the Crocodile",
+        "aliases": [
+          "Vector"
+        ]
+      },
+      {
+        "id": "c102-d4",
+        "nameAr": "إسبيو",
+        "nameEn": "Espio the Chameleon",
+        "aliases": [
+          "Espio"
+        ]
+      },
+      {
+        "id": "c102-d5",
+        "nameAr": "تشارمي",
+        "nameEn": "Charmy Bee",
+        "aliases": [
+          "Charmy"
+        ]
+      },
+      {
+        "id": "c102-d6",
+        "nameAr": "أوميغا",
+        "nameEn": "E-123 Omega",
+        "aliases": [
+          "Omega"
+        ]
+      },
+      {
+        "id": "c102-d7",
+        "nameAr": "جيت",
+        "nameEn": "Jet the Hawk",
+        "aliases": [
+          "Jet"
+        ]
+      },
+      {
+        "id": "c102-d8",
+        "nameAr": "تيكال",
+        "nameEn": "Tikal the Echidna",
+        "aliases": [
+          "Tikal"
+        ]
+      },
+      {
+        "id": "c102-d9",
+        "nameAr": "كايوس",
+        "nameEn": "Chaos",
+        "aliases": [
+          "كاوس"
+        ]
+      },
+      {
+        "id": "c102-d10",
+        "nameAr": "سوبر سونيك",
+        "nameEn": "Super Sonic",
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "title": "10 مخلوقات مألوفة في ماينكرافت",
+    "group": "ألعاب وشخصيات",
+    "icon": "🟩",
+    "domain": "minecraft-mobs",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من مخلوقات مألوفة في ماينكرافت",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "Minecraft Wiki — Mob",
+      "url": "https://minecraft.wiki/w/Mob",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c103-a1",
+        "nameAr": "كريبر",
+        "nameEn": "Creeper",
+        "aliases": [
+          "كريپر",
+          "كريبر ماينكرافت"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c103-a2",
+        "nameAr": "زومبي",
+        "nameEn": "Zombie",
+        "aliases": [
+          "الزومبي"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c103-a3",
+        "nameAr": "سكيليتون",
+        "nameEn": "Skeleton",
+        "aliases": [
+          "هيكل عظمي",
+          "الهيكل العظمي"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c103-a4",
+        "nameAr": "إندرمان",
+        "nameEn": "Enderman",
+        "aliases": [
+          "اندر مان",
+          "Ender Man"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c103-a5",
+        "nameAr": "عنكبوت",
+        "nameEn": "Spider",
+        "aliases": [
+          "سبايدر",
+          "العنكبوت"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c103-a6",
+        "nameAr": "قروي",
+        "nameEn": "Villager",
+        "aliases": [
+          "القروي",
+          "فيلجر",
+          "فيلجرز"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c103-a7",
+        "nameAr": "بقرة",
+        "nameEn": "Cow",
+        "aliases": [
+          "البقرة"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c103-a8",
+        "nameAr": "خنزير",
+        "nameEn": "Pig",
+        "aliases": [
+          "الخنزير"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c103-a9",
+        "nameAr": "خروف",
+        "nameEn": "Sheep",
+        "aliases": [
+          "الخروف",
+          "غنمة",
+          "الغنم"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c103-a10",
+        "nameAr": "دجاجة",
+        "nameEn": "Chicken",
+        "aliases": [
+          "دجاج",
+          "الدجاجة"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c103-d1",
+        "nameAr": "ذئب",
+        "nameEn": "Wolf",
+        "aliases": [
+          "الذيب",
+          "الذئب"
+        ]
+      },
+      {
+        "id": "c103-d2",
+        "nameAr": "قط",
+        "nameEn": "Cat",
+        "aliases": [
+          "القطة"
+        ]
+      },
+      {
+        "id": "c103-d3",
+        "nameAr": "تنين الإندر",
+        "nameEn": "Ender Dragon",
+        "aliases": [
+          "اندر دراجون"
+        ]
+      },
+      {
+        "id": "c103-d4",
+        "nameAr": "ويذر",
+        "nameEn": "Wither",
+        "aliases": [
+          "الوذر"
+        ]
+      },
+      {
+        "id": "c103-d5",
+        "nameAr": "آيرون غولم",
+        "nameEn": "Iron Golem",
+        "aliases": [
+          "الغولم الحديدي",
+          "ايرون قولم"
+        ]
+      },
+      {
+        "id": "c103-d6",
+        "nameAr": "واردن",
+        "nameEn": "Warden",
+        "aliases": []
+      },
+      {
+        "id": "c103-d7",
+        "nameAr": "سلايم",
+        "nameEn": "Slime",
+        "aliases": []
+      },
+      {
+        "id": "c103-d8",
+        "nameAr": "غاست",
+        "nameEn": "Ghast",
+        "aliases": [
+          "جاست"
+        ]
+      },
+      {
+        "id": "c103-d9",
+        "nameAr": "بليز النار",
+        "nameEn": "Blaze",
+        "aliases": [
+          "بلايز"
+        ]
+      },
+      {
+        "id": "c103-d10",
+        "nameAr": "ساحرة",
+        "nameEn": "Witch",
+        "aliases": [
+          "الساحرة"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "title": "10 بلوكات مشهورة في ماينكرافت",
+    "group": "ألعاب وشخصيات",
+    "icon": "🧱",
+    "domain": "minecraft-blocks",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من بلوكات مشهورة في ماينكرافت",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "Minecraft Wiki — Block",
+      "url": "https://minecraft.wiki/w/Block",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c104-a1",
+        "nameAr": "تراب",
+        "nameEn": "Dirt",
+        "aliases": [
+          "بلوك التراب",
+          "ديرت"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c104-a2",
+        "nameAr": "حجر",
+        "nameEn": "Stone",
+        "aliases": [
+          "ستون",
+          "بلوك الحجر"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c104-a3",
+        "nameAr": "بلوك العشب",
+        "nameEn": "Grass Block",
+        "aliases": [
+          "عشب",
+          "غراس بلوك"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c104-a4",
+        "nameAr": "جذع بلوط",
+        "nameEn": "Oak Log",
+        "aliases": [
+          "خشب البلوط",
+          "اوك لوق",
+          "Oak Wood"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c104-a5",
+        "nameAr": "كوبلستون",
+        "nameEn": "Cobblestone",
+        "aliases": [
+          "حجر مرصوف",
+          "كوبل ستون"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c104-a6",
+        "nameAr": "طاولة التصنيع",
+        "nameEn": "Crafting Table",
+        "aliases": [
+          "كرافتنق تيبل",
+          "كرافتنج تيبل",
+          "طاولة الكرافت"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c104-a7",
+        "nameAr": "صندوق",
+        "nameEn": "Chest",
+        "aliases": [
+          "تشست",
+          "الصندوق"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c104-a8",
+        "nameAr": "تي إن تي",
+        "nameEn": "TNT",
+        "aliases": [
+          "ديناميت",
+          "تي ان تي"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c104-a9",
+        "nameAr": "بيدروك",
+        "nameEn": "Bedrock",
+        "aliases": [
+          "صخر الأساس",
+          "بيد روك"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c104-a10",
+        "nameAr": "بلوك الألماس",
+        "nameEn": "Block of Diamond",
+        "aliases": [
+          "بلوك دايموند",
+          "Diamond Block",
+          "كتلة الماس"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c104-d1",
+        "nameAr": "رمل",
+        "nameEn": "Sand",
+        "aliases": [
+          "الرمل"
+        ]
+      },
+      {
+        "id": "c104-d2",
+        "nameAr": "زجاج",
+        "nameEn": "Glass",
+        "aliases": [
+          "قلاس"
+        ]
+      },
+      {
+        "id": "c104-d3",
+        "nameAr": "أوبسيديان",
+        "nameEn": "Obsidian",
+        "aliases": [
+          "اوبسيدين"
+        ]
+      },
+      {
+        "id": "c104-d4",
+        "nameAr": "نيذرراك",
+        "nameEn": "Netherrack",
+        "aliases": []
+      },
+      {
+        "id": "c104-d5",
+        "nameAr": "فرن",
+        "nameEn": "Furnace",
+        "aliases": [
+          "فرن الصهر"
+        ]
+      },
+      {
+        "id": "c104-d6",
+        "nameAr": "رف كتب",
+        "nameEn": "Bookshelf",
+        "aliases": [
+          "مكتبة"
+        ]
+      },
+      {
+        "id": "c104-d7",
+        "nameAr": "بلوك الذهب",
+        "nameEn": "Block of Gold",
+        "aliases": [
+          "Gold Block"
+        ]
+      },
+      {
+        "id": "c104-d8",
+        "nameAr": "بلوك الحديد",
+        "nameEn": "Block of Iron",
+        "aliases": [
+          "Iron Block"
+        ]
+      },
+      {
+        "id": "c104-d9",
+        "nameAr": "حجر الإند",
+        "nameEn": "End Stone",
+        "aliases": [
+          "اند ستون"
+        ]
+      },
+      {
+        "id": "c104-d10",
+        "nameAr": "مصباح ريدستون",
+        "nameEn": "Redstone Lamp",
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "title": "10 بوكيمونات من الجيل الأول",
+    "group": "ألعاب وشخصيات",
+    "icon": "⚡",
+    "domain": "pokemon-characters",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من بوكيمونات من الجيل الأول",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "Pokémon — National Pokédex",
+      "url": "https://www.pokemon.com/pokedex/",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c105-a1",
+        "nameAr": "بيكاتشو",
+        "nameEn": "Pikachu",
+        "aliases": [
+          "بيكاشو"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c105-a2",
+        "nameAr": "تشارزارد",
+        "nameEn": "Charizard",
+        "aliases": [
+          "شاريزارد",
+          "شارزارد"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c105-a3",
+        "nameAr": "بلباسور",
+        "nameEn": "Bulbasaur",
+        "aliases": [
+          "بولباسور"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c105-a4",
+        "nameAr": "تشارماندر",
+        "nameEn": "Charmander",
+        "aliases": [
+          "شارماندر"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c105-a5",
+        "nameAr": "سكويرتل",
+        "nameEn": "Squirtle",
+        "aliases": [
+          "سكويرتيل"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c105-a6",
+        "nameAr": "إيفي",
+        "nameEn": "Eevee",
+        "aliases": [
+          "ايفي"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c105-a7",
+        "nameAr": "جيغليباف",
+        "nameEn": "Jigglypuff",
+        "aliases": [
+          "جيجليبف",
+          "جيغلي بف"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c105-a8",
+        "nameAr": "مياوث",
+        "nameEn": "Meowth",
+        "aliases": [
+          "ميوث"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c105-a9",
+        "nameAr": "سايداك",
+        "nameEn": "Psyduck",
+        "aliases": [
+          "ساي دك",
+          "بسايدك"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c105-a10",
+        "nameAr": "ميوتو",
+        "nameEn": "Mewtwo",
+        "aliases": [
+          "ميو تو",
+          "Mew Two"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c105-d1",
+        "nameAr": "ميو",
+        "nameEn": "Mew",
+        "aliases": []
+      },
+      {
+        "id": "c105-d2",
+        "nameAr": "بلاستويز",
+        "nameEn": "Blastoise",
+        "aliases": []
+      },
+      {
+        "id": "c105-d3",
+        "nameAr": "فينوسور",
+        "nameEn": "Venusaur",
+        "aliases": []
+      },
+      {
+        "id": "c105-d4",
+        "nameAr": "سنورلاكس",
+        "nameEn": "Snorlax",
+        "aliases": []
+      },
+      {
+        "id": "c105-d5",
+        "nameAr": "غينغار",
+        "nameEn": "Gengar",
+        "aliases": [
+          "جينجار"
+        ]
+      },
+      {
+        "id": "c105-d6",
+        "nameAr": "غيارادوس",
+        "nameEn": "Gyarados",
+        "aliases": [
+          "جيارادوس"
+        ]
+      },
+      {
+        "id": "c105-d7",
+        "nameAr": "دراغونايت",
+        "nameEn": "Dragonite",
+        "aliases": []
+      },
+      {
+        "id": "c105-d8",
+        "nameAr": "أونيكس",
+        "nameEn": "Onix",
+        "aliases": []
+      },
+      {
+        "id": "c105-d9",
+        "nameAr": "رايتشو",
+        "nameEn": "Raichu",
+        "aliases": []
+      },
+      {
+        "id": "c105-d10",
+        "nameAr": "فالبكس",
+        "nameEn": "Vulpix",
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "title": "10 ألعاب أيقونية على بلايستيشن",
+    "group": "ألعاب وشخصيات",
+    "icon": "🎮",
+    "domain": "games",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من ألعاب أيقونية على بلايستيشن",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "ويكيبيديا — ألعاب Sony Interactive Entertainment",
+      "url": "https://en.wikipedia.org/wiki/List_of_Sony_Interactive_Entertainment_video_games",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c106-a1",
+        "nameAr": "غود أوف وار راغناروك",
+        "nameEn": "God of War Ragnarök",
+        "aliases": [
+          "God of War Ragnarok",
+          "قود اوف وار راقناروك",
+          "راغناروك"
+        ],
+        "rank": 1,
+        "series": "God of War",
+        "part": "Ragnarok"
+      },
+      {
+        "id": "c106-a2",
+        "nameAr": "ذا لاست أوف أس 2",
+        "nameEn": "The Last of Us Part II",
+        "aliases": [
+          "The Last of Us 2",
+          "TLOU2",
+          "لاست اوف اس 2"
+        ],
+        "rank": 2,
+        "series": "The Last of Us",
+        "part": "2"
+      },
+      {
+        "id": "c106-a3",
+        "nameAr": "بلودبورن",
+        "nameEn": "Bloodborne",
+        "aliases": [
+          "بلود بورن"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c106-a4",
+        "nameAr": "أنشارتد 4",
+        "nameEn": "Uncharted 4: A Thief's End",
+        "aliases": [
+          "Uncharted 4",
+          "انشارتد 4",
+          "انشارتيد 4"
+        ],
+        "rank": 4,
+        "series": "Uncharted",
+        "part": "4"
+      },
+      {
+        "id": "c106-a5",
+        "nameAr": "هورايزن زيرو داون",
+        "nameEn": "Horizon Zero Dawn",
+        "aliases": [
+          "هورايزون زيرو داون"
+        ],
+        "rank": 5,
+        "year": "2017"
+      },
+      {
+        "id": "c106-a6",
+        "nameAr": "غوست أوف تسوشيما",
+        "nameEn": "Ghost of Tsushima",
+        "aliases": [
+          "Ghost of Tsushima 2020",
+          "قوست اوف تسوشيما",
+          "شبح تسوشيما"
+        ],
+        "rank": 6,
+        "year": "2020"
+      },
+      {
+        "id": "c106-a7",
+        "nameAr": "سبايدرمان 2018",
+        "nameEn": "Marvel's Spider-Man",
+        "aliases": [
+          "Marvel Spider Man",
+          "Spider Man 2018",
+          "سبايدر مان 2018"
+        ],
+        "rank": 7,
+        "series": "Marvel's Spider-Man",
+        "part": "1",
+        "year": "2018"
+      },
+      {
+        "id": "c106-a8",
+        "nameAr": "غران توريزمو 7",
+        "nameEn": "Gran Turismo 7",
+        "aliases": [
+          "GT7",
+          "جران توريزمو 7"
+        ],
+        "rank": 8,
+        "series": "Gran Turismo",
+        "part": "7"
+      },
+      {
+        "id": "c106-a9",
+        "nameAr": "راتشيت أند كلانك ريفت أبارت",
+        "nameEn": "Ratchet & Clank: Rift Apart",
+        "aliases": [
+          "Ratchet and Clank Rift Apart",
+          "ريفـت ابارت"
+        ],
+        "rank": 9,
+        "series": "Ratchet & Clank",
+        "part": "Rift Apart"
+      },
+      {
+        "id": "c106-a10",
+        "nameAr": "ديترويت بيكوم هيومن",
+        "nameEn": "Detroit: Become Human",
+        "aliases": [
+          "Detroit Become Human",
+          "ديترويت"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c106-d1",
+        "nameAr": "دايز غون",
+        "nameEn": "Days Gone",
+        "aliases": [
+          "دايز جون"
+        ]
+      },
+      {
+        "id": "c106-d2",
+        "nameAr": "إنفيموس سيكند سن",
+        "nameEn": "inFAMOUS Second Son",
+        "aliases": []
+      },
+      {
+        "id": "c106-d3",
+        "nameAr": "ريتيرنال",
+        "nameEn": "Returnal",
+        "aliases": []
+      },
+      {
+        "id": "c106-d4",
+        "nameAr": "ساكبوي مغامرة كبيرة",
+        "nameEn": "Sackboy: A Big Adventure",
+        "aliases": []
+      },
+      {
+        "id": "c106-d5",
+        "nameAr": "أسترو بوت",
+        "nameEn": "Astro Bot",
+        "aliases": []
+      },
+      {
+        "id": "c106-d6",
+        "nameAr": "شادو أوف ذا كولوسس",
+        "nameEn": "Shadow of the Colossus",
+        "aliases": []
+      },
+      {
+        "id": "c106-d7",
+        "nameAr": "ذا أوردر 1886",
+        "nameEn": "The Order: 1886",
+        "aliases": []
+      },
+      {
+        "id": "c106-d8",
+        "nameAr": "أنتل داون",
+        "nameEn": "Until Dawn",
+        "aliases": []
+      },
+      {
+        "id": "c106-d9",
+        "nameAr": "ليتل بيغ بلانت",
+        "nameEn": "LittleBigPlanet",
+        "aliases": []
+      },
+      {
+        "id": "c106-d10",
+        "nameAr": "كيلزون شادو فول",
+        "nameEn": "Killzone Shadow Fall",
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "title": "10 ألعاب جوال أيقونية",
+    "group": "ألعاب وشخصيات",
+    "icon": "📱",
+    "domain": "games",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من ألعاب جوال مشهورة",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "ويكيبيديا — تطبيقات Google Play",
+      "url": "https://en.wikipedia.org/wiki/List_of_most-downloaded_Google_Play_applications",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c107-a1",
+        "nameAr": "ببجي موبايل",
+        "nameEn": "PUBG Mobile",
+        "aliases": [
+          "PUBGM",
+          "ببجي الجوال"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c107-a2",
+        "nameAr": "كلاش أوف كلانس",
+        "nameEn": "Clash of Clans",
+        "aliases": [
+          "COC",
+          "كلاش اوف كلانز"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c107-a3",
+        "nameAr": "كاندي كراش",
+        "nameEn": "Candy Crush Saga",
+        "aliases": [
+          "Candy Crush",
+          "كاندي كرش"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c107-a4",
+        "nameAr": "صب واي سيرفرز",
+        "nameEn": "Subway Surfers",
+        "aliases": [
+          "سب واي سيرفر",
+          "سبوي سيرفرز"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c107-a5",
+        "nameAr": "تمبل رن",
+        "nameEn": "Temple Run",
+        "aliases": [
+          "تمبل ران"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c107-a6",
+        "nameAr": "بوكيمون غو",
+        "nameEn": "Pokémon Go",
+        "aliases": [
+          "Pokemon Go",
+          "بوكيمون جو"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c107-a7",
+        "nameAr": "فري فاير",
+        "nameEn": "Garena Free Fire",
+        "aliases": [
+          "Free Fire",
+          "فري فاير غارينا"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c107-a8",
+        "nameAr": "روبلوكس",
+        "nameEn": "Roblox",
+        "aliases": [
+          "روبوكس"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c107-a9",
+        "nameAr": "هيل كلايمب ريسينغ",
+        "nameEn": "Hill Climb Racing",
+        "aliases": [
+          "Hill Climb",
+          "هيل كليمب"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c107-a10",
+        "nameAr": "ماي توكينغ توم",
+        "nameEn": "My Talking Tom",
+        "aliases": [
+          "Talking Tom",
+          "توم المتكلم",
+          "توم المتحدث"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c107-d1",
+        "nameAr": "كلاش رويال",
+        "nameEn": "Clash Royale",
+        "aliases": []
+      },
+      {
+        "id": "c107-d2",
+        "nameAr": "أنغري بيردز",
+        "nameEn": "Angry Birds",
+        "aliases": [
+          "الطيور الغاضبة"
+        ]
+      },
+      {
+        "id": "c107-d3",
+        "nameAr": "فروت نينجا",
+        "nameEn": "Fruit Ninja",
+        "aliases": []
+      },
+      {
+        "id": "c107-d4",
+        "nameAr": "نباتات ضد زومبي",
+        "nameEn": "Plants vs. Zombies",
+        "aliases": [
+          "Plants vs Zombies",
+          "بلانتس فيرسس زومبي"
+        ]
+      },
+      {
+        "id": "c107-d5",
+        "nameAr": "كت ذا روب",
+        "nameEn": "Cut the Rope",
+        "aliases": []
+      },
+      {
+        "id": "c107-d6",
+        "nameAr": "جيتباك جويرايد",
+        "nameEn": "Jetpack Joyride",
+        "aliases": []
+      },
+      {
+        "id": "c107-d7",
+        "nameAr": "أمونغ أس",
+        "nameEn": "Among Us",
+        "aliases": [
+          "امونق اس"
+        ]
+      },
+      {
+        "id": "c107-d8",
+        "nameAr": "براول ستارز",
+        "nameEn": "Brawl Stars",
+        "aliases": []
+      },
+      {
+        "id": "c107-d9",
+        "nameAr": "أسفلت 9",
+        "nameEn": "Asphalt 9: Legends",
+        "aliases": [
+          "Asphalt 9"
+        ]
+      },
+      {
+        "id": "c107-d10",
+        "nameAr": "إيت بول بول",
+        "nameEn": "8 Ball Pool",
+        "aliases": [
+          "8BallPool",
+          "بلياردو 8"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "title": "10 ألعاب سباق أيقونية",
+    "group": "ألعاب وشخصيات",
+    "icon": "🏎️",
+    "domain": "games",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من ألعاب سباق أيقونية",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "ويكيبيديا — ألعاب السباق",
+      "url": "https://en.wikipedia.org/wiki/List_of_racing_video_games",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c108-a1",
+        "nameAr": "نيد فور سبيد موست وانتد 2005",
+        "nameEn": "Need for Speed: Most Wanted (2005)",
+        "aliases": [
+          "NFS Most Wanted 2005",
+          "موست وانتد 2005"
+        ],
+        "rank": 1,
+        "series": "Need for Speed Most Wanted",
+        "part": "2005",
+        "year": "2005"
+      },
+      {
+        "id": "c108-a2",
+        "nameAr": "فورزا هورايزن 5",
+        "nameEn": "Forza Horizon 5",
+        "aliases": [
+          "FH5",
+          "فورزا هورايزون 5"
+        ],
+        "rank": 2,
+        "series": "Forza Horizon",
+        "part": "5"
+      },
+      {
+        "id": "c108-a3",
+        "nameAr": "غران توريزمو 7",
+        "nameEn": "Gran Turismo 7",
+        "aliases": [
+          "GT7",
+          "جران توريزمو 7",
+          "غران توريزمو 7"
+        ],
+        "rank": 3,
+        "series": "Gran Turismo",
+        "part": "7"
+      },
+      {
+        "id": "c108-a4",
+        "nameAr": "ماريو كارت 8 ديلوكس",
+        "nameEn": "Mario Kart 8 / Deluxe",
+        "aliases": [
+          "Mario Kart 8 Deluxe",
+          "ماريو كارت 8",
+          "Mario Kart 8",
+          "MK8",
+          "ماريو كارت 8 ديلوكس",
+          "ماريو كارت 8 / ديلوكس"
+        ],
+        "rank": 4,
+        "series": "Mario Kart",
+        "part": "8"
+      },
+      {
+        "id": "c108-a5",
+        "nameAr": "كراش تيم ريسينغ",
+        "nameEn": "Crash Team Racing",
+        "aliases": [
+          "CTR",
+          "كراش سيارات"
+        ],
+        "rank": 5,
+        "series": "Crash Team Racing",
+        "part": "1999",
+        "year": "1999"
+      },
+      {
+        "id": "c108-a6",
+        "nameAr": "بيرن آوت بارادايس",
+        "nameEn": "Burnout Paradise",
+        "aliases": [
+          "Burnout Paradise",
+          "برن اوت باراديس"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c108-a7",
+        "nameAr": "نيد فور سبيد هيت",
+        "nameEn": "Need for Speed Heat",
+        "aliases": [
+          "NFS Heat",
+          "نيد فور سبيد هيت"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c108-a8",
+        "nameAr": "نيد فور سبيد أندرغراوند 2",
+        "nameEn": "Need for Speed: Underground 2",
+        "aliases": [
+          "NFS Underground 2",
+          "اندرقراوند 2"
+        ],
+        "rank": 8,
+        "series": "Need for Speed Underground",
+        "part": "2"
+      },
+      {
+        "id": "c108-a9",
+        "nameAr": "فورمولا 1 نسخة 23",
+        "nameEn": "F1 23",
+        "aliases": [
+          "F1 2023",
+          "فورمولا 2023"
+        ],
+        "rank": 9,
+        "series": "F1",
+        "part": "23"
+      },
+      {
+        "id": "c108-a10",
+        "nameAr": "أسفلت 9 ليجندز",
+        "nameEn": "Asphalt 9: Legends",
+        "aliases": [
+          "Asphalt 9",
+          "اسفلت 9",
+          "أسفلت 9"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c108-d1",
+        "nameAr": "نيد فور سبيد كاربون",
+        "nameEn": "Need for Speed: Carbon",
+        "aliases": [
+          "NFS Carbon"
+        ]
+      },
+      {
+        "id": "c108-d2",
+        "nameAr": "فورزا هورايزن 4",
+        "nameEn": "Forza Horizon 4",
+        "aliases": []
+      },
+      {
+        "id": "c108-d3",
+        "nameAr": "غران توريزمو 4",
+        "nameEn": "Gran Turismo 4",
+        "aliases": []
+      },
+      {
+        "id": "c108-d4",
+        "nameAr": "ماريو كارت وي",
+        "nameEn": "Mario Kart Wii",
+        "aliases": []
+      },
+      {
+        "id": "c108-d5",
+        "nameAr": "بيرن آوت 3",
+        "nameEn": "Burnout 3: Takedown",
+        "aliases": []
+      },
+      {
+        "id": "c108-d6",
+        "nameAr": "ديرت رالي 2",
+        "nameEn": "DiRT Rally 2.0",
+        "aliases": []
+      },
+      {
+        "id": "c108-d7",
+        "nameAr": "تراكمانيا نيشنز فوريفر",
+        "nameEn": "Trackmania Nations Forever",
+        "aliases": []
+      },
+      {
+        "id": "c108-d8",
+        "nameAr": "ميدنايت كلوب 3",
+        "nameEn": "Midnight Club 3: DUB Edition",
+        "aliases": []
+      },
+      {
+        "id": "c108-d9",
+        "nameAr": "سونيك أول ستارز ريسينغ",
+        "nameEn": "Sonic & All-Stars Racing Transformed",
+        "aliases": []
+      },
+      {
+        "id": "c108-d10",
+        "nameAr": "أسيتو كورسا",
+        "nameEn": "Assetto Corsa",
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "title": "10 ألعاب رعب مألوفة",
+    "group": "ألعاب وشخصيات",
+    "icon": "👻",
+    "domain": "games",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من ألعاب رعب مألوفة",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "ويكيبيديا — ألعاب الرعب",
+      "url": "https://en.wikipedia.org/wiki/List_of_horror_games",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c109-a1",
+        "nameAr": "ريزدنت إيفل 4 الأصلية",
+        "nameEn": "Resident Evil 4 (2005)",
+        "aliases": [
+          "Resident Evil 4 2005",
+          "رزدنت ايفل 4 2005",
+          "Resident Evil 4 (2005)"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c109-a2",
+        "nameAr": "ريزدنت إيفل 7",
+        "nameEn": "Resident Evil 7: Biohazard",
+        "aliases": [
+          "Resident Evil 7",
+          "RE7",
+          "رزدنت ايفل 7"
+        ],
+        "rank": 2,
+        "series": "Resident Evil",
+        "part": "7"
+      },
+      {
+        "id": "c109-a3",
+        "nameAr": "سايلنت هيل 2 الأصلية",
+        "nameEn": "Silent Hill 2 (2001)",
+        "aliases": [
+          "Silent Hill 2 2001",
+          "سايلنت هيل 2 2001"
+        ],
+        "rank": 3,
+        "series": "Silent Hill",
+        "part": "2",
+        "year": "2001"
+      },
+      {
+        "id": "c109-a4",
+        "nameAr": "أوتلاست",
+        "nameEn": "Outlast",
+        "aliases": [
+          "اوت لاست"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c109-a5",
+        "nameAr": "أمنيجا ذا دارك ديسنت",
+        "nameEn": "Amnesia: The Dark Descent",
+        "aliases": [
+          "Amnesia The Dark Descent",
+          "امنيسيا",
+          "امنيزيا"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c109-a6",
+        "nameAr": "إيليان آيزوليشن",
+        "nameEn": "Alien: Isolation",
+        "aliases": [
+          "Alien Isolation",
+          "الين ايزوليشن"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c109-a7",
+        "nameAr": "ديد سبيس الأصلية",
+        "nameEn": "Dead Space (2008)",
+        "aliases": [
+          "Dead Space 2008",
+          "ديد سبيس 2008"
+        ],
+        "rank": 7,
+        "series": "Dead Space",
+        "part": "1",
+        "year": "2008"
+      },
+      {
+        "id": "c109-a8",
+        "nameAr": "ذا إيفل وذن",
+        "nameEn": "The Evil Within",
+        "aliases": [
+          "The Evil Within 1",
+          "ايفل وذن"
+        ],
+        "rank": 8,
+        "series": "The Evil Within",
+        "part": "1"
+      },
+      {
+        "id": "c109-a9",
+        "nameAr": "فايف نايتس أت فريديز",
+        "nameEn": "Five Nights at Freddy's",
+        "aliases": [
+          "FNAF 1",
+          "Five Nights at Freddys 1",
+          "فناف 1",
+          "خمس ليال في فريدي"
+        ],
+        "rank": 9,
+        "series": "Five Nights at Freddy's",
+        "part": "1"
+      },
+      {
+        "id": "c109-a10",
+        "nameAr": "فازموفوبيا",
+        "nameEn": "Phasmophobia",
+        "aliases": [
+          "فازموفوبيا",
+          "فازمو",
+          "Phasmophobia"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c109-d1",
+        "nameAr": "أوتلاست 2",
+        "nameEn": "Outlast 2",
+        "aliases": []
+      },
+      {
+        "id": "c109-d2",
+        "nameAr": "سايلنت هيل 3",
+        "nameEn": "Silent Hill 3",
+        "aliases": []
+      },
+      {
+        "id": "c109-d3",
+        "nameAr": "ريزدنت إيفل 2 ريميك",
+        "nameEn": "Resident Evil 2 (2019)",
+        "aliases": []
+      },
+      {
+        "id": "c109-d4",
+        "nameAr": "سوما",
+        "nameEn": "SOMA",
+        "aliases": []
+      },
+      {
+        "id": "c109-d5",
+        "nameAr": "ليتل نايتميرز",
+        "nameEn": "Little Nightmares",
+        "aliases": []
+      },
+      {
+        "id": "c109-d6",
+        "nameAr": "أنتل داون",
+        "nameEn": "Until Dawn",
+        "aliases": []
+      },
+      {
+        "id": "c109-d7",
+        "nameAr": "أمنيجا ذا بانكر",
+        "nameEn": "Amnesia: The Bunker",
+        "aliases": []
+      },
+      {
+        "id": "c109-d8",
+        "nameAr": "ذا إيفل وذن 2",
+        "nameEn": "The Evil Within 2",
+        "aliases": []
+      },
+      {
+        "id": "c109-d9",
+        "nameAr": "سلندر ذا إيت بيجز",
+        "nameEn": "Slender: The Eight Pages",
+        "aliases": []
+      },
+      {
+        "id": "c109-d10",
+        "nameAr": "فاتال فريم 2",
+        "nameEn": "Fatal Frame II: Crimson Butterfly",
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "title": "10 ألعاب تعاونية مشهورة",
+    "group": "ألعاب وشخصيات",
+    "icon": "🤝",
+    "domain": "games",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من ألعاب نلعبها بتعاون",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "ويكيبيديا — الألعاب التعاونية",
+      "url": "https://en.wikipedia.org/wiki/List_of_cooperative_video_games",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c110-a1",
+        "nameAr": "إت تيكس تو",
+        "nameEn": "It Takes Two",
+        "aliases": [
+          "ايت تيكس تو",
+          "تأخذ اثنين"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c110-a2",
+        "nameAr": "أ واي آوت",
+        "nameEn": "A Way Out",
+        "aliases": [
+          "اي واي اوت",
+          "طريق للخروج"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c110-a3",
+        "nameAr": "أوفركوكد 2",
+        "nameEn": "Overcooked! 2",
+        "aliases": [
+          "Overcooked 2",
+          "اوفر كوكد 2"
+        ],
+        "rank": 3,
+        "series": "Overcooked",
+        "part": "2"
+      },
+      {
+        "id": "c110-a4",
+        "nameAr": "ماينكرافت",
+        "nameEn": "Minecraft",
+        "aliases": [
+          "ماين كرافت",
+          "مينكرافت",
+          "ماينكرافت"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c110-a5",
+        "nameAr": "بورتال 2",
+        "nameEn": "Portal 2",
+        "aliases": [],
+        "rank": 5,
+        "series": "Portal",
+        "part": "2"
+      },
+      {
+        "id": "c110-a6",
+        "nameAr": "لفت فور ديد 2",
+        "nameEn": "Left 4 Dead 2",
+        "aliases": [
+          "L4D2",
+          "لفت 4 ديد 2"
+        ],
+        "rank": 6,
+        "series": "Left 4 Dead",
+        "part": "2"
+      },
+      {
+        "id": "c110-a7",
+        "nameAr": "بوردرلاندز 2",
+        "nameEn": "Borderlands 2",
+        "aliases": [
+          "بوردر لاندز 2",
+          "Borderlands 2"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c110-a8",
+        "nameAr": "ديب روك غالاكتيك",
+        "nameEn": "Deep Rock Galactic",
+        "aliases": [
+          "ديب روك"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c110-a9",
+        "nameAr": "هيلدايفرز 2",
+        "nameEn": "Helldivers 2",
+        "aliases": [
+          "Helldivers II",
+          "هيل دايفرز 2"
+        ],
+        "rank": 9,
+        "series": "Helldivers",
+        "part": "2"
+      },
+      {
+        "id": "c110-a10",
+        "nameAr": "كابهيد",
+        "nameEn": "Cuphead",
+        "aliases": [
+          "كاب هيد"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c110-d1",
+        "nameAr": "أنرافل تو",
+        "nameEn": "Unravel Two",
+        "aliases": [
+          "Unravel 2"
+        ]
+      },
+      {
+        "id": "c110-d2",
+        "nameAr": "كاسل كراشرز",
+        "nameEn": "Castle Crashers",
+        "aliases": []
+      },
+      {
+        "id": "c110-d3",
+        "nameAr": "تيراريا",
+        "nameEn": "Terraria",
+        "aliases": []
+      },
+      {
+        "id": "c110-d4",
+        "nameAr": "دونت ستارف توغيذر",
+        "nameEn": "Don't Starve Together",
+        "aliases": []
+      },
+      {
+        "id": "c110-d5",
+        "nameAr": "باي داي 2",
+        "nameEn": "Payday 2",
+        "aliases": []
+      },
+      {
+        "id": "c110-d6",
+        "nameAr": "تراين 2",
+        "nameEn": "Trine 2",
+        "aliases": []
+      },
+      {
+        "id": "c110-d7",
+        "nameAr": "ريمان ليجندز",
+        "nameEn": "Rayman Legends",
+        "aliases": []
+      },
+      {
+        "id": "c110-d8",
+        "nameAr": "وورفريم",
+        "nameEn": "Warframe",
+        "aliases": []
+      },
+      {
+        "id": "c110-d9",
+        "nameAr": "ليغو ستار وورز سكاي ووكر",
+        "nameEn": "LEGO Star Wars: The Skywalker Saga",
+        "aliases": []
+      },
+      {
+        "id": "c110-d10",
+        "nameAr": "هيومن فول فلات",
+        "nameEn": "Human: Fall Flat",
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "title": "10 أبطال من سلسلة GTA",
+    "group": "ألعاب وشخصيات",
+    "icon": "🚘",
+    "domain": "gta-characters",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من أبطال من سلسلة GTA",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "GTA Wiki — Protagonists",
+      "url": "https://gta.fandom.com/wiki/Category:Protagonists",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c111-a1",
+        "nameAr": "كارل جونسون",
+        "nameEn": "Carl Johnson",
+        "aliases": [
+          "CJ",
+          "سي جي",
+          "سى جى",
+          "كارل"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c111-a2",
+        "nameAr": "تومي فيرسيتي",
+        "nameEn": "Tommy Vercetti",
+        "aliases": [
+          "Tommy",
+          "تومي",
+          "تومى فيرسيتي"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c111-a3",
+        "nameAr": "كلود",
+        "nameEn": "Claude",
+        "aliases": [
+          "Claude GTA III",
+          "كلود قراند 3"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c111-a4",
+        "nameAr": "نيكو بيليك",
+        "nameEn": "Niko Bellic",
+        "aliases": [
+          "Niko",
+          "نيكو",
+          "نيكو بيليتش"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c111-a5",
+        "nameAr": "مايكل دي سانتا",
+        "nameEn": "Michael De Santa",
+        "aliases": [
+          "Michael",
+          "مايكل"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c111-a6",
+        "nameAr": "فرانكلين كلينتون",
+        "nameEn": "Franklin Clinton",
+        "aliases": [
+          "Franklin",
+          "فرانكلين",
+          "فرانكلن"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c111-a7",
+        "nameAr": "تريفور فيليبس",
+        "nameEn": "Trevor Philips",
+        "aliases": [
+          "Trevor",
+          "تريفر",
+          "تريفور"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c111-a8",
+        "nameAr": "توني سيبرياني",
+        "nameEn": "Toni Cipriani",
+        "aliases": [
+          "Toni",
+          "توني تشيبرياني"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c111-a9",
+        "nameAr": "لويس لوبيز",
+        "nameEn": "Luis Fernando Lopez",
+        "aliases": [
+          "Luis Lopez",
+          "Luis",
+          "لويز لوبيز"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c111-a10",
+        "nameAr": "جوني كليبيتز",
+        "nameEn": "Johnny Klebitz",
+        "aliases": [
+          "Johnny",
+          "جوني",
+          "جونى"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c111-d1",
+        "nameAr": "فيكتور فانس",
+        "nameEn": "Victor Vance",
+        "aliases": [
+          "Vic Vance"
+        ]
+      },
+      {
+        "id": "c111-d2",
+        "nameAr": "هوانغ لي",
+        "nameEn": "Huang Lee",
+        "aliases": []
+      },
+      {
+        "id": "c111-d3",
+        "nameAr": "مايك",
+        "nameEn": "Mike (Grand Theft Auto Advance)",
+        "aliases": [
+          "Mike GTA Advance"
+        ]
+      },
+      {
+        "id": "c111-d4",
+        "nameAr": "كلود سبيد",
+        "nameEn": "Claude Speed",
+        "aliases": []
+      },
+      {
+        "id": "c111-d5",
+        "nameAr": "شخصية GTA أونلاين",
+        "nameEn": "GTA Online Protagonist",
+        "aliases": [
+          "بطل قراند اونلاين"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "title": "10 مابات كول أوف ديوتي أيقونية",
+    "group": "ألعاب وشخصيات",
+    "icon": "🎯",
+    "domain": "cod-maps",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من مابات كول أوف ديوتي أيقونية",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "Call of Duty Maps",
+      "url": "https://callofdutymaps.com/mobile/rust-mobile/",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c112-a1",
+        "nameAr": "نيوكتاون",
+        "nameEn": "Nuketown",
+        "aliases": [
+          "Nuke Town",
+          "نيوك تاون",
+          "نيوكتون"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c112-a2",
+        "nameAr": "رست",
+        "nameEn": "Rust",
+        "aliases": [
+          "راست"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c112-a3",
+        "nameAr": "شيبمنت",
+        "nameEn": "Shipment",
+        "aliases": [
+          "شيبمينت",
+          "شيبمنت"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c112-a4",
+        "nameAr": "تيرمينال",
+        "nameEn": "Terminal",
+        "aliases": [
+          "ترمنال",
+          "تيرمنل"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c112-a5",
+        "nameAr": "كراش",
+        "nameEn": "Crash",
+        "aliases": [],
+        "rank": 5
+      },
+      {
+        "id": "c112-a6",
+        "nameAr": "هاي رايز",
+        "nameEn": "Highrise",
+        "aliases": [
+          "High Rise",
+          "هايرايز"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c112-a7",
+        "nameAr": "فايرنغ رينج",
+        "nameEn": "Firing Range",
+        "aliases": [
+          "فايرنق رينج",
+          "فايرينق رينج"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c112-a8",
+        "nameAr": "هايجاكد",
+        "nameEn": "Hijacked",
+        "aliases": [
+          "هاي جاكد",
+          "هايجاكت"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c112-a9",
+        "nameAr": "ريد",
+        "nameEn": "Raid",
+        "aliases": [
+          "رايد"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c112-a10",
+        "nameAr": "ستاندوف",
+        "nameEn": "Standoff",
+        "aliases": [
+          "Stand Off",
+          "ستاند اوف"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c112-d1",
+        "nameAr": "سامت",
+        "nameEn": "Summit",
+        "aliases": []
+      },
+      {
+        "id": "c112-d2",
+        "nameAr": "سكراب يارد",
+        "nameEn": "Scrapyard",
+        "aliases": []
+      },
+      {
+        "id": "c112-d3",
+        "nameAr": "دوم",
+        "nameEn": "Dome",
+        "aliases": []
+      },
+      {
+        "id": "c112-d4",
+        "nameAr": "كروس فاير",
+        "nameEn": "Crossfire",
+        "aliases": []
+      },
+      {
+        "id": "c112-d5",
+        "nameAr": "شوت هاوس",
+        "nameEn": "Shoot House",
+        "aliases": []
+      },
+      {
+        "id": "c112-d6",
+        "nameAr": "سلمز",
+        "nameEn": "Slums",
+        "aliases": []
+      },
+      {
+        "id": "c112-d7",
+        "nameAr": "هاسيندا",
+        "nameEn": "Hacienda",
+        "aliases": []
+      },
+      {
+        "id": "c112-d8",
+        "nameAr": "فيكنت",
+        "nameEn": "Vacant",
+        "aliases": []
+      },
+      {
+        "id": "c112-d9",
+        "nameAr": "إكسبريس",
+        "nameEn": "Express",
+        "aliases": []
+      },
+      {
+        "id": "c112-d10",
+        "nameAr": "هاردهات",
+        "nameEn": "Hardhat",
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "title": "10 ألعاب أركيد كلاسيكية",
+    "group": "ألعاب وشخصيات",
+    "icon": "🕹️",
+    "domain": "games",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من ألعاب أركيد كلاسيكية",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "ويكيبيديا — تاريخ ألعاب الأركيد",
+      "url": "https://en.wikipedia.org/wiki/Timeline_of_arcade_video_game_history",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c113-a1",
+        "nameAr": "باك مان",
+        "nameEn": "Pac-Man",
+        "aliases": [
+          "Pacman",
+          "باكمان",
+          "بكمان"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c113-a2",
+        "nameAr": "سبيس إنفيدرز",
+        "nameEn": "Space Invaders",
+        "aliases": [
+          "غزاة الفضاء",
+          "سبيس انفيدرز"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c113-a3",
+        "nameAr": "دونكي كونغ 1981",
+        "nameEn": "Donkey Kong (video game)",
+        "aliases": [
+          "Donkey Kong 1981",
+          "دونكي كونج 1981"
+        ],
+        "rank": 3,
+        "series": "Donkey Kong",
+        "part": "1981",
+        "year": "1981"
+      },
+      {
+        "id": "c113-a4",
+        "nameAr": "فروغر",
+        "nameEn": "Frogger",
+        "aliases": [
+          "فروجر"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c113-a5",
+        "nameAr": "غالاغا",
+        "nameEn": "Galaga",
+        "aliases": [
+          "جالاجا",
+          "غالاقا"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c113-a6",
+        "nameAr": "تتريس",
+        "nameEn": "Tetris",
+        "aliases": [
+          "تتريس",
+          "تترس",
+          "Tetris"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c113-a7",
+        "nameAr": "ستريت فايتر 2",
+        "nameEn": "Street Fighter II",
+        "aliases": [
+          "Street Fighter 2",
+          "SF2",
+          "ستريت فايتر 2"
+        ],
+        "rank": 7,
+        "series": "Street Fighter",
+        "part": "2"
+      },
+      {
+        "id": "c113-a8",
+        "nameAr": "مورتال كومبات 1992",
+        "nameEn": "Mortal Kombat (1992 video game)",
+        "aliases": [
+          "Mortal Kombat 1",
+          "Mortal Kombat 1992",
+          "مورتال كومبات 1"
+        ],
+        "rank": 8,
+        "series": "Mortal Kombat",
+        "part": "1",
+        "year": "1992"
+      },
+      {
+        "id": "c113-a9",
+        "nameAr": "ميتال سلغ",
+        "nameEn": "Metal Slug",
+        "aliases": [
+          "Metal Slug 1",
+          "ميتال سلوق",
+          "ميتال سلق"
+        ],
+        "rank": 9,
+        "series": "Metal Slug",
+        "part": "1"
+      },
+      {
+        "id": "c113-a10",
+        "nameAr": "بابل بوبل",
+        "nameEn": "Bubble Bobble",
+        "aliases": [
+          "بابل بابل"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c113-d1",
+        "nameAr": "بونغ",
+        "nameEn": "Pong",
+        "aliases": []
+      },
+      {
+        "id": "c113-d2",
+        "nameAr": "أسترويدز",
+        "nameEn": "Asteroids",
+        "aliases": []
+      },
+      {
+        "id": "c113-d3",
+        "nameAr": "سنتيبيد",
+        "nameEn": "Centipede",
+        "aliases": []
+      },
+      {
+        "id": "c113-d4",
+        "nameAr": "ديفندر",
+        "nameEn": "Defender",
+        "aliases": []
+      },
+      {
+        "id": "c113-d5",
+        "nameAr": "كيوبرت",
+        "nameEn": "Q*bert",
+        "aliases": [
+          "Qbert"
+        ]
+      },
+      {
+        "id": "c113-d6",
+        "nameAr": "ديغ دغ",
+        "nameEn": "Dig Dug",
+        "aliases": []
+      },
+      {
+        "id": "c113-d7",
+        "nameAr": "مس باك مان",
+        "nameEn": "Ms. Pac-Man",
+        "aliases": []
+      },
+      {
+        "id": "c113-d8",
+        "nameAr": "آوت رن",
+        "nameEn": "Out Run",
+        "aliases": []
+      },
+      {
+        "id": "c113-d9",
+        "nameAr": "غولدن آكس",
+        "nameEn": "Golden Axe",
+        "aliases": []
+      },
+      {
+        "id": "c113-d10",
+        "nameAr": "فاينل فايت",
+        "nameEn": "Final Fight",
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "title": "10 أبطال خارقين من مارفل",
+    "group": "كرتون وأفلام",
+    "icon": "🦸",
+    "domain": "marvel-characters",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من أبطال خارقين من مارفل",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "Marvel — Characters",
+      "url": "https://www.marvel.com/characters",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c114-a1",
+        "nameAr": "سبايدرمان",
+        "nameEn": "Spider-Man (Peter Parker)",
+        "aliases": [
+          "Peter Parker",
+          "بيتر باركر",
+          "سبايدر مان",
+          "الرجل العنكبوت"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c114-a2",
+        "nameAr": "آيرون مان",
+        "nameEn": "Iron Man (Tony Stark)",
+        "aliases": [
+          "Iron Man",
+          "Tony Stark",
+          "توني ستارك",
+          "ايرون مان",
+          "الرجل الحديدي"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c114-a3",
+        "nameAr": "كابتن أمريكا",
+        "nameEn": "Captain America (Steve Rogers)",
+        "aliases": [
+          "Captain America",
+          "Steve Rogers",
+          "ستيف روجرز",
+          "كابتن امريكا"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c114-a4",
+        "nameAr": "ثور",
+        "nameEn": "Thor",
+        "aliases": [
+          "Thor Odinson",
+          "ثور اودينسون"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c114-a5",
+        "nameAr": "هالك",
+        "nameEn": "Hulk (Bruce Banner)",
+        "aliases": [
+          "Hulk",
+          "Bruce Banner",
+          "بروس بانر",
+          "الرجل الأخضر"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c114-a6",
+        "nameAr": "بلاك ويدو",
+        "nameEn": "Black Widow (Natasha Romanoff)",
+        "aliases": [
+          "Black Widow",
+          "Natasha Romanoff",
+          "ناتاشا رومانوف",
+          "الأرملة السوداء"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c114-a7",
+        "nameAr": "دكتور سترينج",
+        "nameEn": "Doctor Strange (Stephen Strange)",
+        "aliases": [
+          "Doctor Strange",
+          "Stephen Strange",
+          "دكتور سترينج",
+          "دكتور سترانج"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c114-a8",
+        "nameAr": "بلاك بانثر",
+        "nameEn": "Black Panther (T'Challa)",
+        "aliases": [
+          "Black Panther",
+          "TChalla",
+          "تشالا",
+          "النمر الأسود"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c114-a9",
+        "nameAr": "وولفرين",
+        "nameEn": "Wolverine (Logan)",
+        "aliases": [
+          "Wolverine",
+          "Logan",
+          "لوغان",
+          "لوجان",
+          "ولفرين"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c114-a10",
+        "nameAr": "كابتن مارفل",
+        "nameEn": "Captain Marvel (Carol Danvers)",
+        "aliases": [
+          "Captain Marvel",
+          "Carol Danvers",
+          "كارول دانفرز"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c114-d1",
+        "nameAr": "أنت مان",
+        "nameEn": "Ant-Man (Scott Lang)",
+        "aliases": [
+          "Ant Man",
+          "Scott Lang",
+          "سكوت لانغ"
+        ]
+      },
+      {
+        "id": "c114-d2",
+        "nameAr": "هوك آي",
+        "nameEn": "Hawkeye (Clint Barton)",
+        "aliases": [
+          "Hawkeye",
+          "Clint Barton"
+        ]
+      },
+      {
+        "id": "c114-d3",
+        "nameAr": "واندا",
+        "nameEn": "Scarlet Witch (Wanda Maximoff)",
+        "aliases": [
+          "Scarlet Witch",
+          "Wanda",
+          "الساحرة القرمزية"
+        ]
+      },
+      {
+        "id": "c114-d4",
+        "nameAr": "فيجن",
+        "nameEn": "Vision",
+        "aliases": [
+          "فيزن"
+        ]
+      },
+      {
+        "id": "c114-d5",
+        "nameAr": "فالكون",
+        "nameEn": "Falcon (Sam Wilson)",
+        "aliases": [
+          "Falcon",
+          "Sam Wilson"
+        ]
+      },
+      {
+        "id": "c114-d6",
+        "nameAr": "ستار لورد",
+        "nameEn": "Star-Lord (Peter Quill)",
+        "aliases": [
+          "Star Lord",
+          "Peter Quill"
+        ]
+      },
+      {
+        "id": "c114-d7",
+        "nameAr": "غروت",
+        "nameEn": "Groot",
+        "aliases": [
+          "جروت"
+        ]
+      },
+      {
+        "id": "c114-d8",
+        "nameAr": "روكيت راكون",
+        "nameEn": "Rocket Raccoon",
+        "aliases": [
+          "Rocket",
+          "روكيت"
+        ]
+      },
+      {
+        "id": "c114-d9",
+        "nameAr": "ديرديفل",
+        "nameEn": "Daredevil (Matt Murdock)",
+        "aliases": [
+          "Daredevil",
+          "Matt Murdock"
+        ]
+      },
+      {
+        "id": "c114-d10",
+        "nameAr": "مون نايت",
+        "nameEn": "Moon Knight (Marc Spector)",
+        "aliases": [
+          "Moon Knight",
+          "Marc Spector"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "title": "10 أبطال من عالم DC",
+    "group": "كرتون وأفلام",
+    "icon": "🦇",
+    "domain": "dc-characters",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من أبطال من عالم DC",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "DC — Characters",
+      "url": "https://www.dc.com/characters",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c115-a1",
+        "nameAr": "باتمان",
+        "nameEn": "Batman (Bruce Wayne)",
+        "aliases": [
+          "Batman",
+          "Bruce Wayne",
+          "بروس واين",
+          "الرجل الوطواط"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c115-a2",
+        "nameAr": "سوبرمان",
+        "nameEn": "Superman (Clark Kent)",
+        "aliases": [
+          "Superman",
+          "Clark Kent",
+          "كلارك كينت",
+          "كال ايل"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c115-a3",
+        "nameAr": "وندر وومان",
+        "nameEn": "Wonder Woman (Diana Prince)",
+        "aliases": [
+          "Wonder Woman",
+          "Diana Prince",
+          "ديانا",
+          "المرأة المعجزة"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c115-a4",
+        "nameAr": "فلاش",
+        "nameEn": "The Flash (Barry Allen)",
+        "aliases": [
+          "The Flash",
+          "Flash",
+          "Barry Allen",
+          "باري ألين",
+          "باري الين"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c115-a5",
+        "nameAr": "أكوامان",
+        "nameEn": "Aquaman (Arthur Curry)",
+        "aliases": [
+          "Aquaman",
+          "Arthur Curry",
+          "اكوا مان",
+          "آرثر كاري"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c115-a6",
+        "nameAr": "غرين لانترن",
+        "nameEn": "Green Lantern (Hal Jordan)",
+        "aliases": [
+          "Green Lantern",
+          "Hal Jordan",
+          "هال جوردان",
+          "الفانوس الأخضر"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c115-a7",
+        "nameAr": "سايبورغ",
+        "nameEn": "Cyborg (Victor Stone)",
+        "aliases": [
+          "Cyborg",
+          "Victor Stone",
+          "فيكتور ستون",
+          "سايبورج"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c115-a8",
+        "nameAr": "غرين آرو",
+        "nameEn": "Green Arrow (Oliver Queen)",
+        "aliases": [
+          "Green Arrow",
+          "Oliver Queen",
+          "اوليفر كوين",
+          "السهم الأخضر"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c115-a9",
+        "nameAr": "سوبرغيرل",
+        "nameEn": "Supergirl (Kara Zor-El)",
+        "aliases": [
+          "Supergirl",
+          "Kara Zor El",
+          "كارا",
+          "سوبر جيرل"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c115-a10",
+        "nameAr": "شازام",
+        "nameEn": "Shazam (Billy Batson)",
+        "aliases": [
+          "Shazam",
+          "Billy Batson",
+          "بيلي باتسون"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c115-d1",
+        "nameAr": "نايتوينغ",
+        "nameEn": "Nightwing (Dick Grayson)",
+        "aliases": [
+          "Nightwing",
+          "Dick Grayson"
+        ]
+      },
+      {
+        "id": "c115-d2",
+        "nameAr": "روبن",
+        "nameEn": "Robin (Damian Wayne)",
+        "aliases": [
+          "Robin",
+          "Damian Wayne"
+        ]
+      },
+      {
+        "id": "c115-d3",
+        "nameAr": "باتغيرل",
+        "nameEn": "Batgirl (Barbara Gordon)",
+        "aliases": [
+          "Batgirl",
+          "Barbara Gordon"
+        ]
+      },
+      {
+        "id": "c115-d4",
+        "nameAr": "مارشن مانهنتر",
+        "nameEn": "Martian Manhunter (J'onn J'onzz)",
+        "aliases": [
+          "Martian Manhunter",
+          "Jonn Jonzz"
+        ]
+      },
+      {
+        "id": "c115-d5",
+        "nameAr": "بلاك كناري",
+        "nameEn": "Black Canary (Dinah Lance)",
+        "aliases": [
+          "Black Canary",
+          "Dinah Lance"
+        ]
+      },
+      {
+        "id": "c115-d6",
+        "nameAr": "هوكمان",
+        "nameEn": "Hawkman (Carter Hall)",
+        "aliases": [
+          "Hawkman",
+          "Carter Hall"
+        ]
+      },
+      {
+        "id": "c115-d7",
+        "nameAr": "دكتور فيت",
+        "nameEn": "Doctor Fate (Kent Nelson)",
+        "aliases": [
+          "Doctor Fate",
+          "Kent Nelson"
+        ]
+      },
+      {
+        "id": "c115-d8",
+        "nameAr": "زاتانا",
+        "nameEn": "Zatanna",
+        "aliases": []
+      },
+      {
+        "id": "c115-d9",
+        "nameAr": "بلو بيتل",
+        "nameEn": "Blue Beetle (Jaime Reyes)",
+        "aliases": [
+          "Blue Beetle",
+          "Jaime Reyes"
+        ]
+      },
+      {
+        "id": "c115-d10",
+        "nameAr": "بلاستيك مان",
+        "nameEn": "Plastic Man (Patrick O'Brian)",
+        "aliases": [
+          "Plastic Man"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "title": "10 خصوم أيقونيين من مارفل",
+    "group": "كرتون وأفلام",
+    "icon": "🦹",
+    "domain": "marvel-characters",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من خصوم أيقونيين من مارفل",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "Marvel — Characters",
+      "url": "https://www.marvel.com/characters",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c116-a1",
+        "nameAr": "ثانوس",
+        "nameEn": "Thanos",
+        "aliases": [],
+        "rank": 1
+      },
+      {
+        "id": "c116-a2",
+        "nameAr": "لوكي",
+        "nameEn": "Loki",
+        "aliases": [],
+        "rank": 2
+      },
+      {
+        "id": "c116-a3",
+        "nameAr": "ألترون",
+        "nameEn": "Ultron",
+        "aliases": [
+          "الترون",
+          "اولترون"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c116-a4",
+        "nameAr": "غرين غوبلن",
+        "nameEn": "Green Goblin (Norman Osborn)",
+        "aliases": [
+          "Green Goblin",
+          "Norman Osborn",
+          "نورمان أوزبورن",
+          "جرين جوبلن",
+          "العفريت الأخضر"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c116-a5",
+        "nameAr": "دكتور أوكتوبوس",
+        "nameEn": "Doctor Octopus (Otto Octavius)",
+        "aliases": [
+          "Doctor Octopus",
+          "Doc Ock",
+          "Otto Octavius",
+          "اوتو اوكتافيوس",
+          "دكتور اخطبوط"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c116-a6",
+        "nameAr": "فينوم",
+        "nameEn": "Venom (Eddie Brock)",
+        "aliases": [
+          "Venom",
+          "Eddie Brock",
+          "إيدي بروك",
+          "ايدي بروك"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c116-a7",
+        "nameAr": "ماغنيتو",
+        "nameEn": "Magneto",
+        "aliases": [
+          "ماجنيتو",
+          "مغنيتو"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c116-a8",
+        "nameAr": "دكتور دوم",
+        "nameEn": "Doctor Doom (Victor von Doom)",
+        "aliases": [
+          "Doctor Doom",
+          "Victor von Doom",
+          "فيكتور فون دوم",
+          "دووم"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c116-a9",
+        "nameAr": "ريد سكل",
+        "nameEn": "Red Skull (Johann Schmidt)",
+        "aliases": [
+          "Red Skull",
+          "Johann Schmidt",
+          "الجمجمة الحمراء"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c116-a10",
+        "nameAr": "كينغ بن",
+        "nameEn": "Kingpin (Wilson Fisk)",
+        "aliases": [
+          "Kingpin",
+          "Wilson Fisk",
+          "ويلسون فيسك",
+          "كينج بين"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c116-d1",
+        "nameAr": "ميستيريو",
+        "nameEn": "Mysterio (Quentin Beck)",
+        "aliases": [
+          "Mysterio",
+          "Quentin Beck"
+        ]
+      },
+      {
+        "id": "c116-d2",
+        "nameAr": "هيلا",
+        "nameEn": "Hela",
+        "aliases": []
+      },
+      {
+        "id": "c116-d3",
+        "nameAr": "كانغ",
+        "nameEn": "Kang the Conqueror",
+        "aliases": [
+          "Kang"
+        ]
+      },
+      {
+        "id": "c116-d4",
+        "nameAr": "دورمامو",
+        "nameEn": "Dormammu",
+        "aliases": []
+      },
+      {
+        "id": "c116-d5",
+        "nameAr": "فالتشر",
+        "nameEn": "Vulture (Adrian Toomes)",
+        "aliases": [
+          "Vulture",
+          "Adrian Toomes"
+        ]
+      },
+      {
+        "id": "c116-d6",
+        "nameAr": "إلكترو",
+        "nameEn": "Electro (Max Dillon)",
+        "aliases": [
+          "Electro",
+          "Max Dillon"
+        ]
+      },
+      {
+        "id": "c116-d7",
+        "nameAr": "كارنيج",
+        "nameEn": "Carnage (Cletus Kasady)",
+        "aliases": [
+          "Carnage",
+          "Cletus Kasady"
+        ]
+      },
+      {
+        "id": "c116-d8",
+        "nameAr": "أبومينيشن",
+        "nameEn": "Abomination (Emil Blonsky)",
+        "aliases": [
+          "Abomination",
+          "Emil Blonsky"
+        ]
+      },
+      {
+        "id": "c116-d9",
+        "nameAr": "جاغرناوت",
+        "nameEn": "Juggernaut (Cain Marko)",
+        "aliases": [
+          "Juggernaut",
+          "Cain Marko"
+        ]
+      },
+      {
+        "id": "c116-d10",
+        "nameAr": "ساندمان",
+        "nameEn": "Sandman (Flint Marko)",
+        "aliases": [
+          "Sandman",
+          "Flint Marko"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "title": "10 أميرات ديزني أيقونيات",
+    "group": "كرتون وأفلام",
+    "icon": "👑",
+    "domain": "disney-characters",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من أميرات ديزني أيقونيات",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "Disney — Official Disney Princesses",
+      "url": "https://www.disneyplus.com/explore/articles/disney-princess-movies",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c117-a1",
+        "nameAr": "سندريلا",
+        "nameEn": "Cinderella",
+        "aliases": [
+          "سيندريلا"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c117-a2",
+        "nameAr": "بياض الثلج",
+        "nameEn": "Snow White",
+        "aliases": [
+          "سنو وايت",
+          "سنووايت"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c117-a3",
+        "nameAr": "آرييل",
+        "nameEn": "Ariel",
+        "aliases": [
+          "ارييل",
+          "اريل",
+          "أريال"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c117-a4",
+        "nameAr": "بيل",
+        "nameEn": "Belle",
+        "aliases": [
+          "بيل الجميلة",
+          "بيل الحسناء"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c117-a5",
+        "nameAr": "ياسمين",
+        "nameEn": "Jasmine",
+        "aliases": [
+          "الأميرة ياسمين",
+          "جازمين"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c117-a6",
+        "nameAr": "رابونزل",
+        "nameEn": "Rapunzel",
+        "aliases": [
+          "رابنزل"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c117-a7",
+        "nameAr": "مولان",
+        "nameEn": "Mulan",
+        "aliases": [],
+        "rank": 7
+      },
+      {
+        "id": "c117-a8",
+        "nameAr": "موانا",
+        "nameEn": "Moana",
+        "aliases": [],
+        "rank": 8
+      },
+      {
+        "id": "c117-a9",
+        "nameAr": "تيانا",
+        "nameEn": "Tiana",
+        "aliases": [],
+        "rank": 9
+      },
+      {
+        "id": "c117-a10",
+        "nameAr": "أورورا",
+        "nameEn": "Aurora",
+        "aliases": [
+          "اورورا",
+          "الجميلة النائمة"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c117-d1",
+        "nameAr": "ميريدا",
+        "nameEn": "Merida",
+        "aliases": []
+      },
+      {
+        "id": "c117-d2",
+        "nameAr": "بوكاهونتاس",
+        "nameEn": "Pocahontas",
+        "aliases": []
+      },
+      {
+        "id": "c117-d3",
+        "nameAr": "رايا",
+        "nameEn": "Raya",
+        "aliases": []
+      },
+      {
+        "id": "c117-d4",
+        "nameAr": "إلسا",
+        "nameEn": "Elsa",
+        "aliases": [
+          "السا"
+        ]
+      },
+      {
+        "id": "c117-d5",
+        "nameAr": "آنا",
+        "nameEn": "Anna",
+        "aliases": [
+          "انا"
+        ]
+      },
+      {
+        "id": "c117-d6",
+        "nameAr": "ميرابيل",
+        "nameEn": "Mirabel Madrigal",
+        "aliases": [
+          "Mirabel"
+        ]
+      },
+      {
+        "id": "c117-d7",
+        "nameAr": "ميغارا",
+        "nameEn": "Megara",
+        "aliases": [
+          "Meg"
+        ]
+      },
+      {
+        "id": "c117-d8",
+        "nameAr": "إزميرالدا",
+        "nameEn": "Esmeralda",
+        "aliases": [
+          "ازميرالدا"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "title": "10 أفلام بيكسار أيقونية",
+    "group": "كرتون وأفلام",
+    "icon": "🎈",
+    "domain": "films",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من أفلام بيكسار أيقونية",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "Pixar — Feature Films",
+      "url": "https://www.pixar.com/feature-films/",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c118-a1",
+        "nameAr": "توي ستوري",
+        "nameEn": "Toy Story",
+        "aliases": [
+          "حكاية لعبة",
+          "توي ستوري 1",
+          "Toy Story 1",
+          "حكاية لعبة 1"
+        ],
+        "rank": 1,
+        "series": "Toy Story",
+        "part": "1"
+      },
+      {
+        "id": "c118-a2",
+        "nameAr": "البحث عن نيمو",
+        "nameEn": "Finding Nemo",
+        "aliases": [
+          "فايندنق نيمو",
+          "نيمو",
+          "Finding Nemo"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c118-a3",
+        "nameAr": "شركة المرعبين المحدودة",
+        "nameEn": "Monsters, Inc.",
+        "aliases": [
+          "Monsters Inc",
+          "مونسترز انك",
+          "شركة المرعبين"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c118-a4",
+        "nameAr": "الخارقون",
+        "nameEn": "The Incredibles",
+        "aliases": [
+          "انكريديبلز",
+          "الخارقون 1",
+          "The Incredibles"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c118-a5",
+        "nameAr": "سيارات",
+        "nameEn": "Cars",
+        "aliases": [
+          "Cars 1",
+          "كارز",
+          "كارز 1"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c118-a6",
+        "nameAr": "خلطبيطة بالصلصة",
+        "nameEn": "Ratatouille",
+        "aliases": [
+          "راتاتوي",
+          "راتاتويي",
+          "راتاتويل",
+          "خلطبيطة بالصلصة"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c118-a7",
+        "nameAr": "وول إي",
+        "nameEn": "WALL-E",
+        "aliases": [
+          "Wall E",
+          "WALLE",
+          "وولي",
+          "والي",
+          "وول اي",
+          "وول إي"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c118-a8",
+        "nameAr": "فوق",
+        "nameEn": "Up",
+        "aliases": [
+          "اب",
+          "أب",
+          "فيلم فوق",
+          "Up"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c118-a9",
+        "nameAr": "قلبًا وقالبًا",
+        "nameEn": "Inside Out",
+        "aliases": [
+          "Inside Out 1",
+          "انسايد اوت",
+          "قلبا وقالبا",
+          "Inside Out"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c118-a10",
+        "nameAr": "كوكو",
+        "nameEn": "Coco",
+        "aliases": [],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c118-d1",
+        "nameAr": "الشجاعة",
+        "nameEn": "Brave",
+        "aliases": [
+          "برايف"
+        ]
+      },
+      {
+        "id": "c118-d2",
+        "nameAr": "روح",
+        "nameEn": "Soul",
+        "aliases": [
+          "سول"
+        ]
+      },
+      {
+        "id": "c118-d3",
+        "nameAr": "لوكا",
+        "nameEn": "Luca",
+        "aliases": []
+      },
+      {
+        "id": "c118-d4",
+        "nameAr": "التحول إلى الأحمر",
+        "nameEn": "Turning Red",
+        "aliases": [
+          "ترنينغ ريد"
+        ]
+      },
+      {
+        "id": "c118-d5",
+        "nameAr": "العناصر",
+        "nameEn": "Elemental",
+        "aliases": [
+          "اليمنتال"
+        ]
+      },
+      {
+        "id": "c118-d6",
+        "nameAr": "إلى الأمام",
+        "nameEn": "Onward",
+        "aliases": [
+          "اونوارد"
+        ]
+      },
+      {
+        "id": "c118-d7",
+        "nameAr": "حياة حشرة",
+        "nameEn": "A Bug's Life",
+        "aliases": [
+          "A Bugs Life"
+        ]
+      },
+      {
+        "id": "c118-d8",
+        "nameAr": "الديناصور اللطيف",
+        "nameEn": "The Good Dinosaur",
+        "aliases": [
+          "غود دايناصور"
+        ]
+      },
+      {
+        "id": "c118-d9",
+        "nameAr": "البحث عن دوري",
+        "nameEn": "Finding Dory",
+        "aliases": [
+          "فايندنق دوري"
+        ]
+      },
+      {
+        "id": "c118-d10",
+        "nameAr": "توي ستوري 2",
+        "nameEn": "Toy Story 2",
+        "aliases": [
+          "حكاية لعبة 2"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "title": "10 كلاسيكيات من ديزني",
+    "group": "كرتون وأفلام",
+    "icon": "🏰",
+    "domain": "films",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من كلاسيكيات من ديزني",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "Walt Disney Animation Studios — Films",
+      "url": "https://www.disneyanimation.com/films/",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c119-a1",
+        "nameAr": "الأسد الملك",
+        "nameEn": "The Lion King (1994)",
+        "aliases": [
+          "The Lion King 1994",
+          "الملك الأسد",
+          "ليون كينغ 1994",
+          "The Lion King"
+        ],
+        "rank": 1,
+        "year": "1994"
+      },
+      {
+        "id": "c119-a2",
+        "nameAr": "علاء الدين 1992",
+        "nameEn": "Aladdin (1992)",
+        "aliases": [
+          "Aladdin 1992",
+          "علاء الدين الكرتون",
+          "Aladdin"
+        ],
+        "rank": 2,
+        "year": "1992"
+      },
+      {
+        "id": "c119-a3",
+        "nameAr": "الجميلة والوحش",
+        "nameEn": "Beauty and the Beast",
+        "aliases": [
+          "Beauty and the Beast 1991",
+          "بيوتي اند ذا بيست",
+          "الجميلة والوحش",
+          "Beauty and the Beast"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c119-a4",
+        "nameAr": "حورية البحر الصغيرة",
+        "nameEn": "The Little Mermaid",
+        "aliases": [
+          "The Little Mermaid 1989",
+          "ذا ليتل ميرميد",
+          "The Little Mermaid (1989)",
+          "The Little Mermaid"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c119-a5",
+        "nameAr": "مولان 1998",
+        "nameEn": "Mulan (1998)",
+        "aliases": [
+          "Mulan 1998",
+          "مولان الكرتون",
+          "Mulan"
+        ],
+        "rank": 5,
+        "year": "1998"
+      },
+      {
+        "id": "c119-a6",
+        "nameAr": "طرزان 1999",
+        "nameEn": "Tarzan (1999)",
+        "aliases": [
+          "Tarzan 1999",
+          "تارزان الكرتون",
+          "Tarzan"
+        ],
+        "rank": 6,
+        "year": "1999"
+      },
+      {
+        "id": "c119-a7",
+        "nameAr": "هرقل 1997",
+        "nameEn": "Hercules (1997)",
+        "aliases": [
+          "Hercules 1997",
+          "هيركليز",
+          "Hercules"
+        ],
+        "rank": 7,
+        "year": "1997"
+      },
+      {
+        "id": "c119-a8",
+        "nameAr": "بوكاهونتاس 1995",
+        "nameEn": "Pocahontas (1995)",
+        "aliases": [
+          "Pocahontas 1995",
+          "Pocahontas"
+        ],
+        "rank": 8,
+        "year": "1995"
+      },
+      {
+        "id": "c119-a9",
+        "nameAr": "بياض الثلج والأقزام السبعة",
+        "nameEn": "Snow White and the Seven Dwarfs",
+        "aliases": [
+          "Snow White 1937",
+          "سنو وايت الكرتون",
+          "Snow White",
+          "سنو وايت",
+          "بياض الثلج والأقزام السبعة",
+          "Snow White and the Seven Dwarfs"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c119-a10",
+        "nameAr": "سندريلا 1950",
+        "nameEn": "Cinderella (1950)",
+        "aliases": [
+          "Cinderella 1950",
+          "سندريلا الكرتون",
+          "Cinderella"
+        ],
+        "rank": 10,
+        "year": "1950"
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c119-d1",
+        "nameAr": "دامبو",
+        "nameEn": "Dumbo",
+        "aliases": []
+      },
+      {
+        "id": "c119-d2",
+        "nameAr": "بامبي",
+        "nameEn": "Bambi",
+        "aliases": []
+      },
+      {
+        "id": "c119-d3",
+        "nameAr": "بينوكيو",
+        "nameEn": "Pinocchio",
+        "aliases": []
+      },
+      {
+        "id": "c119-d4",
+        "nameAr": "بيتر بان 1953",
+        "nameEn": "Peter Pan (1953)",
+        "aliases": []
+      },
+      {
+        "id": "c119-d5",
+        "nameAr": "الجميلة النائمة 1959",
+        "nameEn": "Sleeping Beauty (1959)",
+        "aliases": []
+      },
+      {
+        "id": "c119-d6",
+        "nameAr": "كتاب الأدغال 1967",
+        "nameEn": "The Jungle Book (1967)",
+        "aliases": []
+      },
+      {
+        "id": "c119-d7",
+        "nameAr": "101 كلب مرقش",
+        "nameEn": "One Hundred and One Dalmatians",
+        "aliases": [
+          "101 Dalmatians"
+        ]
+      },
+      {
+        "id": "c119-d8",
+        "nameAr": "روبن هود 1973",
+        "nameEn": "Robin Hood (1973)",
+        "aliases": []
+      },
+      {
+        "id": "c119-d9",
+        "nameAr": "السيف في الحجر",
+        "nameEn": "The Sword in the Stone",
+        "aliases": []
+      },
+      {
+        "id": "c119-d10",
+        "nameAr": "القطط الأرستقراطية",
+        "nameEn": "The Aristocats",
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "title": "10 مسلسلات من كرتون نتورك",
+    "group": "كرتون وأفلام",
+    "icon": "📺",
+    "domain": "tv-shows",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من مسلسلات من كرتون نتورك",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "ويكيبيديا — برامج Cartoon Network",
+      "url": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Cartoon_Network",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c120-a1",
+        "nameAr": "بن تن",
+        "nameEn": "Ben 10",
+        "aliases": [
+          "Ben Ten",
+          "بن 10",
+          "بين تن"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c120-a2",
+        "nameAr": "فتيات القوة",
+        "nameEn": "The Powerpuff Girls",
+        "aliases": [
+          "Powerpuff Girls",
+          "باوربف غيرلز"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c120-a3",
+        "nameAr": "مختبر دكستر",
+        "nameEn": "Dexter's Laboratory",
+        "aliases": [
+          "Dexters Laboratory",
+          "دكستر",
+          "Dexter"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c120-a4",
+        "nameAr": "الكلب الجبان",
+        "nameEn": "Courage the Cowardly Dog",
+        "aliases": [
+          "Courage",
+          "كوريج",
+          "كارج"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c120-a5",
+        "nameAr": "إد وإد وإدي",
+        "nameEn": "Ed, Edd n Eddy",
+        "aliases": [
+          "Ed Edd n Eddy",
+          "اد اد اند ادي"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c120-a6",
+        "nameAr": "ساموراي جاك",
+        "nameEn": "Samurai Jack",
+        "aliases": [
+          "ساموراي جاك"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c120-a7",
+        "nameAr": "وقت المغامرة",
+        "nameEn": "Adventure Time",
+        "aliases": [
+          "ادفنشر تايم",
+          "وقت المغامرات"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c120-a8",
+        "nameAr": "العرض العادي",
+        "nameEn": "Regular Show",
+        "aliases": [
+          "ريغولر شو",
+          "ريجولار شو"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c120-a9",
+        "nameAr": "عالم غامبول المدهش",
+        "nameEn": "The Amazing World of Gumball",
+        "aliases": [
+          "Gumball",
+          "عالم غامبول",
+          "غامبول",
+          "جامبول"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c120-a10",
+        "nameAr": "الدببة الثلاثة",
+        "nameEn": "We Bare Bears",
+        "aliases": [
+          "وي بير بيرز",
+          "الدببه الثلاثه"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c120-d1",
+        "nameAr": "جوني برافو",
+        "nameEn": "Johnny Bravo",
+        "aliases": []
+      },
+      {
+        "id": "c120-d2",
+        "nameAr": "أولاد الجيران",
+        "nameEn": "Codename: Kids Next Door",
+        "aliases": [
+          "Kids Next Door",
+          "KND"
+        ]
+      },
+      {
+        "id": "c120-d3",
+        "nameAr": "منزل فوستر للأصدقاء الخياليين",
+        "nameEn": "Foster's Home for Imaginary Friends",
+        "aliases": []
+      },
+      {
+        "id": "c120-d4",
+        "nameAr": "تشاودر",
+        "nameEn": "Chowder",
+        "aliases": []
+      },
+      {
+        "id": "c120-d5",
+        "nameAr": "فلاب جاك",
+        "nameEn": "Flapjack",
+        "aliases": [
+          "The Marvelous Misadventures of Flapjack"
+        ]
+      },
+      {
+        "id": "c120-d6",
+        "nameAr": "ستيفن يونيفرس",
+        "nameEn": "Steven Universe",
+        "aliases": []
+      },
+      {
+        "id": "c120-d7",
+        "nameAr": "كلارنس",
+        "nameEn": "Clarence",
+        "aliases": []
+      },
+      {
+        "id": "c120-d8",
+        "nameAr": "كريغ من الجدول",
+        "nameEn": "Craig of the Creek",
+        "aliases": [
+          "كريج من الجدول"
+        ]
+      },
+      {
+        "id": "c120-d9",
+        "nameAr": "مراهقو التايتنز",
+        "nameEn": "Teen Titans",
+        "aliases": [
+          "تين تايتنز"
+        ]
+      },
+      {
+        "id": "c120-d10",
+        "nameAr": "مغامرات بيلي وماندي",
+        "nameEn": "The Grim Adventures of Billy & Mandy",
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "title": "10 مسلسلات كرتون من نيكلوديون",
+    "group": "كرتون وأفلام",
+    "icon": "🟠",
+    "domain": "tv-shows",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من مسلسلات كرتون من نيكلوديون",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "ويكيبيديا — برامج Nickelodeon",
+      "url": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Nickelodeon",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c121-a1",
+        "nameAr": "سبونج بوب",
+        "nameEn": "SpongeBob SquarePants",
+        "aliases": [
+          "سبونج بوب سكوير بانتس",
+          "سبونجبوب",
+          "SpongeBob",
+          "Spongebob"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c121-a2",
+        "nameAr": "الوالدان السحريان",
+        "nameEn": "The Fairly OddParents",
+        "aliases": [
+          "Fairly OddParents",
+          "الوالدين السحريين"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c121-a3",
+        "nameAr": "داني الشبح",
+        "nameEn": "Danny Phantom",
+        "aliases": [
+          "داني فانتوم"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c121-a4",
+        "nameAr": "أفاتار: أسطورة آنج",
+        "nameEn": "Avatar: The Last Airbender",
+        "aliases": [
+          "اسطورة انج",
+          "افاتار اخر مسخر هواء",
+          "Avatar The Last Airbender",
+          "أفاتار أسطورة آنج",
+          "افتر اخر مسخر هواء",
+          "أفاتار: أسطورة أنج"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c121-a5",
+        "nameAr": "سلاحف النينجا 2012",
+        "nameEn": "Teenage Mutant Ninja Turtles (2012)",
+        "aliases": [
+          "TMNT 2012",
+          "سلاحف النينجا"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c121-a6",
+        "nameAr": "راغراتس",
+        "nameEn": "Rugrats",
+        "aliases": [
+          "رقراتس",
+          "راجراتس"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c121-a7",
+        "nameAr": "هاي آرنولد",
+        "nameEn": "Hey Arnold!",
+        "aliases": [
+          "Hey Arnold",
+          "هاي ارنولد"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c121-a8",
+        "nameAr": "جيمي نيوترون",
+        "nameEn": "The Adventures of Jimmy Neutron, Boy Genius",
+        "aliases": [
+          "Jimmy Neutron",
+          "الفتى العبقري"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c121-a9",
+        "nameAr": "منزل لاود",
+        "nameEn": "The Loud House",
+        "aliases": [
+          "ذا لاود هاوس",
+          "لاود هاوس"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c121-a10",
+        "nameAr": "كات دوغ",
+        "nameEn": "CatDog",
+        "aliases": [
+          "كات دوج",
+          "كات دوق"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c121-d1",
+        "nameAr": "عائلة ثورنبيري",
+        "nameEn": "The Wild Thornberrys",
+        "aliases": []
+      },
+      {
+        "id": "c121-d2",
+        "nameAr": "حياة روكو الحديثة",
+        "nameEn": "Rocko's Modern Life",
+        "aliases": []
+      },
+      {
+        "id": "c121-d3",
+        "nameAr": "القنادس الغاضبة",
+        "nameEn": "The Angry Beavers",
+        "aliases": []
+      },
+      {
+        "id": "c121-d4",
+        "nameAr": "الغازي زيم",
+        "nameEn": "Invader Zim",
+        "aliases": []
+      },
+      {
+        "id": "c121-d5",
+        "nameAr": "أسطورة كورا",
+        "nameEn": "The Legend of Korra",
+        "aliases": []
+      },
+      {
+        "id": "c121-d6",
+        "nameAr": "عالم الطباشير",
+        "nameEn": "ChalkZone",
+        "aliases": []
+      },
+      {
+        "id": "c121-d7",
+        "nameAr": "تاف بابي",
+        "nameEn": "T.U.F.F. Puppy",
+        "aliases": []
+      },
+      {
+        "id": "c121-d8",
+        "nameAr": "بطاريق مدغشقر",
+        "nameEn": "The Penguins of Madagascar",
+        "aliases": []
+      },
+      {
+        "id": "c121-d9",
+        "nameAr": "فانبوي وتشام تشام",
+        "nameEn": "Fanboy & Chum Chum",
+        "aliases": []
+      },
+      {
+        "id": "c121-d10",
+        "nameAr": "العودة إلى الحظيرة",
+        "nameEn": "Back at the Barnyard",
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "title": "10 مسلسلات أيقونية من سبيستون",
+    "group": "كرتون وأفلام",
+    "icon": "🪐",
+    "domain": "tv-shows",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من مسلسلات أيقونية من سبيستون",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "ويكيبيديا — برامج Spacetoon",
+      "url": "https://en.wikipedia.org/wiki/List_of_programs_broadcast_by_Spacetoon",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c122-a1",
+        "nameAr": "المحقق كونان",
+        "nameEn": "Detective Conan",
+        "aliases": [
+          "Case Closed",
+          "كونان"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c122-a2",
+        "nameAr": "الكابتن ماجد",
+        "nameEn": "Captain Tsubasa",
+        "aliases": [
+          "كابتن ماجد",
+          "كابتن تسوباسا"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c122-a3",
+        "nameAr": "سالي",
+        "nameEn": "Princess Sarah",
+        "aliases": [
+          "A Little Princess Sara",
+          "سارى",
+          "سالي"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c122-a4",
+        "nameAr": "عهد الأصدقاء",
+        "nameEn": "Romeo's Blue Skies",
+        "aliases": [
+          "Romeo and the Black Brothers",
+          "روميو"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c122-a5",
+        "nameAr": "عدنان ولينا",
+        "nameEn": "Future Boy Conan",
+        "aliases": [
+          "فتى المستقبل",
+          "Conan The Boy in Future"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c122-a6",
+        "nameAr": "دراغون بول زد",
+        "nameEn": "Dragon Ball Z",
+        "aliases": [
+          "DBZ",
+          "Dragonball Z",
+          "دراغون بول ز"
+        ],
+        "rank": 6,
+        "series": "Dragon Ball",
+        "part": "Z"
+      },
+      {
+        "id": "c122-a7",
+        "nameAr": "هامتارو",
+        "nameEn": "Hamtaro",
+        "aliases": [
+          "همتارو"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c122-a8",
+        "nameAr": "ماوكلي فتى الأدغال",
+        "nameEn": "Jungle Book Shonen Mowgli",
+        "aliases": [
+          "Jungle Book Shōnen Mowgli",
+          "ماوكلي",
+          "فتى الادغال"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c122-a9",
+        "nameAr": "مغامرات سندباد",
+        "nameEn": "Arabian Nights: Sinbad's Adventures",
+        "aliases": [
+          "Arabian Nights Sinbad",
+          "سندباد",
+          "مغامرات السندباد"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c122-a10",
+        "nameAr": "أبطال الديجيتال الجزء الأول",
+        "nameEn": "Digimon Adventure",
+        "aliases": [
+          "Digimon Adventure 1999",
+          "ابطال الديجيتال 1",
+          "أبطال الديجيتال"
+        ],
+        "rank": 10,
+        "series": "Digimon",
+        "part": "Adventure 1999",
+        "year": "1999"
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c122-d1",
+        "nameAr": "هايدي",
+        "nameEn": "Heidi, Girl of the Alps",
+        "aliases": []
+      },
+      {
+        "id": "c122-d2",
+        "nameAr": "أسطورة زورو",
+        "nameEn": "The Legend of Zorro",
+        "aliases": []
+      },
+      {
+        "id": "c122-d3",
+        "nameAr": "القناص 1999",
+        "nameEn": "Hunter × Hunter (1999)",
+        "aliases": [
+          "Hunter x Hunter 1999"
+        ]
+      },
+      {
+        "id": "c122-d4",
+        "nameAr": "سلام دانك",
+        "nameEn": "Slam Dunk",
+        "aliases": []
+      },
+      {
+        "id": "c122-d5",
+        "nameAr": "ريمي الفتى الشريد",
+        "nameEn": "Nobody's Boy Remi",
+        "aliases": []
+      },
+      {
+        "id": "c122-d6",
+        "nameAr": "دروب ريمي",
+        "nameEn": "Remi, Nobody's Girl",
+        "aliases": []
+      },
+      {
+        "id": "c122-d7",
+        "nameAr": "وادي الأمان",
+        "nameEn": "Moomin",
+        "aliases": []
+      },
+      {
+        "id": "c122-d8",
+        "nameAr": "شما في البراري الخضراء",
+        "nameEn": "Anne of Green Gables (1979)",
+        "aliases": []
+      },
+      {
+        "id": "c122-d9",
+        "nameAr": "بي بليد",
+        "nameEn": "Beyblade",
+        "aliases": []
+      },
+      {
+        "id": "c122-d10",
+        "nameAr": "مغامرات توم سوير",
+        "nameEn": "The Adventures of Tom Sawyer",
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "title": "10 أبطال من ذكريات سبيستون",
+    "group": "كرتون وأفلام",
+    "icon": "⭐",
+    "domain": "anime-characters",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من أبطال من ذكريات سبيستون",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "ويكيبيديا العربية — برامج سبيستون وشخصياتها",
+      "url": "https://ar.wikipedia.org/wiki/قائمة_برامج_قناة_سبيستون",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c123-a1",
+        "nameAr": "كونان إيدوغاوا",
+        "nameEn": "Conan Edogawa",
+        "aliases": [
+          "Conan",
+          "Shinichi Kudo",
+          "كونان",
+          "سينشي كودو",
+          "شينتشي كودو"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c123-a2",
+        "nameAr": "الكابتن ماجد",
+        "nameEn": "Tsubasa Ozora",
+        "aliases": [
+          "Tsubasa",
+          "Majed Kamel",
+          "ماجد كامل",
+          "ماجد",
+          "تسوباسا"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c123-a3",
+        "nameAr": "سالي",
+        "nameEn": "Sarah Crewe",
+        "aliases": [
+          "Sara Crewe",
+          "Sally",
+          "سارا كرو"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c123-a4",
+        "nameAr": "روميو",
+        "nameEn": "Romeo (Romeo's Blue Skies)",
+        "aliases": [
+          "Romeo",
+          "روميو عهد الاصدقاء"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c123-a5",
+        "nameAr": "ماوكلي",
+        "nameEn": "Mowgli",
+        "aliases": [
+          "موغلي",
+          "ماوجلي"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c123-a6",
+        "nameAr": "هايدي",
+        "nameEn": "Heidi",
+        "aliases": [
+          "هيدي"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c123-a7",
+        "nameAr": "سندباد",
+        "nameEn": "Sinbad",
+        "aliases": [
+          "السندباد",
+          "سندباد البحري"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c123-a8",
+        "nameAr": "عدنان",
+        "nameEn": "Conan (Future Boy Conan)",
+        "aliases": [
+          "Adnan",
+          "عدنان فتى المستقبل"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c123-a9",
+        "nameAr": "غون",
+        "nameEn": "Gon Freecss",
+        "aliases": [
+          "Gon",
+          "Gon Freecs",
+          "جون فريكس",
+          "غون فريكس"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c123-a10",
+        "nameAr": "غوكو",
+        "nameEn": "Son Goku",
+        "aliases": [
+          "Goku",
+          "جوكو",
+          "كوكو",
+          "سون غوكو"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c123-d1",
+        "nameAr": "ألفريدو",
+        "nameEn": "Alfredo (Romeo's Blue Skies)",
+        "aliases": [
+          "Alfredo",
+          "الفريدو"
+        ]
+      },
+      {
+        "id": "c123-d2",
+        "nameAr": "بيتر",
+        "nameEn": "Peter (Heidi)",
+        "aliases": [
+          "Peter"
+        ]
+      },
+      {
+        "id": "c123-d3",
+        "nameAr": "لينا",
+        "nameEn": "Lana (Future Boy Conan)",
+        "aliases": [
+          "Lana",
+          "Lina"
+        ]
+      },
+      {
+        "id": "c123-d4",
+        "nameAr": "عبسي",
+        "nameEn": "Jimsy",
+        "aliases": [
+          "Jimsy",
+          "عبسي"
+        ]
+      },
+      {
+        "id": "c123-d5",
+        "nameAr": "دايسكي",
+        "nameEn": "Daisuke Umon",
+        "aliases": [
+          "Duke Fleed",
+          "دوق فليد"
+        ]
+      },
+      {
+        "id": "c123-d6",
+        "nameAr": "نيلز",
+        "nameEn": "Nils Holgersson",
+        "aliases": [
+          "Nils",
+          "نيلس"
+        ]
+      },
+      {
+        "id": "c123-d7",
+        "nameAr": "ريمي",
+        "nameEn": "Remi Barberin",
+        "aliases": [
+          "Remi"
+        ]
+      },
+      {
+        "id": "c123-d8",
+        "nameAr": "توم سوير",
+        "nameEn": "Tom Sawyer",
+        "aliases": []
+      },
+      {
+        "id": "c123-d9",
+        "nameAr": "ساكورا كينوموتو",
+        "nameEn": "Sakura Kinomoto",
+        "aliases": [
+          "كارد كابتور ساكورا"
+        ]
+      },
+      {
+        "id": "c123-d10",
+        "nameAr": "هامتارو",
+        "nameEn": "Hamtaro",
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "title": "10 أبطال أنمي أيقونيين",
+    "group": "كرتون وأفلام",
+    "icon": "🔥",
+    "domain": "anime-characters",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من أبطال أنمي أيقونيين",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "MyAnimeList — Character Database",
+      "url": "https://myanimelist.net/character.php",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c124-a1",
+        "nameAr": "ناروتو أوزوماكي",
+        "nameEn": "Naruto Uzumaki",
+        "aliases": [
+          "Naruto",
+          "ناروتو"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c124-a2",
+        "nameAr": "مونكي دي لوفي",
+        "nameEn": "Monkey D. Luffy",
+        "aliases": [
+          "Luffy",
+          "Monkey D Luffy",
+          "لوفي",
+          "لوفى"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c124-a3",
+        "nameAr": "غوكو",
+        "nameEn": "Son Goku",
+        "aliases": [
+          "Goku",
+          "جوكو",
+          "كوكو",
+          "سون غوكو"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c124-a4",
+        "nameAr": "إيتشيغو كوروساكي",
+        "nameEn": "Ichigo Kurosaki",
+        "aliases": [
+          "Ichigo",
+          "ايتشيغو",
+          "اتشيغو"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c124-a5",
+        "nameAr": "إيرين ييغر",
+        "nameEn": "Eren Yeager",
+        "aliases": [
+          "Eren",
+          "Eren Jaeger",
+          "ايرين",
+          "إيرين"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c124-a6",
+        "nameAr": "تانجيرو كامادو",
+        "nameEn": "Tanjiro Kamado",
+        "aliases": [
+          "Tanjiro",
+          "تانجيرو",
+          "تانغيرو"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c124-a7",
+        "nameAr": "غون",
+        "nameEn": "Gon Freecss",
+        "aliases": [
+          "Gon",
+          "Gon Freecs",
+          "غون فريكس",
+          "جون فريكس"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c124-a8",
+        "nameAr": "سايتاما",
+        "nameEn": "Saitama",
+        "aliases": [
+          "ون بنش مان",
+          "One Punch Man"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c124-a9",
+        "nameAr": "إدوارد إلريك",
+        "nameEn": "Edward Elric",
+        "aliases": [
+          "Edward",
+          "ادوارد",
+          "ادوارد الريك"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c124-a10",
+        "nameAr": "آش كيتشام",
+        "nameEn": "Ash Ketchum",
+        "aliases": [
+          "Ash",
+          "Satoshi",
+          "اش",
+          "ساتوشي"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c124-d1",
+        "nameAr": "كيلوا",
+        "nameEn": "Killua Zoldyck",
+        "aliases": [
+          "Killua"
+        ]
+      },
+      {
+        "id": "c124-d2",
+        "nameAr": "ليفاي",
+        "nameEn": "Levi Ackerman",
+        "aliases": [
+          "Levi"
+        ]
+      },
+      {
+        "id": "c124-d3",
+        "nameAr": "لولوش",
+        "nameEn": "Lelouch Lamperouge",
+        "aliases": [
+          "Lelouch"
+        ]
+      },
+      {
+        "id": "c124-d4",
+        "nameAr": "لايت ياغامي",
+        "nameEn": "Light Yagami",
+        "aliases": [
+          "Light"
+        ]
+      },
+      {
+        "id": "c124-d5",
+        "nameAr": "ساتورو غوجو",
+        "nameEn": "Satoru Gojo",
+        "aliases": [
+          "Gojo",
+          "غوجو"
+        ]
+      },
+      {
+        "id": "c124-d6",
+        "nameAr": "إيزوكو ميدوريا",
+        "nameEn": "Izuku Midoriya",
+        "aliases": [
+          "Deku",
+          "ديكو"
+        ]
+      },
+      {
+        "id": "c124-d7",
+        "nameAr": "كين كانيكي",
+        "nameEn": "Ken Kaneki",
+        "aliases": [
+          "Kaneki",
+          "كانيكي"
+        ]
+      },
+      {
+        "id": "c124-d8",
+        "nameAr": "يوسكي أوراميشي",
+        "nameEn": "Yusuke Urameshi",
+        "aliases": [
+          "Yusuke"
+        ]
+      },
+      {
+        "id": "c124-d9",
+        "nameAr": "كينشين هيمورا",
+        "nameEn": "Kenshin Himura",
+        "aliases": [
+          "Kenshin"
+        ]
+      },
+      {
+        "id": "c124-d10",
+        "nameAr": "إينوياشا",
+        "nameEn": "Inuyasha",
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "title": "10 شخصيات من ناروتو",
+    "group": "كرتون وأفلام",
+    "icon": "🍥",
+    "domain": "anime-characters",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من شخصيات من ناروتو",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "ويكيبيديا — شخصيات Naruto",
+      "url": "https://en.wikipedia.org/wiki/List_of_Naruto_characters",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c125-a1",
+        "nameAr": "ناروتو أوزوماكي",
+        "nameEn": "Naruto Uzumaki",
+        "aliases": [
+          "Naruto",
+          "ناروتو"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c125-a2",
+        "nameAr": "ساسكي أوتشيها",
+        "nameEn": "Sasuke Uchiha",
+        "aliases": [
+          "Sasuke",
+          "ساسكي",
+          "ساسكى"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c125-a3",
+        "nameAr": "ساكورا هارونو",
+        "nameEn": "Sakura Haruno",
+        "aliases": [
+          "Sakura",
+          "ساكورا"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c125-a4",
+        "nameAr": "كاكاشي هاتاكي",
+        "nameEn": "Kakashi Hatake",
+        "aliases": [
+          "Kakashi",
+          "كاكاشي",
+          "كاكاشى"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c125-a5",
+        "nameAr": "هيناتا هيوغا",
+        "nameEn": "Hinata Hyuga",
+        "aliases": [
+          "Hinata",
+          "هيناتا"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c125-a6",
+        "nameAr": "إيتاتشي أوتشيها",
+        "nameEn": "Itachi Uchiha",
+        "aliases": [
+          "Itachi",
+          "ايتاشي",
+          "ايتاتشي"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c125-a7",
+        "nameAr": "غارا",
+        "nameEn": "Gaara",
+        "aliases": [
+          "جارا",
+          "قارا"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c125-a8",
+        "nameAr": "روك لي",
+        "nameEn": "Rock Lee",
+        "aliases": [
+          "Lee",
+          "روك لي",
+          "روكلي"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c125-a9",
+        "nameAr": "شيكامارو نارا",
+        "nameEn": "Shikamaru Nara",
+        "aliases": [
+          "Shikamaru",
+          "شيكامارو"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c125-a10",
+        "nameAr": "جيرايا",
+        "nameEn": "Jiraiya",
+        "aliases": [
+          "جرايا",
+          "جيرايـا"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c125-d1",
+        "nameAr": "أوروتشيمارو",
+        "nameEn": "Orochimaru",
+        "aliases": []
+      },
+      {
+        "id": "c125-d2",
+        "nameAr": "تسونادي",
+        "nameEn": "Tsunade",
+        "aliases": []
+      },
+      {
+        "id": "c125-d3",
+        "nameAr": "نيجي هيوغا",
+        "nameEn": "Neji Hyuga",
+        "aliases": [
+          "Neji"
+        ]
+      },
+      {
+        "id": "c125-d4",
+        "nameAr": "مايت غاي",
+        "nameEn": "Might Guy",
+        "aliases": [
+          "Guy",
+          "غاي"
+        ]
+      },
+      {
+        "id": "c125-d5",
+        "nameAr": "ميناتو ناميكازي",
+        "nameEn": "Minato Namikaze",
+        "aliases": [
+          "Minato",
+          "ميناتو"
+        ]
+      },
+      {
+        "id": "c125-d6",
+        "nameAr": "أوبيتو أوتشيها",
+        "nameEn": "Obito Uchiha",
+        "aliases": [
+          "Obito",
+          "اوبيتو"
+        ]
+      },
+      {
+        "id": "c125-d7",
+        "nameAr": "مادارا أوتشيها",
+        "nameEn": "Madara Uchiha",
+        "aliases": [
+          "Madara",
+          "مادارا"
+        ]
+      },
+      {
+        "id": "c125-d8",
+        "nameAr": "ناغاتو",
+        "nameEn": "Nagato",
+        "aliases": [
+          "Pain",
+          "باين"
+        ]
+      },
+      {
+        "id": "c125-d9",
+        "nameAr": "كيلر بي",
+        "nameEn": "Killer Bee",
+        "aliases": []
+      },
+      {
+        "id": "c125-d10",
+        "nameAr": "كانكورو",
+        "nameEn": "Kankuro",
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "title": "10 شخصيات من طاقم قبعة القش",
+    "group": "كرتون وأفلام",
+    "icon": "🏴‍☠️",
+    "domain": "anime-characters",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من شخصيات من طاقم قبعة القش",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "ويكيبيديا — شخصيات One Piece",
+      "url": "https://en.wikipedia.org/wiki/List_of_One_Piece_characters",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c126-a1",
+        "nameAr": "مونكي دي لوفي",
+        "nameEn": "Monkey D. Luffy",
+        "aliases": [
+          "Luffy",
+          "Monkey D Luffy",
+          "لوفي",
+          "لوفى"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c126-a2",
+        "nameAr": "رورونوا زورو",
+        "nameEn": "Roronoa Zoro",
+        "aliases": [
+          "Zoro",
+          "زورو"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c126-a3",
+        "nameAr": "نامي",
+        "nameEn": "Nami",
+        "aliases": [
+          "نامى"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c126-a4",
+        "nameAr": "أوسوب",
+        "nameEn": "Usopp",
+        "aliases": [
+          "يوسوب",
+          "اوسوب"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c126-a5",
+        "nameAr": "سانجي",
+        "nameEn": "Sanji",
+        "aliases": [
+          "Vinsmoke Sanji",
+          "سانجى"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c126-a6",
+        "nameAr": "توني توني تشوبر",
+        "nameEn": "Tony Tony Chopper",
+        "aliases": [
+          "Chopper",
+          "تشوبر",
+          "شوبر"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c126-a7",
+        "nameAr": "نيكو روبين",
+        "nameEn": "Nico Robin",
+        "aliases": [
+          "Robin",
+          "روبن",
+          "روبين"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c126-a8",
+        "nameAr": "فرانكي",
+        "nameEn": "Franky",
+        "aliases": [
+          "فرانكى",
+          "فرانكي سايبورغ"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c126-a9",
+        "nameAr": "بروك",
+        "nameEn": "Brook",
+        "aliases": [
+          "بروك الهيكل العظمي"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c126-a10",
+        "nameAr": "جينبي",
+        "nameEn": "Jimbei",
+        "aliases": [
+          "Jinbe",
+          "Jinbei",
+          "جيمبي",
+          "جينبي"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c126-d1",
+        "nameAr": "بورتغاس دي إيس",
+        "nameEn": "Portgas D. Ace",
+        "aliases": [
+          "Ace",
+          "ايس"
+        ]
+      },
+      {
+        "id": "c126-d2",
+        "nameAr": "شانكس",
+        "nameEn": "Shanks",
+        "aliases": []
+      },
+      {
+        "id": "c126-d3",
+        "nameAr": "ترافالغار لاو",
+        "nameEn": "Trafalgar D. Water Law",
+        "aliases": [
+          "Law",
+          "لاو"
+        ]
+      },
+      {
+        "id": "c126-d4",
+        "nameAr": "سابو",
+        "nameEn": "Sabo",
+        "aliases": []
+      },
+      {
+        "id": "c126-d5",
+        "nameAr": "بوا هانكوك",
+        "nameEn": "Boa Hancock",
+        "aliases": [
+          "Hancock"
+        ]
+      },
+      {
+        "id": "c126-d6",
+        "nameAr": "كايدو",
+        "nameEn": "Kaido",
+        "aliases": []
+      },
+      {
+        "id": "c126-d7",
+        "nameAr": "بيغ مام",
+        "nameEn": "Charlotte Linlin",
+        "aliases": [
+          "Big Mom",
+          "بيج مام"
+        ]
+      },
+      {
+        "id": "c126-d8",
+        "nameAr": "اللحية السوداء",
+        "nameEn": "Marshall D. Teach",
+        "aliases": [
+          "Blackbeard",
+          "تيتش"
+        ]
+      },
+      {
+        "id": "c126-d9",
+        "nameAr": "اللحية البيضاء",
+        "nameEn": "Edward Newgate",
+        "aliases": [
+          "Whitebeard",
+          "نيوغيت"
+        ]
+      },
+      {
+        "id": "c126-d10",
+        "nameAr": "باغي",
+        "nameEn": "Buggy",
+        "aliases": [
+          "باجي"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "title": "10 شخصيات من دراغون بول",
+    "group": "كرتون وأفلام",
+    "icon": "🐉",
+    "domain": "anime-characters",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من شخصيات من دراغون بول",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "ويكيبيديا — شخصيات Dragon Ball",
+      "url": "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_characters",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c127-a1",
+        "nameAr": "غوكو",
+        "nameEn": "Son Goku",
+        "aliases": [
+          "Goku",
+          "جوكو",
+          "كوكو",
+          "سون غوكو"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c127-a2",
+        "nameAr": "فيجيتا",
+        "nameEn": "Vegeta",
+        "aliases": [
+          "فيجتا",
+          "فيجيتا"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c127-a3",
+        "nameAr": "غوهان",
+        "nameEn": "Son Gohan",
+        "aliases": [
+          "Gohan",
+          "جوهان",
+          "غوهان"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c127-a4",
+        "nameAr": "بيكولو",
+        "nameEn": "Piccolo",
+        "aliases": [
+          "بيكولو"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c127-a5",
+        "nameAr": "كريلين",
+        "nameEn": "Krillin",
+        "aliases": [
+          "كريلن"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c127-a6",
+        "nameAr": "بولما",
+        "nameEn": "Bulma",
+        "aliases": [],
+        "rank": 6
+      },
+      {
+        "id": "c127-a7",
+        "nameAr": "ترانكس",
+        "nameEn": "Trunks",
+        "aliases": [
+          "ترنكس"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c127-a8",
+        "nameAr": "فريزا",
+        "nameEn": "Frieza",
+        "aliases": [
+          "Freeza",
+          "فريزر",
+          "فريزه"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c127-a9",
+        "nameAr": "سيل",
+        "nameEn": "Cell",
+        "aliases": [
+          "سل"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c127-a10",
+        "nameAr": "ماجين بو",
+        "nameEn": "Majin Buu",
+        "aliases": [
+          "Buu",
+          "Majin Boo",
+          "ماجن بو",
+          "بو"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c127-d1",
+        "nameAr": "بيروس",
+        "nameEn": "Beerus",
+        "aliases": []
+      },
+      {
+        "id": "c127-d2",
+        "nameAr": "ويس",
+        "nameEn": "Whis",
+        "aliases": []
+      },
+      {
+        "id": "c127-d3",
+        "nameAr": "أندرويد 18",
+        "nameEn": "Android 18",
+        "aliases": [
+          "سايبورغ 18"
+        ]
+      },
+      {
+        "id": "c127-d4",
+        "nameAr": "أندرويد 17",
+        "nameEn": "Android 17",
+        "aliases": [
+          "سايبورغ 17"
+        ]
+      },
+      {
+        "id": "c127-d5",
+        "nameAr": "يامتشا",
+        "nameEn": "Yamcha",
+        "aliases": []
+      },
+      {
+        "id": "c127-d6",
+        "nameAr": "تين شينهان",
+        "nameEn": "Tien Shinhan",
+        "aliases": [
+          "Tien"
+        ]
+      },
+      {
+        "id": "c127-d7",
+        "nameAr": "المعلم روشي",
+        "nameEn": "Master Roshi",
+        "aliases": [
+          "Roshi",
+          "روشي"
+        ]
+      },
+      {
+        "id": "c127-d8",
+        "nameAr": "فيديل",
+        "nameEn": "Videl",
+        "aliases": []
+      },
+      {
+        "id": "c127-d9",
+        "nameAr": "غوتين",
+        "nameEn": "Son Goten",
+        "aliases": [
+          "Goten",
+          "جوتين"
+        ]
+      },
+      {
+        "id": "c127-d10",
+        "nameAr": "راديتز",
+        "nameEn": "Raditz",
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "title": "10 شخصيات من المحقق كونان",
+    "group": "كرتون وأفلام",
+    "icon": "🔍",
+    "domain": "anime-characters",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من شخصيات من المحقق كونان",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "ويكيبيديا — شخصيات Detective Conan",
+      "url": "https://en.wikipedia.org/wiki/List_of_Case_Closed_characters",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c128-a1",
+        "nameAr": "كونان إيدوغاوا",
+        "nameEn": "Conan Edogawa",
+        "aliases": [
+          "Conan",
+          "Shinichi Kudo",
+          "كونان",
+          "سينشي كودو",
+          "شينتشي كودو"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c128-a2",
+        "nameAr": "ران موري",
+        "nameEn": "Ran Mouri",
+        "aliases": [
+          "Ran Mori",
+          "Ran",
+          "Rachel Moore",
+          "ران"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c128-a3",
+        "nameAr": "كوغورو موري",
+        "nameEn": "Kogoro Mouri",
+        "aliases": [
+          "Kogoro Mori",
+          "Kogoro",
+          "كوغورو",
+          "توجو موري"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c128-a4",
+        "nameAr": "آي هايبرا",
+        "nameEn": "Ai Haibara",
+        "aliases": [
+          "Haibara",
+          "Shiho Miyano",
+          "هايبرا",
+          "هايبارا",
+          "شيري"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c128-a5",
+        "nameAr": "هيجي هاتوري",
+        "nameEn": "Heiji Hattori",
+        "aliases": [
+          "Heiji",
+          "هيجي",
+          "هيجى"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c128-a6",
+        "nameAr": "كايتو كيد",
+        "nameEn": "Kaito Kuroba",
+        "aliases": [
+          "Kaitou Kid",
+          "Kaito Kid",
+          "كايتو",
+          "اللص الطائر"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c128-a7",
+        "nameAr": "الدكتور أغاسا",
+        "nameEn": "Hiroshi Agasa",
+        "aliases": [
+          "Agasa",
+          "Professor Agasa",
+          "اغاسا",
+          "اجاسا"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c128-a8",
+        "nameAr": "أيومي يوشيدا",
+        "nameEn": "Ayumi Yoshida",
+        "aliases": [
+          "Ayumi",
+          "ايومي",
+          "ايومى"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c128-a9",
+        "nameAr": "ميتسوهيكو",
+        "nameEn": "Mitsuhiko Tsuburaya",
+        "aliases": [
+          "Mitsuhiko",
+          "ميتشوهيكو"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c128-a10",
+        "nameAr": "غينتا",
+        "nameEn": "Genta Kojima",
+        "aliases": [
+          "Genta",
+          "جينتا"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c128-d1",
+        "nameAr": "سونوكو سوزوكي",
+        "nameEn": "Sonoko Suzuki",
+        "aliases": [
+          "Sonoko",
+          "سونوكو"
+        ]
+      },
+      {
+        "id": "c128-d2",
+        "nameAr": "شويتشي أكاي",
+        "nameEn": "Shuichi Akai",
+        "aliases": [
+          "Akai",
+          "اكاي"
+        ]
+      },
+      {
+        "id": "c128-d3",
+        "nameAr": "ري فورويا",
+        "nameEn": "Rei Furuya",
+        "aliases": [
+          "Toru Amuro",
+          "Amuro",
+          "امورو"
+        ]
+      },
+      {
+        "id": "c128-d4",
+        "nameAr": "المفتش ميغوري",
+        "nameEn": "Juzo Megure",
+        "aliases": [
+          "Megure",
+          "ميغوري"
+        ]
+      },
+      {
+        "id": "c128-d5",
+        "nameAr": "ميواكو ساتو",
+        "nameEn": "Miwako Sato",
+        "aliases": [
+          "Sato",
+          "ساتو"
+        ]
+      },
+      {
+        "id": "c128-d6",
+        "nameAr": "واتارو تاكاغي",
+        "nameEn": "Wataru Takagi",
+        "aliases": [
+          "Takagi",
+          "تاكاغي"
+        ]
+      },
+      {
+        "id": "c128-d7",
+        "nameAr": "جين",
+        "nameEn": "Gin (Detective Conan)",
+        "aliases": [
+          "Gin",
+          "جن"
+        ]
+      },
+      {
+        "id": "c128-d8",
+        "nameAr": "فودكا",
+        "nameEn": "Vodka (Detective Conan)",
+        "aliases": [
+          "Vodka"
+        ]
+      },
+      {
+        "id": "c128-d9",
+        "nameAr": "فيرموث",
+        "nameEn": "Vermouth (Detective Conan)",
+        "aliases": [
+          "Vermouth"
+        ]
+      },
+      {
+        "id": "c128-d10",
+        "nameAr": "يوساكو كودو",
+        "nameEn": "Yusaku Kudo",
+        "aliases": [
+          "Yusaku",
+          "يوساكو"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "title": "10 شخصيات من قاتل الشياطين",
+    "group": "كرتون وأفلام",
+    "icon": "⚔️",
+    "domain": "anime-characters",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من شخصيات من قاتل الشياطين",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "ويكيبيديا — شخصيات Demon Slayer",
+      "url": "https://en.wikipedia.org/wiki/List_of_Demon_Slayer:_Kimetsu_no_Yaiba_characters",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c129-a1",
+        "nameAr": "تانجيرو كامادو",
+        "nameEn": "Tanjiro Kamado",
+        "aliases": [
+          "Tanjiro",
+          "تانجيرو",
+          "تانغيرو"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c129-a2",
+        "nameAr": "نيزوكو كامادو",
+        "nameEn": "Nezuko Kamado",
+        "aliases": [
+          "Nezuko",
+          "نيزوكو",
+          "نيزكو"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c129-a3",
+        "nameAr": "زينيتسو أغاتسوما",
+        "nameEn": "Zenitsu Agatsuma",
+        "aliases": [
+          "Zenitsu",
+          "زينيتسو",
+          "زينتسو"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c129-a4",
+        "nameAr": "إينوسكي هاشيبيرا",
+        "nameEn": "Inosuke Hashibira",
+        "aliases": [
+          "Inosuke",
+          "اينوسكي"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c129-a5",
+        "nameAr": "غيو توميوكا",
+        "nameEn": "Giyu Tomioka",
+        "aliases": [
+          "Giyu",
+          "Giyuu",
+          "غيو",
+          "توميوكا"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c129-a6",
+        "nameAr": "شينوبو كوتشو",
+        "nameEn": "Shinobu Kocho",
+        "aliases": [
+          "Shinobu",
+          "شينوبو"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c129-a7",
+        "nameAr": "كيوجورو رينغوكو",
+        "nameEn": "Kyojuro Rengoku",
+        "aliases": [
+          "Rengoku",
+          "رينغوكو",
+          "رينجوكو"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c129-a8",
+        "nameAr": "تينغن أوزوي",
+        "nameEn": "Tengen Uzui",
+        "aliases": [
+          "Tengen",
+          "Uzui",
+          "تينغن",
+          "تينجن",
+          "اوزوي"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c129-a9",
+        "nameAr": "ميتسوري كانروجي",
+        "nameEn": "Mitsuri Kanroji",
+        "aliases": [
+          "Mitsuri",
+          "ميتسوري"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c129-a10",
+        "nameAr": "موزان كيبوتسوجي",
+        "nameEn": "Muzan Kibutsuji",
+        "aliases": [
+          "Muzan",
+          "موزان"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c129-d1",
+        "nameAr": "مويتشيرو توكيتو",
+        "nameEn": "Muichiro Tokito",
+        "aliases": [
+          "Muichiro",
+          "مويتشيرو"
+        ]
+      },
+      {
+        "id": "c129-d2",
+        "nameAr": "غيومي هيميجيما",
+        "nameEn": "Gyomei Himejima",
+        "aliases": [
+          "Gyomei",
+          "غيومي"
+        ]
+      },
+      {
+        "id": "c129-d3",
+        "nameAr": "سانيمي شينازوغاوا",
+        "nameEn": "Sanemi Shinazugawa",
+        "aliases": [
+          "Sanemi",
+          "سانيمي"
+        ]
+      },
+      {
+        "id": "c129-d4",
+        "nameAr": "أوباناي إيغورو",
+        "nameEn": "Obanai Iguro",
+        "aliases": [
+          "Obanai",
+          "اوباناي"
+        ]
+      },
+      {
+        "id": "c129-d5",
+        "nameAr": "كاناو تسويوري",
+        "nameEn": "Kanao Tsuyuri",
+        "aliases": [
+          "Kanao",
+          "كاناو"
+        ]
+      },
+      {
+        "id": "c129-d6",
+        "nameAr": "أكازا",
+        "nameEn": "Akaza",
+        "aliases": [
+          "اكازا"
+        ]
+      },
+      {
+        "id": "c129-d7",
+        "nameAr": "دوما",
+        "nameEn": "Doma",
+        "aliases": [
+          "Douma"
+        ]
+      },
+      {
+        "id": "c129-d8",
+        "nameAr": "كوكوشيبو",
+        "nameEn": "Kokushibo",
+        "aliases": []
+      },
+      {
+        "id": "c129-d9",
+        "nameAr": "داكي",
+        "nameEn": "Daki",
+        "aliases": []
+      },
+      {
+        "id": "c129-d10",
+        "nameAr": "غيوتارو",
+        "nameEn": "Gyutaro",
+        "aliases": [
+          "جيوتارو"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "title": "10 شخصيات من سبونج بوب",
+    "group": "كرتون وأفلام",
+    "icon": "🧽",
+    "domain": "spongebob-characters",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من شخصيات من سبونج بوب",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "ويكيبيديا — شخصيات SpongeBob SquarePants",
+      "url": "https://en.wikipedia.org/wiki/List_of_SpongeBob_SquarePants_characters",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c130-a1",
+        "nameAr": "سبونج بوب",
+        "nameEn": "SpongeBob SquarePants",
+        "aliases": [
+          "سبونجبوب",
+          "سبونج بوب سكوير بانتس"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c130-a2",
+        "nameAr": "بسيط",
+        "nameEn": "Patrick Star",
+        "aliases": [
+          "Patrick",
+          "باتريك",
+          "باتريك ستار"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c130-a3",
+        "nameAr": "شفيق",
+        "nameEn": "Squidward Tentacles",
+        "aliases": [
+          "Squidward",
+          "سكويـدورد",
+          "سكويرد"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c130-a4",
+        "nameAr": "مستر سلطع",
+        "nameEn": "Mr. Krabs",
+        "aliases": [
+          "Eugene Krabs",
+          "Mr Krabs",
+          "مستر كرابز",
+          "سلطع"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c130-a5",
+        "nameAr": "ساندي",
+        "nameEn": "Sandy Cheeks",
+        "aliases": [
+          "Sandy",
+          "ساندي تشيكس",
+          "ساندى"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c130-a6",
+        "nameAr": "شمشون",
+        "nameEn": "Sheldon J. Plankton",
+        "aliases": [
+          "Plankton",
+          "بلانكتون",
+          "بلانكتن"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c130-a7",
+        "nameAr": "سريع",
+        "nameEn": "Gary the Snail",
+        "aliases": [
+          "Gary",
+          "غاري",
+          "جاري",
+          "الحلزون سريع"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c130-a8",
+        "nameAr": "مدام نفيخة",
+        "nameEn": "Mrs. Puff",
+        "aliases": [
+          "Mrs Puff",
+          "مسز باف",
+          "السيدة باف",
+          "نفيخة"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c130-a9",
+        "nameAr": "لؤلؤة",
+        "nameEn": "Pearl Krabs",
+        "aliases": [
+          "Pearl",
+          "بيرل",
+          "لؤلؤه"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c130-a10",
+        "nameAr": "كارين",
+        "nameEn": "Karen Plankton",
+        "aliases": [
+          "Karen",
+          "كارن"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c130-d1",
+        "nameAr": "لاري لوبستر",
+        "nameEn": "Larry the Lobster",
+        "aliases": [
+          "Larry",
+          "لاري"
+        ]
+      },
+      {
+        "id": "c130-d2",
+        "nameAr": "الرجل الحورية",
+        "nameEn": "Mermaid Man",
+        "aliases": []
+      },
+      {
+        "id": "c130-d3",
+        "nameAr": "فتى البرنقيل",
+        "nameEn": "Barnacle Boy",
+        "aliases": []
+      },
+      {
+        "id": "c130-d4",
+        "nameAr": "الهولندي الطائر",
+        "nameEn": "The Flying Dutchman",
+        "aliases": []
+      },
+      {
+        "id": "c130-d5",
+        "nameAr": "باتشي القرصان",
+        "nameEn": "Patchy the Pirate",
+        "aliases": [
+          "Patchy"
+        ]
+      },
+      {
+        "id": "c130-d6",
+        "nameAr": "بوتي الببغاء",
+        "nameEn": "Potty the Parrot",
+        "aliases": [
+          "Potty"
+        ]
+      },
+      {
+        "id": "c130-d7",
+        "nameAr": "مان راي",
+        "nameEn": "Man Ray",
+        "aliases": []
+      },
+      {
+        "id": "c130-d8",
+        "nameAr": "بابل باس",
+        "nameEn": "Bubble Bass",
+        "aliases": []
+      },
+      {
+        "id": "c130-d9",
+        "nameAr": "العجوز جنكينز",
+        "nameEn": "Old Man Jenkins",
+        "aliases": []
+      },
+      {
+        "id": "c130-d10",
+        "nameAr": "الملك نبتون",
+        "nameEn": "King Neptune",
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "title": "10 شخصيات من هاري بوتر",
+    "group": "كرتون وأفلام",
+    "icon": "🪄",
+    "domain": "harry-potter-characters",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من شخصيات من هاري بوتر",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "Harry Potter — Official Fact Files",
+      "url": "https://www.harrypotter.com/fact-file",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c131-a1",
+        "nameAr": "هاري بوتر",
+        "nameEn": "Harry Potter",
+        "aliases": [
+          "هارى بوتر"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c131-a2",
+        "nameAr": "هيرميون غرينجر",
+        "nameEn": "Hermione Granger",
+        "aliases": [
+          "Hermione",
+          "هيرمايني",
+          "هرمايني",
+          "هيرميوني"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c131-a3",
+        "nameAr": "رون ويزلي",
+        "nameEn": "Ron Weasley",
+        "aliases": [
+          "Ron",
+          "رون",
+          "رون ويزلى"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c131-a4",
+        "nameAr": "ألباس دمبلدور",
+        "nameEn": "Albus Dumbledore",
+        "aliases": [
+          "Dumbledore",
+          "دمبلدور",
+          "ألبوس دمبلدور"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c131-a5",
+        "nameAr": "سيفروس سنيب",
+        "nameEn": "Severus Snape",
+        "aliases": [
+          "Snape",
+          "سنيب",
+          "سيفيروس سنيب"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c131-a6",
+        "nameAr": "روبيوس هاغريد",
+        "nameEn": "Rubeus Hagrid",
+        "aliases": [
+          "Hagrid",
+          "هاغريد",
+          "هاغرد",
+          "هاجريد"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c131-a7",
+        "nameAr": "اللورد فولدمورت",
+        "nameEn": "Lord Voldemort",
+        "aliases": [
+          "Voldemort",
+          "Tom Riddle",
+          "فولدمورت",
+          "توم ريدل"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c131-a8",
+        "nameAr": "دراكو مالفوي",
+        "nameEn": "Draco Malfoy",
+        "aliases": [
+          "Draco",
+          "دراكو",
+          "دراكو مالفوى"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c131-a9",
+        "nameAr": "سيريوس بلاك",
+        "nameEn": "Sirius Black",
+        "aliases": [
+          "Sirius",
+          "سيريوس",
+          "سيروس بلاك"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c131-a10",
+        "nameAr": "دوبي",
+        "nameEn": "Dobby",
+        "aliases": [
+          "دوبى"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c131-d1",
+        "nameAr": "لونا لوفغود",
+        "nameEn": "Luna Lovegood",
+        "aliases": [
+          "Luna",
+          "لونا"
+        ]
+      },
+      {
+        "id": "c131-d2",
+        "nameAr": "نيفيل لونغبوتوم",
+        "nameEn": "Neville Longbottom",
+        "aliases": [
+          "Neville",
+          "نيفيل"
+        ]
+      },
+      {
+        "id": "c131-d3",
+        "nameAr": "جيني ويزلي",
+        "nameEn": "Ginny Weasley",
+        "aliases": [
+          "Ginny",
+          "جيني"
+        ]
+      },
+      {
+        "id": "c131-d4",
+        "nameAr": "فريد ويزلي",
+        "nameEn": "Fred Weasley",
+        "aliases": [
+          "Fred",
+          "فريد"
+        ]
+      },
+      {
+        "id": "c131-d5",
+        "nameAr": "جورج ويزلي",
+        "nameEn": "George Weasley",
+        "aliases": [
+          "George",
+          "جورج"
+        ]
+      },
+      {
+        "id": "c131-d6",
+        "nameAr": "مينيرفا ماكغوناغال",
+        "nameEn": "Minerva McGonagall",
+        "aliases": [
+          "McGonagall"
+        ]
+      },
+      {
+        "id": "c131-d7",
+        "nameAr": "بيلاتريكس ليسترانج",
+        "nameEn": "Bellatrix Lestrange",
+        "aliases": [
+          "Bellatrix",
+          "بيلاتريكس"
+        ]
+      },
+      {
+        "id": "c131-d8",
+        "nameAr": "ريموس لوبين",
+        "nameEn": "Remus Lupin",
+        "aliases": [
+          "Lupin",
+          "لوبين"
+        ]
+      },
+      {
+        "id": "c131-d9",
+        "nameAr": "دولوريس أمبريدج",
+        "nameEn": "Dolores Umbridge",
+        "aliases": [
+          "Umbridge",
+          "امبريدج"
+        ]
+      },
+      {
+        "id": "c131-d10",
+        "nameAr": "سيدريك ديغوري",
+        "nameEn": "Cedric Diggory",
+        "aliases": [
+          "Cedric",
+          "سيدريك"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "title": "10 أبطال سينمائيين في الأكشن والمغامرات",
+    "group": "كرتون وأفلام",
+    "icon": "🎬",
+    "domain": "movie-characters",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من أبطال سينمائيين في الأكشن والمغامرات",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "American Film Institute — Heroes & Villains",
+      "url": "https://www.afi.com/afis-100-years-100-heroes-villians/",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c132-a1",
+        "nameAr": "إنديانا جونز",
+        "nameEn": "Indiana Jones",
+        "aliases": [
+          "Indiana",
+          "انديانا جونز",
+          "إندي"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c132-a2",
+        "nameAr": "جيمس بوند",
+        "nameEn": "James Bond",
+        "aliases": [
+          "Bond",
+          "007",
+          "بوند"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c132-a3",
+        "nameAr": "إلين ريبلي",
+        "nameEn": "Ellen Ripley",
+        "aliases": [
+          "Ripley",
+          "ريبلي",
+          "ايلين ريبلي"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c132-a4",
+        "nameAr": "لوك سكاي ووكر",
+        "nameEn": "Luke Skywalker",
+        "aliases": [
+          "Luke",
+          "لوك"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c132-a5",
+        "nameAr": "هان سولو",
+        "nameEn": "Han Solo",
+        "aliases": [
+          "هانس سولو"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c132-a6",
+        "nameAr": "روبن هود",
+        "nameEn": "Robin Hood",
+        "aliases": [],
+        "rank": 6
+      },
+      {
+        "id": "c132-a7",
+        "nameAr": "هاري كالاهان",
+        "nameEn": "Harry Callahan",
+        "aliases": [
+          "Dirty Harry",
+          "هاري القذر",
+          "ديرتي هاري"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c132-a8",
+        "nameAr": "سوبرمان",
+        "nameEn": "Superman (Clark Kent)",
+        "aliases": [
+          "Superman",
+          "Clark Kent",
+          "كلارك كينت"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c132-a9",
+        "nameAr": "باتمان",
+        "nameEn": "Batman (Bruce Wayne)",
+        "aliases": [
+          "Batman",
+          "Bruce Wayne",
+          "بروس واين"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c132-a10",
+        "nameAr": "تيرميناتور",
+        "nameEn": "T-800 (The Terminator)",
+        "aliases": [
+          "The Terminator",
+          "T800",
+          "T 800",
+          "ترميناتور",
+          "المدمر"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c132-d1",
+        "nameAr": "أتيكوس فينش",
+        "nameEn": "Atticus Finch",
+        "aliases": []
+      },
+      {
+        "id": "c132-d2",
+        "nameAr": "كلاريس ستارلينغ",
+        "nameEn": "Clarice Starling",
+        "aliases": []
+      },
+      {
+        "id": "c132-d3",
+        "nameAr": "ريك بلين",
+        "nameEn": "Rick Blaine",
+        "aliases": []
+      },
+      {
+        "id": "c132-d4",
+        "nameAr": "جورج بيلي",
+        "nameEn": "George Bailey",
+        "aliases": []
+      },
+      {
+        "id": "c132-d5",
+        "nameAr": "روكي بالبوا",
+        "nameEn": "Rocky Balboa",
+        "aliases": [
+          "Rocky",
+          "روكي"
+        ]
+      },
+      {
+        "id": "c132-d6",
+        "nameAr": "مارج غاندرسون",
+        "nameEn": "Marge Gunderson",
+        "aliases": []
+      },
+      {
+        "id": "c132-d7",
+        "nameAr": "نورما راي",
+        "nameEn": "Norma Rae Webster",
+        "aliases": []
+      },
+      {
+        "id": "c132-d8",
+        "nameAr": "ويل كين",
+        "nameEn": "Will Kane",
+        "aliases": []
+      },
+      {
+        "id": "c132-d9",
+        "nameAr": "أوسكار شندلر",
+        "nameEn": "Oskar Schindler",
+        "aliases": []
+      },
+      {
+        "id": "c132-d10",
+        "nameAr": "فرانك سيربيكو",
+        "nameEn": "Frank Serpico",
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "title": "10 أفلام أنيميشن من ذكريات الطفولة",
+    "group": "كرتون وأفلام",
+    "icon": "🍿",
+    "domain": "films",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "أفلام مألوفة من DreamWorks وBlue Sky وIllumination وSony؛ نطاق هذا التحدي خارج إنتاج Pixar وWalt Disney Animation.",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "ويكيبيديا — أفلام الرسوم المتحركة بالحاسوب",
+      "url": "https://en.wikipedia.org/wiki/List_of_computer-animated_films",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c133-a1",
+        "nameAr": "شريك",
+        "nameEn": "Shrek",
+        "aliases": [
+          "Shrek 1",
+          "شريك 1",
+          "Shrek"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c133-a2",
+        "nameAr": "مدغشقر",
+        "nameEn": "Madagascar (2005)",
+        "aliases": [
+          "Madagascar 2005",
+          "مدغشقر 1"
+        ],
+        "rank": 2,
+        "series": "Madagascar",
+        "part": "1",
+        "year": "2005"
+      },
+      {
+        "id": "c133-a3",
+        "nameAr": "كونغ فو باندا",
+        "nameEn": "Kung Fu Panda",
+        "aliases": [
+          "Kung Fu Panda 1",
+          "كونج فو باندا",
+          "كونغ فو باندا 1"
+        ],
+        "rank": 3,
+        "series": "Kung Fu Panda",
+        "part": "1"
+      },
+      {
+        "id": "c133-a4",
+        "nameAr": "كيف تروض تنينك",
+        "nameEn": "How to Train Your Dragon (2010)",
+        "aliases": [
+          "How to Train Your Dragon 2010",
+          "تدريب التنين",
+          "كيف تدرب تنينك"
+        ],
+        "rank": 4,
+        "series": "How to Train Your Dragon",
+        "part": "1",
+        "year": "2010"
+      },
+      {
+        "id": "c133-a5",
+        "nameAr": "العصر الجليدي",
+        "nameEn": "Ice Age",
+        "aliases": [
+          "Ice Age 1",
+          "ايس ايج",
+          "ايس إيج"
+        ],
+        "rank": 5,
+        "series": "Ice Age",
+        "part": "1"
+      },
+      {
+        "id": "c133-a6",
+        "nameAr": "ريو",
+        "nameEn": "Rio (2011)",
+        "aliases": [
+          "Rio 2011",
+          "ريو 1"
+        ],
+        "rank": 6,
+        "series": "Rio",
+        "part": "1",
+        "year": "2011"
+      },
+      {
+        "id": "c133-a7",
+        "nameAr": "أنا الحقير",
+        "nameEn": "Despicable Me",
+        "aliases": [
+          "Despicable Me 1",
+          "انا الحقير 1",
+          "ديسبيكابل مي",
+          "Despicable Me"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c133-a8",
+        "nameAr": "المينيونز",
+        "nameEn": "Minions",
+        "aliases": [
+          "Minions 2015",
+          "مينيونز",
+          "مينيون",
+          "Minions (2015)"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c133-a9",
+        "nameAr": "فندق ترانسلفانيا",
+        "nameEn": "Hotel Transylvania",
+        "aliases": [
+          "Hotel Transylvania 1",
+          "هوتيل ترانسلفانيا"
+        ],
+        "rank": 9,
+        "series": "Hotel Transylvania",
+        "part": "1"
+      },
+      {
+        "id": "c133-a10",
+        "nameAr": "عائلة كرودز",
+        "nameEn": "The Croods",
+        "aliases": [
+          "Croods",
+          "ذا كرودز",
+          "الكروودز"
+        ],
+        "rank": 10,
+        "series": "The Croods",
+        "part": "1"
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c133-d1",
+        "nameAr": "ميغاماند",
+        "nameEn": "Megamind",
+        "aliases": [
+          "ميجامايند"
+        ]
+      },
+      {
+        "id": "c133-d2",
+        "nameAr": "القط ذو الحذاء",
+        "nameEn": "Puss in Boots (2011)",
+        "aliases": [
+          "Puss in Boots 2011"
+        ]
+      },
+      {
+        "id": "c133-d3",
+        "nameAr": "وحوش ضد فضائيين",
+        "nameEn": "Monsters vs. Aliens",
+        "aliases": []
+      },
+      {
+        "id": "c133-d4",
+        "nameAr": "فوق السياج",
+        "nameEn": "Over the Hedge",
+        "aliases": []
+      },
+      {
+        "id": "c133-d5",
+        "nameAr": "فيلم النحلة",
+        "nameEn": "Bee Movie",
+        "aliases": []
+      },
+      {
+        "id": "c133-d6",
+        "nameAr": "بعيدًا عن المنزل",
+        "nameEn": "Flushed Away",
+        "aliases": []
+      },
+      {
+        "id": "c133-d7",
+        "nameAr": "تيربو",
+        "nameEn": "Turbo",
+        "aliases": []
+      },
+      {
+        "id": "c133-d8",
+        "nameAr": "الطفل الرئيس",
+        "nameEn": "The Boss Baby",
+        "aliases": [
+          "Boss Baby"
+        ]
+      },
+      {
+        "id": "c133-d9",
+        "nameAr": "الحياة السرية للحيوانات الأليفة",
+        "nameEn": "The Secret Life of Pets",
+        "aliases": []
+      },
+      {
+        "id": "c133-d10",
+        "nameAr": "الغناء",
+        "nameEn": "Sing (2016)",
+        "aliases": [
+          "Sing 2016"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "title": "10 حيوانات كرتونية من لوني تيونز",
+    "group": "كرتون وأفلام",
+    "icon": "🐰",
+    "domain": "looney-tunes-characters",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من حيوانات كرتونية من لوني تيونز",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "ويكيبيديا — شخصيات Looney Tunes",
+      "url": "https://en.wikipedia.org/wiki/List_of_Looney_Tunes_and_Merrie_Melodies_characters",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c134-a1",
+        "nameAr": "باغز باني",
+        "nameEn": "Bugs Bunny",
+        "aliases": [
+          "Bugs",
+          "باجز باني",
+          "باغز باني"
+        ],
+        "rank": 1
+      },
+      {
+        "id": "c134-a2",
+        "nameAr": "دافي داك",
+        "nameEn": "Daffy Duck",
+        "aliases": [
+          "Daffy",
+          "دافي",
+          "دافي دك"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c134-a3",
+        "nameAr": "تويتي",
+        "nameEn": "Tweety",
+        "aliases": [
+          "Tweety Bird",
+          "تويتى"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c134-a4",
+        "nameAr": "سيلفستر",
+        "nameEn": "Sylvester the Cat",
+        "aliases": [
+          "Sylvester",
+          "سلفستر",
+          "سيلفستر القط"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c134-a5",
+        "nameAr": "بوركي بيغ",
+        "nameEn": "Porky Pig",
+        "aliases": [
+          "Porky",
+          "بوركي",
+          "بوركى"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c134-a6",
+        "nameAr": "لولا باني",
+        "nameEn": "Lola Bunny",
+        "aliases": [
+          "Lola",
+          "لولا"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c134-a7",
+        "nameAr": "تاز",
+        "nameEn": "Tasmanian Devil (Looney Tunes)",
+        "aliases": [
+          "Taz",
+          "Tasmanian Devil",
+          "الشيطان التسماني",
+          "تازمانيان ديفل"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c134-a8",
+        "nameAr": "رود رانر",
+        "nameEn": "Road Runner (Looney Tunes)",
+        "aliases": [
+          "Road Runner",
+          "Beep Beep",
+          "بيب بيب",
+          "العداء السريع"
+        ],
+        "rank": 8
+      },
+      {
+        "id": "c134-a9",
+        "nameAr": "وايل إي كايوتي",
+        "nameEn": "Wile E. Coyote",
+        "aliases": [
+          "Wile E Coyote",
+          "Coyote",
+          "كايوتي",
+          "الذئب"
+        ],
+        "rank": 9
+      },
+      {
+        "id": "c134-a10",
+        "nameAr": "سبيدي غونزاليس",
+        "nameEn": "Speedy Gonzales",
+        "aliases": [
+          "Speedy",
+          "سبيدي",
+          "سبيدي جونزاليس"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c134-d1",
+        "nameAr": "فوغهورن ليغهورن",
+        "nameEn": "Foghorn Leghorn",
+        "aliases": [
+          "Foghorn",
+          "الديك فصيح"
+        ]
+      },
+      {
+        "id": "c134-d2",
+        "nameAr": "هنري هوك",
+        "nameEn": "Henery Hawk",
+        "aliases": []
+      },
+      {
+        "id": "c134-d3",
+        "nameAr": "بيبي لو بيو",
+        "nameEn": "Pepé Le Pew",
+        "aliases": [
+          "Pepe Le Pew"
+        ]
+      },
+      {
+        "id": "c134-d4",
+        "nameAr": "غوسامر",
+        "nameEn": "Gossamer",
+        "aliases": []
+      },
+      {
+        "id": "c134-d5",
+        "nameAr": "الجدة",
+        "nameEn": "Granny (Looney Tunes)",
+        "aliases": [
+          "Granny"
+        ]
+      },
+      {
+        "id": "c134-d6",
+        "nameAr": "إلمر فاد",
+        "nameEn": "Elmer Fudd",
+        "aliases": [
+          "Elmer Fudd",
+          "المار فاد"
+        ]
+      },
+      {
+        "id": "c134-d7",
+        "nameAr": "يوسيميتي سام",
+        "nameEn": "Yosemite Sam",
+        "aliases": [
+          "Yosemite Sam"
+        ]
+      },
+      {
+        "id": "c134-d8",
+        "nameAr": "مارفن المريخي",
+        "nameEn": "Marvin the Martian",
+        "aliases": [
+          "Marvin"
+        ]
+      },
+      {
+        "id": "c134-d9",
+        "nameAr": "ميشيغان الضفدع",
+        "nameEn": "Michigan J. Frog",
+        "aliases": []
+      },
+      {
+        "id": "c134-d10",
+        "nameAr": "رالف الذئب",
+        "nameEn": "Ralph Wolf",
+        "aliases": []
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "title": "10 شركات وناشرين في عالم الألعاب",
+    "group": "ألعاب وشخصيات",
+    "icon": "🏢",
+    "domain": "game-companies",
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "description": "تحدٍّ سهل بأسماء مألوفة من شركات وناشرين في عالم الألعاب",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها.",
+    "source": {
+      "title": "ويكيبيديا — ناشرو ألعاب الفيديو",
+      "url": "https://en.wikipedia.org/wiki/List_of_video_game_publishers",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "c135-a1",
+        "nameAr": "نينتندو",
+        "nameEn": "Nintendo",
+        "aliases": [],
+        "rank": 1
+      },
+      {
+        "id": "c135-a2",
+        "nameAr": "سوني إنتراكتيف إنترتينمنت",
+        "nameEn": "Sony Interactive Entertainment",
+        "aliases": [
+          "PlayStation Studios",
+          "SIE",
+          "سوني",
+          "بلايستيشن"
+        ],
+        "rank": 2
+      },
+      {
+        "id": "c135-a3",
+        "nameAr": "إكس بوكس غيم ستوديوز",
+        "nameEn": "Xbox Game Studios",
+        "aliases": [
+          "Microsoft Studios",
+          "Microsoft Game Studios",
+          "اكس بوكس",
+          "Xbox"
+        ],
+        "rank": 3
+      },
+      {
+        "id": "c135-a4",
+        "nameAr": "سيغا",
+        "nameEn": "Sega",
+        "aliases": [
+          "SEGA",
+          "سيجا"
+        ],
+        "rank": 4
+      },
+      {
+        "id": "c135-a5",
+        "nameAr": "إلكترونيك آرتس",
+        "nameEn": "Electronic Arts",
+        "aliases": [
+          "EA",
+          "إي إيه",
+          "اي ايه"
+        ],
+        "rank": 5
+      },
+      {
+        "id": "c135-a6",
+        "nameAr": "يوبيسوفت",
+        "nameEn": "Ubisoft",
+        "aliases": [
+          "يوبي سوفت",
+          "يوبيسفت"
+        ],
+        "rank": 6
+      },
+      {
+        "id": "c135-a7",
+        "nameAr": "روكستار غيمز",
+        "nameEn": "Rockstar Games",
+        "aliases": [
+          "Rockstar",
+          "روكستار"
+        ],
+        "rank": 7
+      },
+      {
+        "id": "c135-a8",
+        "nameAr": "كابكوم",
+        "nameEn": "Capcom",
+        "aliases": [],
+        "rank": 8
+      },
+      {
+        "id": "c135-a9",
+        "nameAr": "كونامي",
+        "nameEn": "Konami",
+        "aliases": [],
+        "rank": 9
+      },
+      {
+        "id": "c135-a10",
+        "nameAr": "بانداي نامكو",
+        "nameEn": "Bandai Namco Entertainment",
+        "aliases": [
+          "Bandai Namco",
+          "باندي نامكو",
+          "بنداي نامكو"
+        ],
+        "rank": 10
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c135-d1",
+        "nameAr": "سكوير إنيكس",
+        "nameEn": "Square Enix",
+        "aliases": [
+          "سكوير انكس"
+        ]
+      },
+      {
+        "id": "c135-d2",
+        "nameAr": "بيثيسدا",
+        "nameEn": "Bethesda Softworks",
+        "aliases": [
+          "Bethesda",
+          "بيثسدا"
+        ]
+      },
+      {
+        "id": "c135-d3",
+        "nameAr": "أكتيفيجن",
+        "nameEn": "Activision",
+        "aliases": [
+          "اكتفجن"
+        ]
+      },
+      {
+        "id": "c135-d4",
+        "nameAr": "بليزارد",
+        "nameEn": "Blizzard Entertainment",
+        "aliases": [
+          "Blizzard"
+        ]
+      },
+      {
+        "id": "c135-d5",
+        "nameAr": "تنسنت",
+        "nameEn": "Tencent Games",
+        "aliases": [
+          "Tencent"
+        ]
+      },
+      {
+        "id": "c135-d6",
+        "nameAr": "نت إيز",
+        "nameEn": "NetEase Games",
+        "aliases": [
+          "NetEase"
+        ]
+      },
+      {
+        "id": "c135-d7",
+        "nameAr": "تي إتش كيو نورديك",
+        "nameEn": "THQ Nordic",
+        "aliases": []
+      },
+      {
+        "id": "c135-d8",
+        "nameAr": "ديفولفر ديجيتال",
+        "nameEn": "Devolver Digital",
+        "aliases": []
+      },
+      {
+        "id": "c135-d9",
+        "nameAr": "505 غيمز",
+        "nameEn": "505 Games",
+        "aliases": []
+      },
+      {
+        "id": "c135-d10",
+        "nameAr": "فوكس إنترتينمنت",
+        "nameEn": "Focus Entertainment",
+        "aliases": []
+      }
+    ]
+  }
+]

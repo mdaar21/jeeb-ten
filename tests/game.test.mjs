@@ -5,8 +5,8 @@ import { createGame, makeAttempt, publicGame, getResults, resolveAnswer, normali
 const catalog=JSON.parse(fs.readFileSync(new URL('../data/catalog.json',import.meta.url),'utf8'));
 const category=id=>catalog.find(c=>c.id===id);
 
-test('100 complete sourced categories and 1000 ranked answers',()=>{
-  assert.equal(catalog.length,100);assert.equal(new Set(catalog.map(c=>c.id)).size,100);
+test('200 categories and 2000 ranked answers',()=>{
+  assert.equal(catalog.length,200);assert.equal(new Set(catalog.map(c=>c.id)).size,200);
   for(const c of catalog){assert.equal(c.answers.length,10);assert.deepEqual(c.answers.map(a=>a.rank).sort((a,b)=>a-b),[1,2,3,4,5,6,7,8,9,10]);assert.ok(c.source.url.startsWith('https://'));assert.ok(c.source.asOf);}
 });
 test('Arabic normalization and numeric parts retain identity',()=>{
@@ -43,8 +43,8 @@ test('all ten correct completes solo',()=>{
   for(const a of c.answers)makeAttempt(g,c,catalog,0,a.nameEn);
   assert.equal(g.found.length,10);assert.equal(g.status,'finished');assert.equal(g.players[0].errors,0);assert.equal(getResults(g).won,true);
 });
-test('duel rank9=9, rank1=1, hidden until end; alternation and free repeat',()=>{
-  const c=category(47),g=createGame('ABC123',47,'local',['أول','ثاني']);g.current=0;
+test('teams rank9=9, rank1=1, hidden until end; alternation and free repeat',()=>{
+  const c=category(47),g=createGame('ABC123',47,'teams',['أول','ثاني']);g.current=0;
   makeAttempt(g,c,catalog,0,c.answers.find(a=>a.rank===9).nameEn);assert.equal(g.current,1);
   makeAttempt(g,c,catalog,1,c.answers.find(a=>a.rank===1).nameEn);assert.equal(g.current,0);
   assert.equal(publicGame(g,c,0,2).results,null);
@@ -64,7 +64,7 @@ test('every ranked English name is identifiable or genuinely ambiguous',()=>{
   for(const c of catalog)for(const a of c.answers){const m=resolveAnswer(a.nameEn,c,catalog);if(m.kind==='unknown'||m.kind==='suggest')failed.push(`${c.id}: ${a.nameEn} => ${m.kind}`);else if(m.kind==='exact'&&key(m.entity)!==key(a))failed.push(`${c.id}: mismatched ${a.nameEn}`);}
   assert.deepEqual(failed,[]);
 });
-test('all 1000 answers can be reached with an explicit accepted name',()=>{
+test('all 2000 answers can be reached with an explicit accepted name',()=>{
   const failed=[];
   for(const c of catalog)for(const a of c.answers){
     const queries=[a.nameEn,a.nameAr,...a.aliases,`${a.series||a.nameEn} ${a.part||a.year||''}`,`${a.nameAr} ${a.part||a.year||''}`];
@@ -72,4 +72,21 @@ test('all 1000 answers can be reached with an explicit accepted name',()=>{
     if(!reachable)failed.push(`${c.id}: ${a.nameEn}`);
   }
   assert.deepEqual(failed,[]);
+});
+
+test('team members rotate after resolved turns; clarification and repeats are free',()=>{
+  const c=category(9),g=createGame('ABC123',9,'teams',['الصقور','النجوم'],[['أحمد','علي','عمر'],['سارة','هدى']]);g.current=0;
+  makeAttempt(g,c,catalog,0,'GTA');assert.equal(g.players[0].turns,0);assert.equal(g.current,0);
+  makeAttempt(g,c,catalog,0,'5');assert.equal(g.found[0].member,'أحمد');assert.equal(g.players[0].turns,1);assert.equal(g.current,1);
+  makeAttempt(g,c,catalog,1,'Minecraft');assert.equal(g.found[1].member,'سارة');assert.equal(g.current,0);
+  let out=publicGame(g,c,0,2);assert.equal(out.players[0].activeMember,'علي');assert.equal(out.players[1].activeMember,'هدى');
+  makeAttempt(g,c,catalog,0,'GTA 5');assert.equal(g.players[0].turns,1);assert.equal(g.current,0);
+  makeAttempt(g,c,catalog,0,'zzzzzzzz');assert.equal(g.players[0].turns,2);assert.equal(g.players[0].errors,1);assert.equal(g.current,1);
+  out=publicGame(g,c,0,3);assert.equal(out.players[0].activeMember,'عمر');assert.equal(out.results,null);
+});
+test('location clarification accepts a city reply without losing a guess',()=>{
+  const c=category(195),target=c.answers.find(a=>a.series==='Disneyland'&&a.part==='Paris');assert.ok(target);
+  const g=createGame('ABC123',195,'solo',[]);
+  makeAttempt(g,c,catalog,0,'Disneyland');assert.equal(g.notice.kind,'clarify');assert.equal(g.players[0].errors,0);
+  makeAttempt(g,c,catalog,0,'Paris');assert.equal(g.notice.kind,'correct');assert.equal(g.found[0].rank,target.rank);assert.equal(g.players[0].errors,0);
 });

@@ -1,0 +1,5308 @@
+[
+  {
+    "id": 171,
+    "title": "سلاسل مطاعم سريعة مشهورة",
+    "group": "أكل ومشروبات",
+    "icon": "🍽️",
+    "description": "تحدّي سهل من أسماء مألوفة. ",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. ",
+    "source": {
+      "title": "ويكيبيديا",
+      "url": "https://en.wikipedia.org/wiki/List_of_fast-food_restaurant_chains",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "restaurants",
+    "answers": [
+      {
+        "id": "c171-a1",
+        "rank": 1,
+        "nameAr": "ماكدونالدز",
+        "nameEn": "McDonald's",
+        "aliases": [
+          "ماكدونالدز",
+          "McDonald's",
+          "ماك",
+          "مكدونالدز",
+          "McDonalds"
+        ]
+      },
+      {
+        "id": "c171-a2",
+        "rank": 2,
+        "nameAr": "كنتاكي",
+        "nameEn": "KFC",
+        "aliases": [
+          "كنتاكي",
+          "KFC",
+          "Kentucky Fried Chicken",
+          "كي اف سي"
+        ]
+      },
+      {
+        "id": "c171-a3",
+        "rank": 3,
+        "nameAr": "برغر كينغ",
+        "nameEn": "Burger King",
+        "aliases": [
+          "برغر كينغ",
+          "Burger King",
+          "برجر كنج",
+          "برجر كينج"
+        ]
+      },
+      {
+        "id": "c171-a4",
+        "rank": 4,
+        "nameAr": "صب واي",
+        "nameEn": "Subway",
+        "aliases": [
+          "صب واي",
+          "Subway",
+          "سب واي"
+        ]
+      },
+      {
+        "id": "c171-a5",
+        "rank": 5,
+        "nameAr": "بيتزا هت",
+        "nameEn": "Pizza Hut",
+        "aliases": [
+          "بيتزا هت",
+          "Pizza Hut"
+        ]
+      },
+      {
+        "id": "c171-a6",
+        "rank": 6,
+        "nameAr": "دومينوز",
+        "nameEn": "Domino's Pizza",
+        "aliases": [
+          "دومينوز",
+          "Domino's Pizza",
+          "Dominos",
+          "دومينوز بيتزا"
+        ]
+      },
+      {
+        "id": "c171-a7",
+        "rank": 7,
+        "nameAr": "تاكو بيل",
+        "nameEn": "Taco Bell",
+        "aliases": [
+          "تاكو بيل",
+          "Taco Bell"
+        ]
+      },
+      {
+        "id": "c171-a8",
+        "rank": 8,
+        "nameAr": "وينديز",
+        "nameEn": "Wendy's",
+        "aliases": [
+          "وينديز",
+          "Wendy's",
+          "Wendys"
+        ]
+      },
+      {
+        "id": "c171-a9",
+        "rank": 9,
+        "nameAr": "بوبايز",
+        "nameEn": "Popeyes",
+        "aliases": [
+          "بوبايز",
+          "Popeyes"
+        ]
+      },
+      {
+        "id": "c171-a10",
+        "rank": 10,
+        "nameAr": "دانكن",
+        "nameEn": "Dunkin'",
+        "aliases": [
+          "دانكن",
+          "Dunkin'",
+          "Dunkin Donuts",
+          "دانكن دونتس"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c171-d1",
+        "nameAr": "آربيز",
+        "nameEn": "Arby's",
+        "aliases": [
+          "آربيز",
+          "Arby's"
+        ]
+      },
+      {
+        "id": "c171-d2",
+        "nameAr": "فايف غايز",
+        "nameEn": "Five Guys",
+        "aliases": [
+          "فايف غايز",
+          "Five Guys"
+        ]
+      },
+      {
+        "id": "c171-d3",
+        "nameAr": "سونك",
+        "nameEn": "Sonic Drive-In",
+        "aliases": [
+          "سونك",
+          "Sonic Drive-In"
+        ]
+      },
+      {
+        "id": "c171-d4",
+        "nameAr": "كارلز جونيور",
+        "nameEn": "Carl's Jr.",
+        "aliases": [
+          "كارلز جونيور",
+          "Carl's Jr."
+        ]
+      },
+      {
+        "id": "c171-d5",
+        "nameAr": "تشيك فيلا",
+        "nameEn": "Chick-fil-A",
+        "aliases": [
+          "تشيك فيلا",
+          "Chick-fil-A"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "title": "أكلات عالمية مشهورة",
+    "group": "أكل ومشروبات",
+    "icon": "🍽️",
+    "description": "تحدّي سهل من أسماء مألوفة. ",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. ",
+    "source": {
+      "title": "ويكيبيديا",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_dishes",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "dishes",
+    "answers": [
+      {
+        "id": "c172-a1",
+        "rank": 1,
+        "nameAr": "بيتزا",
+        "nameEn": "Pizza",
+        "aliases": [
+          "بيتزا",
+          "Pizza"
+        ]
+      },
+      {
+        "id": "c172-a2",
+        "rank": 2,
+        "nameAr": "سوشي",
+        "nameEn": "Sushi",
+        "aliases": [
+          "سوشي",
+          "Sushi"
+        ]
+      },
+      {
+        "id": "c172-a3",
+        "rank": 3,
+        "nameAr": "هامبرغر",
+        "nameEn": "Hamburger",
+        "aliases": [
+          "هامبرغر",
+          "Hamburger",
+          "برجر",
+          "Burger",
+          "برغر"
+        ]
+      },
+      {
+        "id": "c172-a4",
+        "rank": 4,
+        "nameAr": "باستا",
+        "nameEn": "Pasta",
+        "aliases": [
+          "باستا",
+          "Pasta",
+          "مكرونة",
+          "معكرونة"
+        ]
+      },
+      {
+        "id": "c172-a5",
+        "rank": 5,
+        "nameAr": "تاكو",
+        "nameEn": "Taco",
+        "aliases": [
+          "تاكو",
+          "Taco",
+          "Tacos"
+        ]
+      },
+      {
+        "id": "c172-a6",
+        "rank": 6,
+        "nameAr": "باييلا",
+        "nameEn": "Paella",
+        "aliases": [
+          "باييلا",
+          "Paella",
+          "بايلا"
+        ]
+      },
+      {
+        "id": "c172-a7",
+        "rank": 7,
+        "nameAr": "برياني",
+        "nameEn": "Biryani",
+        "aliases": [
+          "برياني",
+          "Biryani"
+        ]
+      },
+      {
+        "id": "c172-a8",
+        "rank": 8,
+        "nameAr": "كرواسون",
+        "nameEn": "Croissant",
+        "aliases": [
+          "كرواسون",
+          "Croissant"
+        ]
+      },
+      {
+        "id": "c172-a9",
+        "rank": 9,
+        "nameAr": "سمك وبطاطس",
+        "nameEn": "Fish and chips",
+        "aliases": [
+          "سمك وبطاطس",
+          "Fish and chips",
+          "فيش اند تشيبس"
+        ]
+      },
+      {
+        "id": "c172-a10",
+        "rank": 10,
+        "nameAr": "فلافل",
+        "nameEn": "Falafel",
+        "aliases": [
+          "فلافل",
+          "Falafel"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c172-d1",
+        "nameAr": "شاورما",
+        "nameEn": "Shawarma",
+        "aliases": [
+          "شاورما",
+          "Shawarma"
+        ]
+      },
+      {
+        "id": "c172-d2",
+        "nameAr": "كسكس",
+        "nameEn": "Couscous",
+        "aliases": [
+          "كسكس",
+          "Couscous"
+        ]
+      },
+      {
+        "id": "c172-d3",
+        "nameAr": "كيمتشي",
+        "nameEn": "Kimchi",
+        "aliases": [
+          "كيمتشي",
+          "Kimchi"
+        ]
+      },
+      {
+        "id": "c172-d4",
+        "nameAr": "رامن",
+        "nameEn": "Ramen",
+        "aliases": [
+          "رامن",
+          "Ramen"
+        ]
+      },
+      {
+        "id": "c172-d5",
+        "nameAr": "بوتين",
+        "nameEn": "Poutine",
+        "aliases": [
+          "بوتين",
+          "Poutine"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "title": "أكلات إيطالية مشهورة",
+    "group": "أكل ومشروبات",
+    "icon": "🍽️",
+    "description": "تحدّي سهل من أسماء مألوفة. ",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. ",
+    "source": {
+      "title": "ويكيبيديا",
+      "url": "https://en.wikipedia.org/wiki/List_of_Italian_dishes",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "dishes",
+    "answers": [
+      {
+        "id": "c173-a1",
+        "rank": 1,
+        "nameAr": "بيتزا",
+        "nameEn": "Pizza",
+        "aliases": [
+          "بيتزا",
+          "Pizza"
+        ]
+      },
+      {
+        "id": "c173-a2",
+        "rank": 2,
+        "nameAr": "باستا",
+        "nameEn": "Pasta",
+        "aliases": [
+          "باستا",
+          "Pasta",
+          "مكرونة",
+          "معكرونة"
+        ]
+      },
+      {
+        "id": "c173-a3",
+        "rank": 3,
+        "nameAr": "لازانيا",
+        "nameEn": "Lasagne",
+        "aliases": [
+          "لازانيا",
+          "Lasagne",
+          "Lasagna"
+        ]
+      },
+      {
+        "id": "c173-a4",
+        "rank": 4,
+        "nameAr": "ريزوتو",
+        "nameEn": "Risotto",
+        "aliases": [
+          "ريزوتو",
+          "Risotto"
+        ]
+      },
+      {
+        "id": "c173-a5",
+        "rank": 5,
+        "nameAr": "رافيولي",
+        "nameEn": "Ravioli",
+        "aliases": [
+          "رافيولي",
+          "Ravioli"
+        ]
+      },
+      {
+        "id": "c173-a6",
+        "rank": 6,
+        "nameAr": "نيوكي",
+        "nameEn": "Gnocchi",
+        "aliases": [
+          "نيوكي",
+          "Gnocchi",
+          "جنوكي",
+          "غنوكي"
+        ]
+      },
+      {
+        "id": "c173-a7",
+        "rank": 7,
+        "nameAr": "فوكاتشيا",
+        "nameEn": "Focaccia",
+        "aliases": [
+          "فوكاتشيا",
+          "Focaccia"
+        ]
+      },
+      {
+        "id": "c173-a8",
+        "rank": 8,
+        "nameAr": "بروشيتا",
+        "nameEn": "Bruschetta",
+        "aliases": [
+          "بروشيتا",
+          "Bruschetta",
+          "بروسكيتا"
+        ]
+      },
+      {
+        "id": "c173-a9",
+        "rank": 9,
+        "nameAr": "مينستروني",
+        "nameEn": "Minestrone",
+        "aliases": [
+          "مينستروني",
+          "Minestrone"
+        ]
+      },
+      {
+        "id": "c173-a10",
+        "rank": 10,
+        "nameAr": "أوسوبوكو",
+        "nameEn": "Ossobuco",
+        "aliases": [
+          "أوسوبوكو",
+          "Ossobuco",
+          "Osso buco",
+          "اوسو بوكو"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c173-d1",
+        "nameAr": "أرانشيني",
+        "nameEn": "Arancini",
+        "aliases": [
+          "أرانشيني",
+          "Arancini"
+        ]
+      },
+      {
+        "id": "c173-d2",
+        "nameAr": "بولينتا",
+        "nameEn": "Polenta",
+        "aliases": [
+          "بولينتا",
+          "Polenta"
+        ]
+      },
+      {
+        "id": "c173-d3",
+        "nameAr": "بيادينا",
+        "nameEn": "Piadina",
+        "aliases": [
+          "بيادينا",
+          "Piadina"
+        ]
+      },
+      {
+        "id": "c173-d4",
+        "nameAr": "بانزانيلا",
+        "nameEn": "Panzanella",
+        "aliases": [
+          "بانزانيلا",
+          "Panzanella"
+        ]
+      },
+      {
+        "id": "c173-d5",
+        "nameAr": "ريبوليتا",
+        "nameEn": "Ribollita",
+        "aliases": [
+          "ريبوليتا",
+          "Ribollita"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "title": "أكلات يابانية مشهورة",
+    "group": "أكل ومشروبات",
+    "icon": "🍽️",
+    "description": "تحدّي سهل من أسماء مألوفة. ",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. ",
+    "source": {
+      "title": "هيئة السياحة اليابانية JNTO",
+      "url": "https://www.japan.travel/en/gastronomy/",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "dishes",
+    "answers": [
+      {
+        "id": "c174-a1",
+        "rank": 1,
+        "nameAr": "سوشي",
+        "nameEn": "Sushi",
+        "aliases": [
+          "سوشي",
+          "Sushi"
+        ]
+      },
+      {
+        "id": "c174-a2",
+        "rank": 2,
+        "nameAr": "رامن",
+        "nameEn": "Ramen",
+        "aliases": [
+          "رامن",
+          "Ramen"
+        ]
+      },
+      {
+        "id": "c174-a3",
+        "rank": 3,
+        "nameAr": "تمبورا",
+        "nameEn": "Tempura",
+        "aliases": [
+          "تمبورا",
+          "Tempura"
+        ]
+      },
+      {
+        "id": "c174-a4",
+        "rank": 4,
+        "nameAr": "أودون",
+        "nameEn": "Udon",
+        "aliases": [
+          "أودون",
+          "Udon"
+        ]
+      },
+      {
+        "id": "c174-a5",
+        "rank": 5,
+        "nameAr": "سوبا",
+        "nameEn": "Soba",
+        "aliases": [
+          "سوبا",
+          "Soba"
+        ]
+      },
+      {
+        "id": "c174-a6",
+        "rank": 6,
+        "nameAr": "تاكوياكي",
+        "nameEn": "Takoyaki",
+        "aliases": [
+          "تاكوياكي",
+          "Takoyaki"
+        ]
+      },
+      {
+        "id": "c174-a7",
+        "rank": 7,
+        "nameAr": "أوكونومياكي",
+        "nameEn": "Okonomiyaki",
+        "aliases": [
+          "أوكونومياكي",
+          "Okonomiyaki"
+        ]
+      },
+      {
+        "id": "c174-a8",
+        "rank": 8,
+        "nameAr": "ياكيتوري",
+        "nameEn": "Yakitori",
+        "aliases": [
+          "ياكيتوري",
+          "Yakitori"
+        ]
+      },
+      {
+        "id": "c174-a9",
+        "rank": 9,
+        "nameAr": "ساشيمي",
+        "nameEn": "Sashimi",
+        "aliases": [
+          "ساشيمي",
+          "Sashimi"
+        ]
+      },
+      {
+        "id": "c174-a10",
+        "rank": 10,
+        "nameAr": "تونكاتسو",
+        "nameEn": "Tonkatsu",
+        "aliases": [
+          "تونكاتسو",
+          "Tonkatsu"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c174-d1",
+        "nameAr": "أونيغيري",
+        "nameEn": "Onigiri",
+        "aliases": [
+          "أونيغيري",
+          "Onigiri"
+        ]
+      },
+      {
+        "id": "c174-d2",
+        "nameAr": "سوكياكي",
+        "nameEn": "Sukiyaki",
+        "aliases": [
+          "سوكياكي",
+          "Sukiyaki"
+        ]
+      },
+      {
+        "id": "c174-d3",
+        "nameAr": "شابو شابو",
+        "nameEn": "Shabu-shabu",
+        "aliases": [
+          "شابو شابو",
+          "Shabu-shabu"
+        ]
+      },
+      {
+        "id": "c174-d4",
+        "nameAr": "كاري ياباني",
+        "nameEn": "Japanese curry",
+        "aliases": [
+          "كاري ياباني",
+          "Japanese curry"
+        ]
+      },
+      {
+        "id": "c174-d5",
+        "nameAr": "كايسيكي",
+        "nameEn": "Kaiseki",
+        "aliases": [
+          "كايسيكي",
+          "Kaiseki"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "title": "أكلات مكسيكية مشهورة",
+    "group": "أكل ومشروبات",
+    "icon": "🍽️",
+    "description": "تحدّي سهل من أسماء مألوفة. ",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. ",
+    "source": {
+      "title": "ويكيبيديا",
+      "url": "https://en.wikipedia.org/wiki/List_of_Mexican_dishes",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "dishes",
+    "answers": [
+      {
+        "id": "c175-a1",
+        "rank": 1,
+        "nameAr": "تاكو",
+        "nameEn": "Taco",
+        "aliases": [
+          "تاكو",
+          "Taco",
+          "Tacos"
+        ]
+      },
+      {
+        "id": "c175-a2",
+        "rank": 2,
+        "nameAr": "بوريتو",
+        "nameEn": "Burrito",
+        "aliases": [
+          "بوريتو",
+          "Burrito"
+        ]
+      },
+      {
+        "id": "c175-a3",
+        "rank": 3,
+        "nameAr": "كيساديلا",
+        "nameEn": "Quesadilla",
+        "aliases": [
+          "كيساديلا",
+          "Quesadilla",
+          "كاساديا",
+          "كيساديا"
+        ]
+      },
+      {
+        "id": "c175-a4",
+        "rank": 4,
+        "nameAr": "إنشيلادا",
+        "nameEn": "Enchilada",
+        "aliases": [
+          "إنشيلادا",
+          "Enchilada",
+          "Enchiladas"
+        ]
+      },
+      {
+        "id": "c175-a5",
+        "rank": 5,
+        "nameAr": "ناتشوز",
+        "nameEn": "Nachos",
+        "aliases": [
+          "ناتشوز",
+          "Nachos"
+        ]
+      },
+      {
+        "id": "c175-a6",
+        "rank": 6,
+        "nameAr": "غواكامولي",
+        "nameEn": "Guacamole",
+        "aliases": [
+          "غواكامولي",
+          "Guacamole",
+          "جواكامولي"
+        ]
+      },
+      {
+        "id": "c175-a7",
+        "rank": 7,
+        "nameAr": "تاماليس",
+        "nameEn": "Tamales",
+        "aliases": [
+          "تاماليس",
+          "Tamales",
+          "Tamal",
+          "تامال"
+        ]
+      },
+      {
+        "id": "c175-a8",
+        "rank": 8,
+        "nameAr": "بوزولي",
+        "nameEn": "Pozole",
+        "aliases": [
+          "بوزولي",
+          "Pozole"
+        ]
+      },
+      {
+        "id": "c175-a9",
+        "rank": 9,
+        "nameAr": "تشيلاكيلس",
+        "nameEn": "Chilaquiles",
+        "aliases": [
+          "تشيلاكيلس",
+          "Chilaquiles"
+        ]
+      },
+      {
+        "id": "c175-a10",
+        "rank": 10,
+        "nameAr": "إيلوتي",
+        "nameEn": "Elote",
+        "aliases": [
+          "إيلوتي",
+          "Elote",
+          "ذرة مكسيكية"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c175-d1",
+        "nameAr": "سوبس",
+        "nameEn": "Sopes",
+        "aliases": [
+          "سوبس",
+          "Sopes"
+        ]
+      },
+      {
+        "id": "c175-d2",
+        "nameAr": "توستادا",
+        "nameEn": "Tostada",
+        "aliases": [
+          "توستادا",
+          "Tostada"
+        ]
+      },
+      {
+        "id": "c175-d3",
+        "nameAr": "تشيلس ريينوس",
+        "nameEn": "Chiles rellenos",
+        "aliases": [
+          "تشيلس ريينوس",
+          "Chiles rellenos"
+        ]
+      },
+      {
+        "id": "c175-d4",
+        "nameAr": "تورتا",
+        "nameEn": "Torta",
+        "aliases": [
+          "تورتا",
+          "Torta"
+        ]
+      },
+      {
+        "id": "c175-d5",
+        "nameAr": "بيريا",
+        "nameEn": "Birria",
+        "aliases": [
+          "بيريا",
+          "Birria"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "title": "أكلات هندية مشهورة",
+    "group": "أكل ومشروبات",
+    "icon": "🍽️",
+    "description": "تحدّي سهل من أسماء مألوفة. تشمل الخبز والوجبات الشائعة في المطبخ الهندي.",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. تشمل الخبز والوجبات الشائعة في المطبخ الهندي.",
+    "source": {
+      "title": "ويكيبيديا",
+      "url": "https://en.wikipedia.org/wiki/List_of_Indian_dishes",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "dishes",
+    "answers": [
+      {
+        "id": "c176-a1",
+        "rank": 1,
+        "nameAr": "برياني",
+        "nameEn": "Biryani",
+        "aliases": [
+          "برياني",
+          "Biryani"
+        ]
+      },
+      {
+        "id": "c176-a2",
+        "rank": 2,
+        "nameAr": "دجاج بالزبدة",
+        "nameEn": "Butter chicken",
+        "aliases": [
+          "دجاج بالزبدة",
+          "Butter chicken",
+          "باتر تشيكن",
+          "Murgh makhani"
+        ]
+      },
+      {
+        "id": "c176-a3",
+        "rank": 3,
+        "nameAr": "سمبوسة",
+        "nameEn": "Samosa",
+        "aliases": [
+          "سمبوسة",
+          "Samosa",
+          "سمبوسك",
+          "ساموسا"
+        ]
+      },
+      {
+        "id": "c176-a4",
+        "rank": 4,
+        "nameAr": "نان",
+        "nameEn": "Naan",
+        "aliases": [
+          "نان",
+          "Naan",
+          "خبز نان"
+        ]
+      },
+      {
+        "id": "c176-a5",
+        "rank": 5,
+        "nameAr": "دجاج تندوري",
+        "nameEn": "Tandoori chicken",
+        "aliases": [
+          "دجاج تندوري",
+          "Tandoori chicken",
+          "تندوري تشيكن"
+        ]
+      },
+      {
+        "id": "c176-a6",
+        "rank": 6,
+        "nameAr": "دال",
+        "nameEn": "Dal",
+        "aliases": [
+          "دال",
+          "Dal",
+          "دال عدس",
+          "Daal"
+        ]
+      },
+      {
+        "id": "c176-a7",
+        "rank": 7,
+        "nameAr": "بالاك بانير",
+        "nameEn": "Palak paneer",
+        "aliases": [
+          "بالاك بانير",
+          "Palak paneer"
+        ]
+      },
+      {
+        "id": "c176-a8",
+        "rank": 8,
+        "nameAr": "دوسا",
+        "nameEn": "Dosa",
+        "aliases": [
+          "دوسا",
+          "Dosa"
+        ]
+      },
+      {
+        "id": "c176-a9",
+        "rank": 9,
+        "nameAr": "ألو غوبي",
+        "nameEn": "Aloo gobi",
+        "aliases": [
+          "ألو غوبي",
+          "Aloo gobi",
+          "الو جوبي"
+        ]
+      },
+      {
+        "id": "c176-a10",
+        "rank": 10,
+        "nameAr": "تشانا ماسالا",
+        "nameEn": "Chana masala",
+        "aliases": [
+          "تشانا ماسالا",
+          "Chana masala"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c176-d1",
+        "nameAr": "إدلي",
+        "nameEn": "Idli",
+        "aliases": [
+          "إدلي",
+          "Idli"
+        ]
+      },
+      {
+        "id": "c176-d2",
+        "nameAr": "روتي",
+        "nameEn": "Roti",
+        "aliases": [
+          "روتي",
+          "Roti"
+        ]
+      },
+      {
+        "id": "c176-d3",
+        "nameAr": "باف بهاجي",
+        "nameEn": "Pav bhaji",
+        "aliases": [
+          "باف بهاجي",
+          "Pav bhaji"
+        ]
+      },
+      {
+        "id": "c176-d4",
+        "nameAr": "فادا",
+        "nameEn": "Vada",
+        "aliases": [
+          "فادا",
+          "Vada"
+        ]
+      },
+      {
+        "id": "c176-d5",
+        "nameAr": "راجما",
+        "nameEn": "Rajma",
+        "aliases": [
+          "راجما",
+          "Rajma"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "title": "حلويات عالمية مشهورة",
+    "group": "أكل ومشروبات",
+    "icon": "🍽️",
+    "description": "تحدّي سهل من أسماء مألوفة. ",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. ",
+    "source": {
+      "title": "ويكيبيديا",
+      "url": "https://en.wikipedia.org/wiki/List_of_desserts",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "dishes",
+    "answers": [
+      {
+        "id": "c177-a1",
+        "rank": 1,
+        "nameAr": "تشيز كيك",
+        "nameEn": "Cheesecake",
+        "aliases": [
+          "تشيز كيك",
+          "Cheesecake",
+          "كعكة الجبن"
+        ]
+      },
+      {
+        "id": "c177-a2",
+        "rank": 2,
+        "nameAr": "براوني",
+        "nameEn": "Brownie",
+        "aliases": [
+          "براوني",
+          "Brownie",
+          "Brownies"
+        ]
+      },
+      {
+        "id": "c177-a3",
+        "rank": 3,
+        "nameAr": "تيراميسو",
+        "nameEn": "Tiramisu",
+        "aliases": [
+          "تيراميسو",
+          "Tiramisu"
+        ]
+      },
+      {
+        "id": "c177-a4",
+        "rank": 4,
+        "nameAr": "آيس كريم",
+        "nameEn": "Ice cream",
+        "aliases": [
+          "آيس كريم",
+          "Ice cream",
+          "ايسكريم",
+          "مثلجات",
+          "بوظة"
+        ]
+      },
+      {
+        "id": "c177-a5",
+        "rank": 5,
+        "nameAr": "دونات",
+        "nameEn": "Doughnut",
+        "aliases": [
+          "دونات",
+          "Doughnut",
+          "Donut",
+          "دونت"
+        ]
+      },
+      {
+        "id": "c177-a6",
+        "rank": 6,
+        "nameAr": "بان كيك",
+        "nameEn": "Pancake",
+        "aliases": [
+          "بان كيك",
+          "Pancake",
+          "Pancakes"
+        ]
+      },
+      {
+        "id": "c177-a7",
+        "rank": 7,
+        "nameAr": "وافل",
+        "nameEn": "Waffle",
+        "aliases": [
+          "وافل",
+          "Waffle",
+          "Waffles"
+        ]
+      },
+      {
+        "id": "c177-a8",
+        "rank": 8,
+        "nameAr": "بقلاوة",
+        "nameEn": "Baklava",
+        "aliases": [
+          "بقلاوة",
+          "Baklava"
+        ]
+      },
+      {
+        "id": "c177-a9",
+        "rank": 9,
+        "nameAr": "كريم بروليه",
+        "nameEn": "Crème brûlée",
+        "aliases": [
+          "كريم بروليه",
+          "Crème brûlée",
+          "Creme brulee"
+        ]
+      },
+      {
+        "id": "c177-a10",
+        "rank": 10,
+        "nameAr": "ماكرون",
+        "nameEn": "Macaron",
+        "aliases": [
+          "ماكرون",
+          "Macaron",
+          "Macarons"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c177-d1",
+        "nameAr": "باناكوتا",
+        "nameEn": "Panna cotta",
+        "aliases": [
+          "باناكوتا",
+          "Panna cotta"
+        ]
+      },
+      {
+        "id": "c177-d2",
+        "nameAr": "إكلير",
+        "nameEn": "Eclair",
+        "aliases": [
+          "إكلير",
+          "Eclair"
+        ]
+      },
+      {
+        "id": "c177-d3",
+        "nameAr": "تشوروز",
+        "nameEn": "Churros",
+        "aliases": [
+          "تشوروز",
+          "Churros"
+        ]
+      },
+      {
+        "id": "c177-d4",
+        "nameAr": "سوفليه",
+        "nameEn": "Souffle",
+        "aliases": [
+          "سوفليه",
+          "Souffle"
+        ]
+      },
+      {
+        "id": "c177-d5",
+        "nameAr": "بافلوفا",
+        "nameEn": "Pavlova",
+        "aliases": [
+          "بافلوفا",
+          "Pavlova"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "title": "فواكه شائعة",
+    "group": "أكل ومشروبات",
+    "icon": "🍽️",
+    "description": "تحدّي سهل من أسماء مألوفة. ",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. ",
+    "source": {
+      "title": "ويكيبيديا",
+      "url": "https://en.wikipedia.org/wiki/List_of_culinary_fruits",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "fruits",
+    "answers": [
+      {
+        "id": "c178-a1",
+        "rank": 1,
+        "nameAr": "تفاح",
+        "nameEn": "Apple",
+        "aliases": [
+          "تفاح",
+          "تفاحة",
+          "Apple",
+          "Apples"
+        ]
+      },
+      {
+        "id": "c178-a2",
+        "rank": 2,
+        "nameAr": "موز",
+        "nameEn": "Banana",
+        "aliases": [
+          "موز",
+          "Banana"
+        ]
+      },
+      {
+        "id": "c178-a3",
+        "rank": 3,
+        "nameAr": "برتقال",
+        "nameEn": "Orange",
+        "aliases": [
+          "برتقال",
+          "Orange"
+        ]
+      },
+      {
+        "id": "c178-a4",
+        "rank": 4,
+        "nameAr": "مانجو",
+        "nameEn": "Mango",
+        "aliases": [
+          "مانجو",
+          "Mango",
+          "مانجا"
+        ]
+      },
+      {
+        "id": "c178-a5",
+        "rank": 5,
+        "nameAr": "فراولة",
+        "nameEn": "Strawberry",
+        "aliases": [
+          "فراولة",
+          "Strawberry",
+          "فريز"
+        ]
+      },
+      {
+        "id": "c178-a6",
+        "rank": 6,
+        "nameAr": "عنب",
+        "nameEn": "Grape",
+        "aliases": [
+          "عنب",
+          "Grape",
+          "Grapes"
+        ]
+      },
+      {
+        "id": "c178-a7",
+        "rank": 7,
+        "nameAr": "بطيخ",
+        "nameEn": "Watermelon",
+        "aliases": [
+          "بطيخ",
+          "Watermelon",
+          "حبحب",
+          "جح"
+        ]
+      },
+      {
+        "id": "c178-a8",
+        "rank": 8,
+        "nameAr": "أناناس",
+        "nameEn": "Pineapple",
+        "aliases": [
+          "أناناس",
+          "Pineapple"
+        ]
+      },
+      {
+        "id": "c178-a9",
+        "rank": 9,
+        "nameAr": "كيوي",
+        "nameEn": "Kiwifruit",
+        "aliases": [
+          "كيوي",
+          "Kiwifruit",
+          "Kiwi"
+        ]
+      },
+      {
+        "id": "c178-a10",
+        "rank": 10,
+        "nameAr": "خوخ",
+        "nameEn": "Peach",
+        "aliases": [
+          "خوخ",
+          "Peach"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c178-d1",
+        "nameAr": "كمثرى",
+        "nameEn": "Pear",
+        "aliases": [
+          "كمثرى",
+          "Pear"
+        ]
+      },
+      {
+        "id": "c178-d2",
+        "nameAr": "كرز",
+        "nameEn": "Cherry",
+        "aliases": [
+          "كرز",
+          "Cherry"
+        ]
+      },
+      {
+        "id": "c178-d3",
+        "nameAr": "رمان",
+        "nameEn": "Pomegranate",
+        "aliases": [
+          "رمان",
+          "Pomegranate"
+        ]
+      },
+      {
+        "id": "c178-d4",
+        "nameAr": "مشمش",
+        "nameEn": "Apricot",
+        "aliases": [
+          "مشمش",
+          "Apricot"
+        ]
+      },
+      {
+        "id": "c178-d5",
+        "nameAr": "تين",
+        "nameEn": "Fig",
+        "aliases": [
+          "تين",
+          "Fig"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "title": "خضار شائعة في الطبخ",
+    "group": "أكل ومشروبات",
+    "icon": "🍽️",
+    "description": "تحدّي سهل من أسماء مألوفة. التصنيف حسب استخدام المطبخ؛ يشمل الطماطم والخيار والفلفل حتى لو كانت ثمارًا نباتيًا.",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. التصنيف حسب استخدام المطبخ؛ يشمل الطماطم والخيار والفلفل حتى لو كانت ثمارًا نباتيًا.",
+    "source": {
+      "title": "ويكيبيديا",
+      "url": "https://en.wikipedia.org/wiki/List_of_vegetables",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "vegetables",
+    "answers": [
+      {
+        "id": "c179-a1",
+        "rank": 1,
+        "nameAr": "طماطم",
+        "nameEn": "Tomato",
+        "aliases": [
+          "طماطم",
+          "Tomato",
+          "بندورة"
+        ]
+      },
+      {
+        "id": "c179-a2",
+        "rank": 2,
+        "nameAr": "خيار",
+        "nameEn": "Cucumber",
+        "aliases": [
+          "خيار",
+          "Cucumber"
+        ]
+      },
+      {
+        "id": "c179-a3",
+        "rank": 3,
+        "nameAr": "بطاطس",
+        "nameEn": "Potato",
+        "aliases": [
+          "بطاطس",
+          "Potato",
+          "بطاطا"
+        ]
+      },
+      {
+        "id": "c179-a4",
+        "rank": 4,
+        "nameAr": "جزر",
+        "nameEn": "Carrot",
+        "aliases": [
+          "جزر",
+          "Carrot"
+        ]
+      },
+      {
+        "id": "c179-a5",
+        "rank": 5,
+        "nameAr": "بصل",
+        "nameEn": "Onion",
+        "aliases": [
+          "بصل",
+          "Onion"
+        ]
+      },
+      {
+        "id": "c179-a6",
+        "rank": 6,
+        "nameAr": "خس",
+        "nameEn": "Lettuce",
+        "aliases": [
+          "خس",
+          "Lettuce"
+        ]
+      },
+      {
+        "id": "c179-a7",
+        "rank": 7,
+        "nameAr": "بروكلي",
+        "nameEn": "Broccoli",
+        "aliases": [
+          "بروكلي",
+          "Broccoli"
+        ]
+      },
+      {
+        "id": "c179-a8",
+        "rank": 8,
+        "nameAr": "سبانخ",
+        "nameEn": "Spinach",
+        "aliases": [
+          "سبانخ",
+          "Spinach"
+        ]
+      },
+      {
+        "id": "c179-a9",
+        "rank": 9,
+        "nameAr": "باذنجان",
+        "nameEn": "Eggplant",
+        "aliases": [
+          "باذنجان",
+          "Eggplant",
+          "Aubergine"
+        ]
+      },
+      {
+        "id": "c179-a10",
+        "rank": 10,
+        "nameAr": "فلفل رومي",
+        "nameEn": "Bell pepper",
+        "aliases": [
+          "فلفل رومي",
+          "Bell pepper",
+          "فليفلة",
+          "فلفل حلو",
+          "Sweet pepper"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c179-d1",
+        "nameAr": "قرنبيط",
+        "nameEn": "Cauliflower",
+        "aliases": [
+          "قرنبيط",
+          "Cauliflower"
+        ]
+      },
+      {
+        "id": "c179-d2",
+        "nameAr": "ملفوف",
+        "nameEn": "Cabbage",
+        "aliases": [
+          "ملفوف",
+          "Cabbage"
+        ]
+      },
+      {
+        "id": "c179-d3",
+        "nameAr": "كوسا",
+        "nameEn": "Zucchini",
+        "aliases": [
+          "كوسا",
+          "Zucchini"
+        ]
+      },
+      {
+        "id": "c179-d4",
+        "nameAr": "شمندر",
+        "nameEn": "Beetroot",
+        "aliases": [
+          "شمندر",
+          "Beetroot"
+        ]
+      },
+      {
+        "id": "c179-d5",
+        "nameAr": "بامية",
+        "nameEn": "Okra",
+        "aliases": [
+          "بامية",
+          "Okra"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "title": "مشروبات قهوة مشهورة",
+    "group": "أكل ومشروبات",
+    "icon": "🍽️",
+    "description": "تحدّي سهل من أسماء مألوفة. ",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. ",
+    "source": {
+      "title": "ويكيبيديا",
+      "url": "https://en.wikipedia.org/wiki/List_of_coffee_drinks",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "drinks",
+    "answers": [
+      {
+        "id": "c180-a1",
+        "rank": 1,
+        "nameAr": "إسبريسو",
+        "nameEn": "Espresso",
+        "aliases": [
+          "إسبريسو",
+          "Espresso",
+          "اسبريسو"
+        ]
+      },
+      {
+        "id": "c180-a2",
+        "rank": 2,
+        "nameAr": "لاتيه",
+        "nameEn": "Latte",
+        "aliases": [
+          "لاتيه",
+          "Latte",
+          "Caffe latte",
+          "كافيه لاتيه"
+        ]
+      },
+      {
+        "id": "c180-a3",
+        "rank": 3,
+        "nameAr": "كابتشينو",
+        "nameEn": "Cappuccino",
+        "aliases": [
+          "كابتشينو",
+          "Cappuccino"
+        ]
+      },
+      {
+        "id": "c180-a4",
+        "rank": 4,
+        "nameAr": "أمريكانو",
+        "nameEn": "Americano",
+        "aliases": [
+          "أمريكانو",
+          "Americano",
+          "Caffe Americano"
+        ]
+      },
+      {
+        "id": "c180-a5",
+        "rank": 5,
+        "nameAr": "موكا",
+        "nameEn": "Mocha",
+        "aliases": [
+          "موكا",
+          "Mocha",
+          "Caffe mocha"
+        ]
+      },
+      {
+        "id": "c180-a6",
+        "rank": 6,
+        "nameAr": "فلات وايت",
+        "nameEn": "Flat white",
+        "aliases": [
+          "فلات وايت",
+          "Flat white"
+        ]
+      },
+      {
+        "id": "c180-a7",
+        "rank": 7,
+        "nameAr": "ماكياتو",
+        "nameEn": "Macchiato",
+        "aliases": [
+          "ماكياتو",
+          "Macchiato",
+          "Caffe macchiato"
+        ]
+      },
+      {
+        "id": "c180-a8",
+        "rank": 8,
+        "nameAr": "كورتادو",
+        "nameEn": "Cortado",
+        "aliases": [
+          "كورتادو",
+          "Cortado"
+        ]
+      },
+      {
+        "id": "c180-a9",
+        "rank": 9,
+        "nameAr": "كولد برو",
+        "nameEn": "Cold brew",
+        "aliases": [
+          "كولد برو",
+          "Cold brew",
+          "قهوة باردة منقوعة"
+        ]
+      },
+      {
+        "id": "c180-a10",
+        "rank": 10,
+        "nameAr": "قهوة تركية",
+        "nameEn": "Turkish coffee",
+        "aliases": [
+          "قهوة تركية",
+          "Turkish coffee"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c180-d1",
+        "nameAr": "ريستريتو",
+        "nameEn": "Ristretto",
+        "aliases": [
+          "ريستريتو",
+          "Ristretto"
+        ]
+      },
+      {
+        "id": "c180-d2",
+        "nameAr": "لونغو",
+        "nameEn": "Lungo",
+        "aliases": [
+          "لونغو",
+          "Lungo"
+        ]
+      },
+      {
+        "id": "c180-d3",
+        "nameAr": "أفوجاتو",
+        "nameEn": "Affogato",
+        "aliases": [
+          "أفوجاتو",
+          "Affogato"
+        ]
+      },
+      {
+        "id": "c180-d4",
+        "nameAr": "قهوة إيرلندية",
+        "nameEn": "Irish coffee",
+        "aliases": [
+          "قهوة إيرلندية",
+          "Irish coffee"
+        ]
+      },
+      {
+        "id": "c180-d5",
+        "nameAr": "قهوة فيتنامية",
+        "nameEn": "Vietnamese coffee",
+        "aliases": [
+          "قهوة فيتنامية",
+          "Vietnamese coffee"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "title": "نكهات آيس كريم مشهورة",
+    "group": "أكل ومشروبات",
+    "icon": "🍽️",
+    "description": "تحدّي سهل من أسماء مألوفة. ",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. ",
+    "source": {
+      "title": "ويكيبيديا",
+      "url": "https://en.wikipedia.org/wiki/List_of_ice_cream_flavors",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "dishes",
+    "answers": [
+      {
+        "id": "c181-a1",
+        "rank": 1,
+        "nameAr": "فانيلا",
+        "nameEn": "Vanilla",
+        "aliases": [
+          "فانيلا",
+          "Vanilla",
+          "فانيليا"
+        ]
+      },
+      {
+        "id": "c181-a2",
+        "rank": 2,
+        "nameAr": "شوكولاتة",
+        "nameEn": "Chocolate",
+        "aliases": [
+          "شوكولاتة",
+          "Chocolate",
+          "شوكولا"
+        ]
+      },
+      {
+        "id": "c181-a3",
+        "rank": 3,
+        "nameAr": "فراولة",
+        "nameEn": "Strawberry",
+        "aliases": [
+          "فراولة",
+          "Strawberry",
+          "فريز"
+        ]
+      },
+      {
+        "id": "c181-a4",
+        "rank": 4,
+        "nameAr": "فستق",
+        "nameEn": "Pistachio",
+        "aliases": [
+          "فستق",
+          "Pistachio"
+        ]
+      },
+      {
+        "id": "c181-a5",
+        "rank": 5,
+        "nameAr": "موز",
+        "nameEn": "Banana",
+        "aliases": [
+          "موز",
+          "Banana"
+        ]
+      },
+      {
+        "id": "c181-a6",
+        "rank": 6,
+        "nameAr": "كراميل",
+        "nameEn": "Caramel",
+        "aliases": [
+          "كراميل",
+          "Caramel"
+        ]
+      },
+      {
+        "id": "c181-a7",
+        "rank": 7,
+        "nameAr": "قهوة",
+        "nameEn": "Coffee",
+        "aliases": [
+          "قهوة",
+          "Coffee"
+        ]
+      },
+      {
+        "id": "c181-a8",
+        "rank": 8,
+        "nameAr": "كوكيز آند كريم",
+        "nameEn": "Cookies and cream",
+        "aliases": [
+          "كوكيز آند كريم",
+          "Cookies and cream",
+          "Cookies n cream",
+          "كوكيز وكريمة"
+        ]
+      },
+      {
+        "id": "c181-a9",
+        "rank": 9,
+        "nameAr": "نعناع بقطع الشوكولاتة",
+        "nameEn": "Mint chocolate chip",
+        "aliases": [
+          "نعناع بقطع الشوكولاتة",
+          "Mint chocolate chip",
+          "منت شوكليت تشيب"
+        ]
+      },
+      {
+        "id": "c181-a10",
+        "rank": 10,
+        "nameAr": "قطع الشوكولاتة",
+        "nameEn": "Chocolate chip",
+        "aliases": [
+          "قطع الشوكولاتة",
+          "Chocolate chip",
+          "شوكليت تشيب"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c181-d1",
+        "nameAr": "نابوليتان",
+        "nameEn": "Neapolitan",
+        "aliases": [
+          "نابوليتان",
+          "Neapolitan"
+        ]
+      },
+      {
+        "id": "c181-d2",
+        "nameAr": "روم وزبيب",
+        "nameEn": "Rum raisin",
+        "aliases": [
+          "روم وزبيب",
+          "Rum raisin"
+        ]
+      },
+      {
+        "id": "c181-d3",
+        "nameAr": "روكي رود",
+        "nameEn": "Rocky road",
+        "aliases": [
+          "روكي رود",
+          "Rocky road"
+        ]
+      },
+      {
+        "id": "c181-d4",
+        "nameAr": "شاي أخضر",
+        "nameEn": "Green tea",
+        "aliases": [
+          "شاي أخضر",
+          "Green tea"
+        ]
+      },
+      {
+        "id": "c181-d5",
+        "nameAr": "سمسم أسود",
+        "nameEn": "Black sesame",
+        "aliases": [
+          "سمسم أسود",
+          "Black sesame"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "title": "ماركات شوكولاتة مشهورة",
+    "group": "أكل ومشروبات",
+    "icon": "🍽️",
+    "description": "تحدّي سهل من أسماء مألوفة. ",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. ",
+    "source": {
+      "title": "ويكيبيديا",
+      "url": "https://en.wikipedia.org/wiki/List_of_chocolate_bar_brands",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "brands",
+    "answers": [
+      {
+        "id": "c182-a1",
+        "rank": 1,
+        "nameAr": "كيت كات",
+        "nameEn": "Kit Kat",
+        "aliases": [
+          "كيت كات",
+          "Kit Kat",
+          "KitKat"
+        ]
+      },
+      {
+        "id": "c182-a2",
+        "rank": 2,
+        "nameAr": "سنيكرز",
+        "nameEn": "Snickers",
+        "aliases": [
+          "سنيكرز",
+          "Snickers"
+        ]
+      },
+      {
+        "id": "c182-a3",
+        "rank": 3,
+        "nameAr": "مارس",
+        "nameEn": "Mars",
+        "aliases": [
+          "مارس",
+          "Mars"
+        ]
+      },
+      {
+        "id": "c182-a4",
+        "rank": 4,
+        "nameAr": "تويكس",
+        "nameEn": "Twix",
+        "aliases": [
+          "تويكس",
+          "Twix"
+        ]
+      },
+      {
+        "id": "c182-a5",
+        "rank": 5,
+        "nameAr": "كادبوري",
+        "nameEn": "Cadbury",
+        "aliases": [
+          "كادبوري",
+          "Cadbury"
+        ]
+      },
+      {
+        "id": "c182-a6",
+        "rank": 6,
+        "nameAr": "جالكسي",
+        "nameEn": "Galaxy",
+        "aliases": [
+          "جالكسي",
+          "Galaxy",
+          "Dove chocolate",
+          "غالاكسي"
+        ]
+      },
+      {
+        "id": "c182-a7",
+        "rank": 7,
+        "nameAr": "توبليرون",
+        "nameEn": "Toblerone",
+        "aliases": [
+          "توبليرون",
+          "Toblerone"
+        ]
+      },
+      {
+        "id": "c182-a8",
+        "rank": 8,
+        "nameAr": "ليندت",
+        "nameEn": "Lindt",
+        "aliases": [
+          "ليندت",
+          "Lindt"
+        ]
+      },
+      {
+        "id": "c182-a9",
+        "rank": 9,
+        "nameAr": "فيريرو روشيه",
+        "nameEn": "Ferrero Rocher",
+        "aliases": [
+          "فيريرو روشيه",
+          "Ferrero Rocher"
+        ]
+      },
+      {
+        "id": "c182-a10",
+        "rank": 10,
+        "nameAr": "ميلكا",
+        "nameEn": "Milka",
+        "aliases": [
+          "ميلكا",
+          "Milka"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c182-d1",
+        "nameAr": "باونتي",
+        "nameEn": "Bounty",
+        "aliases": [
+          "باونتي",
+          "Bounty"
+        ]
+      },
+      {
+        "id": "c182-d2",
+        "nameAr": "إيرو",
+        "nameEn": "Aero",
+        "aliases": [
+          "إيرو",
+          "ايرو",
+          "Aero"
+        ]
+      },
+      {
+        "id": "c182-d3",
+        "nameAr": "ريتّر سبورت",
+        "nameEn": "Ritter Sport",
+        "aliases": [
+          "ريتّر سبورت",
+          "Ritter Sport"
+        ]
+      },
+      {
+        "id": "c182-d4",
+        "nameAr": "جوليان",
+        "nameEn": "Guylian",
+        "aliases": [
+          "جوليان",
+          "Guylian"
+        ]
+      },
+      {
+        "id": "c182-d5",
+        "nameAr": "فلاك",
+        "nameEn": "Flake",
+        "aliases": [
+          "فلاك",
+          "Flake"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "title": "ماركات مشروبات غازية مشهورة",
+    "group": "أكل ومشروبات",
+    "icon": "🍽️",
+    "description": "تحدّي سهل من أسماء مألوفة. ",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. ",
+    "source": {
+      "title": "ويكيبيديا",
+      "url": "https://en.wikipedia.org/wiki/List_of_soft_drink_flavors",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "brands",
+    "answers": [
+      {
+        "id": "c183-a1",
+        "rank": 1,
+        "nameAr": "كوكاكولا",
+        "nameEn": "Coca-Cola",
+        "aliases": [
+          "كوكاكولا",
+          "Coca-Cola",
+          "كوكا كولا",
+          "Coke"
+        ]
+      },
+      {
+        "id": "c183-a2",
+        "rank": 2,
+        "nameAr": "بيبسي",
+        "nameEn": "Pepsi",
+        "aliases": [
+          "بيبسي",
+          "Pepsi"
+        ]
+      },
+      {
+        "id": "c183-a3",
+        "rank": 3,
+        "nameAr": "سبرايت",
+        "nameEn": "Sprite",
+        "aliases": [
+          "سبرايت",
+          "Sprite"
+        ]
+      },
+      {
+        "id": "c183-a4",
+        "rank": 4,
+        "nameAr": "فانتا",
+        "nameEn": "Fanta",
+        "aliases": [
+          "فانتا",
+          "Fanta"
+        ]
+      },
+      {
+        "id": "c183-a5",
+        "rank": 5,
+        "nameAr": "سفن أب",
+        "nameEn": "7 Up",
+        "aliases": [
+          "سفن أب",
+          "7 Up",
+          "7up",
+          "سفن اب"
+        ]
+      },
+      {
+        "id": "c183-a6",
+        "rank": 6,
+        "nameAr": "ميرندا",
+        "nameEn": "Mirinda",
+        "aliases": [
+          "ميرندا",
+          "Mirinda"
+        ]
+      },
+      {
+        "id": "c183-a7",
+        "rank": 7,
+        "nameAr": "ماونتن ديو",
+        "nameEn": "Mountain Dew",
+        "aliases": [
+          "ماونتن ديو",
+          "Mountain Dew"
+        ]
+      },
+      {
+        "id": "c183-a8",
+        "rank": 8,
+        "nameAr": "دكتور بيبر",
+        "nameEn": "Dr Pepper",
+        "aliases": [
+          "دكتور بيبر",
+          "Dr Pepper",
+          "Dr. Pepper"
+        ]
+      },
+      {
+        "id": "c183-a9",
+        "rank": 9,
+        "nameAr": "شويبس",
+        "nameEn": "Schweppes",
+        "aliases": [
+          "شويبس",
+          "Schweppes"
+        ]
+      },
+      {
+        "id": "c183-a10",
+        "rank": 10,
+        "nameAr": "كندا دراي",
+        "nameEn": "Canada Dry",
+        "aliases": [
+          "كندا دراي",
+          "Canada Dry"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c183-d1",
+        "nameAr": "آر سي كولا",
+        "nameEn": "RC Cola",
+        "aliases": [
+          "آر سي كولا",
+          "RC Cola"
+        ]
+      },
+      {
+        "id": "c183-d2",
+        "nameAr": "إيه آند دبليو",
+        "nameEn": "A&W Root Beer",
+        "aliases": [
+          "إيه آند دبليو",
+          "A&W Root Beer"
+        ]
+      },
+      {
+        "id": "c183-d3",
+        "nameAr": "بارقز",
+        "nameEn": "Barqs",
+        "aliases": [
+          "بارقز",
+          "Barqs"
+        ]
+      },
+      {
+        "id": "c183-d4",
+        "nameAr": "فايغو",
+        "nameEn": "Faygo",
+        "aliases": [
+          "فايغو",
+          "Faygo"
+        ]
+      },
+      {
+        "id": "c183-d5",
+        "nameAr": "سانكيست",
+        "nameEn": "Sunkist",
+        "aliases": [
+          "سانكيست",
+          "Sunkist"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "title": "ماركات ملابس وأحذية رياضية مشهورة",
+    "group": "ماركات وتطبيقات",
+    "icon": "🏷️",
+    "description": "تحدّي سهل من أسماء مألوفة. ",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. ",
+    "source": {
+      "title": "ويكيبيديا",
+      "url": "https://en.wikipedia.org/wiki/List_of_sporting_goods_manufacturers",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "brands",
+    "answers": [
+      {
+        "id": "c184-a1",
+        "rank": 1,
+        "nameAr": "نايكي",
+        "nameEn": "Nike",
+        "aliases": [
+          "نايكي",
+          "Nike"
+        ]
+      },
+      {
+        "id": "c184-a2",
+        "rank": 2,
+        "nameAr": "أديداس",
+        "nameEn": "Adidas",
+        "aliases": [
+          "أديداس",
+          "Adidas"
+        ]
+      },
+      {
+        "id": "c184-a3",
+        "rank": 3,
+        "nameAr": "بوما",
+        "nameEn": "Puma",
+        "aliases": [
+          "بوما",
+          "Puma"
+        ]
+      },
+      {
+        "id": "c184-a4",
+        "rank": 4,
+        "nameAr": "ريبوك",
+        "nameEn": "Reebok",
+        "aliases": [
+          "ريبوك",
+          "Reebok"
+        ]
+      },
+      {
+        "id": "c184-a5",
+        "rank": 5,
+        "nameAr": "أندر آرمر",
+        "nameEn": "Under Armour",
+        "aliases": [
+          "أندر آرمر",
+          "Under Armour"
+        ]
+      },
+      {
+        "id": "c184-a6",
+        "rank": 6,
+        "nameAr": "نيو بالانس",
+        "nameEn": "New Balance",
+        "aliases": [
+          "نيو بالانس",
+          "New Balance"
+        ]
+      },
+      {
+        "id": "c184-a7",
+        "rank": 7,
+        "nameAr": "أسكس",
+        "nameEn": "Asics",
+        "aliases": [
+          "أسكس",
+          "Asics",
+          "ASICS",
+          "اسيكس"
+        ]
+      },
+      {
+        "id": "c184-a8",
+        "rank": 8,
+        "nameAr": "فيلا",
+        "nameEn": "Fila",
+        "aliases": [
+          "فيلا",
+          "Fila"
+        ]
+      },
+      {
+        "id": "c184-a9",
+        "rank": 9,
+        "nameAr": "سكيتشرز",
+        "nameEn": "Skechers",
+        "aliases": [
+          "سكيتشرز",
+          "Skechers"
+        ]
+      },
+      {
+        "id": "c184-a10",
+        "rank": 10,
+        "nameAr": "كونفرس",
+        "nameEn": "Converse",
+        "aliases": [
+          "كونفرس",
+          "Converse"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c184-d1",
+        "nameAr": "أمبرو",
+        "nameEn": "Umbro",
+        "aliases": [
+          "أمبرو",
+          "Umbro"
+        ]
+      },
+      {
+        "id": "c184-d2",
+        "nameAr": "كابا",
+        "nameEn": "Kappa",
+        "aliases": [
+          "كابا",
+          "Kappa"
+        ]
+      },
+      {
+        "id": "c184-d3",
+        "nameAr": "لوتو",
+        "nameEn": "Lotto",
+        "aliases": [
+          "لوتو",
+          "Lotto"
+        ]
+      },
+      {
+        "id": "c184-d4",
+        "nameAr": "ميزونو",
+        "nameEn": "Mizuno",
+        "aliases": [
+          "ميزونو",
+          "Mizuno"
+        ]
+      },
+      {
+        "id": "c184-d5",
+        "nameAr": "ديادورا",
+        "nameEn": "Diadora",
+        "aliases": [
+          "ديادورا",
+          "Diadora"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "title": "ماركات سيارات مشهورة",
+    "group": "ماركات وتطبيقات",
+    "icon": "🏷️",
+    "description": "تحدّي سهل من أسماء مألوفة. ",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. ",
+    "source": {
+      "title": "ويكيبيديا",
+      "url": "https://en.wikipedia.org/wiki/List_of_car_brands",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "brands",
+    "answers": [
+      {
+        "id": "c185-a1",
+        "rank": 1,
+        "nameAr": "تويوتا",
+        "nameEn": "Toyota",
+        "aliases": [
+          "تويوتا",
+          "Toyota"
+        ]
+      },
+      {
+        "id": "c185-a2",
+        "rank": 2,
+        "nameAr": "بي إم دبليو",
+        "nameEn": "BMW",
+        "aliases": [
+          "بي إم دبليو",
+          "BMW",
+          "بي ام دبليو"
+        ]
+      },
+      {
+        "id": "c185-a3",
+        "rank": 3,
+        "nameAr": "مرسيدس بنز",
+        "nameEn": "Mercedes-Benz",
+        "aliases": [
+          "مرسيدس بنز",
+          "Mercedes-Benz",
+          "مرسيدس",
+          "Mercedes"
+        ]
+      },
+      {
+        "id": "c185-a4",
+        "rank": 4,
+        "nameAr": "أودي",
+        "nameEn": "Audi",
+        "aliases": [
+          "أودي",
+          "Audi"
+        ]
+      },
+      {
+        "id": "c185-a5",
+        "rank": 5,
+        "nameAr": "هوندا",
+        "nameEn": "Honda",
+        "aliases": [
+          "هوندا",
+          "Honda"
+        ]
+      },
+      {
+        "id": "c185-a6",
+        "rank": 6,
+        "nameAr": "فورد",
+        "nameEn": "Ford",
+        "aliases": [
+          "فورد",
+          "Ford"
+        ]
+      },
+      {
+        "id": "c185-a7",
+        "rank": 7,
+        "nameAr": "شيفروليه",
+        "nameEn": "Chevrolet",
+        "aliases": [
+          "شيفروليه",
+          "Chevrolet",
+          "شفروليه",
+          "Chevy"
+        ]
+      },
+      {
+        "id": "c185-a8",
+        "rank": 8,
+        "nameAr": "هيونداي",
+        "nameEn": "Hyundai",
+        "aliases": [
+          "هيونداي",
+          "Hyundai",
+          "هونداي"
+        ]
+      },
+      {
+        "id": "c185-a9",
+        "rank": 9,
+        "nameAr": "كيا",
+        "nameEn": "Kia",
+        "aliases": [
+          "كيا",
+          "Kia"
+        ]
+      },
+      {
+        "id": "c185-a10",
+        "rank": 10,
+        "nameAr": "تسلا",
+        "nameEn": "Tesla",
+        "aliases": [
+          "تسلا",
+          "Tesla"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c185-d1",
+        "nameAr": "نيسان",
+        "nameEn": "Nissan",
+        "aliases": [
+          "نيسان",
+          "Nissan"
+        ]
+      },
+      {
+        "id": "c185-d2",
+        "nameAr": "مازدا",
+        "nameEn": "Mazda",
+        "aliases": [
+          "مازدا",
+          "Mazda"
+        ]
+      },
+      {
+        "id": "c185-d3",
+        "nameAr": "بورشه",
+        "nameEn": "Porsche",
+        "aliases": [
+          "بورشه",
+          "Porsche"
+        ]
+      },
+      {
+        "id": "c185-d4",
+        "nameAr": "فيراري",
+        "nameEn": "Ferrari",
+        "aliases": [
+          "فيراري",
+          "Ferrari"
+        ]
+      },
+      {
+        "id": "c185-d5",
+        "nameAr": "لامبورغيني",
+        "nameEn": "Lamborghini",
+        "aliases": [
+          "لامبورغيني",
+          "Lamborghini"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "title": "ماركات هواتف مشهورة",
+    "group": "ماركات وتطبيقات",
+    "icon": "🏷️",
+    "description": "تحدّي سهل من أسماء مألوفة. تشمل أسماء تجارية معروفة تاريخيًا؛ لا تعني أن كل علامة تطرح هواتف جديدة الآن.",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. تشمل أسماء تجارية معروفة تاريخيًا؛ لا تعني أن كل علامة تطرح هواتف جديدة الآن.",
+    "source": {
+      "title": "ويكيبيديا",
+      "url": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "brands",
+    "answers": [
+      {
+        "id": "c186-a1",
+        "rank": 1,
+        "nameAr": "آبل",
+        "nameEn": "Apple",
+        "aliases": [
+          "آبل",
+          "Apple",
+          "ابل",
+          "أبل",
+          "Apple Inc."
+        ]
+      },
+      {
+        "id": "c186-a2",
+        "rank": 2,
+        "nameAr": "سامسونغ",
+        "nameEn": "Samsung",
+        "aliases": [
+          "سامسونغ",
+          "Samsung",
+          "سامسونج",
+          "Samsung Group"
+        ]
+      },
+      {
+        "id": "c186-a3",
+        "rank": 3,
+        "nameAr": "شاومي",
+        "nameEn": "Xiaomi",
+        "aliases": [
+          "شاومي",
+          "Xiaomi"
+        ]
+      },
+      {
+        "id": "c186-a4",
+        "rank": 4,
+        "nameAr": "هواوي",
+        "nameEn": "Huawei",
+        "aliases": [
+          "هواوي",
+          "Huawei"
+        ]
+      },
+      {
+        "id": "c186-a5",
+        "rank": 5,
+        "nameAr": "أوبو",
+        "nameEn": "Oppo",
+        "aliases": [
+          "أوبو",
+          "Oppo"
+        ]
+      },
+      {
+        "id": "c186-a6",
+        "rank": 6,
+        "nameAr": "فيفو",
+        "nameEn": "Vivo",
+        "aliases": [
+          "فيفو",
+          "Vivo"
+        ]
+      },
+      {
+        "id": "c186-a7",
+        "rank": 7,
+        "nameAr": "ون بلس",
+        "nameEn": "OnePlus",
+        "aliases": [
+          "ون بلس",
+          "OnePlus",
+          "One Plus"
+        ]
+      },
+      {
+        "id": "c186-a8",
+        "rank": 8,
+        "nameAr": "نوكيا",
+        "nameEn": "Nokia",
+        "aliases": [
+          "نوكيا",
+          "Nokia"
+        ]
+      },
+      {
+        "id": "c186-a9",
+        "rank": 9,
+        "nameAr": "موتورولا",
+        "nameEn": "Motorola",
+        "aliases": [
+          "موتورولا",
+          "Motorola"
+        ]
+      },
+      {
+        "id": "c186-a10",
+        "rank": 10,
+        "nameAr": "سوني",
+        "nameEn": "Sony",
+        "aliases": [
+          "سوني",
+          "Sony"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c186-d1",
+        "nameAr": "ريلمي",
+        "nameEn": "Realme",
+        "aliases": [
+          "ريلمي",
+          "Realme"
+        ]
+      },
+      {
+        "id": "c186-d2",
+        "nameAr": "هونر",
+        "nameEn": "Honor",
+        "aliases": [
+          "هونر",
+          "Honor"
+        ]
+      },
+      {
+        "id": "c186-d3",
+        "nameAr": "أسوس",
+        "nameEn": "Asus",
+        "aliases": [
+          "أسوس",
+          "Asus"
+        ]
+      },
+      {
+        "id": "c186-d4",
+        "nameAr": "زد تي إي",
+        "nameEn": "ZTE",
+        "aliases": [
+          "زد تي إي",
+          "ZTE"
+        ]
+      },
+      {
+        "id": "c186-d5",
+        "nameAr": "بلاك بيري",
+        "nameEn": "BlackBerry",
+        "aliases": [
+          "بلاك بيري",
+          "BlackBerry"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "title": "تطبيقات تواصل مشهورة",
+    "group": "ماركات وتطبيقات",
+    "icon": "🏷️",
+    "description": "تحدّي سهل من أسماء مألوفة. ",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. ",
+    "source": {
+      "title": "ويكيبيديا",
+      "url": "https://en.wikipedia.org/wiki/Social_media",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "apps",
+    "answers": [
+      {
+        "id": "c187-a1",
+        "rank": 1,
+        "nameAr": "يوتيوب",
+        "nameEn": "YouTube",
+        "aliases": [
+          "يوتيوب",
+          "YouTube",
+          "يوتوب",
+          "يو تيوب"
+        ]
+      },
+      {
+        "id": "c187-a2",
+        "rank": 2,
+        "nameAr": "إنستغرام",
+        "nameEn": "Instagram",
+        "aliases": [
+          "إنستغرام",
+          "Instagram",
+          "انستقرام",
+          "انستجرام",
+          "انستا",
+          "انستغرام",
+          "Insta"
+        ]
+      },
+      {
+        "id": "c187-a3",
+        "rank": 3,
+        "nameAr": "تيك توك",
+        "nameEn": "TikTok",
+        "aliases": [
+          "تيك توك",
+          "TikTok",
+          "تيكتوك",
+          "Tik Tok"
+        ]
+      },
+      {
+        "id": "c187-a4",
+        "rank": 4,
+        "nameAr": "سناب شات",
+        "nameEn": "Snapchat",
+        "aliases": [
+          "سناب شات",
+          "Snapchat",
+          "سناب",
+          "سنابشات",
+          "Snap"
+        ]
+      },
+      {
+        "id": "c187-a5",
+        "rank": 5,
+        "nameAr": "واتساب",
+        "nameEn": "WhatsApp",
+        "aliases": [
+          "واتساب",
+          "WhatsApp",
+          "واتس اب",
+          "واتس",
+          "Whats App"
+        ]
+      },
+      {
+        "id": "c187-a6",
+        "rank": 6,
+        "nameAr": "فيسبوك",
+        "nameEn": "Facebook",
+        "aliases": [
+          "فيسبوك",
+          "Facebook",
+          "فيس بوك"
+        ]
+      },
+      {
+        "id": "c187-a7",
+        "rank": 7,
+        "nameAr": "إكس",
+        "nameEn": "X",
+        "aliases": [
+          "إكس",
+          "X",
+          "تويتر",
+          "Twitter",
+          "X Twitter",
+          "x.com"
+        ]
+      },
+      {
+        "id": "c187-a8",
+        "rank": 8,
+        "nameAr": "تيليغرام",
+        "nameEn": "Telegram",
+        "aliases": [
+          "تيليغرام",
+          "Telegram",
+          "تليجرام",
+          "تلغرام"
+        ]
+      },
+      {
+        "id": "c187-a9",
+        "rank": 9,
+        "nameAr": "ديسكورد",
+        "nameEn": "Discord",
+        "aliases": [
+          "ديسكورد",
+          "Discord"
+        ]
+      },
+      {
+        "id": "c187-a10",
+        "rank": 10,
+        "nameAr": "ريديت",
+        "nameEn": "Reddit",
+        "aliases": [
+          "ريديت",
+          "Reddit",
+          "رديت"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c187-d1",
+        "nameAr": "بينترست",
+        "nameEn": "Pinterest",
+        "aliases": [
+          "بينترست",
+          "Pinterest"
+        ]
+      },
+      {
+        "id": "c187-d2",
+        "nameAr": "لينكد إن",
+        "nameEn": "LinkedIn",
+        "aliases": [
+          "لينكد إن",
+          "LinkedIn"
+        ]
+      },
+      {
+        "id": "c187-d3",
+        "nameAr": "وي تشات",
+        "nameEn": "WeChat",
+        "aliases": [
+          "وي تشات",
+          "WeChat"
+        ]
+      },
+      {
+        "id": "c187-d4",
+        "nameAr": "تمبلر",
+        "nameEn": "Tumblr",
+        "aliases": [
+          "تمبلر",
+          "Tumblr"
+        ]
+      },
+      {
+        "id": "c187-d5",
+        "nameAr": "ماستودون",
+        "nameEn": "Mastodon",
+        "aliases": [
+          "ماستودون",
+          "Mastodon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "title": "صنّاع محتوى وقنوات يوتيوب عالمية مشهورة",
+    "group": "ماركات وتطبيقات",
+    "icon": "🏷️",
+    "description": "تحدّي سهل من أسماء مألوفة. تضم أفرادًا وقنوات جماعية؛ الاختيار لا يعتمد على عدد المشتركين.",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. تضم أفرادًا وقنوات جماعية؛ الاختيار لا يعتمد على عدد المشتركين.",
+    "source": {
+      "title": "ويكيبيديا",
+      "url": "https://en.wikipedia.org/wiki/List_of_YouTubers",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "artists",
+    "answers": [
+      {
+        "id": "c188-a1",
+        "rank": 1,
+        "nameAr": "مستر بيست",
+        "nameEn": "MrBeast",
+        "aliases": [
+          "مستر بيست",
+          "MrBeast",
+          "Mr Beast"
+        ]
+      },
+      {
+        "id": "c188-a2",
+        "rank": 2,
+        "nameAr": "بيو دي باي",
+        "nameEn": "PewDiePie",
+        "aliases": [
+          "بيو دي باي",
+          "PewDiePie",
+          "بيوديباي"
+        ]
+      },
+      {
+        "id": "c188-a3",
+        "rank": 3,
+        "nameAr": "ماركيبلاير",
+        "nameEn": "Markiplier",
+        "aliases": [
+          "ماركيبلاير",
+          "Markiplier"
+        ]
+      },
+      {
+        "id": "c188-a4",
+        "rank": 4,
+        "nameAr": "جاك سبتيك آي",
+        "nameEn": "Jacksepticeye",
+        "aliases": [
+          "جاك سبتيك آي",
+          "Jacksepticeye",
+          "جاكسبتيكاي"
+        ]
+      },
+      {
+        "id": "c188-a5",
+        "rank": 5,
+        "nameAr": "دود بيرفكت",
+        "nameEn": "Dude Perfect",
+        "aliases": [
+          "دود بيرفكت",
+          "Dude Perfect"
+        ]
+      },
+      {
+        "id": "c188-a6",
+        "rank": 6,
+        "nameAr": "كي إس آي",
+        "nameEn": "KSI",
+        "aliases": [
+          "كي إس آي",
+          "KSI",
+          "كي اس اي"
+        ]
+      },
+      {
+        "id": "c188-a7",
+        "rank": 7,
+        "nameAr": "جيك بول",
+        "nameEn": "Jake Paul",
+        "aliases": [
+          "جيك بول",
+          "Jake Paul",
+          "جيك باول"
+        ]
+      },
+      {
+        "id": "c188-a8",
+        "rank": 8,
+        "nameAr": "لوغان بول",
+        "nameEn": "Logan Paul",
+        "aliases": [
+          "لوغان بول",
+          "Logan Paul",
+          "لوجان بول"
+        ]
+      },
+      {
+        "id": "c188-a9",
+        "rank": 9,
+        "nameAr": "آي شو سبيد",
+        "nameEn": "IShowSpeed",
+        "aliases": [
+          "آي شو سبيد",
+          "IShowSpeed",
+          "سبيد",
+          "Speed",
+          "اي شو سبيد"
+        ]
+      },
+      {
+        "id": "c188-a10",
+        "rank": 10,
+        "nameAr": "رايان تراهان",
+        "nameEn": "Ryan Trahan",
+        "aliases": [
+          "رايان تراهان",
+          "Ryan Trahan"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c188-d1",
+        "nameAr": "ماركوس براونلي",
+        "nameEn": "Marques Brownlee",
+        "aliases": [
+          "ماركوس براونلي",
+          "Marques Brownlee"
+        ]
+      },
+      {
+        "id": "c188-d2",
+        "nameAr": "لينوس تيك تيبس",
+        "nameEn": "Linus Tech Tips",
+        "aliases": [
+          "لينوس تيك تيبس",
+          "Linus Tech Tips"
+        ]
+      },
+      {
+        "id": "c188-d3",
+        "nameAr": "كيسي نايستات",
+        "nameEn": "Casey Neistat",
+        "aliases": [
+          "كيسي نايستات",
+          "Casey Neistat"
+        ]
+      },
+      {
+        "id": "c188-d4",
+        "nameAr": "دان تي دي إم",
+        "nameEn": "DanTDM",
+        "aliases": [
+          "دان تي دي إم",
+          "DanTDM"
+        ]
+      },
+      {
+        "id": "c188-d5",
+        "nameAr": "مستر هوز ذا بوس",
+        "nameEn": "Mrwhosetheboss",
+        "aliases": [
+          "مستر هوز ذا بوس",
+          "Mrwhosetheboss"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "title": "أندية كرة قدم عالمية مشهورة",
+    "group": "الرياضة",
+    "icon": "🏆",
+    "description": "تحدّي سهل من أسماء مألوفة. ",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. ",
+    "source": {
+      "title": "UEFA — أرشيف الأندية",
+      "url": "https://www.uefa.com/uefachampionsleague/history/clubs/",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "clubs",
+    "answers": [
+      {
+        "id": "c189-a1",
+        "rank": 1,
+        "nameAr": "ريال مدريد",
+        "nameEn": "Real Madrid",
+        "aliases": [
+          "ريال مدريد",
+          "Real Madrid",
+          "Real",
+          "ريال",
+          "الريال"
+        ]
+      },
+      {
+        "id": "c189-a2",
+        "rank": 2,
+        "nameAr": "برشلونة",
+        "nameEn": "Barcelona",
+        "aliases": [
+          "برشلونة",
+          "Barcelona",
+          "FC Barcelona",
+          "برسا",
+          "Barca",
+          "برشا"
+        ]
+      },
+      {
+        "id": "c189-a3",
+        "rank": 3,
+        "nameAr": "مانشستر يونايتد",
+        "nameEn": "Manchester United",
+        "aliases": [
+          "مانشستر يونايتد",
+          "Manchester United",
+          "Man Utd",
+          "مان يونايتد",
+          "Man United",
+          "اليونايتد"
+        ]
+      },
+      {
+        "id": "c189-a4",
+        "rank": 4,
+        "nameAr": "ليفربول",
+        "nameEn": "Liverpool",
+        "aliases": [
+          "ليفربول",
+          "Liverpool"
+        ]
+      },
+      {
+        "id": "c189-a5",
+        "rank": 5,
+        "nameAr": "مانشستر سيتي",
+        "nameEn": "Manchester City",
+        "aliases": [
+          "مانشستر سيتي",
+          "Manchester City",
+          "Man City",
+          "مان سيتي"
+        ]
+      },
+      {
+        "id": "c189-a6",
+        "rank": 6,
+        "nameAr": "تشيلسي",
+        "nameEn": "Chelsea",
+        "aliases": [
+          "تشيلسي",
+          "Chelsea"
+        ]
+      },
+      {
+        "id": "c189-a7",
+        "rank": 7,
+        "nameAr": "أرسنال",
+        "nameEn": "Arsenal",
+        "aliases": [
+          "أرسنال",
+          "Arsenal"
+        ]
+      },
+      {
+        "id": "c189-a8",
+        "rank": 8,
+        "nameAr": "بايرن ميونخ",
+        "nameEn": "Bayern Munich",
+        "aliases": [
+          "بايرن ميونخ",
+          "Bayern Munich",
+          "Bayern Munchen",
+          "بايرن",
+          "Bayern",
+          "بايرن ميونيخ"
+        ]
+      },
+      {
+        "id": "c189-a9",
+        "rank": 9,
+        "nameAr": "باريس سان جيرمان",
+        "nameEn": "Paris Saint-Germain",
+        "aliases": [
+          "باريس سان جيرمان",
+          "Paris Saint-Germain",
+          "PSG",
+          "باريس"
+        ]
+      },
+      {
+        "id": "c189-a10",
+        "rank": 10,
+        "nameAr": "إيه سي ميلان",
+        "nameEn": "AC Milan",
+        "aliases": [
+          "إيه سي ميلان",
+          "AC Milan",
+          "Milan",
+          "ميلان"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c189-d1",
+        "nameAr": "يوفنتوس",
+        "nameEn": "Juventus",
+        "aliases": [
+          "يوفنتوس",
+          "Juventus"
+        ]
+      },
+      {
+        "id": "c189-d2",
+        "nameAr": "إنتر ميلان",
+        "nameEn": "Inter Milan",
+        "aliases": [
+          "إنتر ميلان",
+          "Inter Milan"
+        ]
+      },
+      {
+        "id": "c189-d3",
+        "nameAr": "أتلتيكو مدريد",
+        "nameEn": "Atletico Madrid",
+        "aliases": [
+          "أتلتيكو مدريد",
+          "Atletico Madrid"
+        ]
+      },
+      {
+        "id": "c189-d4",
+        "nameAr": "بوروسيا دورتموند",
+        "nameEn": "Borussia Dortmund",
+        "aliases": [
+          "بوروسيا دورتموند",
+          "Borussia Dortmund"
+        ]
+      },
+      {
+        "id": "c189-d5",
+        "nameAr": "بنفيكا",
+        "nameEn": "Benfica",
+        "aliases": [
+          "بنفيكا",
+          "Benfica"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "title": "نجوم كرة قدم عالميون مشهورون",
+    "group": "الرياضة",
+    "icon": "🏆",
+    "description": "تحدّي سهل من أسماء مألوفة. المرجع يُستخدم للتعريف باللاعبين، وليس لترتيب مراكز هذا التحدّي.",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. المرجع يُستخدم للتعريف باللاعبين، وليس لترتيب مراكز هذا التحدّي.",
+    "source": {
+      "title": "ويكيبيديا",
+      "url": "https://en.wikipedia.org/wiki/List_of_men%27s_footballers_with_50_or_more_international_goals",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "athletes",
+    "answers": [
+      {
+        "id": "c190-a1",
+        "rank": 1,
+        "nameAr": "كريستيانو رونالدو",
+        "nameEn": "Cristiano Ronaldo",
+        "aliases": [
+          "كريستيانو رونالدو",
+          "Cristiano Ronaldo",
+          "كريستيانو",
+          "CR7",
+          "رونالدو البرتغالي",
+          "Cristiano",
+          "كرستيانو"
+        ]
+      },
+      {
+        "id": "c190-a2",
+        "rank": 2,
+        "nameAr": "ليونيل ميسي",
+        "nameEn": "Lionel Messi",
+        "aliases": [
+          "ليونيل ميسي",
+          "Lionel Messi",
+          "ميسي",
+          "Messi",
+          "ليونيل مسي"
+        ]
+      },
+      {
+        "id": "c190-a3",
+        "rank": 3,
+        "nameAr": "كيليان مبابي",
+        "nameEn": "Kylian Mbappé",
+        "aliases": [
+          "كيليان مبابي",
+          "Kylian Mbappé",
+          "Mbappe",
+          "مبابي",
+          "Kylian Mbappe",
+          "امبابي"
+        ]
+      },
+      {
+        "id": "c190-a4",
+        "rank": 4,
+        "nameAr": "إيرلينغ هالاند",
+        "nameEn": "Erling Haaland",
+        "aliases": [
+          "إيرلينغ هالاند",
+          "Erling Haaland",
+          "هالاند",
+          "Haaland",
+          "ارلينج هالاند"
+        ]
+      },
+      {
+        "id": "c190-a5",
+        "rank": 5,
+        "nameAr": "نيمار",
+        "nameEn": "Neymar",
+        "aliases": [
+          "نيمار",
+          "Neymar",
+          "Neymar Jr"
+        ]
+      },
+      {
+        "id": "c190-a6",
+        "rank": 6,
+        "nameAr": "محمد صلاح",
+        "nameEn": "Mohamed Salah",
+        "aliases": [
+          "محمد صلاح",
+          "Mohamed Salah",
+          "Mo Salah",
+          "صلاح"
+        ]
+      },
+      {
+        "id": "c190-a7",
+        "rank": 7,
+        "nameAr": "ساديو ماني",
+        "nameEn": "Sadio Mané",
+        "aliases": [
+          "ساديو ماني",
+          "Sadio Mané",
+          "Sadio Mane",
+          "ماني"
+        ]
+      },
+      {
+        "id": "c190-a8",
+        "rank": 8,
+        "nameAr": "هاري كين",
+        "nameEn": "Harry Kane",
+        "aliases": [
+          "هاري كين",
+          "Harry Kane",
+          "كين",
+          "Kane"
+        ]
+      },
+      {
+        "id": "c190-a9",
+        "rank": 9,
+        "nameAr": "روبرت ليفاندوفسكي",
+        "nameEn": "Robert Lewandowski",
+        "aliases": [
+          "روبرت ليفاندوفسكي",
+          "Robert Lewandowski",
+          "ليفاندوفسكي",
+          "Lewandowski",
+          "ليفاندوسكي"
+        ]
+      },
+      {
+        "id": "c190-a10",
+        "rank": 10,
+        "nameAr": "لويس سواريز",
+        "nameEn": "Luis Suárez",
+        "aliases": [
+          "لويس سواريز",
+          "Luis Suárez",
+          "Luis Suarez",
+          "سواريز"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c190-d1",
+        "nameAr": "أنتوان غريزمان",
+        "nameEn": "Antoine Griezmann",
+        "aliases": [
+          "أنتوان غريزمان",
+          "Antoine Griezmann"
+        ]
+      },
+      {
+        "id": "c190-d2",
+        "nameAr": "سون هيونغ مين",
+        "nameEn": "Son Heung-min",
+        "aliases": [
+          "سون هيونغ مين",
+          "Son Heung-min"
+        ]
+      },
+      {
+        "id": "c190-d3",
+        "nameAr": "روميلو لوكاكو",
+        "nameEn": "Romelu Lukaku",
+        "aliases": [
+          "روميلو لوكاكو",
+          "Romelu Lukaku"
+        ]
+      },
+      {
+        "id": "c190-d4",
+        "nameAr": "زلاتان إبراهيموفيتش",
+        "nameEn": "Zlatan Ibrahimovic",
+        "aliases": [
+          "زلاتان إبراهيموفيتش",
+          "Zlatan Ibrahimovic"
+        ]
+      },
+      {
+        "id": "c190-d5",
+        "nameAr": "واين روني",
+        "nameEn": "Wayne Rooney",
+        "aliases": [
+          "واين روني",
+          "Wayne Rooney"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "title": "رياضات عالمية مشهورة",
+    "group": "الرياضة",
+    "icon": "🏆",
+    "description": "تحدّي سهل من أسماء مألوفة. ",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. ",
+    "source": {
+      "title": "LA28 — دليل الرياضات",
+      "url": "https://la28.org/en/games-plan/olympics.html",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "sports",
+    "answers": [
+      {
+        "id": "c191-a1",
+        "rank": 1,
+        "nameAr": "كرة القدم",
+        "nameEn": "Association football",
+        "aliases": [
+          "كرة القدم",
+          "Association football",
+          "Football",
+          "Soccer"
+        ]
+      },
+      {
+        "id": "c191-a2",
+        "rank": 2,
+        "nameAr": "كرة السلة",
+        "nameEn": "Basketball",
+        "aliases": [
+          "كرة السلة",
+          "Basketball"
+        ]
+      },
+      {
+        "id": "c191-a3",
+        "rank": 3,
+        "nameAr": "التنس",
+        "nameEn": "Tennis",
+        "aliases": [
+          "التنس",
+          "Tennis",
+          "كرة المضرب"
+        ]
+      },
+      {
+        "id": "c191-a4",
+        "rank": 4,
+        "nameAr": "الكرة الطائرة",
+        "nameEn": "Volleyball",
+        "aliases": [
+          "الكرة الطائرة",
+          "Volleyball"
+        ]
+      },
+      {
+        "id": "c191-a5",
+        "rank": 5,
+        "nameAr": "السباحة",
+        "nameEn": "Swimming",
+        "aliases": [
+          "السباحة",
+          "Swimming"
+        ]
+      },
+      {
+        "id": "c191-a6",
+        "rank": 6,
+        "nameAr": "الملاكمة",
+        "nameEn": "Boxing",
+        "aliases": [
+          "الملاكمة",
+          "Boxing"
+        ]
+      },
+      {
+        "id": "c191-a7",
+        "rank": 7,
+        "nameAr": "الكريكت",
+        "nameEn": "Cricket",
+        "aliases": [
+          "الكريكت",
+          "Cricket",
+          "كريكيت"
+        ]
+      },
+      {
+        "id": "c191-a8",
+        "rank": 8,
+        "nameAr": "الغولف",
+        "nameEn": "Golf",
+        "aliases": [
+          "الغولف",
+          "Golf",
+          "جولف"
+        ]
+      },
+      {
+        "id": "c191-a9",
+        "rank": 9,
+        "nameAr": "تنس الطاولة",
+        "nameEn": "Table tennis",
+        "aliases": [
+          "تنس الطاولة",
+          "Table tennis",
+          "Ping pong",
+          "بينغ بونغ"
+        ]
+      },
+      {
+        "id": "c191-a10",
+        "rank": 10,
+        "nameAr": "الريشة الطائرة",
+        "nameEn": "Badminton",
+        "aliases": [
+          "الريشة الطائرة",
+          "Badminton"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c191-d1",
+        "nameAr": "الهوكي",
+        "nameEn": "Hockey",
+        "aliases": [
+          "الهوكي",
+          "Hockey"
+        ]
+      },
+      {
+        "id": "c191-d2",
+        "nameAr": "الرغبي",
+        "nameEn": "Rugby",
+        "aliases": [
+          "الرغبي",
+          "Rugby"
+        ]
+      },
+      {
+        "id": "c191-d3",
+        "nameAr": "الجمباز",
+        "nameEn": "Gymnastics",
+        "aliases": [
+          "الجمباز",
+          "Gymnastics"
+        ]
+      },
+      {
+        "id": "c191-d4",
+        "nameAr": "الرماية",
+        "nameEn": "Shooting",
+        "aliases": [
+          "الرماية",
+          "Shooting"
+        ]
+      },
+      {
+        "id": "c191-d5",
+        "nameAr": "المبارزة",
+        "nameEn": "Fencing",
+        "aliases": [
+          "المبارزة",
+          "Fencing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "title": "معالم سياحية عالمية أيقونية",
+    "group": "سفر ومعالم",
+    "icon": "🌍",
+    "description": "تحدّي سهل من أسماء مألوفة. المرجع يعرض معالم وفائزين ومرشحين؛ مراكز التحدّي لا تنقل نتيجة التصويت.",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. المرجع يعرض معالم وفائزين ومرشحين؛ مراكز التحدّي لا تنقل نتيجة التصويت.",
+    "source": {
+      "title": "ويكيبيديا",
+      "url": "https://en.wikipedia.org/wiki/New_7_Wonders_of_the_World",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "landmarks",
+    "answers": [
+      {
+        "id": "c192-a1",
+        "rank": 1,
+        "nameAr": "برج إيفل",
+        "nameEn": "Eiffel Tower",
+        "aliases": [
+          "برج إيفل",
+          "Eiffel Tower",
+          "برج ايفل"
+        ]
+      },
+      {
+        "id": "c192-a2",
+        "rank": 2,
+        "nameAr": "تاج محل",
+        "nameEn": "Taj Mahal",
+        "aliases": [
+          "تاج محل",
+          "Taj Mahal"
+        ]
+      },
+      {
+        "id": "c192-a3",
+        "rank": 3,
+        "nameAr": "سور الصين العظيم",
+        "nameEn": "Great Wall of China",
+        "aliases": [
+          "سور الصين العظيم",
+          "Great Wall of China",
+          "سور الصين",
+          "Great Wall"
+        ]
+      },
+      {
+        "id": "c192-a4",
+        "rank": 4,
+        "nameAr": "أهرامات الجيزة",
+        "nameEn": "Pyramids of Giza",
+        "aliases": [
+          "أهرامات الجيزة",
+          "Pyramids of Giza",
+          "اهرامات مصر",
+          "Giza pyramids",
+          "Giza Necropolis"
+        ]
+      },
+      {
+        "id": "c192-a5",
+        "rank": 5,
+        "nameAr": "تمثال الحرية",
+        "nameEn": "Statue of Liberty",
+        "aliases": [
+          "تمثال الحرية",
+          "Statue of Liberty"
+        ]
+      },
+      {
+        "id": "c192-a6",
+        "rank": 6,
+        "nameAr": "الكولوسيوم",
+        "nameEn": "Colosseum",
+        "aliases": [
+          "الكولوسيوم",
+          "Colosseum",
+          "كولوسيوم"
+        ]
+      },
+      {
+        "id": "c192-a7",
+        "rank": 7,
+        "nameAr": "البتراء",
+        "nameEn": "Petra",
+        "aliases": [
+          "البتراء",
+          "Petra",
+          "بترا",
+          "البترا"
+        ]
+      },
+      {
+        "id": "c192-a8",
+        "rank": 8,
+        "nameAr": "ماتشو بيتشو",
+        "nameEn": "Machu Picchu",
+        "aliases": [
+          "ماتشو بيتشو",
+          "Machu Picchu"
+        ]
+      },
+      {
+        "id": "c192-a9",
+        "rank": 9,
+        "nameAr": "تمثال المسيح الفادي",
+        "nameEn": "Christ the Redeemer",
+        "aliases": [
+          "تمثال المسيح الفادي",
+          "Christ the Redeemer",
+          "المسيح الفادي"
+        ]
+      },
+      {
+        "id": "c192-a10",
+        "rank": 10,
+        "nameAr": "دار أوبرا سيدني",
+        "nameEn": "Sydney Opera House",
+        "aliases": [
+          "دار أوبرا سيدني",
+          "Sydney Opera House",
+          "اوبرا سيدني"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c192-d1",
+        "nameAr": "أنغكور وات",
+        "nameEn": "Angkor Wat",
+        "aliases": [
+          "أنغكور وات",
+          "Angkor Wat"
+        ]
+      },
+      {
+        "id": "c192-d2",
+        "nameAr": "آيا صوفيا",
+        "nameEn": "Hagia Sophia",
+        "aliases": [
+          "آيا صوفيا",
+          "Hagia Sophia"
+        ]
+      },
+      {
+        "id": "c192-d3",
+        "nameAr": "الأكروبوليس",
+        "nameEn": "Acropolis of Athens",
+        "aliases": [
+          "الأكروبوليس",
+          "Acropolis of Athens"
+        ]
+      },
+      {
+        "id": "c192-d4",
+        "nameAr": "تماثيل مواي",
+        "nameEn": "Moai",
+        "aliases": [
+          "تماثيل مواي",
+          "Moai"
+        ]
+      },
+      {
+        "id": "c192-d5",
+        "nameAr": "قلعة نويشفانشتاين",
+        "nameEn": "Neuschwanstein Castle",
+        "aliases": [
+          "قلعة نويشفانشتاين",
+          "Neuschwanstein Castle"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "title": "مدن أوروبية مشهورة",
+    "group": "سفر ومعالم",
+    "icon": "🌍",
+    "description": "تحدّي سهل من أسماء مألوفة. ",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. ",
+    "source": {
+      "title": "ويكيبيديا",
+      "url": "https://en.wikipedia.org/wiki/List_of_metropolitan_areas_in_Europe",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "cities",
+    "answers": [
+      {
+        "id": "c193-a1",
+        "rank": 1,
+        "nameAr": "باريس",
+        "nameEn": "Paris",
+        "aliases": [
+          "باريس",
+          "Paris"
+        ]
+      },
+      {
+        "id": "c193-a2",
+        "rank": 2,
+        "nameAr": "لندن",
+        "nameEn": "London",
+        "aliases": [
+          "لندن",
+          "London"
+        ]
+      },
+      {
+        "id": "c193-a3",
+        "rank": 3,
+        "nameAr": "روما",
+        "nameEn": "Rome",
+        "aliases": [
+          "روما",
+          "Rome",
+          "Roma"
+        ]
+      },
+      {
+        "id": "c193-a4",
+        "rank": 4,
+        "nameAr": "برشلونة",
+        "nameEn": "Barcelona",
+        "aliases": [
+          "برشلونة",
+          "Barcelona",
+          "Barca",
+          "برسا",
+          "برشا"
+        ]
+      },
+      {
+        "id": "c193-a5",
+        "rank": 5,
+        "nameAr": "مدريد",
+        "nameEn": "Madrid",
+        "aliases": [
+          "مدريد",
+          "Madrid"
+        ]
+      },
+      {
+        "id": "c193-a6",
+        "rank": 6,
+        "nameAr": "أمستردام",
+        "nameEn": "Amsterdam",
+        "aliases": [
+          "أمستردام",
+          "Amsterdam"
+        ]
+      },
+      {
+        "id": "c193-a7",
+        "rank": 7,
+        "nameAr": "برلين",
+        "nameEn": "Berlin",
+        "aliases": [
+          "برلين",
+          "Berlin"
+        ]
+      },
+      {
+        "id": "c193-a8",
+        "rank": 8,
+        "nameAr": "براغ",
+        "nameEn": "Prague",
+        "aliases": [
+          "براغ",
+          "Prague",
+          "Praha"
+        ]
+      },
+      {
+        "id": "c193-a9",
+        "rank": 9,
+        "nameAr": "فيينا",
+        "nameEn": "Vienna",
+        "aliases": [
+          "فيينا",
+          "Vienna",
+          "Wien"
+        ]
+      },
+      {
+        "id": "c193-a10",
+        "rank": 10,
+        "nameAr": "لشبونة",
+        "nameEn": "Lisbon",
+        "aliases": [
+          "لشبونة",
+          "Lisbon",
+          "Lisboa"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c193-d1",
+        "nameAr": "ميلانو",
+        "nameEn": "Milan",
+        "aliases": [
+          "ميلانو",
+          "Milan"
+        ]
+      },
+      {
+        "id": "c193-d2",
+        "nameAr": "أثينا",
+        "nameEn": "Athens",
+        "aliases": [
+          "أثينا",
+          "Athens"
+        ]
+      },
+      {
+        "id": "c193-d3",
+        "nameAr": "بروكسل",
+        "nameEn": "Brussels",
+        "aliases": [
+          "بروكسل",
+          "Brussels"
+        ]
+      },
+      {
+        "id": "c193-d4",
+        "nameAr": "بودابست",
+        "nameEn": "Budapest",
+        "aliases": [
+          "بودابست",
+          "Budapest"
+        ]
+      },
+      {
+        "id": "c193-d5",
+        "nameAr": "دبلن",
+        "nameEn": "Dublin",
+        "aliases": [
+          "دبلن",
+          "Dublin"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "title": "مدن سياحية آسيوية مشهورة",
+    "group": "سفر ومعالم",
+    "icon": "🌍",
+    "description": "تحدّي سهل من أسماء مألوفة. تشمل سنغافورة المدينة الدولة وهونغ كونغ، وإسطنبول العابرة للقارات.",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. تشمل سنغافورة المدينة الدولة وهونغ كونغ، وإسطنبول العابرة للقارات.",
+    "source": {
+      "title": "ويكيبيديا",
+      "url": "https://en.wikipedia.org/wiki/List_of_Asian_cities_by_population_within_city_limits",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "cities",
+    "answers": [
+      {
+        "id": "c194-a1",
+        "rank": 1,
+        "nameAr": "طوكيو",
+        "nameEn": "Tokyo",
+        "aliases": [
+          "طوكيو",
+          "Tokyo"
+        ]
+      },
+      {
+        "id": "c194-a2",
+        "rank": 2,
+        "nameAr": "كيوتو",
+        "nameEn": "Kyoto",
+        "aliases": [
+          "كيوتو",
+          "Kyoto"
+        ]
+      },
+      {
+        "id": "c194-a3",
+        "rank": 3,
+        "nameAr": "أوساكا",
+        "nameEn": "Osaka",
+        "aliases": [
+          "أوساكا",
+          "Osaka"
+        ]
+      },
+      {
+        "id": "c194-a4",
+        "rank": 4,
+        "nameAr": "سيول",
+        "nameEn": "Seoul",
+        "aliases": [
+          "سيول",
+          "Seoul",
+          "سول"
+        ]
+      },
+      {
+        "id": "c194-a5",
+        "rank": 5,
+        "nameAr": "بانكوك",
+        "nameEn": "Bangkok",
+        "aliases": [
+          "بانكوك",
+          "Bangkok"
+        ]
+      },
+      {
+        "id": "c194-a6",
+        "rank": 6,
+        "nameAr": "سنغافورة",
+        "nameEn": "Singapore",
+        "aliases": [
+          "سنغافورة",
+          "Singapore"
+        ]
+      },
+      {
+        "id": "c194-a7",
+        "rank": 7,
+        "nameAr": "دبي",
+        "nameEn": "Dubai",
+        "aliases": [
+          "دبي",
+          "Dubai"
+        ]
+      },
+      {
+        "id": "c194-a8",
+        "rank": 8,
+        "nameAr": "إسطنبول",
+        "nameEn": "Istanbul",
+        "aliases": [
+          "إسطنبول",
+          "Istanbul",
+          "اسطنبول",
+          "استنبول"
+        ]
+      },
+      {
+        "id": "c194-a9",
+        "rank": 9,
+        "nameAr": "هونغ كونغ",
+        "nameEn": "Hong Kong",
+        "aliases": [
+          "هونغ كونغ",
+          "Hong Kong",
+          "هونج كونج",
+          "هونغكونغ"
+        ]
+      },
+      {
+        "id": "c194-a10",
+        "rank": 10,
+        "nameAr": "شنغهاي",
+        "nameEn": "Shanghai",
+        "aliases": [
+          "شنغهاي",
+          "Shanghai",
+          "شانغهاي"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c194-d1",
+        "nameAr": "بكين",
+        "nameEn": "Beijing",
+        "aliases": [
+          "بكين",
+          "Beijing"
+        ]
+      },
+      {
+        "id": "c194-d2",
+        "nameAr": "هانوي",
+        "nameEn": "Hanoi",
+        "aliases": [
+          "هانوي",
+          "Hanoi"
+        ]
+      },
+      {
+        "id": "c194-d3",
+        "nameAr": "كوالالمبور",
+        "nameEn": "Kuala Lumpur",
+        "aliases": [
+          "كوالالمبور",
+          "Kuala Lumpur"
+        ]
+      },
+      {
+        "id": "c194-d4",
+        "nameAr": "تايبيه",
+        "nameEn": "Taipei",
+        "aliases": [
+          "تايبيه",
+          "Taipei"
+        ]
+      },
+      {
+        "id": "c194-d5",
+        "nameAr": "مانيلا",
+        "nameEn": "Manila",
+        "aliases": [
+          "مانيلا",
+          "Manila"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "title": "مدن ملاهٍ عالمية مشهورة",
+    "group": "سفر ومعالم",
+    "icon": "🌍",
+    "description": "تحدّي سهل من أسماء مألوفة. كل إجابة حديقة محددة؛ حدّد المدينة أو الفرع عند كتابة اسم سلسلة.",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. كل إجابة حديقة محددة؛ حدّد المدينة أو الفرع عند كتابة اسم سلسلة.",
+    "source": {
+      "title": "ويكيبيديا",
+      "url": "https://en.wikipedia.org/wiki/List_of_amusement_park_rankings",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "parks",
+    "answers": [
+      {
+        "id": "c195-a1",
+        "rank": 1,
+        "nameAr": "ديزني لاند آناهايم",
+        "nameEn": "Disneyland Park (Anaheim)",
+        "aliases": [
+          "ديزني لاند آناهايم",
+          "Disneyland Park (Anaheim)",
+          "Disneyland Anaheim",
+          "ديزني لاند كاليفورنيا"
+        ],
+        "series": "Disneyland",
+        "part": "Anaheim"
+      },
+      {
+        "id": "c195-a2",
+        "rank": 2,
+        "nameAr": "المملكة السحرية",
+        "nameEn": "Magic Kingdom",
+        "aliases": [
+          "المملكة السحرية",
+          "Magic Kingdom",
+          "ماجيك كينغدوم",
+          "المملكة السحرية اورلاندو"
+        ]
+      },
+      {
+        "id": "c195-a3",
+        "rank": 3,
+        "nameAr": "يونيفرسال ستوديوز هوليوود",
+        "nameEn": "Universal Studios Hollywood",
+        "aliases": [
+          "يونيفرسال ستوديوز هوليوود",
+          "Universal Studios Hollywood",
+          "يونيفرسال هوليوود"
+        ],
+        "series": "Universal Studios",
+        "part": "Hollywood"
+      },
+      {
+        "id": "c195-a4",
+        "rank": 4,
+        "nameAr": "يونيفرسال ستوديوز فلوريدا",
+        "nameEn": "Universal Studios Florida",
+        "aliases": [
+          "يونيفرسال ستوديوز فلوريدا",
+          "Universal Studios Florida",
+          "يونيفرسال فلوريدا"
+        ],
+        "series": "Universal Studios",
+        "part": "Florida"
+      },
+      {
+        "id": "c195-a5",
+        "rank": 5,
+        "nameAr": "يونيفرسال ستوديوز اليابان",
+        "nameEn": "Universal Studios Japan",
+        "aliases": [
+          "يونيفرسال ستوديوز اليابان",
+          "Universal Studios Japan",
+          "يونيفرسال اليابان",
+          "USJ"
+        ],
+        "series": "Universal Studios",
+        "part": "Japan"
+      },
+      {
+        "id": "c195-a6",
+        "rank": 6,
+        "nameAr": "طوكيو ديزني لاند",
+        "nameEn": "Tokyo Disneyland",
+        "aliases": [
+          "طوكيو ديزني لاند",
+          "Tokyo Disneyland",
+          "ديزني لاند طوكيو"
+        ],
+        "series": "Disneyland",
+        "part": "Tokyo"
+      },
+      {
+        "id": "c195-a7",
+        "rank": 7,
+        "nameAr": "ديزني لاند باريس",
+        "nameEn": "Disneyland Park (Paris)",
+        "aliases": [
+          "ديزني لاند باريس",
+          "Disneyland Park (Paris)",
+          "Disneyland Paris"
+        ],
+        "series": "Disneyland",
+        "part": "Paris"
+      },
+      {
+        "id": "c195-a8",
+        "rank": 8,
+        "nameAr": "هونغ كونغ ديزني لاند",
+        "nameEn": "Hong Kong Disneyland",
+        "aliases": [
+          "هونغ كونغ ديزني لاند",
+          "Hong Kong Disneyland",
+          "ديزني لاند هونغ كونغ"
+        ],
+        "series": "Disneyland",
+        "part": "Hong Kong"
+      },
+      {
+        "id": "c195-a9",
+        "rank": 9,
+        "nameAr": "شنغهاي ديزني لاند",
+        "nameEn": "Shanghai Disneyland",
+        "aliases": [
+          "شنغهاي ديزني لاند",
+          "Shanghai Disneyland",
+          "ديزني لاند شنغهاي"
+        ],
+        "series": "Disneyland",
+        "part": "Shanghai"
+      },
+      {
+        "id": "c195-a10",
+        "rank": 10,
+        "nameAr": "يوروبا بارك",
+        "nameEn": "Europa-Park",
+        "aliases": [
+          "يوروبا بارك",
+          "Europa-Park",
+          "Europa Park"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c195-d1",
+        "nameAr": "طوكيو ديزني سي",
+        "nameEn": "Tokyo DisneySea",
+        "aliases": [
+          "طوكيو ديزني سي",
+          "Tokyo DisneySea"
+        ]
+      },
+      {
+        "id": "c195-d2",
+        "nameAr": "ديزني كاليفورنيا أدفنتشر",
+        "nameEn": "Disney California Adventure",
+        "aliases": [
+          "ديزني كاليفورنيا أدفنتشر",
+          "Disney California Adventure"
+        ]
+      },
+      {
+        "id": "c195-d3",
+        "nameAr": "إبكوت",
+        "nameEn": "Epcot",
+        "aliases": [
+          "إبكوت",
+          "Epcot"
+        ]
+      },
+      {
+        "id": "c195-d4",
+        "nameAr": "يونيفرسال آيلاندز أوف أدفنتشر",
+        "nameEn": "Universal Islands of Adventure",
+        "aliases": [
+          "يونيفرسال آيلاندز أوف أدفنتشر",
+          "Universal Islands of Adventure"
+        ]
+      },
+      {
+        "id": "c195-d5",
+        "nameAr": "يونيفرسال ستوديوز سنغافورة",
+        "nameEn": "Universal Studios Singapore",
+        "aliases": [
+          "يونيفرسال ستوديوز سنغافورة",
+          "Universal Studios Singapore"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "title": "حيوانات أليفة ومستأنسة مألوفة",
+    "group": "حيوانات",
+    "icon": "🐾",
+    "description": "تحدّي سهل من أسماء مألوفة. تشمل حيوانات منزلية وحيوانات مستأنسة؛ تُقبل الأسماء الشائعة العامة.",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. تشمل حيوانات منزلية وحيوانات مستأنسة؛ تُقبل الأسماء الشائعة العامة.",
+    "source": {
+      "title": "ويكيبيديا",
+      "url": "https://en.wikipedia.org/wiki/Pet",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "animals",
+    "answers": [
+      {
+        "id": "c196-a1",
+        "rank": 1,
+        "nameAr": "كلب",
+        "nameEn": "Dog",
+        "aliases": [
+          "كلب",
+          "Dog",
+          "الكلب"
+        ]
+      },
+      {
+        "id": "c196-a2",
+        "rank": 2,
+        "nameAr": "قط",
+        "nameEn": "Cat",
+        "aliases": [
+          "قط",
+          "Cat",
+          "قطة",
+          "بسة",
+          "هر"
+        ]
+      },
+      {
+        "id": "c196-a3",
+        "rank": 3,
+        "nameAr": "أرنب",
+        "nameEn": "Rabbit",
+        "aliases": [
+          "أرنب",
+          "Rabbit"
+        ]
+      },
+      {
+        "id": "c196-a4",
+        "rank": 4,
+        "nameAr": "هامستر",
+        "nameEn": "Hamster",
+        "aliases": [
+          "هامستر",
+          "Hamster"
+        ]
+      },
+      {
+        "id": "c196-a5",
+        "rank": 5,
+        "nameAr": "خنزير غينيا",
+        "nameEn": "Guinea pig",
+        "aliases": [
+          "خنزير غينيا",
+          "Guinea pig",
+          "خنزير غيني"
+        ]
+      },
+      {
+        "id": "c196-a6",
+        "rank": 6,
+        "nameAr": "سمكة ذهبية",
+        "nameEn": "Goldfish",
+        "aliases": [
+          "سمكة ذهبية",
+          "Goldfish"
+        ]
+      },
+      {
+        "id": "c196-a7",
+        "rank": 7,
+        "nameAr": "ببغاء",
+        "nameEn": "Parrot",
+        "aliases": [
+          "ببغاء",
+          "Parrot"
+        ]
+      },
+      {
+        "id": "c196-a8",
+        "rank": 8,
+        "nameAr": "كناري",
+        "nameEn": "Canary",
+        "aliases": [
+          "كناري",
+          "Canary"
+        ]
+      },
+      {
+        "id": "c196-a9",
+        "rank": 9,
+        "nameAr": "حصان",
+        "nameEn": "Horse",
+        "aliases": [
+          "حصان",
+          "Horse",
+          "خيل"
+        ]
+      },
+      {
+        "id": "c196-a10",
+        "rank": 10,
+        "nameAr": "سلحفاة برية",
+        "nameEn": "Tortoise",
+        "aliases": [
+          "سلحفاة برية",
+          "Tortoise",
+          "سلحفاة"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c196-d1",
+        "nameAr": "نمس أليف",
+        "nameEn": "Ferret",
+        "aliases": [
+          "نمس أليف",
+          "Ferret"
+        ]
+      },
+      {
+        "id": "c196-d2",
+        "nameAr": "فأر أليف",
+        "nameEn": "Fancy mouse",
+        "aliases": [
+          "فأر أليف",
+          "Fancy mouse"
+        ]
+      },
+      {
+        "id": "c196-d3",
+        "nameAr": "جرذ أليف",
+        "nameEn": "Fancy rat",
+        "aliases": [
+          "جرذ أليف",
+          "Fancy rat"
+        ]
+      },
+      {
+        "id": "c196-d4",
+        "nameAr": "جربوع",
+        "nameEn": "Gerbil",
+        "aliases": [
+          "جربوع",
+          "Gerbil"
+        ]
+      },
+      {
+        "id": "c196-d5",
+        "nameAr": "دجاج",
+        "nameEn": "Chicken",
+        "aliases": [
+          "دجاج",
+          "Chicken"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "title": "حيوانات برية مشهورة",
+    "group": "حيوانات",
+    "icon": "🐾",
+    "description": "تحدّي سهل من أسماء مألوفة. الأسماء العامة للحيوانات؛ لا يلزم تحديد النوع الفرعي.",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. الأسماء العامة للحيوانات؛ لا يلزم تحديد النوع الفرعي.",
+    "source": {
+      "title": "ويكيبيديا",
+      "url": "https://en.wikipedia.org/wiki/List_of_mammals",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "animals",
+    "answers": [
+      {
+        "id": "c197-a1",
+        "rank": 1,
+        "nameAr": "أسد",
+        "nameEn": "Lion",
+        "aliases": [
+          "أسد",
+          "Lion"
+        ]
+      },
+      {
+        "id": "c197-a2",
+        "rank": 2,
+        "nameAr": "ببر",
+        "nameEn": "Tiger",
+        "aliases": [
+          "ببر",
+          "Tiger",
+          "نمر مخطط",
+          "نمر"
+        ]
+      },
+      {
+        "id": "c197-a3",
+        "rank": 3,
+        "nameAr": "فيل",
+        "nameEn": "Elephant",
+        "aliases": [
+          "فيل",
+          "Elephant"
+        ]
+      },
+      {
+        "id": "c197-a4",
+        "rank": 4,
+        "nameAr": "زرافة",
+        "nameEn": "Giraffe",
+        "aliases": [
+          "زرافة",
+          "Giraffe",
+          "الزرافة"
+        ]
+      },
+      {
+        "id": "c197-a5",
+        "rank": 5,
+        "nameAr": "حمار وحشي",
+        "nameEn": "Zebra",
+        "aliases": [
+          "حمار وحشي",
+          "Zebra"
+        ]
+      },
+      {
+        "id": "c197-a6",
+        "rank": 6,
+        "nameAr": "قرد",
+        "nameEn": "Monkey",
+        "aliases": [
+          "قرد",
+          "Monkey"
+        ]
+      },
+      {
+        "id": "c197-a7",
+        "rank": 7,
+        "nameAr": "غوريلا",
+        "nameEn": "Gorilla",
+        "aliases": [
+          "غوريلا",
+          "Gorilla"
+        ]
+      },
+      {
+        "id": "c197-a8",
+        "rank": 8,
+        "nameAr": "دب",
+        "nameEn": "Bear",
+        "aliases": [
+          "دب",
+          "Bear"
+        ]
+      },
+      {
+        "id": "c197-a9",
+        "rank": 9,
+        "nameAr": "ذئب",
+        "nameEn": "Wolf",
+        "aliases": [
+          "ذئب",
+          "Wolf"
+        ]
+      },
+      {
+        "id": "c197-a10",
+        "rank": 10,
+        "nameAr": "ثعلب",
+        "nameEn": "Fox",
+        "aliases": [
+          "ثعلب",
+          "Fox"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c197-d1",
+        "nameAr": "وحيد القرن",
+        "nameEn": "Rhinoceros",
+        "aliases": [
+          "وحيد القرن",
+          "Rhinoceros"
+        ]
+      },
+      {
+        "id": "c197-d2",
+        "nameAr": "فرس النهر",
+        "nameEn": "Hippopotamus",
+        "aliases": [
+          "فرس النهر",
+          "Hippopotamus"
+        ]
+      },
+      {
+        "id": "c197-d3",
+        "nameAr": "كنغر",
+        "nameEn": "Kangaroo",
+        "aliases": [
+          "كنغر",
+          "Kangaroo"
+        ]
+      },
+      {
+        "id": "c197-d4",
+        "nameAr": "فهد",
+        "nameEn": "Cheetah",
+        "aliases": [
+          "فهد",
+          "Cheetah"
+        ]
+      },
+      {
+        "id": "c197-d5",
+        "nameAr": "باندا",
+        "nameEn": "Giant panda",
+        "aliases": [
+          "باندا",
+          "Giant panda"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "title": "كائنات بحرية مشهورة",
+    "group": "حيوانات",
+    "icon": "🐾",
+    "description": "تحدّي سهل من أسماء مألوفة. ",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. ",
+    "source": {
+      "title": "ويكيبيديا",
+      "url": "https://en.wikipedia.org/wiki/Marine_life",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "animals",
+    "answers": [
+      {
+        "id": "c198-a1",
+        "rank": 1,
+        "nameAr": "دلفين",
+        "nameEn": "Dolphin",
+        "aliases": [
+          "دلفين",
+          "Dolphin"
+        ]
+      },
+      {
+        "id": "c198-a2",
+        "rank": 2,
+        "nameAr": "قرش",
+        "nameEn": "Shark",
+        "aliases": [
+          "قرش",
+          "Shark"
+        ]
+      },
+      {
+        "id": "c198-a3",
+        "rank": 3,
+        "nameAr": "حوت",
+        "nameEn": "Whale",
+        "aliases": [
+          "حوت",
+          "Whale"
+        ]
+      },
+      {
+        "id": "c198-a4",
+        "rank": 4,
+        "nameAr": "أخطبوط",
+        "nameEn": "Octopus",
+        "aliases": [
+          "أخطبوط",
+          "Octopus"
+        ]
+      },
+      {
+        "id": "c198-a5",
+        "rank": 5,
+        "nameAr": "سلحفاة بحرية",
+        "nameEn": "Sea turtle",
+        "aliases": [
+          "سلحفاة بحرية",
+          "Sea turtle"
+        ]
+      },
+      {
+        "id": "c198-a6",
+        "rank": 6,
+        "nameAr": "قنديل البحر",
+        "nameEn": "Jellyfish",
+        "aliases": [
+          "قنديل البحر",
+          "Jellyfish"
+        ]
+      },
+      {
+        "id": "c198-a7",
+        "rank": 7,
+        "nameAr": "نجم البحر",
+        "nameEn": "Starfish",
+        "aliases": [
+          "نجم البحر",
+          "Starfish",
+          "Sea star"
+        ]
+      },
+      {
+        "id": "c198-a8",
+        "rank": 8,
+        "nameAr": "فرس البحر",
+        "nameEn": "Seahorse",
+        "aliases": [
+          "فرس البحر",
+          "Seahorse"
+        ]
+      },
+      {
+        "id": "c198-a9",
+        "rank": 9,
+        "nameAr": "سلطعون",
+        "nameEn": "Crab",
+        "aliases": [
+          "سلطعون",
+          "Crab",
+          "كابوريا"
+        ]
+      },
+      {
+        "id": "c198-a10",
+        "rank": 10,
+        "nameAr": "فقمة",
+        "nameEn": "Seal",
+        "aliases": [
+          "فقمة",
+          "Seal"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c198-d1",
+        "nameAr": "أسد البحر",
+        "nameEn": "Sea lion",
+        "aliases": [
+          "أسد البحر",
+          "Sea lion"
+        ]
+      },
+      {
+        "id": "c198-d2",
+        "nameAr": "فظ",
+        "nameEn": "Walrus",
+        "aliases": [
+          "فظ",
+          "الفظ",
+          "Walrus"
+        ]
+      },
+      {
+        "id": "c198-d3",
+        "nameAr": "حبار",
+        "nameEn": "Squid",
+        "aliases": [
+          "حبار",
+          "Squid"
+        ]
+      },
+      {
+        "id": "c198-d4",
+        "nameAr": "كركند",
+        "nameEn": "Lobster",
+        "aliases": [
+          "كركند",
+          "Lobster"
+        ]
+      },
+      {
+        "id": "c198-d5",
+        "nameAr": "شفنين",
+        "nameEn": "Stingray",
+        "aliases": [
+          "شفنين",
+          "Stingray"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "title": "ديناصورات أيقونية",
+    "group": "حيوانات",
+    "icon": "🐾",
+    "description": "تحدّي سهل من أسماء مألوفة. تضم ديناصورات فعلية؛ التيروصورات والزواحف البحرية ليست ضمن هذا التصنيف.",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. تضم ديناصورات فعلية؛ التيروصورات والزواحف البحرية ليست ضمن هذا التصنيف.",
+    "source": {
+      "title": "متحف التاريخ الطبيعي في لندن — دليل الديناصورات",
+      "url": "https://www.nhm.ac.uk/discover/dino-directory",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "dinosaurs",
+    "answers": [
+      {
+        "id": "c199-a1",
+        "rank": 1,
+        "nameAr": "تيرانوصور ركس",
+        "nameEn": "Tyrannosaurus rex",
+        "aliases": [
+          "تيرانوصور ركس",
+          "Tyrannosaurus rex",
+          "T rex",
+          "T-Rex",
+          "تي ركس",
+          "Tyrannosaurus"
+        ]
+      },
+      {
+        "id": "c199-a2",
+        "rank": 2,
+        "nameAr": "تريسيراتوبس",
+        "nameEn": "Triceratops",
+        "aliases": [
+          "تريسيراتوبس",
+          "Triceratops",
+          "ترايسيراتوبس"
+        ]
+      },
+      {
+        "id": "c199-a3",
+        "rank": 3,
+        "nameAr": "ستيغوصور",
+        "nameEn": "Stegosaurus",
+        "aliases": [
+          "ستيغوصور",
+          "Stegosaurus",
+          "ستيغوسورس",
+          "ستيغوصورس"
+        ]
+      },
+      {
+        "id": "c199-a4",
+        "rank": 4,
+        "nameAr": "فيلوسيرابتور",
+        "nameEn": "Velociraptor",
+        "aliases": [
+          "فيلوسيرابتور",
+          "Velociraptor",
+          "فيلوسيرابتر"
+        ]
+      },
+      {
+        "id": "c199-a5",
+        "rank": 5,
+        "nameAr": "براكيوصور",
+        "nameEn": "Brachiosaurus",
+        "aliases": [
+          "براكيوصور",
+          "Brachiosaurus",
+          "براكيوصورس"
+        ]
+      },
+      {
+        "id": "c199-a6",
+        "rank": 6,
+        "nameAr": "ديبلودوكس",
+        "nameEn": "Diplodocus",
+        "aliases": [
+          "ديبلودوكس",
+          "Diplodocus"
+        ]
+      },
+      {
+        "id": "c199-a7",
+        "rank": 7,
+        "nameAr": "سبينوصور",
+        "nameEn": "Spinosaurus",
+        "aliases": [
+          "سبينوصور",
+          "Spinosaurus",
+          "سبينوصورس"
+        ]
+      },
+      {
+        "id": "c199-a8",
+        "rank": 8,
+        "nameAr": "أنكيلوصور",
+        "nameEn": "Ankylosaurus",
+        "aliases": [
+          "أنكيلوصور",
+          "Ankylosaurus",
+          "انكيلوصورس"
+        ]
+      },
+      {
+        "id": "c199-a9",
+        "rank": 9,
+        "nameAr": "ألوصور",
+        "nameEn": "Allosaurus",
+        "aliases": [
+          "ألوصور",
+          "Allosaurus",
+          "الوصورس"
+        ]
+      },
+      {
+        "id": "c199-a10",
+        "rank": 10,
+        "nameAr": "باراصورولوفوس",
+        "nameEn": "Parasaurolophus",
+        "aliases": [
+          "باراصورولوفوس",
+          "Parasaurolophus",
+          "باراسورولوفوس"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c199-d1",
+        "nameAr": "أباتوصور",
+        "nameEn": "Apatosaurus",
+        "aliases": [
+          "أباتوصور",
+          "Apatosaurus"
+        ]
+      },
+      {
+        "id": "c199-d2",
+        "nameAr": "إغوانودون",
+        "nameEn": "Iguanodon",
+        "aliases": [
+          "إغوانودون",
+          "Iguanodon"
+        ]
+      },
+      {
+        "id": "c199-d3",
+        "nameAr": "كارنوتوروس",
+        "nameEn": "Carnotaurus",
+        "aliases": [
+          "كارنوتوروس",
+          "Carnotaurus"
+        ]
+      },
+      {
+        "id": "c199-d4",
+        "nameAr": "باكيسيفالوصور",
+        "nameEn": "Pachycephalosaurus",
+        "aliases": [
+          "باكيسيفالوصور",
+          "Pachycephalosaurus"
+        ]
+      },
+      {
+        "id": "c199-d5",
+        "nameAr": "ديلوفوصور",
+        "nameEn": "Dilophosaurus",
+        "aliases": [
+          "ديلوفوصور",
+          "Dilophosaurus"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "title": "نجوم رياضة عالميون أيقونيون",
+    "group": "الرياضة",
+    "icon": "🏆",
+    "description": "تحدّي سهل من أسماء مألوفة. أسماء من رياضات مختلفة؛ ترتيب التحدّي مستقل عن ترتيب مقال المرجع.",
+    "metric": "المراكز مرتبة خصيصًا لهذا التحدّي؛ المرجع يوضح الأسماء ومعلوماتها. أسماء من رياضات مختلفة؛ ترتيب التحدّي مستقل عن ترتيب مقال المرجع.",
+    "source": {
+      "title": "ESPN — ملفات الرياضيين",
+      "url": "https://www.espn.in/espn/story/_/id/40446224/top-100-athletes-21st-century",
+      "asOf": "نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "rankingType": "editorial",
+    "difficulty": "easy",
+    "region": "global",
+    "domain": "athletes",
+    "answers": [
+      {
+        "id": "c200-a1",
+        "rank": 1,
+        "nameAr": "ليبرون جيمس",
+        "nameEn": "LeBron James",
+        "aliases": [
+          "ليبرون جيمس",
+          "LeBron James",
+          "ليبرون",
+          "Lebron",
+          "LeBron",
+          "لابرون جيمس"
+        ]
+      },
+      {
+        "id": "c200-a2",
+        "rank": 2,
+        "nameAr": "كوبي براينت",
+        "nameEn": "Kobe Bryant",
+        "aliases": [
+          "كوبي براينت",
+          "Kobe Bryant",
+          "كوبي",
+          "Kobe"
+        ]
+      },
+      {
+        "id": "c200-a3",
+        "rank": 3,
+        "nameAr": "سيرينا ويليامز",
+        "nameEn": "Serena Williams",
+        "aliases": [
+          "سيرينا ويليامز",
+          "Serena Williams",
+          "سيرينا",
+          "Serena",
+          "سيرينا وليامز"
+        ]
+      },
+      {
+        "id": "c200-a4",
+        "rank": 4,
+        "nameAr": "روجر فيدرر",
+        "nameEn": "Roger Federer",
+        "aliases": [
+          "روجر فيدرر",
+          "Roger Federer",
+          "فيدرير",
+          "فيدرر",
+          "Federer",
+          "فدرر"
+        ]
+      },
+      {
+        "id": "c200-a5",
+        "rank": 5,
+        "nameAr": "رافاييل نادال",
+        "nameEn": "Rafael Nadal",
+        "aliases": [
+          "رافاييل نادال",
+          "Rafael Nadal",
+          "نادال",
+          "Nadal"
+        ]
+      },
+      {
+        "id": "c200-a6",
+        "rank": 6,
+        "nameAr": "يوسين بولت",
+        "nameEn": "Usain Bolt",
+        "aliases": [
+          "يوسين بولت",
+          "Usain Bolt",
+          "بولت"
+        ]
+      },
+      {
+        "id": "c200-a7",
+        "rank": 7,
+        "nameAr": "مايكل فيلبس",
+        "nameEn": "Michael Phelps",
+        "aliases": [
+          "مايكل فيلبس",
+          "Michael Phelps",
+          "فيلبس",
+          "Phelps",
+          "مايكل فلبس"
+        ]
+      },
+      {
+        "id": "c200-a8",
+        "rank": 8,
+        "nameAr": "تايغر وودز",
+        "nameEn": "Tiger Woods",
+        "aliases": [
+          "تايغر وودز",
+          "Tiger Woods",
+          "تايجر وودز"
+        ]
+      },
+      {
+        "id": "c200-a9",
+        "rank": 9,
+        "nameAr": "توم برادي",
+        "nameEn": "Tom Brady",
+        "aliases": [
+          "توم برادي",
+          "Tom Brady",
+          "برادي"
+        ]
+      },
+      {
+        "id": "c200-a10",
+        "rank": 10,
+        "nameAr": "سيمون بايلز",
+        "nameEn": "Simone Biles",
+        "aliases": [
+          "سيمون بايلز",
+          "Simone Biles",
+          "بايلز"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "c200-d1",
+        "nameAr": "نوفاك ديوكوفيتش",
+        "nameEn": "Novak Djokovic",
+        "aliases": [
+          "نوفاك ديوكوفيتش",
+          "Novak Djokovic"
+        ]
+      },
+      {
+        "id": "c200-d2",
+        "nameAr": "ستيفن كاري",
+        "nameEn": "Stephen Curry",
+        "aliases": [
+          "ستيفن كاري",
+          "Stephen Curry"
+        ]
+      },
+      {
+        "id": "c200-d3",
+        "nameAr": "كريستيانو رونالدو",
+        "nameEn": "Cristiano Ronaldo",
+        "aliases": [
+          "كريستيانو رونالدو",
+          "Cristiano Ronaldo"
+        ]
+      },
+      {
+        "id": "c200-d4",
+        "nameAr": "لويس هاميلتون",
+        "nameEn": "Lewis Hamilton",
+        "aliases": [
+          "لويس هاميلتون",
+          "Lewis Hamilton"
+        ]
+      },
+      {
+        "id": "c200-d5",
+        "nameAr": "كيتي ليديكي",
+        "nameEn": "Katie Ledecky",
+        "aliases": [
+          "كيتي ليديكي",
+          "Katie Ledecky"
+        ]
+      }
+    ]
+  }
+]
