@@ -2,10 +2,11 @@
 import { useEffect, useRef, useState } from 'react';
 import { ArrowLeft, ArrowRight, ArrowUpLeft, Check, CheckCheck, ChevronDown, CircleHelp, Dices, Film, Gamepad2, Globe2, LoaderCircle, Plus, Trash2, Search, Sparkles, Trophy, Users, UtensilsCrossed, X, Zap } from 'lucide-react';
 import type { Category, PublicGame } from '../lib/game';
+import { readLocalRound, requestLocalRound } from '../lib/browser-game';
 type CategoryInfo = Omit<Category, 'answers' | 'distractors'>;
 type Connection = { id: string; token: string };
 const n = (v: number) => v.toLocaleString('ar-EG');
-const STORAGE = 'jeeb-ten-round-v2';
+const STORAGE = 'jeeb-ten-round-v3';
 function Mark({ small = false }: { small?: boolean }) { return <span className={`brand ${small ? 'small' : ''}`}><span className="brand-ten">10<span>✦</span></span><span>جيب <b>العشرة</b><small>تحدّي معلوماتك</small></span></span>; }
 function CategoryIcon({ category }: { category: CategoryInfo }) {
   const text = category.group + ' ' + category.title;
@@ -30,10 +31,7 @@ export default function Home({ categories }: { categories: CategoryInfo[] }) {
   const groups=[...new Set(['الكل','خفيفة وجديدة','العالم العربي',...categories.map(c=>c.group)])];
   const filtered=categories.filter(c=>(group==='الكل'||(group==='خفيفة وجديدة'&&c.difficulty==='easy')||(group==='العالم العربي'&&c.region==='arab')||c.group===group)&&(!query||`${c.title} ${c.group} ${c.description}`.toLowerCase().includes(query.toLowerCase()))).sort((a,b)=>Number(b.difficulty==='easy')-Number(a.difficulty==='easy')||a.id-b.id);
   const active=categories.find(c=>c.id===game?.categoryId);
-  async function readRound(conn: Connection) {
-    const res=await fetch(`/api/game?id=${encodeURIComponent(conn.id)}`,{headers:{'x-player-token':conn.token},cache:'no-store'});
-    const data=await res.json() as PublicGame & {error?:string}; if(!res.ok) throw Error(data.error||'تعذر استرجاع الجولة.'); return data;
-  }
+  async function readRound(conn: Connection) { return readLocalRound(conn); }
   useEffect(()=>{
     let live=true;
     let saved:Connection|null=null; try{saved=JSON.parse(localStorage.getItem(STORAGE)||'null');}catch{}
@@ -53,10 +51,7 @@ export default function Home({ categories }: { categories: CategoryInfo[] }) {
     document.addEventListener('keydown',trap);
     return()=>{document.body.style.overflow=oldOverflow;document.removeEventListener('keydown',trap);previous?.focus();};
   },[selected,rules]);
-  async function request(action: string, body: Record<string, unknown>, conn=connection) {
-    const res=await fetch('/api/game',{method:'POST',headers:{'Content-Type':'application/json',...(conn?{'x-player-token':conn.token}:{})},body:JSON.stringify({...body,action,requestId:crypto.randomUUID()})});
-    const data=await res.json() as {game:PublicGame;token?:string;error?:string};if(!res.ok)throw Error(data.error||'تعذر الاتصال. ما انخصمت محاولة.');return data;
-  }
+  async function request(action: string, body: Record<string, unknown>, conn=connection) { return requestLocalRound(action, { ...body, requestId: crypto.randomUUID() }, conn); }
   function remember(data:{game:PublicGame;token?:string}) {
     setGame(data.game);setView('game');setGuess('');setSourceOpen(false);
     if(data.token){const conn={id:data.game.id,token:data.token};setConnection(conn);localStorage.setItem(STORAGE,JSON.stringify(conn));}
