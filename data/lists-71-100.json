@@ -1,0 +1,6163 @@
+[
+  {
+    "id": 71,
+    "title": "أكثر 10 مقالات ويكيبيديا مشاهدة في 2024",
+    "group": "تقنية",
+    "icon": "BookOpen",
+    "description": "أكثر 10 مقالات ويكيبيديا مشاهدة في 2024",
+    "metric": "مشاهدات مقالات ويكيبيديا الإنجليزية طوال 2024، وفق مراجعة مؤسسة ويكيميديا السنوية.",
+    "source": {
+      "title": "ويكيميديا",
+      "url": "https://wikimediafoundation.org/news/2024/12/03/announcing-english-wikipedias-most-popular-articles-of-2024/",
+      "asOf": "2024 — تحديث 15 يناير 2025",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "71-1",
+        "rank": 1,
+        "nameAr": "وفيات 2024",
+        "nameEn": "Deaths in 2024",
+        "aliases": [
+          "وفيات 2024",
+          "Deaths in 2024",
+          "وفيات عام 2024"
+        ]
+      },
+      {
+        "id": "71-2",
+        "rank": 2,
+        "nameAr": "الانتخابات الرئاسية الأمريكية 2024",
+        "nameEn": "2024 United States presidential election",
+        "aliases": [
+          "الانتخابات الرئاسية الأمريكية 2024",
+          "2024 United States presidential election",
+          "انتخابات امريكا 2024",
+          "US election 2024"
+        ]
+      },
+      {
+        "id": "71-3",
+        "rank": 3,
+        "nameAr": "كامالا هاريس",
+        "nameEn": "Kamala Harris",
+        "aliases": [
+          "كامالا هاريس",
+          "Kamala Harris"
+        ]
+      },
+      {
+        "id": "71-4",
+        "rank": 4,
+        "nameAr": "دونالد ترامب",
+        "nameEn": "Donald Trump",
+        "aliases": [
+          "دونالد ترامب",
+          "Donald Trump",
+          "ترامب",
+          "Trump"
+        ]
+      },
+      {
+        "id": "71-5",
+        "rank": 5,
+        "nameAr": "لايل وإريك مينينديز",
+        "nameEn": "Lyle and Erik Menendez",
+        "aliases": [
+          "لايل وإريك مينينديز",
+          "Lyle and Erik Menendez",
+          "الاخوان مينينديز",
+          "Menendez brothers"
+        ]
+      },
+      {
+        "id": "71-6",
+        "rank": 6,
+        "nameAr": "الدوري الهندي الممتاز للكريكت",
+        "nameEn": "Indian Premier League",
+        "aliases": [
+          "الدوري الهندي الممتاز للكريكت",
+          "Indian Premier League",
+          "IPL",
+          "الدوري الهندي الممتاز"
+        ]
+      },
+      {
+        "id": "71-7",
+        "rank": 7,
+        "nameAr": "جي دي فانس",
+        "nameEn": "JD Vance",
+        "aliases": [
+          "جي دي فانس",
+          "JD Vance",
+          "J D Vance",
+          "فانس"
+        ]
+      },
+      {
+        "id": "71-8",
+        "rank": 8,
+        "nameAr": "ديدبول وولفرين",
+        "nameEn": "Deadpool & Wolverine",
+        "aliases": [
+          "ديدبول وولفرين",
+          "Deadpool & Wolverine",
+          "ديدبول و ولفرين",
+          "Deadpool and Wolverine"
+        ]
+      },
+      {
+        "id": "71-9",
+        "rank": 9,
+        "nameAr": "مشروع 2025",
+        "nameEn": "Project 2025",
+        "aliases": [
+          "مشروع 2025",
+          "Project 2025"
+        ]
+      },
+      {
+        "id": "71-10",
+        "rank": 10,
+        "nameAr": "شات جي بي تي",
+        "nameEn": "ChatGPT",
+        "aliases": [
+          "شات جي بي تي",
+          "ChatGPT",
+          "تشات جي بي تي"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "71-outside-1",
+        "nameAr": "Elon Musk",
+        "nameEn": "Elon Musk",
+        "aliases": [
+          "Elon Musk"
+        ]
+      },
+      {
+        "id": "71-outside-2",
+        "nameAr": "2024 Indian general election",
+        "nameEn": "2024 Indian general election",
+        "aliases": [
+          "2024 Indian general election"
+        ]
+      },
+      {
+        "id": "71-outside-3",
+        "nameAr": "Taylor Swift",
+        "nameEn": "Taylor Swift",
+        "aliases": [
+          "Taylor Swift"
+        ]
+      },
+      {
+        "id": "71-outside-4",
+        "nameAr": "2020 United States presidential election",
+        "nameEn": "2020 United States presidential election",
+        "aliases": [
+          "2020 United States presidential election"
+        ]
+      },
+      {
+        "id": "71-outside-5",
+        "nameAr": "United States",
+        "nameEn": "United States",
+        "aliases": [
+          "United States"
+        ]
+      },
+      {
+        "id": "71-outside-6",
+        "nameAr": "2024 Summer Olympics",
+        "nameEn": "2024 Summer Olympics",
+        "aliases": [
+          "2024 Summer Olympics"
+        ]
+      },
+      {
+        "id": "71-outside-7",
+        "nameAr": "UEFA Euro 2024",
+        "nameEn": "UEFA Euro 2024",
+        "aliases": [
+          "UEFA Euro 2024"
+        ]
+      },
+      {
+        "id": "71-outside-8",
+        "nameAr": "Joe Biden",
+        "nameEn": "Joe Biden",
+        "aliases": [
+          "Joe Biden"
+        ]
+      },
+      {
+        "id": "71-outside-9",
+        "nameAr": "Kalki 2898 AD",
+        "nameEn": "Kalki 2898 AD",
+        "aliases": [
+          "Kalki 2898 AD"
+        ]
+      },
+      {
+        "id": "71-outside-10",
+        "nameAr": "Cristiano Ronaldo",
+        "nameEn": "Cristiano Ronaldo",
+        "aliases": [
+          "Cristiano Ronaldo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "title": "أكثر 10 مواقع ويب زيارة عالميًا",
+    "group": "تقنية",
+    "icon": "Globe",
+    "description": "أكثر 10 مواقع ويب زيارة عالميًا",
+    "metric": "الزيارات الشهرية عالميًا لمواقع الويب في أكتوبر 2026 حسب Similarweb؛ لا يشمل استخدام التطبيقات.",
+    "source": {
+      "title": "Similarweb",
+      "url": "https://www.similarweb.com/blog/research/market-research/most-visited-websites/",
+      "asOf": "أكتوبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "72-1",
+        "rank": 1,
+        "nameAr": "غوغل",
+        "nameEn": "Google",
+        "aliases": [
+          "غوغل",
+          "Google",
+          "google.com",
+          "جوجل",
+          "قوقل"
+        ]
+      },
+      {
+        "id": "72-2",
+        "rank": 2,
+        "nameAr": "يوتيوب",
+        "nameEn": "YouTube",
+        "aliases": [
+          "يوتيوب",
+          "YouTube",
+          "youtube.com"
+        ]
+      },
+      {
+        "id": "72-3",
+        "rank": 3,
+        "nameAr": "فيسبوك",
+        "nameEn": "Facebook",
+        "aliases": [
+          "فيسبوك",
+          "Facebook",
+          "facebook.com",
+          "فيس بوك"
+        ]
+      },
+      {
+        "id": "72-4",
+        "rank": 4,
+        "nameAr": "إنستغرام",
+        "nameEn": "Instagram",
+        "aliases": [
+          "إنستغرام",
+          "Instagram",
+          "instagram.com",
+          "انستقرام",
+          "انستجرام"
+        ]
+      },
+      {
+        "id": "72-5",
+        "rank": 5,
+        "nameAr": "شات جي بي تي",
+        "nameEn": "ChatGPT",
+        "aliases": [
+          "شات جي بي تي",
+          "ChatGPT",
+          "chatgpt.com",
+          "تشات جي بي تي"
+        ]
+      },
+      {
+        "id": "72-6",
+        "rank": 6,
+        "nameAr": "إكس",
+        "nameEn": "X",
+        "aliases": [
+          "إكس",
+          "X",
+          "x.com",
+          "تويتر",
+          "Twitter"
+        ]
+      },
+      {
+        "id": "72-7",
+        "rank": 7,
+        "nameAr": "تيك توك",
+        "nameEn": "TikTok",
+        "aliases": [
+          "تيك توك",
+          "TikTok",
+          "tiktok.com"
+        ]
+      },
+      {
+        "id": "72-8",
+        "rank": 8,
+        "nameAr": "واتساب",
+        "nameEn": "WhatsApp",
+        "aliases": [
+          "واتساب",
+          "WhatsApp",
+          "whatsapp.com",
+          "واتس اب"
+        ]
+      },
+      {
+        "id": "72-9",
+        "rank": 9,
+        "nameAr": "ريديت",
+        "nameEn": "Reddit",
+        "aliases": [
+          "ريديت",
+          "Reddit",
+          "reddit.com"
+        ]
+      },
+      {
+        "id": "72-10",
+        "rank": 10,
+        "nameAr": "بينغ",
+        "nameEn": "Bing",
+        "aliases": [
+          "بينغ",
+          "Bing",
+          "bing.com",
+          "بنج"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "72-outside-1",
+        "nameAr": "Wikipedia",
+        "nameEn": "Wikipedia",
+        "aliases": [
+          "Wikipedia",
+          "wikipedia.org"
+        ]
+      },
+      {
+        "id": "72-outside-2",
+        "nameAr": "Yahoo Japan",
+        "nameEn": "Yahoo Japan",
+        "aliases": [
+          "Yahoo Japan",
+          "yahoo.co.jp"
+        ]
+      },
+      {
+        "id": "72-outside-3",
+        "nameAr": "Amazon",
+        "nameEn": "Amazon",
+        "aliases": [
+          "Amazon",
+          "amazon.com"
+        ]
+      },
+      {
+        "id": "72-outside-4",
+        "nameAr": "Yandex",
+        "nameEn": "Yandex",
+        "aliases": [
+          "Yandex",
+          "yandex.ru"
+        ]
+      },
+      {
+        "id": "72-outside-5",
+        "nameAr": "Gemini",
+        "nameEn": "Gemini",
+        "aliases": [
+          "Gemini",
+          "gemini.google.com"
+        ]
+      },
+      {
+        "id": "72-outside-6",
+        "nameAr": "Yahoo",
+        "nameEn": "Yahoo",
+        "aliases": [
+          "Yahoo",
+          "yahoo.com"
+        ]
+      },
+      {
+        "id": "72-outside-7",
+        "nameAr": "LinkedIn",
+        "nameEn": "LinkedIn",
+        "aliases": [
+          "LinkedIn",
+          "linkedin.com"
+        ]
+      },
+      {
+        "id": "72-outside-8",
+        "nameAr": "Microsoft Cloud",
+        "nameEn": "Microsoft Cloud",
+        "aliases": [
+          "Microsoft Cloud",
+          "cloud.microsoft"
+        ]
+      },
+      {
+        "id": "72-outside-9",
+        "nameAr": "Baidu",
+        "nameEn": "Baidu",
+        "aliases": [
+          "Baidu",
+          "baidu.com"
+        ]
+      },
+      {
+        "id": "72-outside-10",
+        "nameAr": "Pinterest",
+        "nameEn": "Pinterest",
+        "aliases": [
+          "Pinterest",
+          "pinterest.com"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "title": "أكثر 10 لغات انتشارًا بإجمالي المتحدثين",
+    "group": "تقنية",
+    "icon": "Languages",
+    "description": "أكثر 10 لغات انتشارًا بإجمالي المتحدثين",
+    "metric": "ترتيب إجمالي متحدثي اللغة الأولى والثانية في إصدار Ethnologue 2026 كما ينقله جدول المصدر؛ اللهجات واللغات المتمايزة مستقلة.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers",
+      "asOf": "إصدار Ethnologue 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "73-1",
+        "rank": 1,
+        "nameAr": "الإنجليزية",
+        "nameEn": "English",
+        "aliases": [
+          "الإنجليزية",
+          "English",
+          "انجليزي",
+          "الانجليزيه"
+        ]
+      },
+      {
+        "id": "73-2",
+        "rank": 2,
+        "nameAr": "الصينية المندرينية",
+        "nameEn": "Mandarin Chinese",
+        "aliases": [
+          "الصينية المندرينية",
+          "Mandarin Chinese",
+          "المندرينية",
+          "ماندرين",
+          "Mandarin",
+          "الصينية"
+        ]
+      },
+      {
+        "id": "73-3",
+        "rank": 3,
+        "nameAr": "الهندية",
+        "nameEn": "Hindi",
+        "aliases": [
+          "الهندية",
+          "Hindi",
+          "هندي"
+        ]
+      },
+      {
+        "id": "73-4",
+        "rank": 4,
+        "nameAr": "الإسبانية",
+        "nameEn": "Spanish",
+        "aliases": [
+          "الإسبانية",
+          "Spanish",
+          "اسباني"
+        ]
+      },
+      {
+        "id": "73-5",
+        "rank": 5,
+        "nameAr": "العربية الفصحى الحديثة",
+        "nameEn": "Modern Standard Arabic",
+        "aliases": [
+          "العربية الفصحى الحديثة",
+          "Modern Standard Arabic",
+          "العربية",
+          "عربي",
+          "Arabic"
+        ]
+      },
+      {
+        "id": "73-6",
+        "rank": 6,
+        "nameAr": "الفرنسية",
+        "nameEn": "French",
+        "aliases": [
+          "الفرنسية",
+          "French",
+          "فرنسي"
+        ]
+      },
+      {
+        "id": "73-7",
+        "rank": 7,
+        "nameAr": "البنغالية",
+        "nameEn": "Bengali",
+        "aliases": [
+          "البنغالية",
+          "Bengali",
+          "بنغالي"
+        ]
+      },
+      {
+        "id": "73-8",
+        "rank": 8,
+        "nameAr": "البرتغالية",
+        "nameEn": "Portuguese",
+        "aliases": [
+          "البرتغالية",
+          "Portuguese",
+          "برتغالي"
+        ]
+      },
+      {
+        "id": "73-9",
+        "rank": 9,
+        "nameAr": "الإندونيسية",
+        "nameEn": "Indonesian",
+        "aliases": [
+          "الإندونيسية",
+          "Indonesian",
+          "اندونيسي"
+        ]
+      },
+      {
+        "id": "73-10",
+        "rank": 10,
+        "nameAr": "الأردية",
+        "nameEn": "Urdu",
+        "aliases": [
+          "الأردية",
+          "Urdu",
+          "اوردو",
+          "اردو"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "title": "أكثر 10 لغات بعدد المتحدثين الأصليين",
+    "group": "تقنية",
+    "icon": "Languages",
+    "description": "أكثر 10 لغات بعدد المتحدثين الأصليين",
+    "metric": "متحدثو اللغة الأولى، وفق ترتيب جدول Ethnologue 2026 المنقول في المصدر. في تعادل الأرقام المقربة نتبع ترتيب المصدر: التركية قبل الفيتنامية.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers",
+      "asOf": "إصدار Ethnologue 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "74-1",
+        "rank": 1,
+        "nameAr": "الصينية المندرينية",
+        "nameEn": "Mandarin Chinese",
+        "aliases": [
+          "الصينية المندرينية",
+          "Mandarin Chinese",
+          "المندرينية",
+          "الصينية",
+          "Mandarin"
+        ]
+      },
+      {
+        "id": "74-2",
+        "rank": 2,
+        "nameAr": "الإسبانية",
+        "nameEn": "Spanish",
+        "aliases": [
+          "الإسبانية",
+          "Spanish"
+        ]
+      },
+      {
+        "id": "74-3",
+        "rank": 3,
+        "nameAr": "الإنجليزية",
+        "nameEn": "English",
+        "aliases": [
+          "الإنجليزية",
+          "English"
+        ]
+      },
+      {
+        "id": "74-4",
+        "rank": 4,
+        "nameAr": "الهندية",
+        "nameEn": "Hindi",
+        "aliases": [
+          "الهندية",
+          "Hindi"
+        ]
+      },
+      {
+        "id": "74-5",
+        "rank": 5,
+        "nameAr": "البرتغالية",
+        "nameEn": "Portuguese",
+        "aliases": [
+          "البرتغالية",
+          "Portuguese"
+        ]
+      },
+      {
+        "id": "74-6",
+        "rank": 6,
+        "nameAr": "البنغالية",
+        "nameEn": "Bengali",
+        "aliases": [
+          "البنغالية",
+          "Bengali"
+        ]
+      },
+      {
+        "id": "74-7",
+        "rank": 7,
+        "nameAr": "الروسية",
+        "nameEn": "Russian",
+        "aliases": [
+          "الروسية",
+          "Russian"
+        ]
+      },
+      {
+        "id": "74-8",
+        "rank": 8,
+        "nameAr": "اليابانية",
+        "nameEn": "Japanese",
+        "aliases": [
+          "اليابانية",
+          "Japanese"
+        ]
+      },
+      {
+        "id": "74-9",
+        "rank": 9,
+        "nameAr": "البنجابية الغربية",
+        "nameEn": "Western Punjabi",
+        "aliases": [
+          "البنجابية الغربية",
+          "Western Punjabi",
+          "البنجابية",
+          "Punjabi",
+          "بنجابي"
+        ]
+      },
+      {
+        "id": "74-10",
+        "rank": 10,
+        "nameAr": "التركية",
+        "nameEn": "Turkish",
+        "aliases": [
+          "التركية",
+          "Turkish",
+          "تركي"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "title": "أكثر 10 دول توليدًا للكهرباء المتجددة",
+    "group": "تقنية",
+    "icon": "Zap",
+    "description": "أكثر 10 دول توليدًا للكهرباء المتجددة",
+    "metric": "إجمالي الكهرباء المولدة من المصادر المتجددة بالتيراواط ساعة في 2025، حسب بيانات Ember المنقولة في جدول المصدر؛ تُستبعد المجاميع الإقليمية والعالم.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_renewable_electricity_production",
+      "asOf": "2025",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "75-1",
+        "rank": 1,
+        "nameAr": "الصين",
+        "nameEn": "China",
+        "aliases": [
+          "الصين",
+          "China"
+        ]
+      },
+      {
+        "id": "75-2",
+        "rank": 2,
+        "nameAr": "الولايات المتحدة",
+        "nameEn": "United States",
+        "aliases": [
+          "الولايات المتحدة",
+          "United States",
+          "امريكا",
+          "أمريكا",
+          "USA",
+          "US",
+          "United States of America"
+        ]
+      },
+      {
+        "id": "75-3",
+        "rank": 3,
+        "nameAr": "البرازيل",
+        "nameEn": "Brazil",
+        "aliases": [
+          "البرازيل",
+          "Brazil"
+        ]
+      },
+      {
+        "id": "75-4",
+        "rank": 4,
+        "nameAr": "الهند",
+        "nameEn": "India",
+        "aliases": [
+          "الهند",
+          "India"
+        ]
+      },
+      {
+        "id": "75-5",
+        "rank": 5,
+        "nameAr": "كندا",
+        "nameEn": "Canada",
+        "aliases": [
+          "كندا",
+          "Canada"
+        ]
+      },
+      {
+        "id": "75-6",
+        "rank": 6,
+        "nameAr": "ألمانيا",
+        "nameEn": "Germany",
+        "aliases": [
+          "ألمانيا",
+          "Germany"
+        ]
+      },
+      {
+        "id": "75-7",
+        "rank": 7,
+        "nameAr": "اليابان",
+        "nameEn": "Japan",
+        "aliases": [
+          "اليابان",
+          "Japan"
+        ]
+      },
+      {
+        "id": "75-8",
+        "rank": 8,
+        "nameAr": "روسيا",
+        "nameEn": "Russia",
+        "aliases": [
+          "روسيا",
+          "Russia",
+          "Russian Federation"
+        ]
+      },
+      {
+        "id": "75-9",
+        "rank": 9,
+        "nameAr": "إسبانيا",
+        "nameEn": "Spain",
+        "aliases": [
+          "إسبانيا",
+          "Spain"
+        ]
+      },
+      {
+        "id": "75-10",
+        "rank": 10,
+        "nameAr": "النرويج",
+        "nameEn": "Norway",
+        "aliases": [
+          "النرويج",
+          "Norway"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "title": "أسرع 10 سيارات حملت الرقم القياسي",
+    "group": "سيارات ونقل",
+    "icon": "Car",
+    "description": "أسرع 10 سيارات حملت الرقم القياسي",
+    "metric": "السيارات في جدول حاملي الرقم القياسي المثبت للسيارات الإنتاجية، مرتبة بالسرعة المنشورة تنازليًا؛ ليست جميع السيارات السريعة، وتُستبعد الادعاءات غير المؤكدة في الجدول الآخر.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/Production_car_speed_record",
+      "asOf": "لقطة المصدر في 15 نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "76-1",
+        "rank": 1,
+        "nameAr": "إس إس سي تواتارا",
+        "nameEn": "SSC Tuatara",
+        "aliases": [
+          "إس إس سي تواتارا",
+          "SSC Tuatara",
+          "تواتارا"
+        ]
+      },
+      {
+        "id": "76-2",
+        "rank": 2,
+        "nameAr": "كونيغسيغ أجيرا آر إس",
+        "nameEn": "Koenigsegg Agera RS",
+        "aliases": [
+          "كونيغسيغ أجيرا آر إس",
+          "Koenigsegg Agera RS",
+          "اجيرا ار اس",
+          "Agera RS"
+        ]
+      },
+      {
+        "id": "76-3",
+        "rank": 3,
+        "nameAr": "بوغاتي فيرون سوبر سبورت",
+        "nameEn": "Bugatti Veyron 16.4 Super Sport",
+        "aliases": [
+          "بوغاتي فيرون سوبر سبورت",
+          "Bugatti Veyron 16.4 Super Sport",
+          "Veyron Super Sport",
+          "فيرون سوبر سبورت"
+        ]
+      },
+      {
+        "id": "76-4",
+        "rank": 4,
+        "nameAr": "إس إس سي ألتيميت إيرو",
+        "nameEn": "SSC Ultimate Aero",
+        "aliases": [
+          "إس إس سي ألتيميت إيرو",
+          "SSC Ultimate Aero",
+          "Ultimate Aero",
+          "التيميت ايرو"
+        ]
+      },
+      {
+        "id": "76-5",
+        "rank": 5,
+        "nameAr": "بوغاتي فيرون إي بي 16.4",
+        "nameEn": "Bugatti Veyron EB 16.4",
+        "aliases": [
+          "بوغاتي فيرون إي بي 16.4",
+          "Bugatti Veyron EB 16.4",
+          "Veyron EB 16.4",
+          "فيرون EB 16.4"
+        ]
+      },
+      {
+        "id": "76-6",
+        "rank": 6,
+        "nameAr": "داور 962 لومان",
+        "nameEn": "Dauer 962 Le Mans",
+        "aliases": [
+          "داور 962 لومان",
+          "Dauer 962 Le Mans",
+          "Dauer 962",
+          "داور 962"
+        ]
+      },
+      {
+        "id": "76-7",
+        "rank": 7,
+        "nameAr": "ماكلارين إف 1",
+        "nameEn": "McLaren F1",
+        "aliases": [
+          "ماكلارين إف 1",
+          "McLaren F1",
+          "ماكلارين F1"
+        ]
+      },
+      {
+        "id": "76-8",
+        "rank": 8,
+        "nameAr": "روف سي تي آر",
+        "nameEn": "Ruf CTR",
+        "aliases": [
+          "روف سي تي آر",
+          "Ruf CTR",
+          "روف CTR"
+        ]
+      },
+      {
+        "id": "76-9",
+        "rank": 9,
+        "nameAr": "بورشه 959",
+        "nameEn": "Porsche 959",
+        "aliases": [
+          "بورشه 959",
+          "Porsche 959"
+        ]
+      },
+      {
+        "id": "76-10",
+        "rank": 10,
+        "nameAr": "روف بي تي آر",
+        "nameEn": "Ruf BTR",
+        "aliases": [
+          "روف بي تي آر",
+          "Ruf BTR",
+          "روف BTR"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "76-outside-1",
+        "nameAr": "Benz Velo",
+        "nameEn": "Benz Velo",
+        "aliases": [
+          "Benz Velo"
+        ]
+      },
+      {
+        "id": "76-outside-2",
+        "nameAr": "Jaguar XK120",
+        "nameEn": "Jaguar XK120",
+        "aliases": [
+          "Jaguar XK120"
+        ]
+      },
+      {
+        "id": "76-outside-3",
+        "nameAr": "Mercedes-Benz 300 SL",
+        "nameEn": "Mercedes-Benz 300 SL",
+        "aliases": [
+          "Mercedes-Benz 300 SL"
+        ]
+      },
+      {
+        "id": "76-outside-4",
+        "nameAr": "Aston Martin DB4 GT",
+        "nameEn": "Aston Martin DB4 GT",
+        "aliases": [
+          "Aston Martin DB4 GT"
+        ]
+      },
+      {
+        "id": "76-outside-5",
+        "nameAr": "Aston Martin DB4 GT Zagato",
+        "nameEn": "Aston Martin DB4 GT Zagato",
+        "aliases": [
+          "Aston Martin DB4 GT Zagato"
+        ]
+      },
+      {
+        "id": "76-outside-6",
+        "nameAr": "Iso Grifo GL 365",
+        "nameEn": "Iso Grifo GL 365",
+        "aliases": [
+          "Iso Grifo GL 365"
+        ]
+      },
+      {
+        "id": "76-outside-7",
+        "nameAr": "AC Cobra Mk III 427",
+        "nameEn": "AC Cobra Mk III 427",
+        "aliases": [
+          "AC Cobra Mk III 427"
+        ]
+      },
+      {
+        "id": "76-outside-8",
+        "nameAr": "Lamborghini Miura P400",
+        "nameEn": "Lamborghini Miura P400",
+        "aliases": [
+          "Lamborghini Miura P400"
+        ]
+      },
+      {
+        "id": "76-outside-9",
+        "nameAr": "Ferrari 365 GTB/4 Daytona",
+        "nameEn": "Ferrari 365 GTB/4 Daytona",
+        "aliases": [
+          "Ferrari 365 GTB/4 Daytona"
+        ]
+      },
+      {
+        "id": "76-outside-10",
+        "nameAr": "Lamborghini Miura P400S",
+        "nameEn": "Lamborghini Miura P400S",
+        "aliases": [
+          "Lamborghini Miura P400S"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "title": "أغلى 10 طرز سيارات بيعت في المزادات",
+    "group": "سيارات ونقل",
+    "icon": "Car",
+    "description": "أغلى 10 طرز سيارات بيعت في المزادات",
+    "metric": "أعلى سعر بيع اسمي بالدولار لكل طراز في جدول المصدر، دون تعديل التضخم. يُحسب الطراز المتكرر مرة واحدة بأعلى صفقة، وتبقى النسخ ذات الاسم المختلف مستقلة.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/List_of_most_expensive_cars_sold_at_auction",
+      "asOf": "لقطة المصدر في 15 نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "77-1",
+        "rank": 1,
+        "nameAr": "مرسيدس 300 إس إل آر أولينهاوت كوبيه",
+        "nameEn": "Mercedes-Benz 300SLR Uhlenhaut coupe",
+        "aliases": [
+          "مرسيدس 300 إس إل آر أولينهاوت كوبيه",
+          "Mercedes-Benz 300SLR Uhlenhaut coupe",
+          "Mercedes 300 SLR Uhlenhaut",
+          "مرسيدس اولينهاوت"
+        ]
+      },
+      {
+        "id": "77-2",
+        "rank": 2,
+        "nameAr": "مرسيدس دبليو 196 آر ستروملينفاغن",
+        "nameEn": "Mercedes-Benz W196R Stromlinienwagen",
+        "aliases": [
+          "مرسيدس دبليو 196 آر ستروملينفاغن",
+          "Mercedes-Benz W196R Stromlinienwagen",
+          "W196R",
+          "مرسيدس W196R"
+        ]
+      },
+      {
+        "id": "77-3",
+        "rank": 3,
+        "nameAr": "فيراري 330 إل إم / 250 جي تي أو",
+        "nameEn": "Ferrari 330 LM / 250 GTO",
+        "aliases": [
+          "فيراري 330 إل إم / 250 جي تي أو",
+          "Ferrari 330 LM / 250 GTO",
+          "Ferrari 330 LM",
+          "فيراري 330 LM"
+        ]
+      },
+      {
+        "id": "77-4",
+        "rank": 4,
+        "nameAr": "فيراري 250 جي تي أو",
+        "nameEn": "Ferrari 250 GTO",
+        "aliases": [
+          "فيراري 250 جي تي أو",
+          "Ferrari 250 GTO",
+          "Ferrari 250GTO",
+          "فيراري 250GTO"
+        ]
+      },
+      {
+        "id": "77-5",
+        "rank": 5,
+        "nameAr": "شيلبي دايتونا",
+        "nameEn": "Shelby Daytona",
+        "aliases": [
+          "شيلبي دايتونا",
+          "Shelby Daytona",
+          "Shelby Cobra Daytona"
+        ]
+      },
+      {
+        "id": "77-6",
+        "rank": 6,
+        "nameAr": "فيراري لوتشي تايلور ميد",
+        "nameEn": "Ferrari Luce Tailor Made",
+        "aliases": [
+          "فيراري لوتشي تايلور ميد",
+          "Ferrari Luce Tailor Made",
+          "Ferrari Luce",
+          "فيراري لوتشي"
+        ]
+      },
+      {
+        "id": "77-7",
+        "rank": 7,
+        "nameAr": "فيراري 250 إل إم",
+        "nameEn": "Ferrari 250 LM",
+        "aliases": [
+          "فيراري 250 إل إم",
+          "Ferrari 250 LM"
+        ]
+      },
+      {
+        "id": "77-8",
+        "rank": 8,
+        "nameAr": "فيراري 335 إس",
+        "nameEn": "Ferrari 335 S",
+        "aliases": [
+          "فيراري 335 إس",
+          "Ferrari 335 S"
+        ]
+      },
+      {
+        "id": "77-9",
+        "rank": 9,
+        "nameAr": "فيراري 412 بي",
+        "nameEn": "Ferrari 412P",
+        "aliases": [
+          "فيراري 412 بي",
+          "Ferrari 412P",
+          "Ferrari 412 P"
+        ]
+      },
+      {
+        "id": "77-10",
+        "rank": 10,
+        "nameAr": "مرسيدس دبليو 196",
+        "nameEn": "Mercedes-Benz W196",
+        "aliases": [
+          "مرسيدس دبليو 196",
+          "Mercedes-Benz W196",
+          "W196",
+          "مرسيدس W196"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "77-outside-1",
+        "nameAr": "Ferrari 290 MM",
+        "nameEn": "Ferrari 290 MM",
+        "aliases": [
+          "Ferrari 290 MM"
+        ]
+      },
+      {
+        "id": "77-outside-2",
+        "nameAr": "Ferrari 275 GTB/4*S NART Spider",
+        "nameEn": "Ferrari 275 GTB/4*S NART Spider",
+        "aliases": [
+          "Ferrari 275 GTB/4*S NART Spider"
+        ]
+      },
+      {
+        "id": "77-outside-3",
+        "nameAr": "Ferrari 275 GTB/C Speciale",
+        "nameEn": "Ferrari 275 GTB/C Speciale",
+        "aliases": [
+          "Ferrari 275 GTB/C Speciale"
+        ]
+      },
+      {
+        "id": "77-outside-4",
+        "nameAr": "Ferrari Daytona SP3 \"Tailor Made\"",
+        "nameEn": "Ferrari Daytona SP3 \"Tailor Made\"",
+        "aliases": [
+          "Ferrari Daytona SP3 \"Tailor Made\""
+        ]
+      },
+      {
+        "id": "77-outside-5",
+        "nameAr": "Ferrari 250 GT SWB California Spider Competizione",
+        "nameEn": "Ferrari 250 GT SWB California Spider Competizione",
+        "aliases": [
+          "Ferrari 250 GT SWB California Spider Competizione"
+        ]
+      },
+      {
+        "id": "77-outside-6",
+        "nameAr": "Ferrari 410 Sport",
+        "nameEn": "Ferrari 410 Sport",
+        "aliases": [
+          "Ferrari 410 Sport"
+        ]
+      },
+      {
+        "id": "77-outside-7",
+        "nameAr": "Aston Martin DBR1",
+        "nameEn": "Aston Martin DBR1",
+        "aliases": [
+          "Aston Martin DBR1"
+        ]
+      },
+      {
+        "id": "77-outside-8",
+        "nameAr": "Ferrari 410 Sport Spider",
+        "nameEn": "Ferrari 410 Sport Spider",
+        "aliases": [
+          "Ferrari 410 Sport Spider"
+        ]
+      },
+      {
+        "id": "77-outside-9",
+        "nameAr": "Duesenberg SSJ",
+        "nameEn": "Duesenberg SSJ",
+        "aliases": [
+          "Duesenberg SSJ"
+        ]
+      },
+      {
+        "id": "77-outside-10",
+        "nameAr": "Jaguar D-Type",
+        "nameEn": "Jaguar D-Type",
+        "aliases": [
+          "Jaguar D-Type"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "title": "أكثر 10 أسماء طرازات سيارات مبيعًا تاريخيًا",
+    "group": "سيارات ونقل",
+    "icon": "Car",
+    "description": "أكثر 10 أسماء طرازات سيارات مبيعًا تاريخيًا",
+    "metric": "أسماء الطرازات الأكثر مبيعًا في جدول المصدر، وتشمل الأجيال المتعددة للاسم. في تساوي الأرقام المقربة نتبع ترتيب الجدول: كامري قبل فييستا. لا تمثل مبيعات سنة واحدة.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/List_of_best-selling_automobiles",
+      "asOf": "لقطة المصدر في 15 نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "78-1",
+        "rank": 1,
+        "nameAr": "تويوتا كورولا",
+        "nameEn": "Toyota Corolla",
+        "aliases": [
+          "تويوتا كورولا",
+          "Toyota Corolla",
+          "كورولا"
+        ]
+      },
+      {
+        "id": "78-2",
+        "rank": 2,
+        "nameAr": "فورد إف سيريز",
+        "nameEn": "Ford F-Series",
+        "aliases": [
+          "فورد إف سيريز",
+          "Ford F-Series",
+          "Ford F Series",
+          "فورد اف سيريز"
+        ]
+      },
+      {
+        "id": "78-3",
+        "rank": 3,
+        "nameAr": "فولكس فاغن غولف",
+        "nameEn": "Volkswagen Golf",
+        "aliases": [
+          "فولكس فاغن غولف",
+          "Volkswagen Golf",
+          "فولكس واجن جولف",
+          "Golf",
+          "غولف"
+        ]
+      },
+      {
+        "id": "78-4",
+        "rank": 4,
+        "nameAr": "فولكس فاغن باسات",
+        "nameEn": "Volkswagen Passat",
+        "aliases": [
+          "فولكس فاغن باسات",
+          "Volkswagen Passat",
+          "باسات",
+          "Passat"
+        ]
+      },
+      {
+        "id": "78-5",
+        "rank": 5,
+        "nameAr": "هوندا سيفيك",
+        "nameEn": "Honda Civic",
+        "aliases": [
+          "هوندا سيفيك",
+          "Honda Civic",
+          "سيفيك"
+        ]
+      },
+      {
+        "id": "78-6",
+        "rank": 6,
+        "nameAr": "تويوتا كامري",
+        "nameEn": "Toyota Camry",
+        "aliases": [
+          "تويوتا كامري",
+          "Toyota Camry",
+          "كامري"
+        ]
+      },
+      {
+        "id": "78-7",
+        "rank": 7,
+        "nameAr": "فورد فييستا",
+        "nameEn": "Ford Fiesta",
+        "aliases": [
+          "فورد فييستا",
+          "Ford Fiesta",
+          "فورد فيستا",
+          "فييستا"
+        ]
+      },
+      {
+        "id": "78-8",
+        "rank": 8,
+        "nameAr": "فولكس فاغن بيتل",
+        "nameEn": "Volkswagen Beetle",
+        "aliases": [
+          "فولكس فاغن بيتل",
+          "Volkswagen Beetle",
+          "بيتل",
+          "الخنفساء"
+        ]
+      },
+      {
+        "id": "78-9",
+        "rank": 9,
+        "nameAr": "تويوتا هايلوكس",
+        "nameEn": "Toyota Hilux",
+        "aliases": [
+          "تويوتا هايلوكس",
+          "Toyota Hilux",
+          "هايلكس",
+          "هايلوكس"
+        ]
+      },
+      {
+        "id": "78-10",
+        "rank": 10,
+        "nameAr": "هوندا أكورد",
+        "nameEn": "Honda Accord",
+        "aliases": [
+          "هوندا أكورد",
+          "Honda Accord",
+          "اكورد"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "78-outside-1",
+        "nameAr": "Alfa Romeo Alfasud",
+        "nameEn": "Alfa Romeo Alfasud",
+        "aliases": [
+          "Alfa Romeo Alfasud"
+        ]
+      },
+      {
+        "id": "78-outside-2",
+        "nameAr": "Alpine A110 (2017)",
+        "nameEn": "Alpine A110 (2017)",
+        "aliases": [
+          "Alpine A110 (2017)"
+        ]
+      },
+      {
+        "id": "78-outside-3",
+        "nameAr": "Aston Martin DBX",
+        "nameEn": "Aston Martin DBX",
+        "aliases": [
+          "Aston Martin DBX"
+        ]
+      },
+      {
+        "id": "78-outside-4",
+        "nameAr": "Audi A4",
+        "nameEn": "Audi A4",
+        "aliases": [
+          "Audi A4"
+        ]
+      },
+      {
+        "id": "78-outside-5",
+        "nameAr": "Baojun 510",
+        "nameEn": "Baojun 510",
+        "aliases": [
+          "Baojun 510"
+        ]
+      },
+      {
+        "id": "78-outside-6",
+        "nameAr": "BMW 3 Series",
+        "nameEn": "BMW 3 Series",
+        "aliases": [
+          "BMW 3 Series"
+        ]
+      },
+      {
+        "id": "78-outside-7",
+        "nameAr": "Buick LeSabre",
+        "nameEn": "Buick LeSabre",
+        "aliases": [
+          "Buick LeSabre"
+        ]
+      },
+      {
+        "id": "78-outside-8",
+        "nameAr": "Bugatti Type 40",
+        "nameEn": "Bugatti Type 40",
+        "aliases": [
+          "Bugatti Type 40"
+        ]
+      },
+      {
+        "id": "78-outside-9",
+        "nameAr": "BYD F3",
+        "nameEn": "BYD F3",
+        "aliases": [
+          "BYD F3"
+        ]
+      },
+      {
+        "id": "78-outside-10",
+        "nameAr": "Cadillac De Ville",
+        "nameEn": "Cadillac De Ville",
+        "aliases": [
+          "Cadillac De Ville"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "title": "أكبر 10 شبكات قطارات سريعة حسب البلد",
+    "group": "سيارات ونقل",
+    "icon": "TrainFront",
+    "description": "أكبر 10 شبكات قطارات سريعة حسب البلد",
+    "metric": "طول الخطوط المشغلة بالكيلومتر في جدول High-speed rail by country عند تاريخ اللقطة، لا طول الخطوط المخططة أو قيد الإنشاء. يشمل الخطوط المطورة المصنفة في جدول المصدر.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/High-speed_rail_by_country",
+      "asOf": "لقطة المصدر في 15 نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "79-1",
+        "rank": 1,
+        "nameAr": "الصين",
+        "nameEn": "China",
+        "aliases": [
+          "الصين",
+          "China"
+        ]
+      },
+      {
+        "id": "79-2",
+        "rank": 2,
+        "nameAr": "إسبانيا",
+        "nameEn": "Spain",
+        "aliases": [
+          "إسبانيا",
+          "Spain"
+        ]
+      },
+      {
+        "id": "79-3",
+        "rank": 3,
+        "nameAr": "فرنسا",
+        "nameEn": "France",
+        "aliases": [
+          "فرنسا",
+          "France"
+        ]
+      },
+      {
+        "id": "79-4",
+        "rank": 4,
+        "nameAr": "اليابان",
+        "nameEn": "Japan",
+        "aliases": [
+          "اليابان",
+          "Japan"
+        ]
+      },
+      {
+        "id": "79-5",
+        "rank": 5,
+        "nameAr": "ألمانيا",
+        "nameEn": "Germany",
+        "aliases": [
+          "ألمانيا",
+          "Germany"
+        ]
+      },
+      {
+        "id": "79-6",
+        "rank": 6,
+        "nameAr": "السويد",
+        "nameEn": "Sweden",
+        "aliases": [
+          "السويد",
+          "Sweden"
+        ]
+      },
+      {
+        "id": "79-7",
+        "rank": 7,
+        "nameAr": "كوريا الجنوبية",
+        "nameEn": "South Korea",
+        "aliases": [
+          "كوريا الجنوبية",
+          "South Korea",
+          "Republic of Korea",
+          "كوريا"
+        ]
+      },
+      {
+        "id": "79-8",
+        "rank": 8,
+        "nameAr": "المملكة المتحدة",
+        "nameEn": "United Kingdom",
+        "aliases": [
+          "المملكة المتحدة",
+          "United Kingdom",
+          "بريطانيا",
+          "UK",
+          "Great Britain"
+        ]
+      },
+      {
+        "id": "79-9",
+        "rank": 9,
+        "nameAr": "إيطاليا",
+        "nameEn": "Italy",
+        "aliases": [
+          "إيطاليا",
+          "Italy"
+        ]
+      },
+      {
+        "id": "79-10",
+        "rank": 10,
+        "nameAr": "أوزبكستان",
+        "nameEn": "Uzbekistan",
+        "aliases": [
+          "أوزبكستان",
+          "Uzbekistan",
+          "اوزبكستان"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "title": "أكبر 10 سفن سياحية",
+    "group": "سيارات ونقل",
+    "icon": "Ship",
+    "description": "أكبر 10 سفن سياحية",
+    "metric": "الحمولة الإجمالية GT للسفن السياحية العاملة في جدول المصدر؛ السفن الثلاث المتساوية من فئة Icon تُرتب بسنة بدء الخدمة الأقدم أولًا.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/List_of_largest_cruise_ships",
+      "asOf": "لقطة المصدر في 15 نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "80-1",
+        "rank": 1,
+        "nameAr": "آيكون أوف ذا سيز",
+        "nameEn": "Icon of the Seas",
+        "aliases": [
+          "آيكون أوف ذا سيز",
+          "Icon of the Seas",
+          "ايكون اوف ذا سيز"
+        ]
+      },
+      {
+        "id": "80-2",
+        "rank": 2,
+        "nameAr": "ستار أوف ذا سيز",
+        "nameEn": "Star of the Seas",
+        "aliases": [
+          "ستار أوف ذا سيز",
+          "Star of the Seas",
+          "ستار اوف ذا سيز"
+        ]
+      },
+      {
+        "id": "80-3",
+        "rank": 3,
+        "nameAr": "ليجند أوف ذا سيز",
+        "nameEn": "Legend of the Seas",
+        "aliases": [
+          "ليجند أوف ذا سيز",
+          "Legend of the Seas",
+          "ليجند اوف ذا سيز"
+        ]
+      },
+      {
+        "id": "80-4",
+        "rank": 4,
+        "nameAr": "يوتوبيا أوف ذا سيز",
+        "nameEn": "Utopia of the Seas",
+        "aliases": [
+          "يوتوبيا أوف ذا سيز",
+          "Utopia of the Seas",
+          "يوتوبيا اوف ذا سيز"
+        ]
+      },
+      {
+        "id": "80-5",
+        "rank": 5,
+        "nameAr": "وندر أوف ذا سيز",
+        "nameEn": "Wonder of the Seas",
+        "aliases": [
+          "وندر أوف ذا سيز",
+          "Wonder of the Seas",
+          "واندر اوف ذا سيز"
+        ]
+      },
+      {
+        "id": "80-6",
+        "rank": 6,
+        "nameAr": "سيمفوني أوف ذا سيز",
+        "nameEn": "Symphony of the Seas",
+        "aliases": [
+          "سيمفوني أوف ذا سيز",
+          "Symphony of the Seas",
+          "سمفوني اوف ذا سيز"
+        ]
+      },
+      {
+        "id": "80-7",
+        "rank": 7,
+        "nameAr": "هارموني أوف ذا سيز",
+        "nameEn": "Harmony of the Seas",
+        "aliases": [
+          "هارموني أوف ذا سيز",
+          "Harmony of the Seas",
+          "هارموني اوف ذا سيز"
+        ]
+      },
+      {
+        "id": "80-8",
+        "rank": 8,
+        "nameAr": "أواسيس أوف ذا سيز",
+        "nameEn": "Oasis of the Seas",
+        "aliases": [
+          "أواسيس أوف ذا سيز",
+          "Oasis of the Seas",
+          "اواسيس اوف ذا سيز"
+        ]
+      },
+      {
+        "id": "80-9",
+        "rank": 9,
+        "nameAr": "ألور أوف ذا سيز",
+        "nameEn": "Allure of the Seas",
+        "aliases": [
+          "ألور أوف ذا سيز",
+          "Allure of the Seas",
+          "الور اوف ذا سيز"
+        ]
+      },
+      {
+        "id": "80-10",
+        "rank": 10,
+        "nameAr": "إم إس سي وورلد أمريكا",
+        "nameEn": "MSC World America",
+        "aliases": [
+          "إم إس سي وورلد أمريكا",
+          "MSC World America",
+          "ام اس سي وورلد امريكا"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "80-outside-1",
+        "nameAr": "MSC World Europa",
+        "nameEn": "MSC World Europa",
+        "aliases": [
+          "MSC World Europa"
+        ]
+      },
+      {
+        "id": "80-outside-2",
+        "nameAr": "Disney Adventure",
+        "nameEn": "Disney Adventure",
+        "aliases": [
+          "Disney Adventure"
+        ]
+      },
+      {
+        "id": "80-outside-3",
+        "nameAr": "Costa Toscana",
+        "nameEn": "Costa Toscana",
+        "aliases": [
+          "Costa Toscana"
+        ]
+      },
+      {
+        "id": "80-outside-4",
+        "nameAr": "Arvia",
+        "nameEn": "Arvia",
+        "aliases": [
+          "Arvia"
+        ]
+      },
+      {
+        "id": "80-outside-5",
+        "nameAr": "Costa Smeralda",
+        "nameEn": "Costa Smeralda",
+        "aliases": [
+          "Costa Smeralda"
+        ]
+      },
+      {
+        "id": "80-outside-6",
+        "nameAr": "Iona",
+        "nameEn": "Iona",
+        "aliases": [
+          "Iona"
+        ]
+      },
+      {
+        "id": "80-outside-7",
+        "nameAr": "MSC Euribia",
+        "nameEn": "MSC Euribia",
+        "aliases": [
+          "MSC Euribia"
+        ]
+      },
+      {
+        "id": "80-outside-8",
+        "nameAr": "AIDAnova",
+        "nameEn": "AIDAnova",
+        "aliases": [
+          "AIDAnova"
+        ]
+      },
+      {
+        "id": "80-outside-9",
+        "nameAr": "AIDAcosma",
+        "nameEn": "AIDAcosma",
+        "aliases": [
+          "AIDAcosma"
+        ]
+      },
+      {
+        "id": "80-outside-10",
+        "nameAr": "Carnival Celebration",
+        "nameEn": "Carnival Celebration",
+        "aliases": [
+          "Carnival Celebration"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "title": "أكبر 10 سفن حاويات حسب السعة",
+    "group": "سيارات ونقل",
+    "icon": "Ship",
+    "description": "أكبر 10 سفن حاويات حسب السعة",
+    "metric": "السعة القصوى بوحدة TEU تنازليًا، ثم الحمولة GT، ثم الاسم اللاتيني أبجديًا لفصل السفن المتطابقة؛ لذلك الاختيار عند حد العشرة يشمل OOCL Abu Dhabi وOOCL Felixstowe قبل بقية شقيقاتها.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/List_of_largest_container_ships",
+      "asOf": "لقطة المصدر في 15 نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "81-1",
+        "rank": 1,
+        "nameAr": "إم إس سي إيرينا",
+        "nameEn": "MSC Irina",
+        "aliases": [
+          "إم إس سي إيرينا",
+          "MSC Irina",
+          "ام اس سي ايرينا",
+          "ايرينا"
+        ]
+      },
+      {
+        "id": "81-2",
+        "rank": 2,
+        "nameAr": "إم إس سي لوريتو",
+        "nameEn": "MSC Loreto",
+        "aliases": [
+          "إم إس سي لوريتو",
+          "MSC Loreto",
+          "ام اس سي لوريتو",
+          "لوريتو"
+        ]
+      },
+      {
+        "id": "81-3",
+        "rank": 3,
+        "nameAr": "إم إس سي مارييلا",
+        "nameEn": "MSC Mariella",
+        "aliases": [
+          "إم إس سي مارييلا",
+          "MSC Mariella",
+          "ام اس سي مارييلا",
+          "مارييلا"
+        ]
+      },
+      {
+        "id": "81-4",
+        "rank": 4,
+        "nameAr": "إم إس سي ميشيل كابيليني",
+        "nameEn": "MSC Michel Cappellini",
+        "aliases": [
+          "إم إس سي ميشيل كابيليني",
+          "MSC Michel Cappellini",
+          "Michel Cappellini",
+          "ميشيل كابيليني"
+        ]
+      },
+      {
+        "id": "81-5",
+        "rank": 5,
+        "nameAr": "إم إس سي ميكول",
+        "nameEn": "MSC Micol",
+        "aliases": [
+          "إم إس سي ميكول",
+          "MSC Micol",
+          "ام اس سي ميكول",
+          "ميكول"
+        ]
+      },
+      {
+        "id": "81-6",
+        "rank": 6,
+        "nameAr": "إم إس سي تركيا",
+        "nameEn": "MSC Türkiye",
+        "aliases": [
+          "إم إس سي تركيا",
+          "MSC Türkiye",
+          "MSC Turkiye",
+          "MSC Turkey",
+          "ام اس سي تركيا"
+        ]
+      },
+      {
+        "id": "81-7",
+        "rank": 7,
+        "nameAr": "سي إم إيه سي جي إم نوتردام",
+        "nameEn": "CMA CGM Notre Dame",
+        "aliases": [
+          "سي إم إيه سي جي إم نوتردام",
+          "CMA CGM Notre Dame",
+          "CMA CGM Notre-Dame",
+          "نوتردام سي ام ايه",
+          "نوتردام"
+        ]
+      },
+      {
+        "id": "81-8",
+        "rank": 8,
+        "nameAr": "سي إم إيه سي جي إم بانثيون",
+        "nameEn": "CMA CGM Pantheon",
+        "aliases": [
+          "سي إم إيه سي جي إم بانثيون",
+          "CMA CGM Pantheon",
+          "CMA CGM Panthéon",
+          "بانثيون"
+        ]
+      },
+      {
+        "id": "81-9",
+        "rank": 9,
+        "nameAr": "أو أو سي إل أبوظبي",
+        "nameEn": "OOCL Abu Dhabi",
+        "aliases": [
+          "أو أو سي إل أبوظبي",
+          "OOCL Abu Dhabi",
+          "OOCL AbuDhabi",
+          "او او سي ال ابو ظبي"
+        ]
+      },
+      {
+        "id": "81-10",
+        "rank": 10,
+        "nameAr": "أو أو سي إل فيليكسستو",
+        "nameEn": "OOCL Felixstowe",
+        "aliases": [
+          "أو أو سي إل فيليكسستو",
+          "OOCL Felixstowe",
+          "فيليكسستو",
+          "او او سي ال فيليكسستو"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "81-outside-1",
+        "nameAr": "OOCL Piraeus",
+        "nameEn": "OOCL Piraeus",
+        "aliases": [
+          "OOCL Piraeus"
+        ]
+      },
+      {
+        "id": "81-outside-2",
+        "nameAr": "OOCL Turkiye",
+        "nameEn": "OOCL Turkiye",
+        "aliases": [
+          "OOCL Turkiye"
+        ]
+      },
+      {
+        "id": "81-outside-3",
+        "nameAr": "OOCL Zeebrugge",
+        "nameEn": "OOCL Zeebrugge",
+        "aliases": [
+          "OOCL Zeebrugge"
+        ]
+      },
+      {
+        "id": "81-outside-4",
+        "nameAr": "OOCL Gdynia",
+        "nameEn": "OOCL Gdynia",
+        "aliases": [
+          "OOCL Gdynia"
+        ]
+      },
+      {
+        "id": "81-outside-5",
+        "nameAr": "OOCL Valencia",
+        "nameEn": "OOCL Valencia",
+        "aliases": [
+          "OOCL Valencia"
+        ]
+      },
+      {
+        "id": "81-outside-6",
+        "nameAr": "OOCL Wisdom",
+        "nameEn": "OOCL Wisdom",
+        "aliases": [
+          "OOCL Wisdom"
+        ]
+      },
+      {
+        "id": "81-outside-7",
+        "nameAr": "ONE Innovation",
+        "nameEn": "ONE Innovation",
+        "aliases": [
+          "ONE Innovation"
+        ]
+      },
+      {
+        "id": "81-outside-8",
+        "nameAr": "ONE Infinity",
+        "nameEn": "ONE Infinity",
+        "aliases": [
+          "ONE Infinity"
+        ]
+      },
+      {
+        "id": "81-outside-9",
+        "nameAr": "ONE Integrity",
+        "nameEn": "ONE Integrity",
+        "aliases": [
+          "ONE Integrity"
+        ]
+      },
+      {
+        "id": "81-outside-10",
+        "nameAr": "ONE Inspiration",
+        "nameEn": "ONE Inspiration",
+        "aliases": [
+          "ONE Inspiration"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "title": "أثقل 10 عائلات طائرات ركاب عريضة البدن",
+    "group": "سيارات ونقل",
+    "icon": "Plane",
+    "description": "أثقل 10 عائلات طائرات ركاب عريضة البدن",
+    "metric": "أقصى وزن إقلاع MTOW بالطن في جدول عائلات الطائرات عريضة البدن؛ يُؤخذ الحد الأعلى عند وجود نطاق، ويُستبعد المشروع الذي لم يُنتج مثل C929.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/Wide-body_aircraft",
+      "asOf": "لقطة المصدر في 15 نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "82-1",
+        "rank": 1,
+        "nameAr": "إيرباص إيه 380",
+        "nameEn": "Airbus A380",
+        "aliases": [
+          "إيرباص إيه 380",
+          "Airbus A380",
+          "A380",
+          "ايرباص 380"
+        ]
+      },
+      {
+        "id": "82-2",
+        "rank": 2,
+        "nameAr": "بوينغ 747",
+        "nameEn": "Boeing 747",
+        "aliases": [
+          "بوينغ 747",
+          "Boeing 747",
+          "B747",
+          "بوينج 747"
+        ]
+      },
+      {
+        "id": "82-3",
+        "rank": 3,
+        "nameAr": "إيرباص إيه 340",
+        "nameEn": "Airbus A340",
+        "aliases": [
+          "إيرباص إيه 340",
+          "Airbus A340",
+          "A340",
+          "ايرباص 340"
+        ]
+      },
+      {
+        "id": "82-4",
+        "rank": 4,
+        "nameAr": "بوينغ 777",
+        "nameEn": "Boeing 777",
+        "aliases": [
+          "بوينغ 777",
+          "Boeing 777",
+          "B777",
+          "بوينج 777"
+        ]
+      },
+      {
+        "id": "82-5",
+        "rank": 5,
+        "nameAr": "إيرباص إيه 350",
+        "nameEn": "Airbus A350",
+        "aliases": [
+          "إيرباص إيه 350",
+          "Airbus A350",
+          "A350",
+          "ايرباص 350"
+        ]
+      },
+      {
+        "id": "82-6",
+        "rank": 6,
+        "nameAr": "ماكدونل دوغلاس إم دي 11",
+        "nameEn": "McDonnell Douglas MD-11",
+        "aliases": [
+          "ماكدونل دوغلاس إم دي 11",
+          "McDonnell Douglas MD-11",
+          "MD11",
+          "MD-11",
+          "ام دي 11"
+        ]
+      },
+      {
+        "id": "82-7",
+        "rank": 7,
+        "nameAr": "إليوشن إل 96",
+        "nameEn": "Ilyushin Il-96",
+        "aliases": [
+          "إليوشن إل 96",
+          "Ilyushin Il-96",
+          "Il96",
+          "IL-96",
+          "اليوشن 96"
+        ]
+      },
+      {
+        "id": "82-8",
+        "rank": 8,
+        "nameAr": "ماكدونل دوغلاس دي سي 10",
+        "nameEn": "McDonnell Douglas DC-10",
+        "aliases": [
+          "ماكدونل دوغلاس دي سي 10",
+          "McDonnell Douglas DC-10",
+          "DC10",
+          "DC-10",
+          "دي سي 10"
+        ]
+      },
+      {
+        "id": "82-9",
+        "rank": 9,
+        "nameAr": "بوينغ 787",
+        "nameEn": "Boeing 787",
+        "aliases": [
+          "بوينغ 787",
+          "Boeing 787",
+          "B787",
+          "بوينج 787",
+          "دريملاينر"
+        ]
+      },
+      {
+        "id": "82-10",
+        "rank": 10,
+        "nameAr": "إيرباص إيه 330",
+        "nameEn": "Airbus A330",
+        "aliases": [
+          "إيرباص إيه 330",
+          "Airbus A330",
+          "A330",
+          "ايرباص 330"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "82-outside-1",
+        "nameAr": "Boeing 767",
+        "nameEn": "Boeing 767",
+        "aliases": [
+          "Boeing 767"
+        ]
+      },
+      {
+        "id": "82-outside-2",
+        "nameAr": "Airbus A300",
+        "nameEn": "Airbus A300",
+        "aliases": [
+          "Airbus A300"
+        ]
+      },
+      {
+        "id": "82-outside-3",
+        "nameAr": "Airbus A310",
+        "nameEn": "Airbus A310",
+        "aliases": [
+          "Airbus A310"
+        ]
+      },
+      {
+        "id": "82-outside-4",
+        "nameAr": "Comac C929",
+        "nameEn": "Comac C929",
+        "aliases": [
+          "Comac C929"
+        ]
+      },
+      {
+        "id": "82-outside-5",
+        "nameAr": "Lockheed L-1011",
+        "nameEn": "Lockheed L-1011",
+        "aliases": [
+          "Lockheed L-1011"
+        ]
+      },
+      {
+        "id": "82-outside-6",
+        "nameAr": "Ilyushin Il-86",
+        "nameEn": "Ilyushin Il-86",
+        "aliases": [
+          "Ilyushin Il-86"
+        ]
+      },
+      {
+        "id": "82-outside-7",
+        "nameAr": "Antonov An-225 Mriya",
+        "nameEn": "Antonov An-225 Mriya",
+        "aliases": [
+          "Antonov An-225 Mriya"
+        ]
+      },
+      {
+        "id": "82-outside-8",
+        "nameAr": "Antonov An-124",
+        "nameEn": "Antonov An-124",
+        "aliases": [
+          "Antonov An-124"
+        ]
+      },
+      {
+        "id": "82-outside-9",
+        "nameAr": "Lockheed C-5 Galaxy",
+        "nameEn": "Lockheed C-5 Galaxy",
+        "aliases": [
+          "Lockheed C-5 Galaxy"
+        ]
+      },
+      {
+        "id": "82-outside-10",
+        "nameAr": "Airbus Beluga",
+        "nameEn": "Airbus Beluga",
+        "aliases": [
+          "Airbus Beluga"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "title": "أعلى 10 جسور طرق في العالم",
+    "group": "سيارات ونقل",
+    "icon": "Route",
+    "description": "أعلى 10 جسور طرق في العالم",
+    "metric": "ارتفاع سطح الطريق فوق الأرض أو الماء. يُستبعد جسر الأنابيب والمنشآت المفككة، ويشمل جسور الطرق المكتملة فقط.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/List_of_highest_bridges",
+      "asOf": "لقطة المصدر في 15 نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "83-1",
+        "rank": 1,
+        "nameAr": "جسر وادي هواجـيانغ",
+        "nameEn": "Huajiang Canyon Bridge",
+        "aliases": [
+          "جسر وادي هواجـيانغ",
+          "Huajiang Canyon Bridge",
+          "هواجيانغ",
+          "Huajiang"
+        ]
+      },
+      {
+        "id": "83-2",
+        "rank": 2,
+        "nameAr": "جسر دوجي",
+        "nameEn": "Duge Bridge",
+        "aliases": [
+          "جسر دوجي",
+          "Duge Bridge",
+          "بيبانجيانغ دوجي",
+          "Duge"
+        ]
+      },
+      {
+        "id": "83-3",
+        "rank": 3,
+        "nameAr": "جسر نهر سيدو",
+        "nameEn": "Sidu River Bridge",
+        "aliases": [
+          "جسر نهر سيدو",
+          "Sidu River Bridge",
+          "سيدو",
+          "Sidu"
+        ]
+      },
+      {
+        "id": "83-4",
+        "rank": 4,
+        "nameAr": "جسر بولي",
+        "nameEn": "Puli Bridge",
+        "aliases": [
+          "جسر بولي",
+          "Puli Bridge",
+          "بولي",
+          "Puli"
+        ]
+      },
+      {
+        "id": "83-5",
+        "rank": 5,
+        "nameAr": "جسر جينآن",
+        "nameEn": "Jin’an Bridge",
+        "aliases": [
+          "جسر جينآن",
+          "Jin’an Bridge",
+          "Jin'an Bridge",
+          "Jinan Bridge",
+          "جينان"
+        ]
+      },
+      {
+        "id": "83-6",
+        "rank": 6,
+        "nameAr": "جسر نهر ياتشي",
+        "nameEn": "Yachi River Bridge",
+        "aliases": [
+          "جسر نهر ياتشي",
+          "Yachi River Bridge",
+          "ياتشي",
+          "Yachi"
+        ]
+      },
+      {
+        "id": "83-7",
+        "rank": 7,
+        "nameAr": "جسر زانغكيجيانغ",
+        "nameEn": "Zangkejiang Bridge",
+        "aliases": [
+          "جسر زانغكيجيانغ",
+          "Zangkejiang Bridge",
+          "زانغكيجيانغ",
+          "Zangkejiang"
+        ]
+      },
+      {
+        "id": "83-8",
+        "rank": 8,
+        "nameAr": "جسر نهر تشينغشوي",
+        "nameEn": "Qingshui River Bridge",
+        "aliases": [
+          "جسر نهر تشينغشوي",
+          "Qingshui River Bridge",
+          "تشينغشوي",
+          "Qingshui"
+        ]
+      },
+      {
+        "id": "83-9",
+        "rank": 9,
+        "nameAr": "جسر بالوارتي",
+        "nameEn": "Baluarte Bridge",
+        "aliases": [
+          "جسر بالوارتي",
+          "Baluarte Bridge",
+          "بالوارتي",
+          "Baluarte"
+        ]
+      },
+      {
+        "id": "83-10",
+        "rank": 10,
+        "nameAr": "جسر ليوغوانغهي شيقيان",
+        "nameEn": "Liuguanghe Xiqian Expressway Bridge",
+        "aliases": [
+          "جسر ليوغوانغهي شيقيان",
+          "Liuguanghe Xiqian Expressway Bridge",
+          "Liuguanghe Xiqian",
+          "ليوغوانغهي شيقيان"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "83-outside-1",
+        "nameAr": "Baling River Bridge",
+        "nameEn": "Baling River Bridge",
+        "aliases": [
+          "Baling River Bridge"
+        ]
+      },
+      {
+        "id": "83-outside-2",
+        "nameAr": "Beipan River Guanxing Highway Bridge",
+        "nameEn": "Beipan River Guanxing Highway Bridge",
+        "aliases": [
+          "Beipan River Guanxing Highway Bridge"
+        ]
+      },
+      {
+        "id": "83-outside-3",
+        "nameAr": "Tongzihe Bridge Jinrentong",
+        "nameEn": "Tongzihe Bridge Jinrentong",
+        "aliases": [
+          "Tongzihe Bridge Jinrentong"
+        ]
+      },
+      {
+        "id": "83-outside-4",
+        "nameAr": "Maling River Bridge Fenglin",
+        "nameEn": "Maling River Bridge Fenglin",
+        "aliases": [
+          "Maling River Bridge Fenglin"
+        ]
+      },
+      {
+        "id": "83-outside-5",
+        "nameAr": "Dimuhe River Bridge",
+        "nameEn": "Dimuhe River Bridge",
+        "aliases": [
+          "Dimuhe River Bridge"
+        ]
+      },
+      {
+        "id": "83-outside-6",
+        "nameAr": "Yangbaoshan Bridge",
+        "nameEn": "Yangbaoshan Bridge",
+        "aliases": [
+          "Yangbaoshan Bridge"
+        ]
+      },
+      {
+        "id": "83-outside-7",
+        "nameAr": "Chuandian Jinsha River Bridge",
+        "nameEn": "Chuandian Jinsha River Bridge",
+        "aliases": [
+          "Chuandian Jinsha River Bridge"
+        ]
+      },
+      {
+        "id": "83-outside-8",
+        "nameAr": "Yongren Bridge",
+        "nameEn": "Yongren Bridge",
+        "aliases": [
+          "Yongren Bridge"
+        ]
+      },
+      {
+        "id": "83-outside-9",
+        "nameAr": "Liuchong River Bridge",
+        "nameEn": "Liuchong River Bridge",
+        "aliases": [
+          "Liuchong River Bridge"
+        ]
+      },
+      {
+        "id": "83-outside-10",
+        "nameAr": "Aizhai Bridge",
+        "nameEn": "Aizhai Bridge",
+        "aliases": [
+          "Aizhai Bridge"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "title": "أطول 10 جسور ومنشآت جسرية",
+    "group": "سيارات ونقل",
+    "icon": "Route",
+    "description": "أطول 10 جسور ومنشآت جسرية",
+    "metric": "الطول الإجمالي للمنشأة وفق جدول الجسور المكتملة بالمصدر، بما فيه الجسور البرية الطويلة ومنظومات الجسر والنفق؛ لا يعني طول الفتحة الواحدة.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/List_of_longest_bridges",
+      "asOf": "لقطة المصدر في 15 نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "84-1",
+        "rank": 1,
+        "nameAr": "جسر دانيانغ كونشان الكبير",
+        "nameEn": "Danyang–Kunshan Grand Bridge",
+        "aliases": [
+          "جسر دانيانغ كونشان الكبير",
+          "Danyang–Kunshan Grand Bridge",
+          "Danyang Kunshan",
+          "دانيانغ كونشان"
+        ]
+      },
+      {
+        "id": "84-2",
+        "rank": 2,
+        "nameAr": "جسر تشانغهوا كاوهسيونغ",
+        "nameEn": "Changhua–Kaohsiung Viaduct",
+        "aliases": [
+          "جسر تشانغهوا كاوهسيونغ",
+          "Changhua–Kaohsiung Viaduct",
+          "Changhua Kaohsiung",
+          "تشانغهوا كاوهسيونغ"
+        ]
+      },
+      {
+        "id": "84-3",
+        "rank": 3,
+        "nameAr": "جسر كيتا يايتا",
+        "nameEn": "Kita–Yaita Viaduct",
+        "aliases": [
+          "جسر كيتا يايتا",
+          "Kita–Yaita Viaduct",
+          "Kita Yaita",
+          "كيتا يايتا"
+        ]
+      },
+      {
+        "id": "84-4",
+        "rank": 4,
+        "nameAr": "جسر تيانجين الكبير",
+        "nameEn": "Tianjin Grand Bridge",
+        "aliases": [
+          "جسر تيانجين الكبير",
+          "Tianjin Grand Bridge",
+          "تيانجين"
+        ]
+      },
+      {
+        "id": "84-5",
+        "rank": 5,
+        "nameAr": "جسر كانغدي الكبير",
+        "nameEn": "Cangde Grand Bridge",
+        "aliases": [
+          "جسر كانغدي الكبير",
+          "Cangde Grand Bridge",
+          "كانغدي",
+          "Cangde"
+        ]
+      },
+      {
+        "id": "84-6",
+        "rank": 6,
+        "nameAr": "جسر وينان ويخه الكبير",
+        "nameEn": "Weinan Weihe Grand Bridge",
+        "aliases": [
+          "جسر وينان ويخه الكبير",
+          "Weinan Weihe Grand Bridge",
+          "Weinan Weihe",
+          "وينان ويخه"
+        ]
+      },
+      {
+        "id": "84-7",
+        "rank": 7,
+        "nameAr": "طريق بورافا ويثي المرتفع",
+        "nameEn": "Burapha Withi Expressway",
+        "aliases": [
+          "طريق بورافا ويثي المرتفع",
+          "Burapha Withi Expressway",
+          "Bang Na Expressway",
+          "بانغ نا",
+          "بورافا ويثي"
+        ]
+      },
+      {
+        "id": "84-8",
+        "rank": 8,
+        "nameAr": "جسر هونغ كونغ تشوهاي ماكاو",
+        "nameEn": "Hong Kong–Zhuhai–Macau Bridge",
+        "aliases": [
+          "جسر هونغ كونغ تشوهاي ماكاو",
+          "Hong Kong–Zhuhai–Macau Bridge",
+          "Hong Kong Zhuhai Macau",
+          "جسر هونج كونج ماكاو"
+        ]
+      },
+      {
+        "id": "84-9",
+        "rank": 9,
+        "nameAr": "جسر بكين الكبير",
+        "nameEn": "Beijing Grand Bridge",
+        "aliases": [
+          "جسر بكين الكبير",
+          "Beijing Grand Bridge",
+          "Beijing bridge",
+          "جسر بكين"
+        ]
+      },
+      {
+        "id": "84-10",
+        "rank": 10,
+        "nameAr": "منظومة سكاي واي مترو مانيلا",
+        "nameEn": "Metro Manila Skyway System",
+        "aliases": [
+          "منظومة سكاي واي مترو مانيلا",
+          "Metro Manila Skyway System",
+          "Metro Manila Skyway",
+          "سكاي واي مانيلا"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "84-outside-1",
+        "nameAr": "Lake Pontchartrain Causeway",
+        "nameEn": "Lake Pontchartrain Causeway",
+        "aliases": [
+          "Lake Pontchartrain Causeway"
+        ]
+      },
+      {
+        "id": "84-outside-2",
+        "nameAr": "Line 1, Wuhan Metro Bridge",
+        "nameEn": "Line 1, Wuhan Metro Bridge",
+        "aliases": [
+          "Line 1, Wuhan Metro Bridge"
+        ]
+      },
+      {
+        "id": "84-outside-3",
+        "nameAr": "Manchac Swamp Bridge",
+        "nameEn": "Manchac Swamp Bridge",
+        "aliases": [
+          "Manchac Swamp Bridge"
+        ]
+      },
+      {
+        "id": "84-outside-4",
+        "nameAr": "Sheikh Mohammed bin Zayed Skyway",
+        "nameEn": "Sheikh Mohammed bin Zayed Skyway",
+        "aliases": [
+          "Sheikh Mohammed bin Zayed Skyway"
+        ]
+      },
+      {
+        "id": "84-outside-5",
+        "nameAr": "Sheikh Jaber Al-Ahmad Al-Sabah Causeway (Main Link)",
+        "nameEn": "Sheikh Jaber Al-Ahmad Al-Sabah Causeway (Main Link)",
+        "aliases": [
+          "Sheikh Jaber Al-Ahmad Al-Sabah Causeway (Main Link)"
+        ]
+      },
+      {
+        "id": "84-outside-6",
+        "nameAr": "Yangcun Bridge Beijing-Tianjin Intercity Railway",
+        "nameEn": "Yangcun Bridge Beijing-Tianjin Intercity Railway",
+        "aliases": [
+          "Yangcun Bridge Beijing-Tianjin Intercity Railway"
+        ]
+      },
+      {
+        "id": "84-outside-7",
+        "nameAr": "Hangzhou Bay Bridge",
+        "nameEn": "Hangzhou Bay Bridge",
+        "aliases": [
+          "Hangzhou Bay Bridge"
+        ]
+      },
+      {
+        "id": "84-outside-8",
+        "nameAr": "Runyang Bridge",
+        "nameEn": "Runyang Bridge",
+        "aliases": [
+          "Runyang Bridge"
+        ]
+      },
+      {
+        "id": "84-outside-9",
+        "nameAr": "Line 1 – Lima Metro",
+        "nameEn": "Line 1 – Lima Metro",
+        "aliases": [
+          "Line 1 – Lima Metro"
+        ]
+      },
+      {
+        "id": "84-outside-10",
+        "nameAr": "Donghai Bridge",
+        "nameEn": "Donghai Bridge",
+        "aliases": [
+          "Donghai Bridge"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "title": "أطول 10 أنفاق طرق في العالم",
+    "group": "سيارات ونقل",
+    "icon": "Route",
+    "description": "أطول 10 أنفاق طرق في العالم",
+    "metric": "طول نفق الطريق أو منظومة الأنفاق المتصلة في قائمة الأنفاق المفتوحة بالمصدر؛ تُستبعد الأنفاق قيد الإنشاء.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/List_of_longest_road_tunnels",
+      "asOf": "لقطة المصدر في 15 نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "85-1",
+        "rank": 1,
+        "nameAr": "نفق ليردال",
+        "nameEn": "Lærdal Tunnel",
+        "aliases": [
+          "نفق ليردال",
+          "Lærdal Tunnel",
+          "Laerdal Tunnel",
+          "لاردال",
+          "ليردال"
+        ]
+      },
+      {
+        "id": "85-2",
+        "rank": 2,
+        "nameAr": "ويست كونيكس",
+        "nameEn": "WestConnex",
+        "aliases": [
+          "ويست كونيكس",
+          "WestConnex",
+          "West Connex",
+          "ويستكونكس"
+        ]
+      },
+      {
+        "id": "85-3",
+        "rank": 3,
+        "nameAr": "نفق تيانشان شينغلي",
+        "nameEn": "Tianshan Shengli Tunnel",
+        "aliases": [
+          "نفق تيانشان شينغلي",
+          "Tianshan Shengli Tunnel",
+          "Tianshan Shengli",
+          "تيانشان شينجلي"
+        ]
+      },
+      {
+        "id": "85-4",
+        "rank": 4,
+        "nameAr": "نفق ياماتي",
+        "nameEn": "Yamate Tunnel",
+        "aliases": [
+          "نفق ياماتي",
+          "Yamate Tunnel",
+          "Yamate",
+          "ياماتي"
+        ]
+      },
+      {
+        "id": "85-5",
+        "rank": 5,
+        "nameAr": "نفق تشونغنانشان",
+        "nameEn": "Zhongnanshan Tunnel",
+        "aliases": [
+          "نفق تشونغنانشان",
+          "Zhongnanshan Tunnel",
+          "Zhongnanshan",
+          "تشونغنانشان"
+        ]
+      },
+      {
+        "id": "85-6",
+        "rank": 6,
+        "nameAr": "نفق جينبينغشان",
+        "nameEn": "Jinpingshan Tunnel",
+        "aliases": [
+          "نفق جينبينغشان",
+          "Jinpingshan Tunnel",
+          "Jinpingshan",
+          "جينبينغشان"
+        ]
+      },
+      {
+        "id": "85-7",
+        "rank": 7,
+        "nameAr": "نفق غوتهارد للطرق",
+        "nameEn": "St. Gotthard",
+        "aliases": [
+          "نفق غوتهارد للطرق",
+          "St. Gotthard",
+          "Gotthard Road Tunnel",
+          "نفق سانت غوتهارد",
+          "نفق جوتهارد للطرق"
+        ]
+      },
+      {
+        "id": "85-8",
+        "rank": 8,
+        "nameAr": "نفق تيانتايشان",
+        "nameEn": "Tiantaishan Tunnel",
+        "aliases": [
+          "نفق تيانتايشان",
+          "Tiantaishan Tunnel",
+          "Tiantaishan",
+          "تيانتايشان"
+        ]
+      },
+      {
+        "id": "85-9",
+        "rank": 9,
+        "nameAr": "نفق داليانغشان رقم 1",
+        "nameEn": "Daliangshan #1 Tunnel",
+        "aliases": [
+          "نفق داليانغشان رقم 1",
+          "Daliangshan #1 Tunnel",
+          "Daliangshan 1",
+          "داليانغشان 1"
+        ]
+      },
+      {
+        "id": "85-10",
+        "rank": 10,
+        "nameAr": "نفق موزهايلينغ",
+        "nameEn": "Muzhailing Tunnel",
+        "aliases": [
+          "نفق موزهايلينغ",
+          "Muzhailing Tunnel",
+          "Muzhailing",
+          "موزهايلينغ"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "85-outside-1",
+        "nameAr": "Zigana Tunnel",
+        "nameEn": "Zigana Tunnel",
+        "aliases": [
+          "Zigana Tunnel"
+        ]
+      },
+      {
+        "id": "85-outside-2",
+        "nameAr": "Ryfylke Tunnel",
+        "nameEn": "Ryfylke Tunnel",
+        "aliases": [
+          "Ryfylke Tunnel"
+        ]
+      },
+      {
+        "id": "85-outside-3",
+        "nameAr": "Ovit Tunnel",
+        "nameEn": "Ovit Tunnel",
+        "aliases": [
+          "Ovit Tunnel"
+        ]
+      },
+      {
+        "id": "85-outside-4",
+        "nameAr": "Taihangshan Tunnel",
+        "nameEn": "Taihangshan Tunnel",
+        "aliases": [
+          "Taihangshan Tunnel"
+        ]
+      },
+      {
+        "id": "85-outside-5",
+        "nameAr": "Arlberg",
+        "nameEn": "Arlberg",
+        "aliases": [
+          "Arlberg"
+        ]
+      },
+      {
+        "id": "85-outside-6",
+        "nameAr": "Micangshan Tunnel",
+        "nameEn": "Micangshan Tunnel",
+        "aliases": [
+          "Micangshan Tunnel"
+        ]
+      },
+      {
+        "id": "85-outside-7",
+        "nameAr": "Dabashan Tunnel",
+        "nameEn": "Dabashan Tunnel",
+        "aliases": [
+          "Dabashan Tunnel"
+        ]
+      },
+      {
+        "id": "85-outside-8",
+        "nameAr": "Xishan Tunnel",
+        "nameEn": "Xishan Tunnel",
+        "aliases": [
+          "Xishan Tunnel"
+        ]
+      },
+      {
+        "id": "85-outside-9",
+        "nameAr": "Erlangshan Tunnel",
+        "nameEn": "Erlangshan Tunnel",
+        "aliases": [
+          "Erlangshan Tunnel"
+        ]
+      },
+      {
+        "id": "85-outside-10",
+        "nameAr": "Shiziping Tunnel",
+        "nameEn": "Shiziping Tunnel",
+        "aliases": [
+          "Shiziping Tunnel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "title": "أثقل 10 ثدييات برية حية",
+    "group": "علوم وطبيعة",
+    "icon": "PawPrint",
+    "description": "أثقل 10 ثدييات برية حية",
+    "metric": "متوسط الكتلة بالطن للأنواع البرية الحية في جدول Largest terrestrial animals بالمصدر، وليس أكبر فرد مسجل.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/Largest_and_heaviest_animals",
+      "asOf": "لقطة 15 نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "86-1",
+        "rank": 1,
+        "nameAr": "فيل السافانا الإفريقي",
+        "nameEn": "African bush elephant",
+        "aliases": [
+          "فيل السافانا الإفريقي",
+          "African bush elephant",
+          "فيل السافانا",
+          "African savanna elephant"
+        ]
+      },
+      {
+        "id": "86-2",
+        "rank": 2,
+        "nameAr": "الفيل الآسيوي",
+        "nameEn": "Asian elephant",
+        "aliases": [
+          "الفيل الآسيوي",
+          "Asian elephant"
+        ]
+      },
+      {
+        "id": "86-3",
+        "rank": 3,
+        "nameAr": "فيل الغابات الإفريقي",
+        "nameEn": "African forest elephant",
+        "aliases": [
+          "فيل الغابات الإفريقي",
+          "African forest elephant",
+          "فيل الغابات"
+        ]
+      },
+      {
+        "id": "86-4",
+        "rank": 4,
+        "nameAr": "وحيد القرن الأبيض",
+        "nameEn": "White rhinoceros",
+        "aliases": [
+          "وحيد القرن الأبيض",
+          "White rhinoceros",
+          "الكركدن الابيض",
+          "White rhino"
+        ]
+      },
+      {
+        "id": "86-5",
+        "rank": 5,
+        "nameAr": "وحيد القرن الهندي",
+        "nameEn": "Indian rhinoceros",
+        "aliases": [
+          "وحيد القرن الهندي",
+          "Indian rhinoceros",
+          "الكركدن الهندي",
+          "Indian rhino"
+        ]
+      },
+      {
+        "id": "86-6",
+        "rank": 6,
+        "nameAr": "فرس النهر",
+        "nameEn": "Hippopotamus",
+        "aliases": [
+          "فرس النهر",
+          "Hippopotamus",
+          "Hippo",
+          "سيد قشطة"
+        ]
+      },
+      {
+        "id": "86-7",
+        "rank": 7,
+        "nameAr": "وحيد القرن الجاوي",
+        "nameEn": "Javan rhinoceros",
+        "aliases": [
+          "وحيد القرن الجاوي",
+          "Javan rhinoceros",
+          "Javan rhino"
+        ]
+      },
+      {
+        "id": "86-8",
+        "rank": 8,
+        "nameAr": "وحيد القرن الأسود",
+        "nameEn": "Black rhinoceros",
+        "aliases": [
+          "وحيد القرن الأسود",
+          "Black rhinoceros",
+          "Black rhino"
+        ]
+      },
+      {
+        "id": "86-9",
+        "rank": 9,
+        "nameAr": "الزرافة",
+        "nameEn": "Giraffe",
+        "aliases": [
+          "الزرافة",
+          "Giraffe"
+        ]
+      },
+      {
+        "id": "86-10",
+        "rank": 10,
+        "nameAr": "الغور",
+        "nameEn": "Gaur",
+        "aliases": [
+          "الغور",
+          "Gaur",
+          "الثور الهندي",
+          "Indian bison"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "86-outside-1",
+        "nameAr": "Blue whale",
+        "nameEn": "Blue whale",
+        "aliases": [
+          "Blue whale"
+        ]
+      },
+      {
+        "id": "86-outside-2",
+        "nameAr": "North Pacific right whale",
+        "nameEn": "North Pacific right whale",
+        "aliases": [
+          "North Pacific right whale"
+        ]
+      },
+      {
+        "id": "86-outside-3",
+        "nameAr": "Southern right whale",
+        "nameEn": "Southern right whale",
+        "aliases": [
+          "Southern right whale"
+        ]
+      },
+      {
+        "id": "86-outside-4",
+        "nameAr": "Fin whale",
+        "nameEn": "Fin whale",
+        "aliases": [
+          "Fin whale"
+        ]
+      },
+      {
+        "id": "86-outside-5",
+        "nameAr": "Bowhead whale",
+        "nameEn": "Bowhead whale",
+        "aliases": [
+          "Bowhead whale"
+        ]
+      },
+      {
+        "id": "86-outside-6",
+        "nameAr": "North Atlantic right whale",
+        "nameEn": "North Atlantic right whale",
+        "aliases": [
+          "North Atlantic right whale"
+        ]
+      },
+      {
+        "id": "86-outside-7",
+        "nameAr": "Sperm whale",
+        "nameEn": "Sperm whale",
+        "aliases": [
+          "Sperm whale"
+        ]
+      },
+      {
+        "id": "86-outside-8",
+        "nameAr": "Humpback whale",
+        "nameEn": "Humpback whale",
+        "aliases": [
+          "Humpback whale"
+        ]
+      },
+      {
+        "id": "86-outside-9",
+        "nameAr": "Sei whale",
+        "nameEn": "Sei whale",
+        "aliases": [
+          "Sei whale"
+        ]
+      },
+      {
+        "id": "86-outside-10",
+        "nameAr": "Gray whale",
+        "nameEn": "Gray whale",
+        "aliases": [
+          "Gray whale"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "title": "أثقل 10 زواحف حية",
+    "group": "علوم وطبيعة",
+    "icon": "PawPrint",
+    "description": "أثقل 10 زواحف حية",
+    "metric": "متوسط الكتلة في جدول Largest living reptiles بالمصدر؛ ليست أكبر كتلة لفرد واحد. التماسيح والأليغيتور والكايمن أنواع مستقلة.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/Largest_and_heaviest_animals",
+      "asOf": "لقطة المصدر في 15 نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "87-1",
+        "rank": 1,
+        "nameAr": "تمساح المياه المالحة",
+        "nameEn": "Saltwater crocodile",
+        "aliases": [
+          "تمساح المياه المالحة",
+          "Saltwater crocodile",
+          "التمساح البحري"
+        ]
+      },
+      {
+        "id": "87-2",
+        "rank": 2,
+        "nameAr": "تمساح النيل",
+        "nameEn": "Nile crocodile",
+        "aliases": [
+          "تمساح النيل",
+          "Nile crocodile"
+        ]
+      },
+      {
+        "id": "87-3",
+        "rank": 3,
+        "nameAr": "تمساح الأورينوكو",
+        "nameEn": "Orinoco crocodile",
+        "aliases": [
+          "تمساح الأورينوكو",
+          "Orinoco crocodile",
+          "تمساح اورينوكو"
+        ]
+      },
+      {
+        "id": "87-4",
+        "rank": 4,
+        "nameAr": "السلحفاة جلدية الظهر",
+        "nameEn": "Leatherback sea turtle",
+        "aliases": [
+          "السلحفاة جلدية الظهر",
+          "Leatherback sea turtle",
+          "سلحفاة جلدية الظهر"
+        ]
+      },
+      {
+        "id": "87-5",
+        "rank": 5,
+        "nameAr": "التمساح الأمريكي",
+        "nameEn": "American crocodile",
+        "aliases": [
+          "التمساح الأمريكي",
+          "American crocodile"
+        ]
+      },
+      {
+        "id": "87-6",
+        "rank": 6,
+        "nameAr": "الكايمن الأسود",
+        "nameEn": "Black caiman",
+        "aliases": [
+          "الكايمن الأسود",
+          "Black caiman"
+        ]
+      },
+      {
+        "id": "87-7",
+        "rank": 7,
+        "nameAr": "الغريال",
+        "nameEn": "Gharial",
+        "aliases": [
+          "الغريال",
+          "Gharial",
+          "الغاريال",
+          "غريال الغانج"
+        ]
+      },
+      {
+        "id": "87-8",
+        "rank": 8,
+        "nameAr": "القاطور الأمريكي",
+        "nameEn": "American alligator",
+        "aliases": [
+          "القاطور الأمريكي",
+          "American alligator",
+          "الاليغيتور الامريكي"
+        ]
+      },
+      {
+        "id": "87-9",
+        "rank": 9,
+        "nameAr": "تمساح المستنقعات",
+        "nameEn": "Mugger crocodile",
+        "aliases": [
+          "تمساح المستنقعات",
+          "Mugger crocodile",
+          "تمساح موغر",
+          "Mugger"
+        ]
+      },
+      {
+        "id": "87-10",
+        "rank": 10,
+        "nameAr": "الغريال الكاذب",
+        "nameEn": "False gharial",
+        "aliases": [
+          "الغريال الكاذب",
+          "False gharial",
+          "الغاريال الكاذب",
+          "Tomistoma"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "87-outside-1",
+        "nameAr": "Aldabra giant tortoise",
+        "nameEn": "Aldabra giant tortoise",
+        "aliases": [
+          "Aldabra giant tortoise"
+        ]
+      },
+      {
+        "id": "87-outside-2",
+        "nameAr": "Loggerhead sea turtle",
+        "nameEn": "Loggerhead sea turtle",
+        "aliases": [
+          "Loggerhead sea turtle"
+        ]
+      },
+      {
+        "id": "87-outside-3",
+        "nameAr": "Green sea turtle",
+        "nameEn": "Green sea turtle",
+        "aliases": [
+          "Green sea turtle"
+        ]
+      },
+      {
+        "id": "87-outside-4",
+        "nameAr": "Slender-snouted crocodile",
+        "nameEn": "Slender-snouted crocodile",
+        "aliases": [
+          "Slender-snouted crocodile"
+        ]
+      },
+      {
+        "id": "87-outside-5",
+        "nameAr": "Galapagos tortoise",
+        "nameEn": "Galapagos tortoise",
+        "aliases": [
+          "Galapagos tortoise"
+        ]
+      },
+      {
+        "id": "87-outside-6",
+        "nameAr": "Goliath frog",
+        "nameEn": "Goliath frog",
+        "aliases": [
+          "Goliath frog"
+        ]
+      },
+      {
+        "id": "87-outside-7",
+        "nameAr": "Helmeted water toad",
+        "nameEn": "Helmeted water toad",
+        "aliases": [
+          "Helmeted water toad"
+        ]
+      },
+      {
+        "id": "87-outside-8",
+        "nameAr": "Lake junin giant frog",
+        "nameEn": "Lake junin giant frog",
+        "aliases": [
+          "Lake junin giant frog"
+        ]
+      },
+      {
+        "id": "87-outside-9",
+        "nameAr": "Blyth's river frog",
+        "nameEn": "Blyth's river frog",
+        "aliases": [
+          "Blyth's river frog"
+        ]
+      },
+      {
+        "id": "87-outside-10",
+        "nameAr": "Cane toad",
+        "nameEn": "Cane toad",
+        "aliases": [
+          "Cane toad"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "title": "أثقل 10 أنواع طيور حية",
+    "group": "علوم وطبيعة",
+    "icon": "Bird",
+    "description": "أثقل 10 أنواع طيور حية",
+    "metric": "متوسط كتلة الطائر في جدول Heaviest living bird species بالمصدر. النعامة شمال الإفريقية والصومالية عنصران مستقلان.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/List_of_largest_birds",
+      "asOf": "لقطة 15 نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "88-1",
+        "rank": 1,
+        "nameAr": "نعامة شمال إفريقيا",
+        "nameEn": "North African ostrich",
+        "aliases": [
+          "نعامة شمال إفريقيا",
+          "North African ostrich",
+          "النعامة شمال الافريقية",
+          "النعام شمال الافريقي"
+        ]
+      },
+      {
+        "id": "88-2",
+        "rank": 2,
+        "nameAr": "النعامة الصومالية",
+        "nameEn": "Somali ostrich",
+        "aliases": [
+          "النعامة الصومالية",
+          "Somali ostrich"
+        ]
+      },
+      {
+        "id": "88-3",
+        "rank": 3,
+        "nameAr": "الشبنم الجنوبي",
+        "nameEn": "Southern cassowary",
+        "aliases": [
+          "الشبنم الجنوبي",
+          "Southern cassowary",
+          "كاسواري جنوبي"
+        ]
+      },
+      {
+        "id": "88-4",
+        "rank": 4,
+        "nameAr": "الشبنم الشمالي",
+        "nameEn": "Northern cassowary",
+        "aliases": [
+          "الشبنم الشمالي",
+          "Northern cassowary",
+          "كاسواري شمالي"
+        ]
+      },
+      {
+        "id": "88-5",
+        "rank": 5,
+        "nameAr": "الإيمو",
+        "nameEn": "Emu",
+        "aliases": [
+          "الإيمو",
+          "Emu",
+          "الايمو"
+        ]
+      },
+      {
+        "id": "88-6",
+        "rank": 6,
+        "nameAr": "البطريق الإمبراطوري",
+        "nameEn": "Emperor penguin",
+        "aliases": [
+          "البطريق الإمبراطوري",
+          "Emperor penguin"
+        ]
+      },
+      {
+        "id": "88-7",
+        "rank": 7,
+        "nameAr": "الريا الكبير",
+        "nameEn": "Greater rhea",
+        "aliases": [
+          "الريا الكبير",
+          "Greater rhea",
+          "الريا الكبرى"
+        ]
+      },
+      {
+        "id": "88-8",
+        "rank": 8,
+        "nameAr": "الشبنم القزم",
+        "nameEn": "Dwarf cassowary",
+        "aliases": [
+          "الشبنم القزم",
+          "Dwarf cassowary",
+          "كاسواري قزم"
+        ]
+      },
+      {
+        "id": "88-9",
+        "rank": 9,
+        "nameAr": "الريا الصغير",
+        "nameEn": "Lesser rhea",
+        "aliases": [
+          "الريا الصغير",
+          "Lesser rhea",
+          "الريا الصغرى",
+          "Darwin rhea"
+        ]
+      },
+      {
+        "id": "88-10",
+        "rank": 10,
+        "nameAr": "البطريق الملكي",
+        "nameEn": "King penguin",
+        "aliases": [
+          "البطريق الملكي",
+          "King penguin"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "88-outside-1",
+        "nameAr": "Kori bustard",
+        "nameEn": "Kori bustard",
+        "aliases": [
+          "Kori bustard"
+        ]
+      },
+      {
+        "id": "88-outside-2",
+        "nameAr": "Andean condor",
+        "nameEn": "Andean condor",
+        "aliases": [
+          "Andean condor"
+        ]
+      },
+      {
+        "id": "88-outside-3",
+        "nameAr": "Trumpeter swan",
+        "nameEn": "Trumpeter swan",
+        "aliases": [
+          "Trumpeter swan"
+        ]
+      },
+      {
+        "id": "88-outside-4",
+        "nameAr": "Mute swan",
+        "nameEn": "Mute swan",
+        "aliases": [
+          "Mute swan"
+        ]
+      },
+      {
+        "id": "88-outside-5",
+        "nameAr": "Eurasian black vulture",
+        "nameEn": "Eurasian black vulture",
+        "aliases": [
+          "Eurasian black vulture"
+        ]
+      },
+      {
+        "id": "88-outside-6",
+        "nameAr": "Dalmatian pelican",
+        "nameEn": "Dalmatian pelican",
+        "aliases": [
+          "Dalmatian pelican"
+        ]
+      },
+      {
+        "id": "88-outside-7",
+        "nameAr": "Whooper swan",
+        "nameEn": "Whooper swan",
+        "aliases": [
+          "Whooper swan"
+        ]
+      },
+      {
+        "id": "88-outside-8",
+        "nameAr": "Wandering albatross",
+        "nameEn": "Wandering albatross",
+        "aliases": [
+          "Wandering albatross"
+        ]
+      },
+      {
+        "id": "88-outside-9",
+        "nameAr": "Southern royal albatross",
+        "nameEn": "Southern royal albatross",
+        "aliases": [
+          "Southern royal albatross"
+        ]
+      },
+      {
+        "id": "88-outside-10",
+        "nameAr": "Red-crowned crane",
+        "nameEn": "Red-crowned crane",
+        "aliases": [
+          "Red-crowned crane"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "title": "أطول 10 أنواع حيوانات عمرًا حسب AnAge",
+    "group": "علوم وطبيعة",
+    "icon": "Hourglass",
+    "description": "أطول 10 أنواع حيوانات عمرًا حسب AnAge",
+    "metric": "أقصى عمر مسجل في قاعدة AnAge للأنواع الحيوانية ذات جودة بيانات acceptable أو high فقط. تُستبعد السجلات questionable، ويُفصل التعادل أبجديًا بالاسم العلمي.",
+    "source": {
+      "title": "AnAge — Human Ageing Genomic Resources",
+      "url": "https://genomics.senescence.info/species/dataset.zip",
+      "asOf": "AnAge Build 15 — الإصدار المستقر المتاح",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "89-1",
+        "rank": 1,
+        "nameAr": "محار الكواهوج المحيطي",
+        "nameEn": "Ocean quahog clam",
+        "aliases": [
+          "محار الكواهوج المحيطي",
+          "Ocean quahog clam",
+          "Arctica islandica",
+          "محار المحيط",
+          "Ocean quahog"
+        ]
+      },
+      {
+        "id": "89-2",
+        "rank": 2,
+        "nameAr": "قرش غرينلاند",
+        "nameEn": "Greenland shark",
+        "aliases": [
+          "قرش غرينلاند",
+          "Greenland shark",
+          "Somniosus microcephalus",
+          "قرش جرينلاند"
+        ]
+      },
+      {
+        "id": "89-3",
+        "rank": 3,
+        "nameAr": "الدودة الأنبوبية إسكاربيا لاميناتا",
+        "nameEn": "Escarpia laminata",
+        "aliases": [
+          "الدودة الأنبوبية إسكاربيا لاميناتا",
+          "Escarpia laminata",
+          "اسكاربيا لاميناتا"
+        ]
+      },
+      {
+        "id": "89-4",
+        "rank": 4,
+        "nameAr": "الدودة الأنبوبية سيبيوفيلا جونسي",
+        "nameEn": "Seepiophila jonesi",
+        "aliases": [
+          "الدودة الأنبوبية سيبيوفيلا جونسي",
+          "Seepiophila jonesi",
+          "سيبيوفيلا جونسي"
+        ]
+      },
+      {
+        "id": "89-5",
+        "rank": 5,
+        "nameAr": "الدودة الأنبوبية لاميليبراكيا لويميزي",
+        "nameEn": "Lamellibrachia luymesi",
+        "aliases": [
+          "الدودة الأنبوبية لاميليبراكيا لويميزي",
+          "Lamellibrachia luymesi",
+          "لاميليبراكيا لويميزي"
+        ]
+      },
+      {
+        "id": "89-6",
+        "rank": 6,
+        "nameAr": "الحوت مقوس الرأس",
+        "nameEn": "Bowhead whale",
+        "aliases": [
+          "الحوت مقوس الرأس",
+          "Bowhead whale",
+          "Balaena mysticetus",
+          "الحوت القطبي"
+        ]
+      },
+      {
+        "id": "89-7",
+        "rank": 7,
+        "nameAr": "سمكة الصخور خشنة العين",
+        "nameEn": "Rougheye rockfish",
+        "aliases": [
+          "سمكة الصخور خشنة العين",
+          "Rougheye rockfish",
+          "Sebastes aleutianus",
+          "السمك الصخري خشن العين"
+        ]
+      },
+      {
+        "id": "89-8",
+        "rank": 8,
+        "nameAr": "قنفذ البحر الأحمر",
+        "nameEn": "Red sea urchin",
+        "aliases": [
+          "قنفذ البحر الأحمر",
+          "Red sea urchin",
+          "Strongylocentrotus franciscanus",
+          "Mesocentrotus franciscanus"
+        ]
+      },
+      {
+        "id": "89-9",
+        "rank": 9,
+        "nameAr": "سلحفاة غالاباغوس",
+        "nameEn": "Galapagos tortoise",
+        "aliases": [
+          "سلحفاة غالاباغوس",
+          "Galapagos tortoise",
+          "Chelonoidis nigra",
+          "سلحفاة جالاباجوس"
+        ]
+      },
+      {
+        "id": "89-10",
+        "rank": 10,
+        "nameAr": "محار الجيودك الهادئ",
+        "nameEn": "Pacific geoduck",
+        "aliases": [
+          "محار الجيودك الهادئ",
+          "Pacific geoduck",
+          "Panopea generosa",
+          "جيودك المحيط الهادئ",
+          "Geoduck"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "89-outside-1",
+        "nameAr": "Shortraker rockfish",
+        "nameEn": "Shortraker rockfish",
+        "aliases": [
+          "Shortraker rockfish",
+          "Sebastes borealis"
+        ]
+      },
+      {
+        "id": "89-outside-2",
+        "nameAr": "Lake sturgeon",
+        "nameEn": "Lake sturgeon",
+        "aliases": [
+          "Lake sturgeon",
+          "Acipenser fulvescens"
+        ]
+      },
+      {
+        "id": "89-outside-3",
+        "nameAr": "Aldabra tortoise",
+        "nameEn": "Aldabra tortoise",
+        "aliases": [
+          "Aldabra tortoise",
+          "Aldabrachelys gigantea"
+        ]
+      },
+      {
+        "id": "89-outside-4",
+        "nameAr": "Orange roughy",
+        "nameEn": "Orange roughy",
+        "aliases": [
+          "Orange roughy",
+          "Hoplostethus atlanticus"
+        ]
+      },
+      {
+        "id": "89-outside-5",
+        "nameAr": "Warty oreo",
+        "nameEn": "Warty oreo",
+        "aliases": [
+          "Warty oreo",
+          "Allocyttus verrucosus"
+        ]
+      },
+      {
+        "id": "89-outside-6",
+        "nameAr": "Eastern box turtle",
+        "nameEn": "Eastern box turtle",
+        "aliases": [
+          "Eastern box turtle",
+          "Terrapene carolina"
+        ]
+      },
+      {
+        "id": "89-outside-7",
+        "nameAr": "Mediterranean spur-thighed tortoise",
+        "nameEn": "Mediterranean spur-thighed tortoise",
+        "aliases": [
+          "Mediterranean spur-thighed tortoise",
+          "Testudo graeca"
+        ]
+      },
+      {
+        "id": "89-outside-8",
+        "nameAr": "Human",
+        "nameEn": "Human",
+        "aliases": [
+          "Human",
+          "Homo sapiens"
+        ]
+      },
+      {
+        "id": "89-outside-9",
+        "nameAr": "European pond turtle",
+        "nameEn": "European pond turtle",
+        "aliases": [
+          "European pond turtle",
+          "Emys orbicularis"
+        ]
+      },
+      {
+        "id": "89-outside-10",
+        "nameAr": "Beluga sturgeon",
+        "nameEn": "Beluga sturgeon",
+        "aliases": [
+          "Beluga sturgeon",
+          "Huso huso"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "title": "أعلى 10 أنواع أشجار حية",
+    "group": "علوم وطبيعة",
+    "icon": "Trees",
+    "description": "أعلى 10 أنواع أشجار حية",
+    "metric": "أعلى عينة حية مقاسة لكل نوع في جدول List of tallest trees by species، وفق لقطة المصدر. تُقبل أسماء الأنواع العلمية والشائعة؛ القائمة لا ترتب الأشجار التاريخية المقطوعة.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/List_of_tallest_trees",
+      "asOf": "لقطة المصدر في 15 نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "90-1",
+        "rank": 1,
+        "nameAr": "السيكويا الساحلية",
+        "nameEn": "Coast redwood",
+        "aliases": [
+          "السيكويا الساحلية",
+          "Coast redwood",
+          "Sequoia sempervirens",
+          "الردوود الساحلي"
+        ]
+      },
+      {
+        "id": "90-2",
+        "rank": 2,
+        "nameAr": "السرو التبتي الجنوبي",
+        "nameEn": "South Tibetan cypress",
+        "aliases": [
+          "السرو التبتي الجنوبي",
+          "South Tibetan cypress",
+          "Cupressus austrotibetica"
+        ]
+      },
+      {
+        "id": "90-3",
+        "rank": 3,
+        "nameAr": "تنوب سيتكا",
+        "nameEn": "Sitka spruce",
+        "aliases": [
+          "تنوب سيتكا",
+          "Sitka spruce",
+          "Picea sitchensis"
+        ]
+      },
+      {
+        "id": "90-4",
+        "rank": 4,
+        "nameAr": "شوح دوغلاس الساحلي",
+        "nameEn": "Coast Douglas-fir",
+        "aliases": [
+          "شوح دوغلاس الساحلي",
+          "Coast Douglas-fir",
+          "Pseudotsuga menziesii var. menziesii",
+          "Douglas fir",
+          "دوغلاس فير"
+        ]
+      },
+      {
+        "id": "90-5",
+        "rank": 5,
+        "nameAr": "الميرانتي الأصفر",
+        "nameEn": "Yellow meranti",
+        "aliases": [
+          "الميرانتي الأصفر",
+          "Yellow meranti",
+          "Richetia faguetiana",
+          "Shorea faguetiana"
+        ]
+      },
+      {
+        "id": "90-6",
+        "rank": 6,
+        "nameAr": "السيكويا العملاقة",
+        "nameEn": "Giant sequoia",
+        "aliases": [
+          "السيكويا العملاقة",
+          "Giant sequoia",
+          "Sequoiadendron giganteum"
+        ]
+      },
+      {
+        "id": "90-7",
+        "rank": 7,
+        "nameAr": "الأوكالبتوس الملكي",
+        "nameEn": "Mountain ash",
+        "aliases": [
+          "الأوكالبتوس الملكي",
+          "Mountain ash",
+          "Eucalyptus regnans",
+          "غبيراء الجبل",
+          "يوكاليبتوس ريغنانس"
+        ]
+      },
+      {
+        "id": "90-8",
+        "rank": 8,
+        "nameAr": "الأوكالبتوس الأزرق الجنوبي",
+        "nameEn": "Southern blue gum",
+        "aliases": [
+          "الأوكالبتوس الأزرق الجنوبي",
+          "Southern blue gum",
+          "Eucalyptus globulus",
+          "الكينا الزرقاء"
+        ]
+      },
+      {
+        "id": "90-9",
+        "rank": 9,
+        "nameAr": "صمغ المانا",
+        "nameEn": "Manna gum",
+        "aliases": [
+          "صمغ المانا",
+          "Manna gum",
+          "Eucalyptus viminalis",
+          "اوكالبتوس فيميناليس"
+        ]
+      },
+      {
+        "id": "90-10",
+        "rank": 10,
+        "nameAr": "الشوح النبيل",
+        "nameEn": "Noble fir",
+        "aliases": [
+          "الشوح النبيل",
+          "Noble fir",
+          "Abies procera"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "90-outside-1",
+        "nameAr": "Dinizia excelsa",
+        "nameEn": "Dinizia excelsa",
+        "aliases": [
+          "Dinizia excelsa"
+        ]
+      },
+      {
+        "id": "90-outside-2",
+        "nameAr": "Brown top stringbark (Eucalyptus obliqua)",
+        "nameEn": "Brown top stringbark (Eucalyptus obliqua)",
+        "aliases": [
+          "Brown top stringbark (Eucalyptus obliqua)"
+        ]
+      },
+      {
+        "id": "90-outside-3",
+        "nameAr": "Alpine ash (Eucalyptus delegatensis)",
+        "nameEn": "Alpine ash (Eucalyptus delegatensis)",
+        "aliases": [
+          "Alpine ash (Eucalyptus delegatensis)"
+        ]
+      },
+      {
+        "id": "90-outside-4",
+        "nameAr": "Mengaris (Koompassia excelsa)",
+        "nameEn": "Mengaris (Koompassia excelsa)",
+        "aliases": [
+          "Mengaris (Koompassia excelsa)"
+        ]
+      },
+      {
+        "id": "90-outside-5",
+        "nameAr": "Mountain grey gum (Eucalyptus cypellocarpa)",
+        "nameEn": "Mountain grey gum (Eucalyptus cypellocarpa)",
+        "aliases": [
+          "Mountain grey gum (Eucalyptus cypellocarpa)"
+        ]
+      },
+      {
+        "id": "90-outside-6",
+        "nameAr": "Karri (Eucalyptus diversicolor)",
+        "nameEn": "Karri (Eucalyptus diversicolor)",
+        "aliases": [
+          "Karri (Eucalyptus diversicolor)"
+        ]
+      },
+      {
+        "id": "90-outside-7",
+        "nameAr": "Shorea argentifolia",
+        "nameEn": "Shorea argentifolia",
+        "aliases": [
+          "Shorea argentifolia"
+        ]
+      },
+      {
+        "id": "90-outside-8",
+        "nameAr": "Shorea superba",
+        "nameEn": "Shorea superba",
+        "aliases": [
+          "Shorea superba"
+        ]
+      },
+      {
+        "id": "90-outside-9",
+        "nameAr": "Shining gum (Eucalyptus nitens)",
+        "nameEn": "Shining gum (Eucalyptus nitens)",
+        "aliases": [
+          "Shining gum (Eucalyptus nitens)"
+        ]
+      },
+      {
+        "id": "90-outside-10",
+        "nameAr": "Taiwania (Taiwania cryptomerioides)",
+        "nameEn": "Taiwania (Taiwania cryptomerioides)",
+        "aliases": [
+          "Taiwania (Taiwania cryptomerioides)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "title": "ألمع 10 نجوم في سماء الليل",
+    "group": "علوم وطبيعة",
+    "icon": "Star",
+    "description": "ألمع 10 نجوم في سماء الليل",
+    "metric": "القدر الظاهري البصري حسب ترتيب المصدر، باستثناء الشمس؛ ألفا قنطورس يُحسب كنظام مضيء واحد، والنجوم المتغيرة وفق القيمة الاسمية في الجدول.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/List_of_brightest_stars",
+      "asOf": "لقطة 15 نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "91-1",
+        "rank": 1,
+        "nameAr": "الشعرى اليمانية",
+        "nameEn": "Sirius",
+        "aliases": [
+          "الشعرى اليمانية",
+          "Sirius",
+          "سيريوس",
+          "الشعرى"
+        ]
+      },
+      {
+        "id": "91-2",
+        "rank": 2,
+        "nameAr": "سهيل",
+        "nameEn": "Canopus",
+        "aliases": [
+          "سهيل",
+          "Canopus",
+          "كانوبوس"
+        ]
+      },
+      {
+        "id": "91-3",
+        "rank": 3,
+        "nameAr": "ألفا قنطورس",
+        "nameEn": "Alpha Centauri",
+        "aliases": [
+          "ألفا قنطورس",
+          "Alpha Centauri",
+          "رجل القنطورس",
+          "الفا سنتوري",
+          "Rigil Kentaurus"
+        ]
+      },
+      {
+        "id": "91-4",
+        "rank": 4,
+        "nameAr": "السماك الرامح",
+        "nameEn": "Arcturus",
+        "aliases": [
+          "السماك الرامح",
+          "Arcturus",
+          "اركتورس"
+        ]
+      },
+      {
+        "id": "91-5",
+        "rank": 5,
+        "nameAr": "النسر الواقع",
+        "nameEn": "Vega",
+        "aliases": [
+          "النسر الواقع",
+          "Vega",
+          "فيغا",
+          "فيجا"
+        ]
+      },
+      {
+        "id": "91-6",
+        "rank": 6,
+        "nameAr": "العيوق",
+        "nameEn": "Capella",
+        "aliases": [
+          "العيوق",
+          "Capella",
+          "كابيلا"
+        ]
+      },
+      {
+        "id": "91-7",
+        "rank": 7,
+        "nameAr": "رجل الجبار",
+        "nameEn": "Rigel",
+        "aliases": [
+          "رجل الجبار",
+          "Rigel",
+          "ريجل"
+        ]
+      },
+      {
+        "id": "91-8",
+        "rank": 8,
+        "nameAr": "الشعرى الشامية",
+        "nameEn": "Procyon",
+        "aliases": [
+          "الشعرى الشامية",
+          "Procyon",
+          "بروسيون"
+        ]
+      },
+      {
+        "id": "91-9",
+        "rank": 9,
+        "nameAr": "آخر النهر",
+        "nameEn": "Achernar",
+        "aliases": [
+          "آخر النهر",
+          "Achernar",
+          "اخير النهر",
+          "اخر النهر"
+        ]
+      },
+      {
+        "id": "91-10",
+        "rank": 10,
+        "nameAr": "منكب الجوزاء",
+        "nameEn": "Betelgeuse",
+        "aliases": [
+          "منكب الجوزاء",
+          "Betelgeuse",
+          "ابط الجوزاء",
+          "بيتيلجوس"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "91-outside-1",
+        "nameAr": "Hadar",
+        "nameEn": "Hadar",
+        "aliases": [
+          "Hadar"
+        ]
+      },
+      {
+        "id": "91-outside-2",
+        "nameAr": "Altair",
+        "nameEn": "Altair",
+        "aliases": [
+          "Altair"
+        ]
+      },
+      {
+        "id": "91-outside-3",
+        "nameAr": "Acrux",
+        "nameEn": "Acrux",
+        "aliases": [
+          "Acrux"
+        ]
+      },
+      {
+        "id": "91-outside-4",
+        "nameAr": "Aldebaran",
+        "nameEn": "Aldebaran",
+        "aliases": [
+          "Aldebaran"
+        ]
+      },
+      {
+        "id": "91-outside-5",
+        "nameAr": "Antares",
+        "nameEn": "Antares",
+        "aliases": [
+          "Antares"
+        ]
+      },
+      {
+        "id": "91-outside-6",
+        "nameAr": "Spica",
+        "nameEn": "Spica",
+        "aliases": [
+          "Spica"
+        ]
+      },
+      {
+        "id": "91-outside-7",
+        "nameAr": "Pollux",
+        "nameEn": "Pollux",
+        "aliases": [
+          "Pollux"
+        ]
+      },
+      {
+        "id": "91-outside-8",
+        "nameAr": "Fomalhaut",
+        "nameEn": "Fomalhaut",
+        "aliases": [
+          "Fomalhaut"
+        ]
+      },
+      {
+        "id": "91-outside-9",
+        "nameAr": "Deneb",
+        "nameEn": "Deneb",
+        "aliases": [
+          "Deneb"
+        ]
+      },
+      {
+        "id": "91-outside-10",
+        "nameAr": "Mimosa",
+        "nameEn": "Mimosa",
+        "aliases": [
+          "Mimosa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "title": "أقرب 10 أنظمة نجمية إلى الشمس",
+    "group": "علوم وطبيعة",
+    "icon": "Orbit",
+    "description": "أقرب 10 أنظمة نجمية إلى الشمس",
+    "metric": "الأنظمة التي تحتوي على نجم، مرتبة بمسافة أقرب عضو إلى الشمس؛ النظام المتعدد يُحسب مرة واحدة. تُستبعد الشمس وأنظمة الأقزام البنية الخالصة مثل Luhman 16.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/List_of_nearest_stars_and_brown_dwarfs",
+      "asOf": "لقطة المصدر في 15 نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "92-1",
+        "rank": 1,
+        "nameAr": "ألفا قنطورس",
+        "nameEn": "Alpha Centauri",
+        "aliases": [
+          "ألفا قنطورس",
+          "Alpha Centauri",
+          "الفا سنتوري",
+          "قنطور الأقرب",
+          "Proxima Centauri",
+          "Rigil Kentaurus",
+          "Toliman"
+        ]
+      },
+      {
+        "id": "92-2",
+        "rank": 2,
+        "nameAr": "نجم بارنارد",
+        "nameEn": "Barnard’s Star",
+        "aliases": [
+          "نجم بارنارد",
+          "Barnard’s Star",
+          "Barnard's Star",
+          "Barnard",
+          "بارنارد"
+        ]
+      },
+      {
+        "id": "92-3",
+        "rank": 3,
+        "nameAr": "وولف 359",
+        "nameEn": "Wolf 359",
+        "aliases": [
+          "وولف 359",
+          "Wolf 359",
+          "ولف 359"
+        ]
+      },
+      {
+        "id": "92-4",
+        "rank": 4,
+        "nameAr": "لالاند 21185",
+        "nameEn": "Lalande 21185",
+        "aliases": [
+          "لالاند 21185",
+          "Lalande 21185",
+          "Gliese 411",
+          "HD 95735",
+          "لالاند"
+        ]
+      },
+      {
+        "id": "92-5",
+        "rank": 5,
+        "nameAr": "الشعرى اليمانية",
+        "nameEn": "Sirius",
+        "aliases": [
+          "الشعرى اليمانية",
+          "Sirius",
+          "سيريوس",
+          "Alpha Canis Majoris"
+        ]
+      },
+      {
+        "id": "92-6",
+        "rank": 6,
+        "nameAr": "غليز 65",
+        "nameEn": "Gliese 65",
+        "aliases": [
+          "غليز 65",
+          "Gliese 65",
+          "Luyten 726-8",
+          "Gliese65",
+          "غليسي 65",
+          "BL Ceti",
+          "UV Ceti"
+        ]
+      },
+      {
+        "id": "92-7",
+        "rank": 7,
+        "nameAr": "روس 154",
+        "nameEn": "Ross 154",
+        "aliases": [
+          "روس 154",
+          "Ross 154",
+          "V1216 Sagittarii"
+        ]
+      },
+      {
+        "id": "92-8",
+        "rank": 8,
+        "nameAr": "روس 248",
+        "nameEn": "Ross 248",
+        "aliases": [
+          "روس 248",
+          "Ross 248",
+          "HH Andromedae"
+        ]
+      },
+      {
+        "id": "92-9",
+        "rank": 9,
+        "nameAr": "إبسيلون إريداني",
+        "nameEn": "Epsilon Eridani",
+        "aliases": [
+          "إبسيلون إريداني",
+          "Epsilon Eridani",
+          "Ran",
+          "ران",
+          "ابسيلون النهر"
+        ]
+      },
+      {
+        "id": "92-10",
+        "rank": 10,
+        "nameAr": "غليز 887",
+        "nameEn": "Gliese 887",
+        "aliases": [
+          "غليز 887",
+          "Gliese 887",
+          "Lacaille 9352",
+          "غليسي 887",
+          "لاكايل 9352"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "92-outside-1",
+        "nameAr": "Ross 128",
+        "nameEn": "Ross 128",
+        "aliases": [
+          "Ross 128"
+        ]
+      },
+      {
+        "id": "92-outside-2",
+        "nameAr": "EZ Aquarii",
+        "nameEn": "EZ Aquarii",
+        "aliases": [
+          "EZ Aquarii"
+        ]
+      },
+      {
+        "id": "92-outside-3",
+        "nameAr": "61 Cygni",
+        "nameEn": "61 Cygni",
+        "aliases": [
+          "61 Cygni"
+        ]
+      },
+      {
+        "id": "92-outside-4",
+        "nameAr": "Procyon",
+        "nameEn": "Procyon",
+        "aliases": [
+          "Procyon"
+        ]
+      },
+      {
+        "id": "92-outside-5",
+        "nameAr": "Struve 2398",
+        "nameEn": "Struve 2398",
+        "aliases": [
+          "Struve 2398"
+        ]
+      },
+      {
+        "id": "92-outside-6",
+        "nameAr": "Groombridge 34",
+        "nameEn": "Groombridge 34",
+        "aliases": [
+          "Groombridge 34"
+        ]
+      },
+      {
+        "id": "92-outside-7",
+        "nameAr": "DX Cancri",
+        "nameEn": "DX Cancri",
+        "aliases": [
+          "DX Cancri"
+        ]
+      },
+      {
+        "id": "92-outside-8",
+        "nameAr": "Epsilon Indi",
+        "nameEn": "Epsilon Indi",
+        "aliases": [
+          "Epsilon Indi"
+        ]
+      },
+      {
+        "id": "92-outside-9",
+        "nameAr": "Tau Ceti",
+        "nameEn": "Tau Ceti",
+        "aliases": [
+          "Tau Ceti"
+        ]
+      },
+      {
+        "id": "92-outside-10",
+        "nameAr": "GJ 1061",
+        "nameEn": "GJ 1061",
+        "aliases": [
+          "GJ 1061"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "title": "أكبر 10 أقمار في النظام الشمسي",
+    "group": "علوم وطبيعة",
+    "icon": "Moon",
+    "description": "أكبر 10 أقمار في النظام الشمسي",
+    "metric": "ترتيب تنازلي حسب نصف القطر المتوسط الاسمي في جدول الأقمار الطبيعية بالمصدر، وهو نفس ترتيب القطر. يشمل قمر الأرض.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/List_of_natural_satellites",
+      "asOf": "لقطة المصدر في 15 نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "93-1",
+        "rank": 1,
+        "nameAr": "غانيميد",
+        "nameEn": "Ganymede",
+        "aliases": [
+          "غانيميد",
+          "Ganymede",
+          "جانيميد"
+        ]
+      },
+      {
+        "id": "93-2",
+        "rank": 2,
+        "nameAr": "تيتان",
+        "nameEn": "Titan",
+        "aliases": [
+          "تيتان",
+          "Titan"
+        ]
+      },
+      {
+        "id": "93-3",
+        "rank": 3,
+        "nameAr": "كاليستو",
+        "nameEn": "Callisto",
+        "aliases": [
+          "كاليستو",
+          "Callisto"
+        ]
+      },
+      {
+        "id": "93-4",
+        "rank": 4,
+        "nameAr": "آيو",
+        "nameEn": "Io",
+        "aliases": [
+          "آيو",
+          "Io",
+          "ايو"
+        ]
+      },
+      {
+        "id": "93-5",
+        "rank": 5,
+        "nameAr": "قمر الأرض",
+        "nameEn": "Moon",
+        "aliases": [
+          "قمر الأرض",
+          "Moon",
+          "القمر",
+          "Earth Moon",
+          "Luna"
+        ]
+      },
+      {
+        "id": "93-6",
+        "rank": 6,
+        "nameAr": "يوروبا",
+        "nameEn": "Europa",
+        "aliases": [
+          "يوروبا",
+          "Europa"
+        ]
+      },
+      {
+        "id": "93-7",
+        "rank": 7,
+        "nameAr": "تريتون",
+        "nameEn": "Triton",
+        "aliases": [
+          "تريتون",
+          "Triton"
+        ]
+      },
+      {
+        "id": "93-8",
+        "rank": 8,
+        "nameAr": "تيتانيا",
+        "nameEn": "Titania",
+        "aliases": [
+          "تيتانيا",
+          "Titania"
+        ]
+      },
+      {
+        "id": "93-9",
+        "rank": 9,
+        "nameAr": "ريا",
+        "nameEn": "Rhea",
+        "aliases": [
+          "ريا",
+          "Rhea"
+        ]
+      },
+      {
+        "id": "93-10",
+        "rank": 10,
+        "nameAr": "أوبيرون",
+        "nameEn": "Oberon",
+        "aliases": [
+          "أوبيرون",
+          "Oberon",
+          "اوبيرون"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "93-outside-1",
+        "nameAr": "Iapetus",
+        "nameEn": "Iapetus",
+        "aliases": [
+          "Iapetus"
+        ]
+      },
+      {
+        "id": "93-outside-2",
+        "nameAr": "Charon",
+        "nameEn": "Charon",
+        "aliases": [
+          "Charon"
+        ]
+      },
+      {
+        "id": "93-outside-3",
+        "nameAr": "Umbriel",
+        "nameEn": "Umbriel",
+        "aliases": [
+          "Umbriel"
+        ]
+      },
+      {
+        "id": "93-outside-4",
+        "nameAr": "Ariel",
+        "nameEn": "Ariel",
+        "aliases": [
+          "Ariel"
+        ]
+      },
+      {
+        "id": "93-outside-5",
+        "nameAr": "Dione",
+        "nameEn": "Dione",
+        "aliases": [
+          "Dione"
+        ]
+      },
+      {
+        "id": "93-outside-6",
+        "nameAr": "Tethys",
+        "nameEn": "Tethys",
+        "aliases": [
+          "Tethys"
+        ]
+      },
+      {
+        "id": "93-outside-7",
+        "nameAr": "Dysnomia",
+        "nameEn": "Dysnomia",
+        "aliases": [
+          "Dysnomia"
+        ]
+      },
+      {
+        "id": "93-outside-8",
+        "nameAr": "Enceladus",
+        "nameEn": "Enceladus",
+        "aliases": [
+          "Enceladus"
+        ]
+      },
+      {
+        "id": "93-outside-9",
+        "nameAr": "Miranda",
+        "nameEn": "Miranda",
+        "aliases": [
+          "Miranda"
+        ]
+      },
+      {
+        "id": "93-outside-10",
+        "nameAr": "Vanth",
+        "nameEn": "Vanth",
+        "aliases": [
+          "Vanth"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "title": "أكبر 10 كويكبات في الحزام الرئيسي",
+    "group": "علوم وطبيعة",
+    "icon": "Orbit",
+    "description": "أكبر 10 كويكبات في الحزام الرئيسي",
+    "metric": "القطر المتوسط الهندسي في جدول Largest by diameter بالمصدر، مع سيريس الذي يصنف أيضًا كوكبًا قزمًا؛ تُستبعد كويكبات طروادة.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/List_of_exceptional_asteroids",
+      "asOf": "لقطة 15 نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "94-1",
+        "rank": 1,
+        "nameAr": "سيريس",
+        "nameEn": "Ceres",
+        "aliases": [
+          "سيريس",
+          "Ceres",
+          "1 Ceres"
+        ]
+      },
+      {
+        "id": "94-2",
+        "rank": 2,
+        "nameAr": "فيستا",
+        "nameEn": "Vesta",
+        "aliases": [
+          "فيستا",
+          "Vesta",
+          "4 Vesta"
+        ]
+      },
+      {
+        "id": "94-3",
+        "rank": 3,
+        "nameAr": "بالاس",
+        "nameEn": "Pallas",
+        "aliases": [
+          "بالاس",
+          "Pallas",
+          "2 Pallas"
+        ]
+      },
+      {
+        "id": "94-4",
+        "rank": 4,
+        "nameAr": "هيجيا",
+        "nameEn": "Hygiea",
+        "aliases": [
+          "هيجيا",
+          "Hygiea",
+          "10 Hygiea",
+          "هيغيا"
+        ]
+      },
+      {
+        "id": "94-5",
+        "rank": 5,
+        "nameAr": "إنترامنيا",
+        "nameEn": "Interamnia",
+        "aliases": [
+          "إنترامنيا",
+          "Interamnia",
+          "704 Interamnia",
+          "انترامنيا"
+        ]
+      },
+      {
+        "id": "94-6",
+        "rank": 6,
+        "nameAr": "يوروبا الكويكب",
+        "nameEn": "52 Europa",
+        "aliases": [
+          "يوروبا الكويكب",
+          "52 Europa",
+          "Europa",
+          "يوروبا"
+        ]
+      },
+      {
+        "id": "94-7",
+        "rank": 7,
+        "nameAr": "دافيدا",
+        "nameEn": "Davida",
+        "aliases": [
+          "دافيدا",
+          "Davida",
+          "511 Davida"
+        ]
+      },
+      {
+        "id": "94-8",
+        "rank": 8,
+        "nameAr": "سيلفيا",
+        "nameEn": "Sylvia",
+        "aliases": [
+          "سيلفيا",
+          "Sylvia",
+          "87 Sylvia"
+        ]
+      },
+      {
+        "id": "94-9",
+        "rank": 9,
+        "nameAr": "إيونوميا",
+        "nameEn": "Eunomia",
+        "aliases": [
+          "إيونوميا",
+          "Eunomia",
+          "15 Eunomia",
+          "يونوميا"
+        ]
+      },
+      {
+        "id": "94-10",
+        "rank": 10,
+        "nameAr": "يوفروسين",
+        "nameEn": "Euphrosyne",
+        "aliases": [
+          "يوفروسين",
+          "Euphrosyne",
+          "31 Euphrosyne",
+          "ايفروسين"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "94-outside-1",
+        "nameAr": "65 Cybele",
+        "nameEn": "65 Cybele",
+        "aliases": [
+          "65 Cybele",
+          "Cybele"
+        ]
+      },
+      {
+        "id": "94-outside-2",
+        "nameAr": "624 Hektor",
+        "nameEn": "624 Hektor",
+        "aliases": [
+          "624 Hektor",
+          "Hektor"
+        ]
+      },
+      {
+        "id": "94-outside-3",
+        "nameAr": "3 Juno",
+        "nameEn": "3 Juno",
+        "aliases": [
+          "3 Juno",
+          "Juno"
+        ]
+      },
+      {
+        "id": "94-outside-4",
+        "nameAr": "451 Patientia",
+        "nameEn": "451 Patientia",
+        "aliases": [
+          "451 Patientia",
+          "Patientia"
+        ]
+      },
+      {
+        "id": "94-outside-5",
+        "nameAr": "107 Camilla",
+        "nameEn": "107 Camilla",
+        "aliases": [
+          "107 Camilla",
+          "Camilla"
+        ]
+      },
+      {
+        "id": "94-outside-6",
+        "nameAr": "324 Bamberga",
+        "nameEn": "324 Bamberga",
+        "aliases": [
+          "324 Bamberga",
+          "Bamberga"
+        ]
+      },
+      {
+        "id": "94-outside-7",
+        "nameAr": "16 Psyche",
+        "nameEn": "16 Psyche",
+        "aliases": [
+          "16 Psyche",
+          "Psyche"
+        ]
+      },
+      {
+        "id": "94-outside-8",
+        "nameAr": "88 Thisbe",
+        "nameEn": "88 Thisbe",
+        "aliases": [
+          "88 Thisbe",
+          "Thisbe"
+        ]
+      },
+      {
+        "id": "94-outside-9",
+        "nameAr": "48 Doris",
+        "nameEn": "48 Doris",
+        "aliases": [
+          "48 Doris",
+          "Doris"
+        ]
+      },
+      {
+        "id": "94-outside-10",
+        "nameAr": "19 Fortuna",
+        "nameEn": "19 Fortuna",
+        "aliases": [
+          "19 Fortuna",
+          "Fortuna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "title": "أكثر 10 عناصر وفرة في القشرة الأرضية",
+    "group": "علوم وطبيعة",
+    "icon": "Atom",
+    "description": "أكثر 10 عناصر وفرة في القشرة الأرضية",
+    "metric": "ترتيب الوفرة بالكتلة في القشرة الأرضية وفق بيانات CRC المعروضة في جدول المصدر؛ تختلف عن وفرة العناصر في الأرض كاملة.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/Abundance_of_elements_in_Earth%27s_crust",
+      "asOf": "جدول الوفرة بالمصدر — لقطة 15 نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "95-1",
+        "rank": 1,
+        "nameAr": "الأكسجين",
+        "nameEn": "Oxygen",
+        "aliases": [
+          "الأكسجين",
+          "Oxygen",
+          "O",
+          "اوكسجين"
+        ]
+      },
+      {
+        "id": "95-2",
+        "rank": 2,
+        "nameAr": "السيليكون",
+        "nameEn": "Silicon",
+        "aliases": [
+          "السيليكون",
+          "Silicon",
+          "Si",
+          "سيليسيوم"
+        ]
+      },
+      {
+        "id": "95-3",
+        "rank": 3,
+        "nameAr": "الألومنيوم",
+        "nameEn": "Aluminium",
+        "aliases": [
+          "الألومنيوم",
+          "Aluminium",
+          "Aluminum",
+          "Al",
+          "الالمنيوم"
+        ]
+      },
+      {
+        "id": "95-4",
+        "rank": 4,
+        "nameAr": "الحديد",
+        "nameEn": "Iron",
+        "aliases": [
+          "الحديد",
+          "Iron",
+          "Fe"
+        ]
+      },
+      {
+        "id": "95-5",
+        "rank": 5,
+        "nameAr": "الكالسيوم",
+        "nameEn": "Calcium",
+        "aliases": [
+          "الكالسيوم",
+          "Calcium",
+          "Ca"
+        ]
+      },
+      {
+        "id": "95-6",
+        "rank": 6,
+        "nameAr": "الصوديوم",
+        "nameEn": "Sodium",
+        "aliases": [
+          "الصوديوم",
+          "Sodium",
+          "Na"
+        ]
+      },
+      {
+        "id": "95-7",
+        "rank": 7,
+        "nameAr": "المغنيسيوم",
+        "nameEn": "Magnesium",
+        "aliases": [
+          "المغنيسيوم",
+          "Magnesium",
+          "Mg",
+          "ماغنسيوم"
+        ]
+      },
+      {
+        "id": "95-8",
+        "rank": 8,
+        "nameAr": "البوتاسيوم",
+        "nameEn": "Potassium",
+        "aliases": [
+          "البوتاسيوم",
+          "Potassium",
+          "K"
+        ]
+      },
+      {
+        "id": "95-9",
+        "rank": 9,
+        "nameAr": "التيتانيوم",
+        "nameEn": "Titanium",
+        "aliases": [
+          "التيتانيوم",
+          "Titanium",
+          "Ti"
+        ]
+      },
+      {
+        "id": "95-10",
+        "rank": 10,
+        "nameAr": "الهيدروجين",
+        "nameEn": "Hydrogen",
+        "aliases": [
+          "الهيدروجين",
+          "Hydrogen",
+          "H"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "95-outside-1",
+        "nameAr": "phosphorus",
+        "nameEn": "phosphorus",
+        "aliases": [
+          "phosphorus",
+          "P"
+        ]
+      },
+      {
+        "id": "95-outside-2",
+        "nameAr": "manganese",
+        "nameEn": "manganese",
+        "aliases": [
+          "manganese",
+          "Mn"
+        ]
+      },
+      {
+        "id": "95-outside-3",
+        "nameAr": "fluorine",
+        "nameEn": "fluorine",
+        "aliases": [
+          "fluorine",
+          "F"
+        ]
+      },
+      {
+        "id": "95-outside-4",
+        "nameAr": "barium",
+        "nameEn": "barium",
+        "aliases": [
+          "barium",
+          "Ba"
+        ]
+      },
+      {
+        "id": "95-outside-5",
+        "nameAr": "strontium",
+        "nameEn": "strontium",
+        "aliases": [
+          "strontium",
+          "Sr"
+        ]
+      },
+      {
+        "id": "95-outside-6",
+        "nameAr": "sulfur",
+        "nameEn": "sulfur",
+        "aliases": [
+          "sulfur",
+          "S"
+        ]
+      },
+      {
+        "id": "95-outside-7",
+        "nameAr": "carbon",
+        "nameEn": "carbon",
+        "aliases": [
+          "carbon",
+          "C"
+        ]
+      },
+      {
+        "id": "95-outside-8",
+        "nameAr": "zirconium",
+        "nameEn": "zirconium",
+        "aliases": [
+          "zirconium",
+          "Zr"
+        ]
+      },
+      {
+        "id": "95-outside-9",
+        "nameAr": "chlorine",
+        "nameEn": "chlorine",
+        "aliases": [
+          "chlorine",
+          "Cl"
+        ]
+      },
+      {
+        "id": "95-outside-10",
+        "nameAr": "vanadium",
+        "nameEn": "vanadium",
+        "aliases": [
+          "vanadium",
+          "V"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "title": "أكبر 10 إمبراطوريات تاريخية بالمساحة",
+    "group": "تاريخ وثقافة",
+    "icon": "Crown",
+    "description": "أكبر 10 إمبراطوريات تاريخية بالمساحة",
+    "metric": "أقصى مساحة مقدرة بالمليون كم² في جدول المصدر، بما يشمل الولايات المتحدة وفق تعريفه. العباسية والأموية متساويتان بالقيمة المنشورة ويُتبع ترتيب المصدر بينهما.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/List_of_largest_empires",
+      "asOf": "لقطة المصدر في 15 نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "96-1",
+        "rank": 1,
+        "nameAr": "الإمبراطورية البريطانية",
+        "nameEn": "British Empire",
+        "aliases": [
+          "الإمبراطورية البريطانية",
+          "British Empire",
+          "بريطانيا"
+        ]
+      },
+      {
+        "id": "96-2",
+        "rank": 2,
+        "nameAr": "الإمبراطورية المغولية",
+        "nameEn": "Mongol Empire",
+        "aliases": [
+          "الإمبراطورية المغولية",
+          "Mongol Empire",
+          "المغول"
+        ]
+      },
+      {
+        "id": "96-3",
+        "rank": 3,
+        "nameAr": "الإمبراطورية الروسية",
+        "nameEn": "Russian Empire",
+        "aliases": [
+          "الإمبراطورية الروسية",
+          "Russian Empire",
+          "روسيا القيصرية"
+        ]
+      },
+      {
+        "id": "96-4",
+        "rank": 4,
+        "nameAr": "سلالة تشينغ",
+        "nameEn": "Qing dynasty",
+        "aliases": [
+          "سلالة تشينغ",
+          "Qing dynasty",
+          "امبراطورية تشينغ",
+          "تشينغ",
+          "Qing Empire"
+        ]
+      },
+      {
+        "id": "96-5",
+        "rank": 5,
+        "nameAr": "الإمبراطورية الإسبانية",
+        "nameEn": "Spanish Empire",
+        "aliases": [
+          "الإمبراطورية الإسبانية",
+          "Spanish Empire",
+          "اسبانيا"
+        ]
+      },
+      {
+        "id": "96-6",
+        "rank": 6,
+        "nameAr": "الإمبراطورية الاستعمارية الفرنسية الثانية",
+        "nameEn": "Second French colonial empire",
+        "aliases": [
+          "الإمبراطورية الاستعمارية الفرنسية الثانية",
+          "Second French colonial empire",
+          "الامبراطورية الفرنسية الثانية الاستعمارية",
+          "الامبراطورية الفرنسية الاستعمارية",
+          "فرنسا الاستعمارية"
+        ]
+      },
+      {
+        "id": "96-7",
+        "rank": 7,
+        "nameAr": "الخلافة العباسية",
+        "nameEn": "Abbasid Caliphate",
+        "aliases": [
+          "الخلافة العباسية",
+          "Abbasid Caliphate",
+          "الدولة العباسية",
+          "العباسيون",
+          "العباسية"
+        ]
+      },
+      {
+        "id": "96-8",
+        "rank": 8,
+        "nameAr": "الخلافة الأموية",
+        "nameEn": "Umayyad Caliphate",
+        "aliases": [
+          "الخلافة الأموية",
+          "Umayyad Caliphate",
+          "الدولة الاموية",
+          "الامويون",
+          "الاموية"
+        ]
+      },
+      {
+        "id": "96-9",
+        "rank": 9,
+        "nameAr": "سلالة يوان",
+        "nameEn": "Yuan dynasty",
+        "aliases": [
+          "سلالة يوان",
+          "Yuan dynasty",
+          "امبراطورية يوان",
+          "يوان",
+          "Yuan Empire"
+        ]
+      },
+      {
+        "id": "96-10",
+        "rank": 10,
+        "nameAr": "الولايات المتحدة",
+        "nameEn": "United States",
+        "aliases": [
+          "الولايات المتحدة",
+          "United States",
+          "الامبراطورية الامريكية",
+          "امريكا",
+          "USA",
+          "American Empire"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "96-outside-1",
+        "nameAr": "Xiongnu Empire",
+        "nameEn": "Xiongnu Empire",
+        "aliases": [
+          "Xiongnu Empire"
+        ]
+      },
+      {
+        "id": "96-outside-2",
+        "nameAr": "Empire of Brazil",
+        "nameEn": "Empire of Brazil",
+        "aliases": [
+          "Empire of Brazil"
+        ]
+      },
+      {
+        "id": "96-outside-3",
+        "nameAr": "Empire of Japan",
+        "nameEn": "Empire of Japan",
+        "aliases": [
+          "Empire of Japan"
+        ]
+      },
+      {
+        "id": "96-outside-4",
+        "nameAr": "Eastern Han dynasty",
+        "nameEn": "Eastern Han dynasty",
+        "aliases": [
+          "Eastern Han dynasty"
+        ]
+      },
+      {
+        "id": "96-outside-5",
+        "nameAr": "Ming dynasty",
+        "nameEn": "Ming dynasty",
+        "aliases": [
+          "Ming dynasty"
+        ]
+      },
+      {
+        "id": "96-outside-6",
+        "nameAr": "Rashidun Caliphate",
+        "nameEn": "Rashidun Caliphate",
+        "aliases": [
+          "Rashidun Caliphate"
+        ]
+      },
+      {
+        "id": "96-outside-7",
+        "nameAr": "First Turkic Khaganate",
+        "nameEn": "First Turkic Khaganate",
+        "aliases": [
+          "First Turkic Khaganate"
+        ]
+      },
+      {
+        "id": "96-outside-8",
+        "nameAr": "Jochi Khanate",
+        "nameEn": "Jochi Khanate",
+        "aliases": [
+          "Jochi Khanate"
+        ]
+      },
+      {
+        "id": "96-outside-9",
+        "nameAr": "Western Han dynasty",
+        "nameEn": "Western Han dynasty",
+        "aliases": [
+          "Western Han dynasty"
+        ]
+      },
+      {
+        "id": "96-outside-10",
+        "nameAr": "Achaemenid Empire",
+        "nameEn": "Achaemenid Empire",
+        "aliases": [
+          "Achaemenid Empire"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "title": "أكثر 10 متاحف فنية زيارة في 2025",
+    "group": "تاريخ وثقافة",
+    "icon": "Landmark",
+    "description": "أكثر 10 متاحف فنية زيارة في 2025",
+    "metric": "إحصاءات زيارات المتاحف الفنية في 2025 وفق تقرير The Art Newspaper كما ينقلها المصدر؛ أرقام بعض المؤسسات تشمل فروعًا حسب تعريف التقرير.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/List_of_most-visited_art_museums",
+      "asOf": "2025",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "97-1",
+        "rank": 1,
+        "nameAr": "متحف اللوفر",
+        "nameEn": "Louvre",
+        "aliases": [
+          "متحف اللوفر",
+          "Louvre",
+          "اللوفر",
+          "Louvre Museum"
+        ]
+      },
+      {
+        "id": "97-2",
+        "rank": 2,
+        "nameAr": "متاحف الفاتيكان",
+        "nameEn": "Vatican Museums",
+        "aliases": [
+          "متاحف الفاتيكان",
+          "Vatican Museums",
+          "متحف الفاتيكان"
+        ]
+      },
+      {
+        "id": "97-3",
+        "rank": 3,
+        "nameAr": "المتحف الوطني الكوري",
+        "nameEn": "National Museum of Korea",
+        "aliases": [
+          "المتحف الوطني الكوري",
+          "National Museum of Korea",
+          "متحف كوريا الوطني"
+        ]
+      },
+      {
+        "id": "97-4",
+        "rank": 4,
+        "nameAr": "المتحف البريطاني",
+        "nameEn": "British Museum",
+        "aliases": [
+          "المتحف البريطاني",
+          "British Museum"
+        ]
+      },
+      {
+        "id": "97-5",
+        "rank": 5,
+        "nameAr": "متحف المتروبوليتان للفنون",
+        "nameEn": "Metropolitan Museum of Art",
+        "aliases": [
+          "متحف المتروبوليتان للفنون",
+          "Metropolitan Museum of Art",
+          "المتروبوليتان",
+          "The Met",
+          "Metropolitan Museum"
+        ]
+      },
+      {
+        "id": "97-6",
+        "rank": 6,
+        "nameAr": "المتحف الروسي الحكومي",
+        "nameEn": "State Russian Museum",
+        "aliases": [
+          "المتحف الروسي الحكومي",
+          "State Russian Museum",
+          "المتحف الروسي",
+          "Russian Museum"
+        ]
+      },
+      {
+        "id": "97-7",
+        "rank": 7,
+        "nameAr": "المتحف الوطني للأنثروبولوجيا في المكسيك",
+        "nameEn": "National Museum of Anthropology (Mexico)",
+        "aliases": [
+          "المتحف الوطني للأنثروبولوجيا في المكسيك",
+          "National Museum of Anthropology (Mexico)",
+          "National Museum of Anthropology",
+          "Museo Nacional de Antropologia",
+          "متحف الانثروبولوجيا المكسيكي"
+        ]
+      },
+      {
+        "id": "97-8",
+        "rank": 8,
+        "nameAr": "متحف شنغهاي الشرقي",
+        "nameEn": "Shanghai Museum East",
+        "aliases": [
+          "متحف شنغهاي الشرقي",
+          "Shanghai Museum East",
+          "متحف شنغهاي شرق"
+        ]
+      },
+      {
+        "id": "97-9",
+        "rank": 9,
+        "nameAr": "تيت مودرن",
+        "nameEn": "Tate Modern",
+        "aliases": [
+          "تيت مودرن",
+          "Tate Modern"
+        ]
+      },
+      {
+        "id": "97-10",
+        "rank": 10,
+        "nameAr": "المعرض الوطني في لندن",
+        "nameEn": "National Gallery",
+        "aliases": [
+          "المعرض الوطني في لندن",
+          "National Gallery",
+          "National Gallery London",
+          "ناشونال غاليري لندن"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "97-outside-1",
+        "nameAr": "State Hermitage Museum",
+        "nameEn": "State Hermitage Museum",
+        "aliases": [
+          "State Hermitage Museum"
+        ]
+      },
+      {
+        "id": "97-outside-2",
+        "nameAr": "Musée d'Orsay",
+        "nameEn": "Musée d'Orsay",
+        "aliases": [
+          "Musée d'Orsay"
+        ]
+      },
+      {
+        "id": "97-outside-3",
+        "nameAr": "Museo del Prado",
+        "nameEn": "Museo del Prado",
+        "aliases": [
+          "Museo del Prado"
+        ]
+      },
+      {
+        "id": "97-outside-4",
+        "nameAr": "Wawel Castle",
+        "nameEn": "Wawel Castle",
+        "aliases": [
+          "Wawel Castle"
+        ]
+      },
+      {
+        "id": "97-outside-5",
+        "nameAr": "Victoria and Albert Museum",
+        "nameEn": "Victoria and Albert Museum",
+        "aliases": [
+          "Victoria and Albert Museum"
+        ]
+      },
+      {
+        "id": "97-outside-6",
+        "nameAr": "Tretyakov Gallery",
+        "nameEn": "Tretyakov Gallery",
+        "aliases": [
+          "Tretyakov Gallery"
+        ]
+      },
+      {
+        "id": "97-outside-7",
+        "nameAr": "Somerset House",
+        "nameEn": "Somerset House",
+        "aliases": [
+          "Somerset House"
+        ]
+      },
+      {
+        "id": "97-outside-8",
+        "nameAr": "Museum of Modern Art",
+        "nameEn": "Museum of Modern Art",
+        "aliases": [
+          "Museum of Modern Art"
+        ]
+      },
+      {
+        "id": "97-outside-9",
+        "nameAr": "Museo Nacional de Historia (Chapultepec Castle)",
+        "nameEn": "Museo Nacional de Historia (Chapultepec Castle)",
+        "aliases": [
+          "Museo Nacional de Historia (Chapultepec Castle)"
+        ]
+      },
+      {
+        "id": "97-outside-10",
+        "nameAr": "Centre Pompidou",
+        "nameEn": "Centre Pompidou",
+        "aliases": [
+          "Centre Pompidou"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "title": "أعلى 10 مبانٍ مكتملة في العالم",
+    "group": "تاريخ وثقافة",
+    "icon": "Building2",
+    "description": "أعلى 10 مبانٍ مكتملة في العالم",
+    "metric": "الارتفاع المعماري بالمتر للمباني المكتملة. عند تعادل ارتفاع برجي CTF يأتي غوانغجو أولًا بعدد طوابقه الأعلى: 111 مقابل 97.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/List_of_tallest_buildings",
+      "asOf": "لقطة المصدر في 15 نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "98-1",
+        "rank": 1,
+        "nameAr": "برج خليفة",
+        "nameEn": "Burj Khalifa",
+        "aliases": [
+          "برج خليفة",
+          "Burj Khalifa",
+          "برج دبي"
+        ]
+      },
+      {
+        "id": "98-2",
+        "rank": 2,
+        "nameAr": "برج ميرديكا مايبانك",
+        "nameEn": "Merdeka Maybank Tower",
+        "aliases": [
+          "برج ميرديكا مايبانك",
+          "Merdeka Maybank Tower",
+          "Merdeka 118",
+          "ميرديكا 118",
+          "PNB 118"
+        ]
+      },
+      {
+        "id": "98-3",
+        "rank": 3,
+        "nameAr": "برج شنغهاي",
+        "nameEn": "Shanghai Tower",
+        "aliases": [
+          "برج شنغهاي",
+          "Shanghai Tower",
+          "برج شانغهاي"
+        ]
+      },
+      {
+        "id": "98-4",
+        "rank": 4,
+        "nameAr": "برج الساعة الملكي في مكة",
+        "nameEn": "Mecca Royal Clock Tower",
+        "aliases": [
+          "برج الساعة الملكي في مكة",
+          "Mecca Royal Clock Tower",
+          "ابراج البيت",
+          "برج الساعة",
+          "Abraj Al Bait",
+          "Makkah Clock Royal Tower"
+        ]
+      },
+      {
+        "id": "98-5",
+        "rank": 5,
+        "nameAr": "مركز بينغ آن المالي",
+        "nameEn": "Ping An Finance Centre",
+        "aliases": [
+          "مركز بينغ آن المالي",
+          "Ping An Finance Centre",
+          "Ping An",
+          "بينغ ان",
+          "بينج ان"
+        ]
+      },
+      {
+        "id": "98-6",
+        "rank": 6,
+        "nameAr": "برج لوتي وورلد",
+        "nameEn": "Lotte World Tower",
+        "aliases": [
+          "برج لوتي وورلد",
+          "Lotte World Tower",
+          "لوتي وورلد"
+        ]
+      },
+      {
+        "id": "98-7",
+        "rank": 7,
+        "nameAr": "مركز التجارة العالمي 1",
+        "nameEn": "One World Trade Center",
+        "aliases": [
+          "مركز التجارة العالمي 1",
+          "One World Trade Center",
+          "One WTC",
+          "برج الحرية",
+          "Freedom Tower"
+        ]
+      },
+      {
+        "id": "98-8",
+        "rank": 8,
+        "nameAr": "مركز غوانغجو سي تي إف المالي",
+        "nameEn": "Guangzhou CTF Finance Centre",
+        "aliases": [
+          "مركز غوانغجو سي تي إف المالي",
+          "Guangzhou CTF Finance Centre",
+          "Guangzhou CTF",
+          "غوانغجو CTF"
+        ]
+      },
+      {
+        "id": "98-9",
+        "rank": 9,
+        "nameAr": "مركز تيانجين سي تي إف المالي",
+        "nameEn": "Tianjin CTF Finance Centre",
+        "aliases": [
+          "مركز تيانجين سي تي إف المالي",
+          "Tianjin CTF Finance Centre",
+          "Tianjin CTF",
+          "تيانجين CTF"
+        ]
+      },
+      {
+        "id": "98-10",
+        "rank": 10,
+        "nameAr": "برج سيتيك",
+        "nameEn": "CITIC Tower",
+        "aliases": [
+          "برج سيتيك",
+          "CITIC Tower",
+          "China Zun",
+          "تشاينا زون",
+          "تشاينا زون بيكين"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "98-outside-1",
+        "nameAr": "Taipei 101",
+        "nameEn": "Taipei 101",
+        "aliases": [
+          "Taipei 101"
+        ]
+      },
+      {
+        "id": "98-outside-2",
+        "nameAr": "Shanghai World Financial Center",
+        "nameEn": "Shanghai World Financial Center",
+        "aliases": [
+          "Shanghai World Financial Center"
+        ]
+      },
+      {
+        "id": "98-outside-3",
+        "nameAr": "International Commerce Centre",
+        "nameEn": "International Commerce Centre",
+        "aliases": [
+          "International Commerce Centre"
+        ]
+      },
+      {
+        "id": "98-outside-4",
+        "nameAr": "Wuhan Greenland Center",
+        "nameEn": "Wuhan Greenland Center",
+        "aliases": [
+          "Wuhan Greenland Center"
+        ]
+      },
+      {
+        "id": "98-outside-5",
+        "nameAr": "Central Park Tower",
+        "nameEn": "Central Park Tower",
+        "aliases": [
+          "Central Park Tower"
+        ]
+      },
+      {
+        "id": "98-outside-6",
+        "nameAr": "Lakhta Center",
+        "nameEn": "Lakhta Center",
+        "aliases": [
+          "Lakhta Center"
+        ]
+      },
+      {
+        "id": "98-outside-7",
+        "nameAr": "Landmark 81",
+        "nameEn": "Landmark 81",
+        "aliases": [
+          "Landmark 81"
+        ]
+      },
+      {
+        "id": "98-outside-8",
+        "nameAr": "International Land-Sea Center",
+        "nameEn": "International Land-Sea Center",
+        "aliases": [
+          "International Land-Sea Center"
+        ]
+      },
+      {
+        "id": "98-outside-9",
+        "nameAr": "The Exchange 106",
+        "nameEn": "The Exchange 106",
+        "aliases": [
+          "The Exchange 106"
+        ]
+      },
+      {
+        "id": "98-outside-10",
+        "nameAr": "Changsha IFS T1",
+        "nameEn": "Changsha IFS T1",
+        "aliases": [
+          "Changsha IFS T1"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "title": "أكبر 10 خزانات سدود حسب الحجم",
+    "group": "تاريخ وثقافة",
+    "icon": "Waves",
+    "description": "أكبر 10 خزانات سدود حسب الحجم",
+    "metric": "السعة الاسمية لخزان السد بالمليار م³ وفق جدول المصدر، وليست ارتفاع السد أو قدرته الكهربائية. يُقبل اسم الخزان أو السد المرتبط به.",
+    "source": {
+      "title": "ويكيبيديا — جدول موثق بالمراجع",
+      "url": "https://en.wikipedia.org/wiki/List_of_reservoirs_by_volume",
+      "asOf": "لقطة المصدر في 15 نوفمبر 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "99-1",
+        "rank": 1,
+        "nameAr": "بحيرة كاريبا",
+        "nameEn": "Lake Kariba",
+        "aliases": [
+          "بحيرة كاريبا",
+          "Lake Kariba",
+          "Kariba Dam",
+          "سد كاريبا",
+          "كاريبا"
+        ]
+      },
+      {
+        "id": "99-2",
+        "rank": 2,
+        "nameAr": "خزان براتسك",
+        "nameEn": "Bratsk Reservoir",
+        "aliases": [
+          "خزان براتسك",
+          "Bratsk Reservoir",
+          "Bratsk Dam",
+          "سد براتسك",
+          "براتسك"
+        ]
+      },
+      {
+        "id": "99-3",
+        "rank": 3,
+        "nameAr": "بحيرة فولتا",
+        "nameEn": "Lake Volta",
+        "aliases": [
+          "بحيرة فولتا",
+          "Lake Volta",
+          "Akosombo Dam",
+          "سد اكوسومبو",
+          "فولتا"
+        ]
+      },
+      {
+        "id": "99-4",
+        "rank": 4,
+        "nameAr": "خزان مانيكواغان",
+        "nameEn": "Manicouagan Reservoir",
+        "aliases": [
+          "خزان مانيكواغان",
+          "Manicouagan Reservoir",
+          "Daniel-Johnson Dam",
+          "سد دانيال جونسون",
+          "مانيكواغان"
+        ]
+      },
+      {
+        "id": "99-5",
+        "rank": 5,
+        "nameAr": "خزان غوري",
+        "nameEn": "Guri Reservoir",
+        "aliases": [
+          "خزان غوري",
+          "Guri Reservoir",
+          "Guri Dam",
+          "سد غوري",
+          "غوري"
+        ]
+      },
+      {
+        "id": "99-6",
+        "rank": 6,
+        "nameAr": "بحيرة ناصر",
+        "nameEn": "Lake Nasser",
+        "aliases": [
+          "بحيرة ناصر",
+          "Lake Nasser",
+          "Aswan High Dam",
+          "السد العالي",
+          "سد اسوان العالي"
+        ]
+      },
+      {
+        "id": "99-7",
+        "rank": 7,
+        "nameAr": "بحيرة نيغات",
+        "nameEn": "Nigat Lake",
+        "aliases": [
+          "بحيرة نيغات",
+          "Nigat Lake",
+          "Grand Ethiopian Renaissance Dam",
+          "سد النهضة",
+          "سد النهضة الاثيوبي",
+          "GERD"
+        ]
+      },
+      {
+        "id": "99-8",
+        "rank": 8,
+        "nameAr": "بحيرة ويليستون",
+        "nameEn": "Williston Lake",
+        "aliases": [
+          "بحيرة ويليستون",
+          "Williston Lake",
+          "W. A. C. Bennett Dam",
+          "WAC Bennett Dam",
+          "سد بينيت",
+          "ويليستون"
+        ]
+      },
+      {
+        "id": "99-9",
+        "rank": 9,
+        "nameAr": "خزان كراسنويارسك",
+        "nameEn": "Krasnoyarsk Reservoir",
+        "aliases": [
+          "خزان كراسنويارسك",
+          "Krasnoyarsk Reservoir",
+          "Krasnoyarsk Dam",
+          "سد كراسنويارسك",
+          "كراسنويارسك"
+        ]
+      },
+      {
+        "id": "99-10",
+        "rank": 10,
+        "nameAr": "خزان زيا",
+        "nameEn": "Zeya Reservoir",
+        "aliases": [
+          "خزان زيا",
+          "Zeya Reservoir",
+          "Zeya Dam",
+          "Zeya Hydroelectric Station",
+          "سد زيا",
+          "زيا"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "99-outside-1",
+        "nameAr": "Robert-Bourassa Reservoir",
+        "nameEn": "Robert-Bourassa Reservoir",
+        "aliases": [
+          "Robert-Bourassa Reservoir",
+          "Robert-Bourassa generating station"
+        ]
+      },
+      {
+        "id": "99-outside-2",
+        "nameAr": "La Grande-3 Nord Reservoir",
+        "nameEn": "La Grande-3 Nord Reservoir",
+        "aliases": [
+          "La Grande-3 Nord Reservoir",
+          "La Grande-3 generating station"
+        ]
+      },
+      {
+        "id": "99-outside-3",
+        "nameAr": "Ust-Ilimsk Reservoir",
+        "nameEn": "Ust-Ilimsk Reservoir",
+        "aliases": [
+          "Ust-Ilimsk Reservoir",
+          "Ust-Ilimsk Dam"
+        ]
+      },
+      {
+        "id": "99-outside-4",
+        "nameAr": "Boguchany Reservoir",
+        "nameEn": "Boguchany Reservoir",
+        "aliases": [
+          "Boguchany Reservoir",
+          "Boguchany Dam"
+        ]
+      },
+      {
+        "id": "99-outside-5",
+        "nameAr": "Kuybyshev Reservoir",
+        "nameEn": "Kuybyshev Reservoir",
+        "aliases": [
+          "Kuybyshev Reservoir",
+          "Zhiguli Hydroelectric Station"
+        ]
+      },
+      {
+        "id": "99-outside-6",
+        "nameAr": "Cahora Bassa",
+        "nameEn": "Cahora Bassa",
+        "aliases": [
+          "Cahora Bassa",
+          "Cahora Bassa Dam"
+        ]
+      },
+      {
+        "id": "99-outside-7",
+        "nameAr": "Serra da Mesa Reservoir",
+        "nameEn": "Serra da Mesa Reservoir",
+        "aliases": [
+          "Serra da Mesa Reservoir",
+          "Serra da Mesa Dam"
+        ]
+      },
+      {
+        "id": "99-outside-8",
+        "nameAr": "Caniapiscau Reservoir",
+        "nameEn": "Caniapiscau Reservoir",
+        "aliases": [
+          "Caniapiscau Reservoir",
+          "Brisay generating station"
+        ]
+      },
+      {
+        "id": "99-outside-9",
+        "nameAr": "Bukhtarma Reservoir",
+        "nameEn": "Bukhtarma Reservoir",
+        "aliases": [
+          "Bukhtarma Reservoir",
+          "Bukhtarma Hydroelectric Power Plant"
+        ]
+      },
+      {
+        "id": "99-outside-10",
+        "nameAr": "Danjiangkou Reservoir",
+        "nameEn": "Danjiangkou Reservoir",
+        "aliases": [
+          "Danjiangkou Reservoir",
+          "Danjiangkou Dam"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "title": "أفضل 10 جامعات حسب QS 2026",
+    "group": "تاريخ وثقافة",
+    "icon": "GraduationCap",
+    "description": "أفضل 10 جامعات حسب QS 2026",
+    "metric": "المراكز العشرة الأولى في QS World University Rankings 2026؛ نسخة جدول QS محفوظة على موقع جامعة ماساريك. هذه قائمة تقييم لعام محدد وليست ترتيب الأقدمية.",
+    "source": {
+      "title": "QS World University Rankings 2026 — نسخة جامعة ماساريك",
+      "url": "https://is.muni.cz/do/econ/soubory/oddeleni/ozs/admissions/2026_QS_World_University_Rankings_1.2__For_qs.com__11.2025.pdf",
+      "asOf": "إصدار QS 2026",
+      "checkedAt": "2026-11-15"
+    },
+    "answers": [
+      {
+        "id": "100-1",
+        "rank": 1,
+        "nameAr": "معهد ماساتشوستس للتقنية",
+        "nameEn": "Massachusetts Institute of Technology",
+        "aliases": [
+          "معهد ماساتشوستس للتقنية",
+          "Massachusetts Institute of Technology",
+          "MIT",
+          "معهد ماساتشوستس للتكنولوجيا"
+        ]
+      },
+      {
+        "id": "100-2",
+        "rank": 2,
+        "nameAr": "إمبريال كوليدج لندن",
+        "nameEn": "Imperial College London",
+        "aliases": [
+          "إمبريال كوليدج لندن",
+          "Imperial College London",
+          "امبريال لندن",
+          "Imperial"
+        ]
+      },
+      {
+        "id": "100-3",
+        "rank": 3,
+        "nameAr": "جامعة ستانفورد",
+        "nameEn": "Stanford University",
+        "aliases": [
+          "جامعة ستانفورد",
+          "Stanford University",
+          "Stanford",
+          "ستانفورد"
+        ]
+      },
+      {
+        "id": "100-4",
+        "rank": 4,
+        "nameAr": "جامعة أكسفورد",
+        "nameEn": "University of Oxford",
+        "aliases": [
+          "جامعة أكسفورد",
+          "University of Oxford",
+          "Oxford",
+          "اكسفورد"
+        ]
+      },
+      {
+        "id": "100-5",
+        "rank": 5,
+        "nameAr": "جامعة هارفارد",
+        "nameEn": "Harvard University",
+        "aliases": [
+          "جامعة هارفارد",
+          "Harvard University",
+          "Harvard",
+          "هارفارد"
+        ]
+      },
+      {
+        "id": "100-6",
+        "rank": 6,
+        "nameAr": "جامعة كامبريدج",
+        "nameEn": "University of Cambridge",
+        "aliases": [
+          "جامعة كامبريدج",
+          "University of Cambridge",
+          "Cambridge",
+          "كامبردج",
+          "كامبريدج"
+        ]
+      },
+      {
+        "id": "100-7",
+        "rank": 7,
+        "nameAr": "المعهد الفدرالي السويسري للتقنية في زيورخ",
+        "nameEn": "ETH Zurich",
+        "aliases": [
+          "المعهد الفدرالي السويسري للتقنية في زيورخ",
+          "ETH Zurich",
+          "ETH",
+          "ETH Zürich",
+          "اي تي اتش زيورخ"
+        ]
+      },
+      {
+        "id": "100-8",
+        "rank": 8,
+        "nameAr": "جامعة سنغافورة الوطنية",
+        "nameEn": "National University of Singapore",
+        "aliases": [
+          "جامعة سنغافورة الوطنية",
+          "National University of Singapore",
+          "NUS",
+          "سنغافورة الوطنية"
+        ]
+      },
+      {
+        "id": "100-9",
+        "rank": 9,
+        "nameAr": "كلية لندن الجامعية",
+        "nameEn": "University College London",
+        "aliases": [
+          "كلية لندن الجامعية",
+          "University College London",
+          "UCL",
+          "يونيفرسيتي كوليدج لندن"
+        ]
+      },
+      {
+        "id": "100-10",
+        "rank": 10,
+        "nameAr": "معهد كاليفورنيا للتقنية",
+        "nameEn": "California Institute of Technology",
+        "aliases": [
+          "معهد كاليفورنيا للتقنية",
+          "California Institute of Technology",
+          "Caltech",
+          "كالتك",
+          "معهد كاليفورنيا للتكنولوجيا"
+        ]
+      }
+    ],
+    "distractors": [
+      {
+        "id": "100-outside-1",
+        "nameAr": "The University of Hong Kong",
+        "nameEn": "The University of Hong Kong",
+        "aliases": [
+          "The University of Hong Kong"
+        ]
+      },
+      {
+        "id": "100-outside-2",
+        "nameAr": "Nanyang Technological University, Singapore",
+        "nameEn": "Nanyang Technological University, Singapore",
+        "aliases": [
+          "Nanyang Technological University, Singapore"
+        ]
+      },
+      {
+        "id": "100-outside-3",
+        "nameAr": "University of Chicago",
+        "nameEn": "University of Chicago",
+        "aliases": [
+          "University of Chicago"
+        ]
+      },
+      {
+        "id": "100-outside-4",
+        "nameAr": "Peking University",
+        "nameEn": "Peking University",
+        "aliases": [
+          "Peking University"
+        ]
+      },
+      {
+        "id": "100-outside-5",
+        "nameAr": "University of Pennsylvania",
+        "nameEn": "University of Pennsylvania",
+        "aliases": [
+          "University of Pennsylvania"
+        ]
+      },
+      {
+        "id": "100-outside-6",
+        "nameAr": "Cornell University",
+        "nameEn": "Cornell University",
+        "aliases": [
+          "Cornell University"
+        ]
+      },
+      {
+        "id": "100-outside-7",
+        "nameAr": "Tsinghua University",
+        "nameEn": "Tsinghua University",
+        "aliases": [
+          "Tsinghua University"
+        ]
+      },
+      {
+        "id": "100-outside-8",
+        "nameAr": "University of California, Berkeley",
+        "nameEn": "University of California, Berkeley",
+        "aliases": [
+          "University of California, Berkeley"
+        ]
+      },
+      {
+        "id": "100-outside-9",
+        "nameAr": "The University of Melbourne",
+        "nameEn": "The University of Melbourne",
+        "aliases": [
+          "The University of Melbourne"
+        ]
+      },
+      {
+        "id": "100-outside-10",
+        "nameAr": "The University of New South Wales",
+        "nameEn": "The University of New South Wales",
+        "aliases": [
+          "The University of New South Wales"
+        ]
+      }
+    ]
+  }
+]
