@@ -18,8 +18,8 @@ function CategoryIcon({ category }: { category: CategoryInfo }) {
 }
 function Mistakes({ count }: { count: number }) { return <span className="mistakes" aria-label={`${count} من 5 أخطاء`}>{[0,1,2,3,4].map(i=><span key={i} className={i<count?'used':''}>{i<count?<X size={12} strokeWidth={3}/>:<span/>}</span>)}</span>; }
 
-export default function Home({ categories }: { categories: CategoryInfo[] }) {
-  const [query, setQuery] = useState(''), [group, setGroup] = useState('خفيفة وجديدة');
+export default function Home({ categories, onGames }: { categories: CategoryInfo[]; onGames?: () => void }) {
+  const [query, setQuery] = useState(''), [group, setGroup] = useState('تحديات خفيفة');
   const [selected, setSelected] = useState<CategoryInfo | null>(null), [mode, setMode] = useState<'solo'|'teams'>('solo');
   const [teamNames,setTeamNames]=useState(['','']);
   const [rosters,setRosters]=useState<string[][]>([['',''],['','']]);
@@ -28,8 +28,8 @@ export default function Home({ categories }: { categories: CategoryInfo[] }) {
   const [view,setView]=useState<'home'|'game'>('home'), [guess,setGuess]=useState('');
   const [busy,setBusy]=useState(false), [error,setError]=useState('');
   const inputRef=useRef<HTMLInputElement>(null);
-  const groups=[...new Set(['الكل','خفيفة وجديدة','العالم العربي',...categories.map(c=>c.group)])];
-  const filtered=categories.filter(c=>(group==='الكل'||(group==='خفيفة وجديدة'&&c.difficulty==='easy')||(group==='العالم العربي'&&c.region==='arab')||c.group===group)&&(!query||`${c.title} ${c.group} ${c.description}`.toLowerCase().includes(query.toLowerCase()))).sort((a,b)=>Number(b.difficulty==='easy')-Number(a.difficulty==='easy')||a.id-b.id);
+  const groups=[...new Set(['الكل','تحديات خفيفة','العالم العربي',...categories.map(c=>c.group)])];
+  const filtered=categories.filter(c=>(group==='الكل'||(group==='تحديات خفيفة'&&c.difficulty==='easy')||(group==='العالم العربي'&&c.region==='arab')||c.group===group)&&(!query||`${c.title} ${c.group} ${c.description}`.toLowerCase().includes(query.toLowerCase()))).sort((a,b)=>Number(b.difficulty==='easy')-Number(a.difficulty==='easy')||a.id-b.id);
   const active=categories.find(c=>c.id===game?.categoryId);
   async function readRound(conn: Connection) { return readLocalRound(conn); }
   useEffect(()=>{
@@ -77,7 +77,7 @@ export default function Home({ categories }: { categories: CategoryInfo[] }) {
     <header className="site-header"><div className="nav-wrap">
       <button className="brand-button" onClick={backHome} aria-label="جيب العشرة، الرئيسية"><Mark/></button>
       <nav aria-label="التنقل الرئيسي"><button className={view==='home'?'nav-link active':'nav-link'} onClick={backHome}>الكاتاجوري <span>{n(categories.length)}</span></button><button className="nav-link how-link" onClick={()=>setRules(true)}>كيف تلعب؟</button></nav>
-      <a className="room-button" href="#categories" onClick={()=>{setView('home');setMode('teams');setError('');}}><Users size={17}/><span>فريق ضد فريق</span><ArrowUpLeft size={15}/></a>
+      <button className="room-button" onClick={onGames}><Gamepad2 size={17}/><span>كل الألعاب</span><ArrowRight size={15}/></button>
     </div></header>
     {view==='home'?<main>
       <section className="hero page-width"><div className="hero-copy"><div className="eyebrow"><span className="live-dot"/> معرفة، تخمين، وشوية تحدّي</div>
@@ -89,7 +89,7 @@ export default function Home({ categories }: { categories: CategoryInfo[] }) {
           <div className="floating-label label-two"><Users size={18}/> فريق ضد فريق</div><span className="art-spark spark-one">✦</span><span className="art-spark spark-two">✧</span></div>
       </section>
       {game&&game.status!=='finished'&&<div className="resume page-width"><div><Zap size={20}/><span>عندك تحدّي ما خلصته <b>{active?.title}</b></span></div><button onClick={()=>setView('game')}>كمّل الجولة <ArrowLeft size={17}/></button></div>}
-      <section className="catalog page-width" id="categories"><div className="section-top"><div><span className="eyebrow">كل مرّة، تحدّي جديد</span><h2>وش جوّك اليوم؟</h2><p>شخصيات أيقونية، أكلات مشهورة، ومعالم من العالم العربي وحول العالم.</p></div><label className="search"><Search size={19}/><input value={query} onChange={e=>setQuery(e.target.value)} placeholder="دوّر على كاتاجوري..." aria-label="ابحث في الكاتاجوري"/>{query&&<button onClick={()=>setQuery('')} aria-label="مسح البحث"><X size={16}/></button>}</label></div>
+      <section className="catalog page-width" id="categories"><div className="section-top"><div><span className="eyebrow">اختار موضوع التحدّي</span><h2>وش جوّك اليوم؟</h2><p>شخصيات أيقونية، أكلات مشهورة، ومعالم من العالم العربي وحول العالم.</p></div><label className="search"><Search size={19}/><input value={query} onChange={e=>setQuery(e.target.value)} placeholder="دوّر على كاتاجوري..." aria-label="ابحث في الكاتاجوري"/>{query&&<button onClick={()=>setQuery('')} aria-label="مسح البحث"><X size={16}/></button>}</label></div>
         <div className="filter-row" role="group" aria-label="تصفية الكاتاجوري">{groups.map(g=><button key={g} className={g===group?'filter selected':'filter'} onClick={()=>setGroup(g)}>{g}{g==='الكل'&&<span>{n(categories.length)}</span>}</button>)}</div>
         <div className="catalog-meta"><span>{n(filtered.length)} كاتاجوري بانتظارك</span><span>مواضيع متنوعة لكل الأذواق <CheckCheck size={15}/></span></div>
         <div className="category-grid">{filtered.map(c=><button key={c.id} className={`category-card tone-${c.id%6}`} onClick={()=>{setSelected(c);setError('');}}><div className="card-top"><span className="category-icon"><CategoryIcon category={c}/></span><span className="category-index">{String(c.id).padStart(2,'0')}</span></div><span className="card-group">{c.group}</span><h3>{c.title}</h3><div className="card-bottom"><span>اكتشف العشرة</span><span className="card-arrow"><ArrowUpLeft size={18}/></span></div></button>)}</div>

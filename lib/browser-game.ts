@@ -12,16 +12,16 @@ export function createLocalGameService(catalog: Category[], storage: StorageLike
     return category;
   };
   function load(conn: Connection | null): SavedRound {
-    if (!conn) throw Error('ابدأ تحدّيًا جديدًا.');
+    if (!conn) throw Error('ابدأ تحدّيًا آخر.');
     let saved: SavedRound | null;
     try { saved = JSON.parse(storage.getItem(ROUND_KEY) || 'null'); }
-    catch { throw Error('تعذر استرجاع الجولة المحفوظة. ابدأ تحدّيًا جديدًا.'); }
+    catch { throw Error('تعذر استرجاع الجولة المحفوظة. ابدأ تحدّيًا آخر.'); }
     const game = saved?.game;
     if (saved?.schema !== 1 || !game || game.id !== conn.id ||
       !['solo', 'teams'].includes(game.mode) || !Array.isArray(game.players) ||
       !game.players.length || game.players[0].token !== conn.token ||
       !game.players.every(p => Array.isArray(p.members) && p.members.length && Number.isInteger(p.turns)))
-      throw Error('ما لقينا الجولة المحفوظة على هذا الجهاز. ابدأ تحدّيًا جديدًا.');
+      throw Error('ما لقينا الجولة المحفوظة على هذا الجهاز. ابدأ تحدّيًا آخر.');
     categoryFor(game.categoryId);
     return saved;
   }
