@@ -1,0 +1,131 @@
+# travel|countries|geography
+10 دول عربية في آسيا::السعودية~Saudi Arabia|الإمارات~United Arab Emirates|الكويت~Kuwait|قطر~Qatar|البحرين~Bahrain|عمان~Oman|اليمن~Yemen|العراق~Iraq|الأردن~Jordan|لبنان~Lebanon
+10 دول عربية في أفريقيا::مصر~Egypt|السودان~Sudan|ليبيا~Libya|تونس~Tunisia|الجزائر~Algeria|المغرب~Morocco|موريتانيا~Mauritania|الصومال~Somalia|جيبوتي~Djibouti|جزر القمر~Comoros
+10 دول أوروبية مشهورة::المملكة المتحدة~United Kingdom|فرنسا~France|ألمانيا~Germany|إسبانيا~Spain|إيطاليا~Italy|اليونان~Greece|هولندا~Netherlands|سويسرا~Switzerland|السويد~Sweden|النرويج~Norway
+10 دول آسيوية مشهورة::الصين~China|اليابان~Japan|الهند~India|كوريا الجنوبية~South Korea|تايلاند~Thailand|ماليزيا~Malaysia|إندونيسيا~Indonesia|سنغافورة~Singapore|فيتنام~Vietnam|الفلبين~Philippines
+10 دول أفريقية مشهورة::جنوب أفريقيا~South Africa|مصر|المغرب|الجزائر|تونس|نيجيريا~Nigeria|كينيا~Kenya|إثيوبيا~Ethiopia|غانا~Ghana|السنغال~Senegal
+10 دول في أمريكا الجنوبية::البرازيل~Brazil|الأرجنتين~Argentina|أوروغواي~Uruguay|باراغواي~Paraguay|تشيلي~Chile|بيرو~Peru|كولومبيا~Colombia|الإكوادور~Ecuador|فنزويلا~Venezuela|بوليفيا~Bolivia
+10 دول جزيرية معروفة::اليابان|إندونيسيا|الفلبين|آيسلندا~Iceland|سريلانكا~Sri Lanka|المالديف~Maldives|قبرص~Cyprus|مالطا~Malta|البحرين|مدغشقر~Madagascar
+10 دول تطل على البحر المتوسط::مصر|تركيا~Turkey~Turkiye|اليونان|إيطاليا|فرنسا|إسبانيا|المغرب|الجزائر|تونس|لبنان
+# travel|cities|geography
+10 عواصم أوروبية معروفة::لندن~London|باريس~Paris|برلين~Berlin|مدريد~Madrid|روما~Rome|أثينا~Athens|أمستردام~Amsterdam|لشبونة~Lisbon|فيينا~Vienna|ستوكهولم~Stockholm
+10 عواصم آسيوية معروفة::طوكيو~Tokyo|بكين~Beijing|سيول~Seoul|بانكوك~Bangkok|كوالالمبور~Kuala Lumpur|جاكرتا~Jakarta|سنغافورة~Singapore|هانوي~Hanoi|مانيلا~Manila|نيودلهي~New Delhi
+10 عواصم عربية معروفة::الرياض~Riyadh|أبوظبي~Abu Dhabi~أبو ظبي|الدوحة~Doha|مدينة الكويت~Kuwait City~الكويت|المنامة~Manama|مسقط~Muscat|عمّان~Amman~عمان الأردن|بيروت~Beirut|القاهرة~Cairo|الرباط~Rabat
+10 مدن في غرب السعودية::جدة~Jeddah|مكة~Mecca~Makkah|المدينة~Medina~المدينة المنورة^Madinah|الطائف~Taif|ينبع~Yanbu|رابغ~Rabigh|العلا~AlUla~Al Ula|الوجه~Al Wajh|ضباء~Duba|أملج~Umluj
+10 مدن في المنطقة الشرقية السعودية::الدمام~Dammam|الخبر~Khobar|الظهران~Dhahran|الجبيل~Jubail|القطيف~Qatif|الهفوف~Hofuf|المبرز~Mubarraz|رأس تنورة~Ras Tanura|الخفجي~Khafji|بقيق~Abqaiq
+10 مدن مصرية معروفة::القاهرة|الإسكندرية~Alexandria|الجيزة~Giza|الأقصر~Luxor|أسوان~Aswan|المنصورة~Mansoura|طنطا~Tanta|بورسعيد~Port Said|السويس~Suez|الإسماعيلية~Ismailia
+10 مدن مغربية معروفة::الدار البيضاء~Casablanca|الرباط|مراكش~Marrakesh~Marrakech|فاس~Fes~Fez|طنجة~Tangier|أغادير~Agadir|مكناس~Meknes|تطوان~Tetouan|وجدة~Oujda|الصويرة~Essaouira
+10 مدن أمريكية مشهورة::نيويورك~New York City~New York|لوس أنجلوس~Los Angeles|شيكاغو~Chicago|ميامي~Miami|لاس فيغاس~Las Vegas|سان فرانسيسكو~San Francisco|واشنطن~Washington DC~Washington D C|سياتل~Seattle|بوسطن~Boston|هيوستن~Houston
+10 مدن تركية معروفة::إسطنبول~Istanbul|أنقرة~Ankara|إزمير~Izmir|أنطاليا~Antalya|بورصة~Bursa|قونية~Konya|طرابزون~Trabzon|غازي عنتاب~Gaziantep|أضنة~Adana|ماردين~Mardin
+10 مدن في إنجلترا::لندن|مانشستر~Manchester|ليفربول~Liverpool|برمنغهام~Birmingham|ليدز~Leeds|نيوكاسل~Newcastle upon Tyne|نوتنغهام~Nottingham|أوكسفورد~Oxford|كامبريدج~Cambridge|برايتون~Brighton
+# travel|landmarks|geography
+10 متاحف معروفة حول العالم::اللوفر~Louvre|المتحف البريطاني~British Museum|متروبوليتان~Metropolitan Museum of Art|متاحف الفاتيكان~Vatican Museums|برادو~Prado Museum|ريكس~Rijksmuseum|أوفيزي~Uffizi Gallery|المتحف المصري~Egyptian Museum|المتحف المصري الكبير~Grand Egyptian Museum|اللوفر أبوظبي~Louvre Abu Dhabi
+10 أبراج مشهورة::برج إيفل~Eiffel Tower|برج خليفة~Burj Khalifa|برج طوكيو~Tokyo Tower|طوكيو سكاي تري~Tokyo Skytree|برج سي إن~CN Tower|برج المملكة~Kingdom Centre|برج الفيصلية~Al Faisaliyah Center|أبراج الكويت~Kuwait Towers|برج بيزا~Leaning Tower of Pisa|برج شنغهاي~Shanghai Tower
+# travel|water-bodies|geography
+10 بحار ومسطحات مائية معروفة::البحر الأحمر~Red Sea|البحر المتوسط~Mediterranean Sea|الخليج العربي~Arabian Gulf~Persian Gulf|خليج عمان~Gulf of Oman|بحر العرب~Arabian Sea|البحر الأسود~Black Sea|البحر الميت~Dead Sea|بحر قزوين~Caspian Sea|بحر الكاريبي~Caribbean Sea|بحر البلطيق~Baltic Sea
+10 أنهار مشهورة::النيل~Nile|الأمازون~Amazon River|دجلة~Tigris|الفرات~Euphrates|التايمز~Thames|السين~Seine|نهر الأردن~Jordan River|الميسيسيبي~Mississippi River|يانغتسي~Yangtze|الغانج~Ganges
+# travel|airlines|travel
+10 شركات طيران معروفة::السعودية للطيران~Saudia~الخطوط السعودية|طيران ناس~Flynas|طيران أديل~Flyadeal|طيران الإمارات~Emirates|الاتحاد للطيران~Etihad Airways|القطرية~Qatar Airways|الخطوط الكويتية~Kuwait Airways|الطيران العماني~Oman Air|الخطوط التركية~Turkish Airlines|مصر للطيران~Egyptair
+# travel|mountains|geography
+10 جبال معروفة::إفرست~Mount Everest~Everest|جبل فوجي~Mount Fuji|كليمنجارو~Mount Kilimanjaro|جبل سيناء~Mount Sinai|جبل عرفات~Mount Arafat|جبل أحد~Mount Uhud|جبل حراء~Jabal al-Nour~جبل النور|جبل الطاولة~Table Mountain|جبال الأطلس~Atlas Mountains|مون بلان~Mont Blanc
+# travel|languages|geography
+10 لغات معروفة::العربية~Arabic|الإنجليزية~English|الفرنسية~French|الإسبانية~Spanish|الألمانية~German|الإيطالية~Italian|الصينية~Chinese|اليابانية~Japanese|الكورية~Korean|التركية~Turkish
+# tech|apps|apps
+10 تطبيقات ومواقع للتسوق::أمازون~Amazon|نون~Noon|علي إكسبريس~AliExpress|شي إن~Shein|تيمو~Temu|نمشي~Namshi|ترينديول~Trendyol|أسوس للتسوق~ASOS|آي هيرب~iHerb|إيباي~eBay
+10 تطبيقات لطلب الأكل والمقاضي::هنقرستيشن~HungerStation|جاهز~Jahez|تويو~ToYou|مرسول~Mrsool|ذا شفز~The Chefz|كريم~Careem|كيتا~Keeta|نينجا~Ninja app|نعناع~Nana app|طلبات~Talabat
+10 تطبيقات ومواقع للسفر::بوكينغ~Booking.com~Booking|إير بي إن بي~Airbnb|أجودا~Agoda|سكاي سكانر~Skyscanner|المسافر~Almosafer|فلاي إن~Flyin|تريب دوت كوم~Trip.com|إكسبيديا~Expedia|تريب أدفايزر~Tripadvisor|ويجو~Wego
+10 تطبيقات وخدمات من غوغل::بحث غوغل~Google Search|خرائط غوغل~Google Maps|غوغل كروم~Google Chrome|جيميل~Gmail|غوغل درايف~Google Drive|مستندات غوغل~Google Docs|جداول غوغل~Google Sheets|عروض غوغل~Google Slides|صور غوغل~Google Photos|غوغل ميت~Google Meet
+10 برامج وخدمات من مايكروسوفت::وورد~Microsoft Word~Word|إكسل~Microsoft Excel~Excel|باوربوينت~Microsoft PowerPoint~PowerPoint|أوتلوك~Microsoft Outlook~Outlook|تيمز~Microsoft Teams~Teams|ون نوت~Microsoft OneNote~OneNote|ون درايف~Microsoft OneDrive~OneDrive|إيدج~Microsoft Edge~Edge|مايكروسوفت تو دو~Microsoft To Do|الرسام~Microsoft Paint~Paint
+10 برامج وخدمات من أدوبي::فوتوشوب~Adobe Photoshop~Photoshop|إليستريتور~Adobe Illustrator~Illustrator|بريمير برو~Adobe Premiere Pro~Premiere Pro|أفتر إفكتس~Adobe After Effects~After Effects|أكروبات~Adobe Acrobat~Acrobat|لايت روم~Adobe Lightroom~Lightroom|إن ديزاين~Adobe InDesign~InDesign|أوديشن~Adobe Audition~Audition|أدوبي أنيميت~Adobe Animate|أدوبي إكسبريس~Adobe Express
+10 تطبيقات للتواصل والاجتماعات::زووم~Zoom|تيمز|غوغل ميت|سلاك~Slack|ديسكورد~Discord|سكايب~Skype|واتساب~WhatsApp|تيليجرام~Telegram|سيغنال~Signal|ماسنجر~Facebook Messenger~Messenger
+10 تطبيقات موسيقى وصوت::سبوتيفاي~Spotify|أبل ميوزك~Apple Music|يوتيوب ميوزك~YouTube Music|أنغامي~Anghami|ديزر~Deezer|ساوند كلاود~SoundCloud|باندورا~Pandora|تايدال~Tidal|أمازون ميوزك~Amazon Music|شازام~Shazam
+# tech|brands|brands
+10 علامات تجارية سعودية مألوفة::إس تي سي~STC|موبايلي~Mobily|زين~Zain|المراعي~Almarai|نادك~NADEC|سدافكو~SADAFCO|جرير~Jarir|إكسترا~Extra stores|النهدي~Nahdi|العربية للعود~Arabian Oud
+10 أسماء سوبرماركت معروفة::بنده~Panda supermarket|العثيم~Al Othaim|التميمي~Tamimi Markets|كارفور~Carrefour|لولو~Lulu Hypermarket|الدانوب~Danube supermarket|بن داود~BinDawood|مانويل~Manuel market|سبينيس~Spinneys|أسواق المزرعة~Farm Superstores
+10 سلاسل قهوة مشهورة::ستاربكس~Starbucks|دانكن~Dunkin|تيم هورتنز~Tim Hortons|كوستا~Costa Coffee|بارنز~Barns|هاف مليون~Half Million|دوز~Dose Cafe|جافا تايم~Java Time|بيتس كوفي~Peet s Coffee|كاريبو كوفي~Caribou Coffee
+10 سلاسل برغر معروفة::ماكدونالدز~McDonald s|برغر كينغ~Burger King|هارديز~Hardee s|وينديز~Wendy s|فايف غايز~Five Guys|شيك شاك~Shake Shack|إن إن آوت~In-N-Out Burger|سماش برغر~Smashburger|برغرايزر~Burgerizzr|هرفي~Herfy
+10 سلاسل مطاعم نطلب منها بيتزا::بيتزا هت~Pizza Hut|دومينوز~Domino s Pizza|بابا جونز~Papa John s|ليتل سيزرز~Little Caesars|سبارو~Sbarro|بابا مورفيز~Papa Murphy s|بيتزا إكسبريس~PizzaExpress|بليز بيتزا~Blaze Pizza|مايسترو بيتزا~Maestro Pizza|بياتو~Piatto
+10 أسماء مشهورة على أكياس الشيبس::ليز~Lay s|دوريتوس~Doritos|شيتوس~Cheetos|برينغلز~Pringles|رافلز~Ruffles|تاكيس~Takis|بوقلز~Bugles|فريتوس~Fritos|صن شيبس~SunChips|بوب كورنرز~PopCorners
+10 أسماء مشهورة على علب البسكويت::أوريو~Oreo|دايجستف ماكفيتيز~McVitie s Digestives|بلفيتا~Belvita|لوتس بيسكوف~Lotus Biscoff|توك~TUC|ريتز~Ritz crackers|تيم تام~Tim Tam|تشيبس أهوي~Chips Ahoy|لواكر~Loacker|باهلسن~Bahlsen
+10 ماركات حلوى وسكاكر::هاريبو~Haribo|سكيتلز~Skittles|منتوس~Mentos|تيك تاك~Tic Tac|ستاربرست~Starburst|جيلي بيلي~Jelly Belly|تشوبا تشوبس~Chupa Chups|ترولي~Trolli|ألبنليبه~Alpenliebe|ويرثرز أوريجينال~Werther s Original
+10 ماركات ومحلات آيس كريم::باسكن روبنز~Baskin-Robbins|هاجن داز~Haagen-Dazs|بن أند جيريز~Ben and Jerry s|ماغنوم~Magnum ice cream|كورنيتو~Cornetto|ديري كوين~Dairy Queen|كولد ستون~Cold Stone Creamery|لندن ديري~London Dairy|موفنبيك~Movenpick|كواليتي وولز~Kwality Wall s
+10 ماركات أجهزة منزلية::سامسونغ~Samsung|إل جي~LG|بوش~Bosch|سيمنز~Siemens|باناسونيك~Panasonic|فيليبس~Philips|تيفال~Tefal|مولينكس~Moulinex|كينوود~Kenwood|براون~Braun
+10 ماركات كمبيوتر ولابتوب::ديل~Dell|إتش بي~HP|لينوفو~Lenovo|أسوس~Asus|أيسر~Acer|أبل~Apple Inc~Apple|إم إس آي~MSI|مايكروسوفت~Microsoft|ريزر~Razer|ألينوير~Alienware
+10 ماركات سماعات معروفة::سوني~Sony|بوز~Bose|جي بي إل~JBL|بيتس~Beats|سنهايزر~Sennheiser|سكل كاندي~Skullcandy|ساوندكور~Soundcore|أبل|سامسونغ|لوجيتك~Logitech
+10 ماركات ساعات مشهورة::رولكس~Rolex|أوميغا~Omega|كاسيو~Casio|سيكو~Seiko|سواتش~Swatch|تيسو~Tissot|سيتيزن~Citizen|كارتييه~Cartier|تاغ هوير~TAG Heuer|باتيك فيليب~Patek Philippe
+10 ماركات سيارات يابانية::تويوتا~Toyota|هوندا~Honda|نيسان~Nissan|مازدا~Mazda|سوبارو~Subaru|سوزوكي~Suzuki|ميتسوبيشي~Mitsubishi|لكزس~Lexus|إنفينيتي~Infiniti|أكيورا~Acura
+10 ماركات سيارات ألمانية وأوروبية::مرسيدس~Mercedes-Benz|بي إم دبليو~BMW|أودي~Audi|فولكس فاغن~Volkswagen|بورشه~Porsche|أوبل~Opel|سكودا~Skoda|فولفو~Volvo|رينو~Renault|بيجو~Peugeot
+10 ماركات ملابس للتسوق::زارا~Zara|إتش أند إم~H and M~H&M|يونيكلو~Uniqlo|غاب~Gap|مانجو للملابس~Mango clothing|بيرشكا~Bershka|بول أند بير~Pull and Bear|ماسيمو دوتي~Massimo Dutti|ريزيرفد~Reserved|إل سي وايكيكي~LC Waikiki
+10 ماركات للعناية بالشعر والبشرة::نيفيا~Nivea|دوف~Dove|غارنييه~Garnier|لوريال~L Oreal|نيوتروجينا~Neutrogena|فازلين~Vaseline|جونسون~Johnson s|هيد أند شولدرز~Head and Shoulders|بانتين~Pantene|كلير~Clear shampoo
+# food|ingredients|food
+10 حلويات شعبية على السفرة الخليجية::لقيمات~Luqaimat|بسبوسة|كنافة|معمول|عريكة|حنيني|قطايف~Qatayef|كليجا~Kleicha|قرص عقيلي~Gers Ogaily|عصيدة~Asida
+10 مقبلات ومزات شامية::حمص|متبل|بابا غنوج|تبولة~Tabbouleh|فتوش~Fattoush|فلافل|لبنة|كبة|يلنجي~Yalanji|محمرة~Muhammara
+10 أكلات ومخبوزات تركية::دونر~Doner kebab|إسكندر كباب~Iskender kebab|لحم بعجين~Lahmacun|بيدا~Turkish pide|بوريك~Borek|مانتي~Manti|كفتة تركية~Turkish kofte|مينيمين~Menemen|سميت~Simit|بقلاوة
+10 أكلات كورية معروفة::كيمتشي~Kimchi|بيبيمباب~Bibimbap|بولغوغي~Bulgogi|تيوكبوكي~Tteokbokki|جاب تشاي~Japchae|كيمباب~Gimbap~Kimbap|دجاج كوري~Korean fried chicken|راميون~Ramyeon|ماندو~Mandu|هوتوك~Hotteok
+10 أكلات من المطعم الصيني::تشاو مين~Chow mein|أرز مقلي|سبرينغ رول~Spring roll|دامبلنغ~Dumpling|دجاج كونغ باو~Kung Pao chicken|دجاج حلو وحامض~Sweet and sour chicken|بط بكين~Peking duck|هوت بوت~Hot pot|مابو توفو~Mapo tofu|باوزي~Baozi
+10 أطباق من المطعم اللبناني::شيش طاووق|كفتة~Kafta|صفيحة~Sfiha|فتوش|تبولة|كبة|فلافل|حمص|مناقيش~Manakish|مجدرة~Mujaddara
+10 أنواع مخلل على السفرة::مخلل خيار~Pickled cucumber|مخلل جزر~Pickled carrot|مخلل لفت~Pickled turnip|مخلل بصل~Pickled onion|مخلل قرنبيط~Pickled cauliflower|مخلل ملفوف~Pickled cabbage|مخلل باذنجان~Pickled eggplant|مخلل طماطم~Pickled tomato|زيتون مخلل~Pickled olives|مخلل فلفل~Pickled pepper
+10 أنواع تمر معروفة::سكري~Sukkari dates|خلاص~Khalas dates|عجوة~Ajwa dates|مبروم~Mabroom dates|صفاوي~Safawi dates|مجدول~Medjool dates|دقلة نور~Deglet Nour|برحي~Barhi dates|صقعي~Sagai dates|خضري~Khudri dates
+10 منتجات ألبان في الثلاجة::حليب|زبادي|لبن|لبنة|جبن|زبدة|كريمة|سمن~Ghee|حليب مكثف~Condensed milk|حليب بودرة~Powdered milk
+10 أكلات لحم مشهورة::ستيك|برغر|كفتة|كباب~Kebab|كرات لحم~Meatballs|ستروغانوف~Beef Stroganoff|يخنة لحم~Beef stew|لازانيا|بوريتو لحم~Beef burrito|شاورما لحم~Beef shawarma
+10 أطعمة نقدر نشويها::دجاج|لحم بقري~Beef|سمك~Fish|روبيان|ذرة|بطاطس|باذنجان|مشروم|فلفل رومي|حلوم
+10 إضافات وتتبيلات للسلطة::زيت زيتون~Olive oil|ليمون|خل~Vinegar|ملح|فلفل أسود|سماق~Sumac|طحينة|زبادي|خبز محمص~Croutons|دبس رمان~Pomegranate molasses
+10 سناكات سريعة::فشار|مكسرات|شيبس|بريتزل|كراكرز~Crackers|جرانولا بار~Granola bar|فاكهة~Fruit|زبادي|شوكولاتة|تمر
+10 أنواع بيتزا معروفة::مارغريتا~Margherita pizza|بيتزا بيبروني~Pepperoni pizza|بيتزا خضار~Vegetarian pizza|بيتزا دجاج باربكيو~BBQ chicken pizza|بيتزا هاواي~Hawaiian pizza|بيتزا أربعة أجبان~Four cheese pizza|بيتزا سي فود~Seafood pizza|بيتزا لحوم~Meat lovers pizza|بيتزا مشروم~Mushroom pizza|بيتزا دجاج بافلو~Buffalo chicken pizza
+10 أنواع كيك معروفة::كيك شوكولاتة~Chocolate cake|كيك فانيلا~Vanilla cake|ريد فيلفت~Red velvet cake|كيك جزر~Carrot cake|تشيز كيك|بلاك فورست~Black Forest cake|كيك ليمون~Lemon cake|كيك قهوة~Coffee cake|كيك أناناس~Pineapple upside-down cake|كيك إسفنجي~Sponge cake
+10 مكونات نشوفها في البرغر::قرص لحم~Burger patty|خبز برغر|جبن شيدر|خس|طماطم|بصل|مخلل|كاتشب|مايونيز|خردل
+10 مشروبات فواكه وحليب مشهورة::سموثي|ميلك شيك|لاسي~Lassi|مانجو لاسي~Mango lassi|حليب موز~Banana milk|حليب فراولة~Strawberry milk|عصير أفوكادو~Avocado juice|عصير قصب~Sugarcane juice|تمر هندي~Tamarind drink|قمر الدين~Qamar al-Din drink
+10 طلبات مشهورة من الفودترك::برغر|هوت دوغ|تاكو~Taco|شاورما|كريب~Crepe|وافل|دجاج مقلي|بطاطس مقلية|ذرة|قهوة
+10 صلصات للدجاج والشواء::باربكيو|بافلو~Buffalo sauce|عسل وخردل~Honey mustard|ثومية~Garlic sauce|ترياكي~Teriyaki sauce|تشيلي صوص|رانش|سريراتشا~Sriracha|تشيبوتلي~Chipotle sauce|بيري بيري~Peri-peri sauce
+10 حشوات شائعة للمعجنات::جبن|زعتر|سبانخ|بطاطس|لحم مفروم~Minced meat|دجاج|شوكولاتة|عجوة تمر~Date paste|تفاح|مشروم
+# daily|objects|vocabulary
+10 أدوات للأعمال الفنية واليدوية::مقص|غراء~Glue|شريط لاصق~Adhesive tape|دباسة|ورق ملون~Colored paper|كرتون~Cardboard|شريط زينة~Ribbon|جليتر~Glitter|خرز~Beads|خرامة~Hole punch
+10 أجزاء وأماكن في البيت::سقف خارجي~Roof|جدار~Wall|أرضية~Floor|سقف داخلي~Ceiling|نافذة~Window~شباك|باب|درج البيت~Staircase|بلكونة~Balcony|كراج~Garage|حديقة
+10 أشياء وأماكن في الفندق::استقبال~Reception|مفتاح غرفة~Room key|مصعد~Elevator|سرير|حمام~Bathroom|مطعم|مسبح~Swimming pool|نادي رياضي~Gym|لوبي~Lobby|عربة أمتعة
+10 أشياء في المزرعة::حظيرة~Barn|سياج|جرار~Tractor|محراث~Plow~Plough|صومعة~Silo|بئر~Well|مضخة ماء~Water pump|مشط زراعة~Rake|عربة يد~Wheelbarrow|مذراة~Pitchfork
+10 أشياء يستخدمها رجال الإطفاء::خوذة~Helmet|خرطوم إطفاء~Fire hose|سيارة إطفاء~Fire engine|سلم~Ladder|طفاية حريق~Fire extinguisher|قفازات|حذاء طويل|قناع أكسجين~Oxygen mask|بدلة حماية~Protective suit|صفارة إنذار~Siren
+# daily|payment-methods|brands
+10 طرق وأسماء معروفة للدفع::كاش~Cash~نقد|بطاقة ائتمان~Credit card|بطاقة خصم~Debit card|حوالة بنكية~Bank transfer|أبل باي~Apple Pay|غوغل باي~Google Pay|باي بال~PayPal|إس تي سي باي~STC Pay|مدى~Mada|بطاقة هدايا~Gift card
+# daily|objects|vocabulary
+10 أشياء في حقيبة الرضيع::حفاضة~Diaper~Nappy|رضاعة~Baby bottle|لهاية~Pacifier|مناديل مبللة~Wet wipes|ملابس رضيع~Baby clothes|بطانية طفل~Baby blanket|مريلة~Bib|كريم حفاض~Diaper cream|مفرش تغيير~Changing mat|لعبة طفل~Baby toy
+10 أدوات ومكياج معروف::أحمر شفاه~Lipstick~روج|كريم أساس~Foundation|كونسيلر~Concealer|ماسكارا~Mascara|آيلاينر~Eyeliner|بلاشر~Blush|ظل عيون~Eyeshadow|هايلايتر~Highlighter|بودرة وجه~Face powder|فرشاة مكياج~Makeup brush
+10 أشياء للعناية بالشعر::شامبو|بلسم~Hair conditioner|زيت شعر~Hair oil|جل شعر~Hair gel|مثبت شعر~Hair spray|فرشاة شعر|مشط|ربطة شعر~Hair tie|مشبك شعر~Hair clip|مجفف شعر
+# daily|clothes|vocabulary
+10 أنواع أحذية معروفة::سنيكرز~Sneakers|صندل~Sandals|شبشب|بوت~Boots|حذاء منزلي~Slippers|لوفر~Loafers|كعب عالٍ~High heels|حذاء كرة|حذاء جري~Running shoes|حذاء باليه~Ballet shoes
+# daily|objects|vocabulary
+10 أشياء عند باب البيت::جرس باب~Doorbell|مقبض باب~Door handle|قفل|مفتاح~Key|دعاسة~Doormat|عين الباب~Peephole|مفصلة~Hinge|صندوق بريد|مطرقة باب~Door knocker|لوحة اسم~Nameplate
+# daily|exercise-actions|sports
+10 أنشطة وتمارين معروفة::مشي~Walking|جري~Running|ركوب دراجة~Cycling|سباحة|نط حبل~Jump rope|يوغا~Yoga|بيلاتس~Pilates|تمرين ضغط~Push-up|سكوات~Squat|بلانك~Plank
+# daily|musical-instruments|music
+10 آلات موسيقية معروفة::عود~Oud|غيتار~Guitar|بيانو~Piano|كمان~Violin|طبل~Drum|فلوت~Flute|ساكسفون~Saxophone|ترومبيت~Trumpet|أكورديون~Accordion|قانون~Qanun
+# daily|phone-accessories|apps
+10 إكسسوارات للجوال::كفر جوال~Phone case|حماية شاشة~Screen protector|شاحن|باور بانك~Power bank|سماعات أذن~Earbuds|كابل يو إس بي~USB cable|حامل سيارة~Car phone holder|عصا سيلفي~Selfie stick|شريحة~SIM card|بطاقة ذاكرة
+# daily|internet-terms|apps
+10 كلمات نستخدمها في الإنترنت::واي فاي~Wi-Fi|راوتر~Router|مودم~Modem|متصفح~Web browser|موقع إلكتروني~Website|محرك بحث~Search engine|بريد إلكتروني~Email|كلمة مرور~Password|اسم مستخدم~Username|رابط~Hyperlink~Link
+# daily|computer-parts|apps
+10 قطع وأجزاء في الكمبيوتر::معالج~CPU~Processor|كرت شاشة~GPU~Graphics card|رام~RAM|لوحة أم~Motherboard|إس إس دي~SSD|هارد ديسك~Hard disk|مزود طاقة~Power supply|كيس كمبيوتر~Computer case|مروحة تبريد~Cooling fan|شاشة كمبيوتر
+# daily|weather|vocabulary
+10 أشياء وظواهر نشوفها في الجو::شمس~Sun|سحابة~Cloud|مطر~Rain|ثلج~Snow|رياح~Wind|ضباب~Fog|قوس قزح~Rainbow|برق~Lightning|رعد~Thunder|برد~Hail
+# daily|family|vocabulary
+10 كلمات عن العائلة::أب~Father|أم~Mother|أخ~Brother|أخت~Sister|جد~Grandfather|جدة~Grandmother|عم أو خال~Uncle~عم^خال|عمة أو خالة~Aunt~عمة^خالة|ابن~Son|بنت~Daughter
+# daily|celebrations|vocabulary
+10 مناسبات وأوقات نجتمع فيها::عيد الفطر~Eid al-Fitr|عيد الأضحى~Eid al-Adha|رمضان~Ramadan|زواج~Wedding|عيد ميلاد~Birthday|تخرج~Graduation|رأس السنة~New Year|اليوم الوطني~National Day|استقبال مولود~Baby welcoming party|سكن بيت~Housewarming
+# daily|objects|vocabulary
+10 عبوات وأوعية نشوفها في البقالة::قارورة~Bottle|علبة معدنية~Can|مرطبان~Jar|علبة كرتونية~Carton|كيس~Bag|صندوق|أنبوب~Tube|صينية|كيس صغير~Sachet|برميل~Barrel
+# nature|space|science
+10 أسماء في مجموعتنا الشمسية::الشمس~Sun|عطارد~Mercury|الزهرة~Venus|الأرض~Earth|المريخ~Mars|المشتري~Jupiter|زحل~Saturn|أورانوس~Uranus|نبتون~Neptune|القمر~Moon
+10 أشياء ومصطلحات في الفضاء::نجم~Star|كوكب~Planet|قمر~Moon|كويكب~Asteroid|مذنب~Comet|شهاب~Meteor|مجرة~Galaxy|سديم~Nebula|ثقب أسود~Black hole|قمر صناعي~Satellite
+# nature|body|science
+10 أجزاء واضحة في جسم الإنسان::رأس~Head|عين~Eye|أذن~Ear|أنف~Nose|فم~Mouth|يد~Hand|ساق~Leg|قدم~Foot|إصبع~Finger|شعر~Hair
+10 أعضاء معروفة في الجسم::قلب~Heart|دماغ~Brain|رئة~Lung|كبد~Liver|كلية~Kidney|معدة~Stomach|أمعاء~Intestines|بنكرياس~Pancreas|طحال~Spleen|جلد~Skin
+# nature|body-actions|science
+10 أفعال ومهارات يومية للجسم::رؤية~Seeing|سمع~Hearing|شم~Smelling|تذوق~Tasting|لمس~Touching|مشي|جري|قفز~Jumping|كلام~Talking|تنفس~Breathing
+# nature|plants|science
+10 أزهار معروفة::وردة~Rose|دوار الشمس~Sunflower|توليب~Tulip|أقحوان~Daisy flower|زنبق~Lily|لافندر~Lavender|ياسمين~Jasmine|أوركيد~Orchid|لوتس~Lotus flower|قرنفل~Carnation
+10 أشجار معروفة::نخلة~Date palm|شجرة زيتون~Olive tree|شجرة ليمون~Lemon tree|شجرة برتقال~Orange tree|شجرة تفاح~Apple tree|شجرة مانجو~Mango tree|صنوبر~Pine tree|بلوط~Oak tree|أرز~Cedar tree|أوكالبتوس~Eucalyptus
+# nature|gardening|science
+10 أشياء نستخدمها لزراعة النباتات::ماء|ضوء شمس~Sunlight|تربة~Soil|بذور~Seeds|كمبوست~Compost|سماد~Fertilizer|أصيص|خرطوم|قفازات|مجرفة
+# nature|science-tools|science
+10 أدوات نراها في دروس العلوم::مجهر~Microscope|تلسكوب~Telescope|ميزان حرارة|ميزان|بوصلة|مغناطيس~Magnet|بطارية|لمبة~Light bulb|منشور زجاجي~Prism|عدسة مكبرة~Magnifying glass
+# nature|elements|science
+10 عناصر كيميائية معروفة::أكسجين~Oxygen|هيدروجين~Hydrogen|كربون~Carbon|حديد~Iron|ذهب~Gold|فضة~Silver|نحاس~Copper|هيليوم~Helium|ألمنيوم~Aluminum~Aluminium|كالسيوم~Calcium

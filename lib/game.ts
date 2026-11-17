@@ -1,3 +1,4 @@
+import { answerIndex, answerNames, compact, editDistance, foldAnswer, identityFor, looseForms } from './answer-matching.ts';
 export type Answer = {
   id: string; rank: number; nameAr: string; nameEn: string; aliases: string[];
   series?: string; part?: string; year?: string;
@@ -5,7 +6,7 @@ export type Answer = {
 export type Category = {
   id: number; title: string; group: string; icon: string; description: string; metric: string;
   source: { title: string; url: string; asOf: string; checkedAt: string };
-  rankingType?: 'editorial' | 'source'; difficulty?: 'easy' | 'standard'; region?: 'arab' | 'global'; domain?: string;
+  rankingType?: 'editorial' | 'source'; difficulty?: 'easy' | 'standard'; region?: 'arab' | 'global'; domain?: string; section?: string;
   answers: Answer[]; distractors?: Omit<Answer, 'rank'>[];
 };
 export type Entity = Omit<Answer, 'rank'>;
@@ -35,25 +36,6 @@ export function normalize(text: string): string {
 export function key(entity: Entity): string {
   return normalize(entity.nameEn || entity.nameAr) + (entity.year ? ':' + entity.year : '');
 }
-function names(entity: Entity): string[] {
-  const more: string[] = [];
-  if (entity.series && entity.part) more.push(`${entity.series} ${entity.part}`);
-  if (entity.part && /^\d+$/.test(entity.part) && !/\d/.test(normalize(entity.nameAr))) more.push(`${entity.nameAr} ${entity.part}`);
-  if (entity.year) more.push(`${entity.nameAr} ${entity.year}`, `${entity.nameEn} ${entity.year}`);
-  return [...new Set([entity.nameAr, entity.nameEn, ...(entity.aliases || []), ...more].filter(Boolean).map(normalize))];
-}
-function distance(a: string, b: string): number {
-  const row = Array.from({ length: b.length + 1 }, (_, i) => i);
-  for (let i = 1; i <= a.length; i++) {
-    let diagonal = row[0]; row[0] = i;
-    for (let j = 1; j <= b.length; j++) {
-      const old = row[j];
-      row[j] = Math.min(row[j] + 1, row[j - 1] + 1, diagonal + (a[i - 1] === b[j - 1] ? 0 : 1));
-      diagonal = old;
-    }
-  }
-  return row[b.length];
-}
 const seriesLabels = [
   ['grand theft auto', 'gta', 'قراند', 'جراند', 'جراند ثفت اوتو', 'غراند ثفت اوتو'],
   ['red dead', 'red dead redemption', 'rdr', 'ريد ديد', 'ريد ديد ريدمبشن'],
@@ -78,59 +60,52 @@ export function domain(id: number): string {
   if ([37,38].includes(id)) return 'dishes';
   return `category-${id}`;
 }
-export function entityPool(category: Category, catalog: Category[]): Entity[] {
-  const map = new Map<string, Entity>();
-  for (const list of catalog.filter(c => (c.domain || domain(c.id)) === (category.domain || domain(category.id)))) {
-    for (const e of [...list.answers, ...(list.distractors || [])]) {
-      const k = key(e), old = map.get(k);
-      map.set(k, { ...e, aliases: [...new Set([...(old?.aliases || []), ...(e.aliases || [])])] });
-    }
+const poolCache=new WeakMap<Category[],Map<string,Entity[]>>();
+export function entityPool(category:Category,catalog:Category[]):Entity[]{
+  const scope=category.domain||domain(category.id),cache=poolCache.get(catalog)||new Map<string,Entity[]>();
+  poolCache.set(catalog,cache);const existing=cache.get(scope);if(existing)return existing;
+  const map=new Map<string,Entity>();
+  for(const list of catalog.filter(c=>(c.domain||domain(c.id))===scope))for(const entity of [...list.answers,...(list.distractors||[])]){
+    const identity=identityFor(entity,scope),old=map.get(identity);
+    map.set(identity,{...entity,aliases:[...new Set([...(old?.aliases||[]),...(old?[old.nameAr,old.nameEn]:[]),...entity.aliases])]});
   }
-  return [...map.values()];
+  const pool=[...map.values()];cache.set(scope,pool);return pool;
 }
-
-export type Match = { kind: 'exact' | 'suggest'; entity: Entity } | { kind: 'clarify' | 'unknown'; text: string };
-export function resolveAnswer(raw: string, category: Category, catalog: Category[]): Match {
-  const q = normalize(raw);
-  if (!q) return { kind: 'clarify', text: 'اكتب اسمًا أوضح عشان نقدر نتحقق منه.' };
-  const pool = entityPool(category, catalog);
-  const compactQuery = q.replace(/ /g, '');
-  const exact = pool.filter(e => names(e).some(name => name === q || name.replace(/ /g, '') === compactQuery));
-  const mediaDomain=['video-games','films','television'].includes(category.domain || domain(category.id));
-  if(exact.length>1&&!mediaDomain){
-    const local=category.answers.filter(e=>names(e).some(name=>name===q||name.replace(/ /g,'')===compactQuery));
-    if(local.length===1)return {kind:'exact',entity:local[0]};
+export type Match={kind:'exact'|'suggest';entity:Entity}|{kind:'clarify'|'unknown';text:string};
+export function resolveAnswer(raw:string,category:Category,catalog:Category[]):Match{
+  const q=foldAnswer(raw),scope=category.domain||domain(category.id),pool=entityPool(category,catalog),index=answerIndex(pool,scope);
+  if(!q)return{kind:'clarify',text:'اكتب اسمًا أوضح عشان نقدر نتحقق منه.'};
+  const media=['video-games','films','television'].includes(scope);
+  let matches=index.exact.get(compact(q))||[];
+  if(!matches.length){const alternatives=looseForms(q);if(q.startsWith('ال')&&q.length>3)alternatives.push(q.slice(2));matches=[...new Set(alternatives.flatMap(form=>index.exact.get(compact(form))||index.loose.get(form.startsWith('words:')?form:compact(form))||[]).concat(index.loose.get(compact(q))||[]))];}
+  const families=new Map(matches.map(e=>[identityFor(e,scope),e]));
+  const representative=(entity:Entity)=>category.answers.find(a=>identityFor(a,scope)===identityFor(entity,scope))||entity;
+  if(families.size===1){const entity=representative([...families.values()][0]);if((entity.part||entity.year)&&q===foldAnswer(entity.series||''))return{kind:'clarify',text:'تقصد أي جزء أو موسم؟ حدده، بدون خصم محاولة.'};return{kind:'exact',entity};}
+  if(families.size>1){
+    const canonical=matches.filter(e=>[e.nameEn,e.nameAr].some(name=>compact(name)===compact(q)));
+    if(!media&&new Set(canonical.map(e=>identityFor(e,scope))).size===1)return{kind:'exact',entity:representative(canonical[0])};
+    const local=category.answers.filter(a=>families.has(identityFor(a,scope)));
+    if(!media&&!['countries','cities','athletes','actors','clubs','parks'].includes(scope)&&local.length===1)return{kind:'exact',entity:local[0]};
+    return{kind:'clarify',text:media?'الاسم يطابق أكثر من إصدار. حدّد الجزء أو الموسم أو السنة، بدون خصم محاولة.':scope==='parks'?'تقصد أي فرع أو مدينة؟ حدده، بدون خصم محاولة.':'الاسم يطابق أكثر من إجابة. حدده أكثر، بدون خصم محاولة.'};
   }
-  if (exact.length === 1) {
-    // A source ranking seasons or editions must retain the distinction.
-    const e = exact[0];
-    if ((e.part || e.year) && names(e).includes(q) && q === normalize(e.series || ''))
-      return { kind: 'clarify', text: 'تقصد أي جزء أو موسم؟ اكتب اسمه أو رقمه، وما نحسبها غلطة.' };
-    return { kind: 'exact', entity: e };
+  if(compact(q).length<2)return{kind:'clarify',text:'اكتب اسمًا أوضح عشان نقدر نتحقق منه.'};
+  if(pool.some(e=>e.series&&foldAnswer(e.series)===q)||(media&&seriesLabels.some(group=>group.map(foldAnswer).includes(q))))return{kind:'clarify',text:scope==='parks'?'تقصد أي فرع أو مدينة؟ اكتب اسمها، بدون خصم محاولة.':'تقصد أي جزء أو موسم؟ اكتب اسمه أو رقمه، وما نحسبها غلطة.'};
+  if(compact(q).length>=4&&!/\d/.test(q)){
+    const words=q.split(' '),partial=pool.filter(e=>answerNames(e,scope).some(n=>words.every(w=>n.split(' ').includes(w))&&n!==q));
+    if(partial.length>1)return{kind:'clarify',text:'الاسم مختصر ويطابق أكثر من خيار. حدده أكثر، بدون خصم محاولة.'};
+    if(partial.length===1)return{kind:'suggest',entity:representative(partial[0])};
   }
-  if (exact.length > 1) return { kind: 'clarify', text: mediaDomain?'الاسم يطابق أكثر من إصدار. حدّد الجزء أو الموسم أو سنة الإصدار، بدون خصم محاولة.':category.domain==='parks'?'تقصد أي فرع أو مدينة؟ اكتب اسمها، بدون خصم محاولة.':'الاسم يطابق أكثر من عنصر. اكتبه كاملًا، بدون خصم محاولة.' };
-  if (compactQuery.length < 2) return { kind: 'clarify', text: 'اكتب اسمًا أوضح عشان نقدر نتحقق منه.' };
-  const explicitSeries = pool.some(e => e.series && normalize(e.series) === q);
-  if (explicitSeries || (['video-games','films','television'].includes(category.domain || domain(category.id)) && seriesLabels.some(group => group.map(normalize).includes(q)))) {
-    return { kind: 'clarify', text: category.domain==='parks'?'تقصد أي فرع أو مدينة؟ اكتب اسمها، بدون خصم محاولة.':'تقصد أي جزء أو موسم؟ اكتب الاسم كاملًا أو أضف رقمه، وما نحسبها غلطة.' };
-  }
-  const qNumbers = q.match(/\d+/g)?.join(',') || '';
-  const ranked = pool.map(entity => {
-    let score = 0;
-    for (const n of names(entity)) {
-      if ((n.match(/\d+/g)?.join(',') || '') !== qNumbers) continue;
-      const len = Math.max(q.length, n.length);
-      if (len < 5 || Math.abs(q.length - n.length) > 3) continue;
-      const edits = distance(q, n);
-      const maxEdits = len < 9 ? 1 : 2;
-      if (edits <= maxEdits) score = Math.max(score, 1 - edits / len);
-    }
-    return { entity, score };
-  }).filter(x => x.score >= .8).sort((a, b) => b.score - a.score);
-  if (ranked[0] && (!ranked[1] || ranked[0].score - ranked[1].score >= .07))
-    return { kind: 'suggest', entity: ranked[0].entity };
-  if (ranked.length > 1) return { kind: 'clarify', text: 'الاسم قريب من أكثر من إجابة. اكتبه بشكل أدق، وما نحسبها غلطة.' };
-  return { kind: 'unknown', text: 'هالإجابة مو ضمن العشرة في هذه القائمة.' };
+  const cq=compact(q),numbers=(q.match(/\d+/g)||[]).join(',');
+  const ranked=pool.map(entity=>{let score=0;for(const name of answerNames(entity,scope)){
+    if((name.match(/\d+/g)||[]).join(',')!==numbers)continue;
+    const candidate=compact(name),length=Math.max(cq.length,candidate.length);if(length<3)continue;
+    const maximum=length<9?1:length<17?2:length<29?3:4;
+    const edits=editDistance(cq,candidate,maximum),similarity=1-edits/length;
+    if(edits<=maximum&&similarity>=(length<5?.74:.78))score=Math.max(score,similarity);
+  }return{entity:representative(entity),score};}).filter(r=>r.score>0).sort((a,b)=>b.score-a.score);
+  if(ranked[0]&&(!ranked[1]||ranked[0].score-ranked[1].score>=.055))return{kind:'suggest',entity:ranked[0].entity};
+  if(ranked.length>1)return{kind:'clarify',text:'الاسم قريب من أكثر من إجابة. وضّحه شوي، وما نحسبها غلطة.'};
+  return{kind:'unknown',text:'هالإجابة مو ضمن العشرة في هذه القائمة.'};
 }
 
 export function activeMember(player: Player): string { return player.members[player.turns % player.members.length]; }
@@ -154,7 +129,7 @@ export function getResults(game: Game) {
   return { totals, winner, won: game.mode === 'solo' ? game.found.length === 10 : undefined };
 }
 function settle(game: Game, category: Category, player: number, raw: string, entity?: Entity) {
-  const target = entity && category.answers.find(a => key(a) === key(entity) ||
+  const target = entity && category.answers.find(a => identityFor(a, category.domain || domain(category.id)) === identityFor(entity, category.domain || domain(category.id)) ||
     (!a.year && !entity.year && normalize(a.nameEn || a.nameAr) === normalize(entity.nameEn || entity.nameAr)));
   game.pending = null;
   game.clarifying = null;
@@ -180,7 +155,7 @@ export function makeAttempt(game: Game, category: Category, catalog: Category[],
   if (action === 'cancel') { game.pending = null; game.notice = { kind: 'info', text: 'عدّل إجابتك، ما انخصمت محاولة.' }; return game; }
   if (action === 'confirm') {
     if (game.pending?.player !== player) return game;
-    const entity = entityPool(category, catalog).find(e => key(e) === game.pending?.entityKey);
+    const entity = entityPool(category, catalog).find(e => identityFor(e, category.domain || domain(category.id)) === game.pending?.entityKey || key(e) === game.pending?.entityKey || (game.pending?.name && answerNames(e, category.domain || domain(category.id)).includes(foldAnswer(game.pending.name))));
     if (entity) settle(game, category, player, entity.nameAr, entity);
     return game;
   }
@@ -193,17 +168,17 @@ export function makeAttempt(game: Game, category: Category, catalog: Category[],
     if (/^\d{1,4}$/.test(short) || ordinals[short]) query = `${game.clarifying.query} ${ordinals[short] || short}`;
   }
   let match = resolveAnswer(query, category, catalog);
-  if(match.kind==='unknown'&&game.clarifying?.player===player&&query===raw.slice(0,120)){
+  if(match.kind!=='exact'&&game.clarifying?.player===player&&query===raw.slice(0,120)){
     const combined=`${game.clarifying.query} ${query}`;
     const contextual=resolveAnswer(combined,category,catalog);
-    if(contextual.kind!=='unknown'){query=combined;match=contextual;}
+    if(contextual.kind==='exact'||(match.kind==='unknown'&&contextual.kind!=='unknown')){query=combined;match=contextual;}
   }
   if (match.kind === 'clarify') {
     game.clarifying = { player, query: query.length > 3 ? query : game.clarifying?.query || query };
     game.notice = { kind: 'clarify', text: match.text };
   }
   else if (match.kind === 'suggest') {
-    game.pending = { player, entityKey: key(match.entity), name: match.entity.nameAr };
+    game.pending = { player, entityKey: identityFor(match.entity, category.domain || domain(category.id)), name: match.entity.nameAr };
     game.clarifying = null;
     game.notice = { kind: 'suggest', text: `هل تقصد «${match.entity.nameAr}»؟`, name: match.entity.nameAr };
   } else settle(game, category, player, raw, match.kind === 'exact' ? match.entity : undefined);

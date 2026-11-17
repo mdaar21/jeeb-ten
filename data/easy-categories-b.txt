@@ -1,0 +1,166 @@
+# games|consoles|games
+10 أجهزة ألعاب مشهورة::بلايستيشن 1~PlayStation 1~PS1|بلايستيشن 2~PlayStation 2~PS2|بلايستيشن 3~PlayStation 3~PS3|بلايستيشن 4~PlayStation 4~PS4|بلايستيشن 5~PlayStation 5~PS5|إكس بوكس 360~Xbox 360|إكس بوكس ون~Xbox One|نينتندو سويتش~Nintendo Switch|نينتندو وي~Nintendo Wii~Wii|جيم بوي~Game Boy
+# games|game-franchises|games
+10 سلاسل ألعاب من نينتندو::ماريو~Super Mario~Mario|زيلدا~The Legend of Zelda~Zelda|بوكيمون~Pokemon~Pokémon|كيربي~Kirby|دونكي كونغ~Donkey Kong|مترويد~Metroid|أنيمال كروسينغ~Animal Crossing|سبلاتون~Splatoon|سوبر سماش بروس~Super Smash Bros|فاير إمبلم~Fire Emblem
+10 سلاسل مرتبطة ببلايستيشن::قود أوف وار~God of War~قود اوف وار|أنشارتد~Uncharted|ذا لاست أوف أس~The Last of Us|هورايزن~Horizon|جران توريزمو~Gran Turismo|راتشت أند كلانك~Ratchet and Clank|سبايدرمان~Marvel s Spider-Man~Spider-Man|غوست أوف تسوشيما~Ghost of Tsushima|ليتل بيغ بلانيت~LittleBigPlanet|كراش بانديكوت~Crash Bandicoot
+10 سلاسل مشهورة على الكمبيوتر والإكس بوكس::هالو~Halo|غيرز أوف وور~Gears of War~Gears|فورزا~Forza|إيج أوف إمبايرز~Age of Empires|ماينكرافت~Minecraft|فلايت سيميوليتر~Microsoft Flight Simulator|دووم~Doom|فول آوت~Fallout|ذا إلدر سكرولز~The Elder Scrolls|سي أوف ثيفز~Sea of Thieves
+# games|video-games|games
+10 ألعاب ألغاز على الجوال::كاندي كراش~Candy Crush Saga|كت ذا روب~Cut the Rope|ويرز ماي ووتر~Where s My Water|براين آوت~Brain Out|براين تيست~Brain Test|2048~2048|مونيومنت فالي~Monument Valley|فلو فري~Flow Free|تون بلاست~Toon Blast|تو دوتس~Two Dots
+10 ألعاب حركة مشهورة على الجوال::ببجي موبايل~PUBG Mobile|فري فاير~Free Fire|كول أوف ديوتي موبايل~Call of Duty Mobile~COD Mobile|صب واي سيرفرز~Subway Surfers|تيمبل رن~Temple Run|جيت باك جويرايد~Jetpack Joyride|فروت نينجا~Fruit Ninja|هيل كلايمب ريسينغ~Hill Climb Racing|براول ستارز~Brawl Stars|ستامبل غايز~Stumble Guys
+# games|game-franchises|games
+10 سلاسل ألعاب رياضية::فيفا~FIFA|بيس~Pro Evolution Soccer~PES|إن بي إيه تو كي~NBA 2K|دبليو دبليو إي تو كي~WWE 2K|روكيت ليغ~Rocket League|فوتبول مانجر~Football Manager|توب سبين~Top Spin|وي سبورتس~Wii Sports|ماريو تنس~Mario Tennis|إن بي إيه جام~NBA Jam
+# games|video-games|games
+10 ألعاب بناء وإدارة عوالم::ماينكرافت|روبلوكس~Roblox|تيراريا~Terraria|ذا سيمز~The Sims|سيم سيتي~SimCity|سيتيز سكايلاينز~Cities Skylines|بلانت كوستر~Planet Coaster|ستاردو فالي~Stardew Valley|أنيمال كروسينغ نيو هورايزنز~Animal Crossing New Horizons|نو مانز سكاي~No Man s Sky
+10 ألعاب من سلسلة سونيك::سونيك 2~Sonic the Hedgehog 2~Sonic 2|سونيك 3~Sonic the Hedgehog 3~Sonic 3|سونيك مانيا~Sonic Mania|سونيك فرونتيرز~Sonic Frontiers|سونيك فورسز~Sonic Forces|سونيك أدفنتشر~Sonic Adventure|سونيك هيروز~Sonic Heroes|سونيك جينيريشنز~Sonic Generations|سونيك أنليشد~Sonic Unleashed|سونيك سي دي~Sonic CD
+10 ألعاب من عالم ماريو ولويجي::ماريو كارت 8~Mario Kart 8|سوبر ماريو أوديسي~Super Mario Odyssey|سوبر ماريو وندر~Super Mario Bros Wonder|سوبر ماريو بارتي~Super Mario Party|سوبر ماريو بروس 3~Super Mario Bros 3|سوبر ماريو وورلد~Super Mario World|سوبر ماريو 64~Super Mario 64|نيو سوبر ماريو بروس يو~New Super Mario Bros U|سوبر ماريو ميكر 2~Super Mario Maker 2|لويجيز مانشن 3~Luigi s Mansion 3
+# games|controller-parts|games
+10 أزرار وقطع في يد التحكم::أسهم الاتجاهات~D-pad~Dpad|عصا أنالوج~Analog stick|زر إيه~A button~A|زر بي~B button~B|زر إكس~X button~X|زر واي~Y button~Y|زناد~Trigger~تريغر|زر كتف~Shoulder button~بمبر|لوحة لمس~Touchpad|زر ابدأ~Start button~Start
+# games|minecraft-items|minecraft
+10 أدوات ومعدات ماينكرافت::فأس تعدين~Pickaxe~بيكاكس|فأس~Axe|مجرفة~Shovel|معزقة~Hoe|مقص ماينكرافت~Shears|سنارة~Fishing rod|قداحة ماينكرافت~Flint and steel|دلو ماينكرافت~Bucket|بوصلة ماينكرافت~Compass|ساعة ماينكرافت~Clock
+10 معادن وموارد في ماينكرافت::فحم~Coal|حديد~Iron ingot~Iron|ذهب~Gold ingot~Gold|دايموند~Diamond~ألماس|إيميرالد~Emerald~زمرد|لازورد~Lapis lazuli~لابيس|ريدستون~Redstone|نحاس~Copper ingot~Copper|كوارتز النذر~Nether quartz~Quartz|حطام قديم~Ancient debris
+10 أطعمة في ماينكرافت::تفاح~Apple|خبز~Bread|ستيك~Steak|دجاج مطبوخ~Cooked chicken|لحم خنزير مطبوخ~Cooked porkchop|جزر~Carrot|بطاطس~Potato|تفاحة ذهبية~Golden apple|كيكة ماينكرافت~Cake|كوكي ماينكرافت~Cookie
+# games|minecraft-mobs|minecraft
+10 حيوانات في ماينكرافت::بقرة~Cow|خروف~Sheep|خنزير~Pig|دجاجة~Chicken|ذئب~Wolf|قط~Cat|حصان~Horse|حمار~Donkey|أرنب~Rabbit|ثعلب~Fox
+10 مخلوقات خطيرة في ماينكرافت::زومبي~Zombie|سكيليتون~Skeleton|كريبر~Creeper|عنكبوت~Spider|إندرمان~Enderman|ساحرة~Witch|سلايم~Slime|غاست~Ghast|بليز~Blaze|ويذر سكيليتون~Wither skeleton
+# games|mario-characters|mario
+10 أعداء وشخصيات تعرقل ماريو::غومبا~Goomba|كوبا تروبا~Koopa Troopa|باوزر~Bowser|باوزر جونيور~Bowser Jr|بو~Boo|شاي غاي~Shy Guy|بوليت بيل~Bullet Bill|نبتة بيرانا~Piranha Plant|دراي بونز~Dry Bones|هامر برو~Hammer Bro
+# games|sonic-characters|sonic
+10 أصدقاء وأبطال من عالم سونيك::سونيك~Sonic the Hedgehog~Sonic|تيلز~Miles Tails Prower~Tails|ناكلز~Knuckles the Echidna~Knuckles|إيمي~Amy Rose~Amy|كريم~Cream the Rabbit~Cream|بيغ~Big the Cat~Big|بليز~Blaze the Cat~Blaze|سيلفر~Silver the Hedgehog~Silver|فيكتور~Vector the Crocodile~Vector|إسبيو~Espio the Chameleon~Espio
+# games|mario-kart-items|mariokart
+10 أدوات مشهورة في ماريو كارت::فطر السرعة~Mushroom~Mushroom boost|صدفة خضراء~Green shell|صدفة حمراء~Red shell|صدفة زرقاء~Blue shell~Spiny shell|موزة~Banana|نجمة~Super Star~Star|بوليت بيل|برق~Lightning|بوب أومب~Bob-omb|عملة~Coin
+# games|zelda-characters|zelda
+10 شخصيات من عالم زيلدا::لينك~Link|الأميرة زيلدا~Princess Zelda~Zelda|غانوندورف~Ganondorf|إمبا~Impa|تينغل~Tingle|إيبونا~Epona|ميدنا~Midna|فاي~Fi|سيدون~Sidon|بيدل~Beedle
+# games|clash-royale-cards|clash
+10 بطاقات كلاسيكية في كلاش رويال::الفارس~Knight|راميات السهام~Archers|العملاق~Giant|ميني بيكا~Mini PEKKA|الفارسة~Musketeer|الأمير~Prince|راكب الخنزير~Hog Rider|جيش الهياكل~Skeleton Army|كرة النار~Fireball|السهام~Arrows
+# games|clash-of-clans-troops|clash
+10 جنود معروفين في كلاش أوف كلانس::بربري~Barbarian|رامية سهام~Archer|عملاق~Giant|عفريت~Goblin|كاسر جدران~Wall Breaker|بالون~Balloon|ساحر~Wizard|معالجة~Healer|تنين~Dragon|بيكا~PEKKA
+# games|valorant-agents|valorant
+10 عملاء معروفين في فالورانت::جيت~Jett|فينيكس~Phoenix|سيج~Sage|سوفا~Sova|رينا~Reyna|ريز~Raze|أومن~Omen|كيلجوي~Killjoy|بريتش~Breach|سايفر~Cypher
+# games|overwatch-heroes|overwatch
+10 أبطال معروفين في أوفرواتش::تريسر~Tracer|ميرسي~Mercy|غينجي~Genji|هانزو~Hanzo|ديفا~D.Va~Dva|راينهارت~Reinhardt|وينستون~Winston|ويدوميكر~Widowmaker|ريبر~Reaper|سولجر 76~Soldier 76
+# games|brawl-stars-brawlers|brawl
+10 شخصيات من براول ستارز::شيلي~Shelly|كولت~Colt|نيتا~Nita|بول~Bull|بروك~Brock|إل بريمو~El Primo|بوكو~Poco|بارلي~Barley|جيسي~Jessie|داينامايك~Dynamike
+# games|gta-characters|gta
+10 شخصيات من قراند سان أندرياس::سي جي~Carl Johnson~CJ|بيغ سموك~Big Smoke|رايدر~Ryder|سويت~Sweet|سيزار~Cesar Vialpando~Cesar|كيندل~Kendl Johnson~Kendl|تينبيني~Frank Tenpenny~Tenpenny|ووزي~Wu Zi Mu~Woozie|ذا تروث~The Truth|ماد دوغ~Madd Dogg
+# games|fortnite-items|fortnite
+10 أدوات مشهورة مرّت على فورتنايت::مشروب الدرع~Shield Potion|درع صغير~Small Shield Potion~Mini shield|حقيبة إسعاف~Medkit|ضمادات~Bandage|تشاغ جاغ~Chug Jug|سليرب جوس~Slurp Juice|تشاغ سبلاش~Chug Splash|قنبلة اندفاع~Impulse Grenade|قنبلة صدمة~Shockwave Grenade|بورت أ فورت~Port-a-Fort
+# games|game-characters|games
+10 بطلات مشهورات في الألعاب::لارا كروفت~Lara Croft|ساموس آران~Samus Aran|الأميرة بيتش~Princess Peach~Peach|الأميرة زيلدا|ألوي~Aloy|جيل فالنتاين~Jill Valentine|تشون لي~Chun-Li|بايونيتا~Bayonetta|آيدا وونغ~Ada Wong|إيلي~Ellie Williams~Ellie
+10 خصوم مشهورين في الألعاب::باوزر|دكتور إيغمان~Doctor Eggman~Eggman|غانوندورف|سيفيروث~Sephiroth|فاس~Vaas Montenegro~Vaas|هانسوم جاك~Handsome Jack|ألبرت ويسكر~Albert Wesker~Wesker|بيراميد هيد~Pyramid Head|غلادوس~GLaDOS|فلاديمير ماكاروف~Vladimir Makarov~Makarov
+# games|game-stores|games
+10 متاجر ومنصات لتحميل الألعاب::ستيم~Steam|إيبك غيمز ستور~Epic Games Store|بلايستيشن ستور~PlayStation Store|إكس بوكس ستور~Xbox Store|نينتندو إي شوب~Nintendo eShop|جي أو جي~GOG|باتل نت~Battle.net|يوبيسوفت كونكت~Ubisoft Connect|إي إيه آب~EA app|آب ستور~App Store
+# cartoons|toy-story-characters|pixar
+10 شخصيات من توي ستوري::وودي~Woody|باز يطير~Buzz Lightyear~باز لايتيير^Buzz|جيسي~Jessie|مستر بوتيتو هيد~Mr Potato Head|سلينكي~Slinky Dog~Slinky|ريكس~Rex|هام~Hamm|بو بيب~Bo Peep|بولز آي~Bullseye|لوتسو~Lotso
+# cartoons|cars-characters|pixar
+10 شخصيات من فيلم سيارات::برق بنزين~Lightning McQueen~لايتنينغ مكوين^McQueen|ماتر~Mater|سالي~Sally Carrera~Sally|دوك هدسون~Doc Hudson|لويجي سيارات~Luigi Cars|غويدو~Guido|تشيك هيكس~Chick Hicks|الشريف~Sheriff Cars|فلو~Flo|فيلمور~Fillmore
+# cartoons|nemo-characters|pixar
+10 شخصيات من نيمو ودوري::نيمو~Nemo|مارلن~Marlin|دوري~Dory|غيل~Gill|بلوت~Bloat|بيتش نجمة البحر~Peach Finding Nemo|غرغل~Gurgle|ديب~Deb|بابلز~Bubbles Finding Nemo|نايجل~Nigel Finding Nemo
+# cartoons|lion-king-characters|disney
+10 شخصيات من الأسد الملك::سيمبا~Simba|موفاسا~Mufasa|سكار~Scar|نالا~Nala|تيمون~Timon|بومبا~Pumbaa|رفيقي~Rafiki|زازو~Zazu|سارابي~Sarabi|شنزي~Shenzi
+# cartoons|shrek-characters|dreamworks
+10 شخصيات من شريك::شريك~Shrek|فيونا~Princess Fiona~Fiona|الحمار~Donkey|القط ذو الحذاء~Puss in Boots|لورد فاركواد~Lord Farquaad|التنينة~Dragon Shrek|رجل الزنجبيل~Gingerbread Man~Gingy|بينوكيو~Pinocchio Shrek|الجنية العرابة~Fairy Godmother Shrek|الأمير تشارمنغ~Prince Charming Shrek
+# cartoons|kung-fu-panda-characters|dreamworks
+10 شخصيات من كونغ فو باندا::بو الباندا~Po Kung Fu Panda~Po|تايغرس~Tigress|القرد~Monkey Kung Fu Panda|مانتس~Mantis Kung Fu Panda|فايبر~Viper Kung Fu Panda|كراين~Crane Kung Fu Panda|شيفو~Shifu|أوغواي~Oogway|تاي لونغ~Tai Lung|شن~Lord Shen~Shen
+# cartoons|madagascar-characters|dreamworks
+10 شخصيات من مدغشقر::أليكس~Alex Madagascar|مارتي~Marty Madagascar|ميلمان~Melman|غلوريا~Gloria Madagascar|الملك جوليان~King Julien|موريس~Maurice Madagascar|مورت~Mort|سكيبر~Skipper|كوالسكي~Kowalski|ريكو~Rico
+# cartoons|ice-age-characters|cartoons
+10 شخصيات من العصر الجليدي::ماني~Manny Ice Age|سيد~Sid Ice Age|دييغو~Diego Ice Age|سكرات~Scrat|إيلي~Ellie Ice Age|كراش~Crash Ice Age|إيدي~Eddie Ice Age|باك~Buck Ice Age|بيتشز~Peaches Ice Age|شيرا~Shira
+# cartoons|simpsons-characters|cartoons
+10 شخصيات من عائلة سيمبسون::هومر~Homer Simpson|مارج~Marge Simpson|بارت~Bart Simpson|ليزا~Lisa Simpson|ماغي~Maggie Simpson|نيد فلاندرز~Ned Flanders|مستر بيرنز~Mr Burns|ميلهاوس~Milhouse|كراستي~Krusty the Clown|مو~Moe Szyslak~Moe
+# cartoons|gumball-characters|cartoons
+10 شخصيات من عالم غامبول::غامبول~Gumball Watterson~Gumball|داروين~Darwin Watterson~Darwin|أناييس~Anais Watterson~Anais|نيكول~Nicole Watterson~Nicole|ريتشارد~Richard Watterson~Richard|بيني~Penny Fitzgerald~Penny|كاري~Carrie Krueger~Carrie|توبياس~Tobias Wilson~Tobias|بانانا جو~Banana Joe|مس سيميان~Miss Simian
+# cartoons|adventure-time-characters|cartoons
+10 شخصيات من وقت المغامرة::فين~Finn the Human~Finn|جيك~Jake the Dog~Jake|الأميرة بابلغام~Princess Bubblegum|مارسلين~Marceline|ملك الجليد~Ice King|بيمو~BMO|أميرة اللهب~Flame Princess|أميرة الفضاء اللامع~Lumpy Space Princess~LSP|ليمونغراب~Lemongrab|خادم النعناع~Peppermint Butler
+# cartoons|regular-show-characters|cartoons
+10 شخصيات من العرض العادي::مورديكاي~Mordecai|ريغبي~Rigby|بينسون~Benson|بوبس~Pops Regular Show|سكيبس~Skips|ماسل مان~Muscle Man|هاي فايف غوست~High Five Ghost|مارغريت~Margaret Regular Show|آيلين~Eileen Regular Show|توماس~Thomas Regular Show
+# cartoons|ben10-aliens|cartoons
+10 تحولات بن تن الأصلية::هيتبلاست~Heatblast|وايلدمت~Wildmutt|دايموندهيد~Diamondhead|إكس إل آر 8~XLR8|غري ماتر~Grey Matter|فور آرمز~Four Arms|ستينكفلاي~Stinkfly|ريبجوز~Ripjaws|أبغريد~Upgrade|غوستفريك~Ghostfreak
+# cartoons|ben10-characters|cartoons
+10 شخصيات من بن تن::بن تينيسون~Ben Tennyson~Ben 10|غوين~Gwen Tennyson~Gwen|الجد ماكس~Max Tennyson~Grandpa Max|كيفن~Kevin Levin~Kevin|فيلغاكس~Vilgax|أزمث~Azmuth|ألبيدو~Albedo Ben 10|روك~Rook Blonko~Rook|تشارمكاستر~Charmcaster|هيكس~Hex
+# cartoons|tmnt-characters|cartoons
+10 شخصيات من سلاحف النينجا::ليوناردو~Leonardo TMNT~Leonardo|رافاييل~Raphael TMNT~Raphael|دوناتيلو~Donatello TMNT~Donatello|مايكل أنجلو~Michelangelo TMNT~Michelangelo|سبلينتر~Splinter|إبريل أونيل~April O Neil|كيسي جونز~Casey Jones|شريدر~Shredder|بيبوب~Bebop|روكستيدي~Rocksteady
+# cartoons|disney-characters|disney
+10 شخصيات ديزني الكلاسيكية::ميكي ماوس~Mickey Mouse~Mickey|ميني ماوس~Minnie Mouse~Minnie|بطوط~Donald Duck~دونالد|ديزي~Daisy Duck|غوفي~Goofy|بلوتو~Pluto Disney|دهب~Scrooge McDuck~عم دهب|تشيب~Chip Disney|ديل~Dale Disney|بيت~Pete Disney
+10 أشرار مشهورين من ديزني::ماليفسنت~Maleficent|أورسولا~Ursula|جعفر~Jafar|سكار|كرويلا~Cruella de Vil|كابتن هوك~Captain Hook|هاديس~Hades Disney|غاستون~Gaston|الملكة الشريرة~Evil Queen|دكتور فاسيلييه~Dr Facilier
+# cartoons|batman-characters|dc
+10 شخصيات من عالم باتمان::باتمان~Batman|روبين~Robin DC|ألفريد~Alfred Pennyworth~Alfred|المفوض غوردون~James Gordon~Commissioner Gordon|بات غيرل~Batgirl|نايت وينغ~Nightwing|لوسيوس فوكس~Lucius Fox|كات وومن~Catwoman|بات وومن~Batwoman|ريد هود~Red Hood
+10 أعداء باتمان المشهورين::الجوكر~Joker|هارلي كوين~Harley Quinn|البطريق~Penguin DC|ريدلر~Riddler|ذو الوجهين~Two-Face|بين~Bane DC|سكيركرو~Scarecrow DC|بويزن آيفي~Poison Ivy|مستر فريز~Mr Freeze|رأس الغول~Ra s al Ghul
+# cartoons|spiderman-characters|marvel
+10 شخصيات من عالم سبايدرمان::بيتر باركر~Peter Parker|مايلز موراليس~Miles Morales|ماري جين~Mary Jane Watson~Mary Jane|غوين ستايسي~Gwen Stacy|العمة ماي~Aunt May|العم بن~Uncle Ben|جونا جيمسون~J Jonah Jameson|فينوم~Venom|غرين غوبلن~Green Goblin|دكتور أوكتوبس~Doctor Octopus~Doc Ock
+# cartoons|naruto-characters|naruto
+10 نينجا من قرية كونوها::ناروتو~Naruto Uzumaki~Naruto|ساسكي~Sasuke Uchiha~Sasuke|ساكورا~Sakura Haruno~Sakura|كاكاشي~Kakashi Hatake~Kakashi|شيكامارو~Shikamaru Nara~Shikamaru|تشوجي~Choji Akimichi~Choji|إينو~Ino Yamanaka~Ino|روك لي~Rock Lee|نيجي~Neji Hyuga~Neji|كيبا~Kiba Inuzuka~Kiba
+10 شخصيات من أكاتسكي::إيتاتشي~Itachi Uchiha~Itachi|كيسامي~Kisame Hoshigaki~Kisame|باين~Pain Naruto~Pain|كونان أكاتسكي~Konan|ديدارا~Deidara|ساسوري~Sasori|هيدان~Hidan|كاكوزو~Kakuzu|زيتسو~Zetsu|توبي~Tobi Naruto~Tobi
+# cartoons|one-piece-characters|onepiece
+10 خصوم مشهورين في ون بيس::باغي~Buggy|كروكودايل~Crocodile One Piece|إينيل~Enel|روب لوتشي~Rob Lucci|موریا~Gecko Moria~Moria|دوفلامنغو~Donquixote Doflamingo~Doflamingo|كايدو~Kaido|بيغ مام~Big Mom|بلاكبيرد~Marshall D Teach~Blackbeard|أكاينو~Sakazuki~Akainu
+# cartoons|dragon-ball-characters|dragonball
+10 خصوم مشهورين في دراغون بول::فريزا~Frieza|سيل~Cell Dragon Ball|ماجين بو~Majin Buu|برولي~Broly|بيروس~Beerus|غوكو بلاك~Goku Black|زاماسو~Zamasu|راديتز~Raditz|نابا~Nappa|كابتن غينيو~Captain Ginyu
+# cartoons|pokemon-types|pokemon
+10 أنواع في عالم بوكيمون::نار~Fire type~Fire|ماء~Water type~Water|عشب~Grass type~Grass|كهرباء~Electric type~Electric|ثلج~Ice type~Ice|نفسي~Psychic type~Psychic|تنين~Dragon type~Dragon|شبح~Ghost type~Ghost|صخر~Rock type~Rock|قتال~Fighting type~Fighting
+# screen|films|pixar
+10 أفلام تكمل عوالم بيكسار::توي ستوري 2~Toy Story 2|توي ستوري 3~Toy Story 3|توي ستوري 4~Toy Story 4|سيارات 2~Cars 2|سيارات 3~Cars 3|البحث عن دوري~Finding Dory|جامعة المرعبين~Monsters University|الخارقون 2~Incredibles 2|قلبا وقالبا 2~Inside Out 2|لايتيير~Lightyear
+# screen|films|dreamworks
+10 أفلام أنيميشن من دريم ووركس::شريك~Shrek|كونغ فو باندا~Kung Fu Panda|مدغشقر~Madagascar|كيف تروض تنينك~How to Train Your Dragon|ميغاماند~Megamind|آل كروودز~The Croods|ترولز~Trolls|الطفل الزعيم~The Boss Baby|فوق السياج~Over the Hedge|بي موفي~Bee Movie
+# screen|films|disney
+10 أفلام ديزني فيها حيوانات::الأسد الملك~The Lion King|زوتوبيا~Zootopia|بامبي~Bambi|دامبو~Dumbo|النبيلة والشارد~Lady and the Tramp|101 مرقش~One Hundred and One Dalmatians~101 Dalmatians|القطط الأرستقراطية~The Aristocats|كتاب الأدغال~The Jungle Book|روبن هود~Robin Hood Disney|الثعلب والكلب~The Fox and the Hound
+# screen|films|anime
+10 أفلام أنمي مشهورة::المخطوفة~Spirited Away|جاري توتورو~My Neighbor Totoro|قلعة هاول المتحركة~Howl s Moving Castle|الأميرة مونونوكي~Princess Mononoke|كيكي لخدمة التوصيل~Kiki s Delivery Service|بونيو~Ponyo|اسمك~Your Name|الطقس معك~Weathering with You|صوت صامت~A Silent Voice|أكيرا~Akira
+# screen|films|marvel
+10 أفلام أبطال خارقين::آيرون مان~Iron Man|المنتقمون~The Avengers|فارس الظلام~The Dark Knight|بلاك بانثر~Black Panther|ووندر وومان~Wonder Woman|رجل من حديد~Man of Steel|سبايدرمان إنتو ذا سبايدر فيرس~Spider-Man Into the Spider-Verse|دكتور سترينج~Doctor Strange|كابتن أمريكا المنتقم الأول~Captain America The First Avenger|حراس المجرة~Guardians of the Galaxy
+# screen|actors|screen
+10 نجوم مشهورين في أفلام الأكشن::توم كروز~Tom Cruise|دوين جونسون~Dwayne Johnson~The Rock|جيسون ستاثام~Jason Statham|أرنولد شوارزنيغر~Arnold Schwarzenegger|سيلفستر ستالون~Sylvester Stallone|بروس ويليس~Bruce Willis|جاكي شان~Jackie Chan|جيت لي~Jet Li|كيانو ريفز~Keanu Reeves|فين ديزل~Vin Diesel
+10 نجوم كوميديا عالميين::جيم كاري~Jim Carrey|روان أتكينسون~Rowan Atkinson~Mr Bean|آدم ساندلر~Adam Sandler|إيدي ميرفي~Eddie Murphy|بن ستيلر~Ben Stiller|ويل فيريل~Will Ferrell|كيفن هارت~Kevin Hart|ستيف كاريل~Steve Carell|جاك بلاك~Jack Black|روبن ويليامز~Robin Williams
+10 نجمات أفلام عالميات::سكارليت جوهانسون~Scarlett Johansson|أنجلينا جولي~Angelina Jolie|جينيفر أنيستون~Jennifer Aniston|إيما واتسون~Emma Watson|جينيفر لورانس~Jennifer Lawrence|مارغو روبي~Margot Robbie|ناتالي بورتمان~Natalie Portman|آن هاثاواي~Anne Hathaway|جوليا روبرتس~Julia Roberts|ساندرا بولوك~Sandra Bullock
+# screen|films|arab-screen
+10 أفلام لأحمد حلمي::زكي شان~Zaki Chan|مطب صناعي~Matab Senaey|كده رضا~Keda Reda|عسل أسود~Asal Eswed~Molasses|بلبل حيران~Bolbol Hayran|ألف مبروك~1000 Mabrouk|إكس لارج~X Large|لف ودوران~Laf Wa Dawaran|صنع في مصر~Made in Egypt|واحد تاني~Wahed Tany
+10 أفلام لعادل إمام::الإرهاب والكباب~Terrorism and Kebab|النمر والأنثى~The Tiger and the Female|المنسي~Al Mansi|الأفوكاتو~Al Avocato|سلام يا صاحبي~Salam Ya Sahbi|حنفي الأبهة~Hanafy Al Obaha|شمس الزناتي~Shams Al Zanaty|بخيت وعديلة~Bakhit and Adila|النوم في العسل~Sleeping in Honey|أمير الظلام~Prince of Darkness 2002
+10 أفلام شارك فيها محمد هنيدي::صعيدي في الجامعة الأمريكية~Saidi in the American University|همام في أمستردام~Hammam in Amsterdam|جاءنا البيان التالي~Gaana El Bayan El Taly|يا أنا يا خالتي~Ya Ana Ya Khalti|وش إجرام~Wesh Egram|عندليب الدقي~Andaleeb El Dokki|رمضان مبروك أبو العلمين حمودة~Ramadan Mabrouk Abul Alamein Hamouda|أمير البحار~Amir El Behar|فول الصين العظيم~Foul El Seen El Azeem|مرعي البريمو~Merai El Breemo
+# screen|television|arab-screen
+10 مسلسلات كوميدية مصرية::الكبير أوي~Al Kabeer Awy|راجل وست ستات~Ragel We Set Setat|الواد سيد الشحات~El Wad Sayed El Shahat|نيللي وشريهان~Nelly and Sherihan|في اللالا لاند~Fi El La La Land|عزمي وأشجان~Azmi and Ashgan|اللعبة~El Le3ba|لهفة~Lahfa|في بيتنا روبوت~Fi Baytina Robot|سوبر ميرو~Super Miro
+# screen|arab-tv-programs|arab-screen
+10 برامج عربية للمواهب والمسابقات::آراب آيدول~Arab Idol|آرابز غوت تالنت~Arabs Got Talent|ذا فويس~The Voice Ahla Sawt|ذا فويس كيدز~The Voice Kids Arabia|ستار أكاديمي~Star Academy Arab World|سوبر ستار~Super Star Arabic TV series|إكس فاكتور~The X Factor Arabia|توب شيف~Top Chef Middle East|بروجكت رانواي~Project Runway Middle East|فاشن ستار~Fashion Star Arabia
+# screen|streaming-services|screen
+10 منصات لمشاهدة الأفلام والمسلسلات::نتفليكس~Netflix|ديزني بلس~Disney Plus~Disney+|شاهد~Shahid|أو إس إن بلس~OSN Plus~OSN+|برايم فيديو~Prime Video|أبل تي في بلس~Apple TV Plus~Apple TV+|إتش بي أو ماكس~HBO Max~Max|يوتيوب~YouTube|واتش إت~Watch It|ستارزبلاي~STARZPLAY
+# screen|actors|arab-screen
+10 نجوم أكشن وكوميديا مصريين::عادل إمام~Adel Emam|أحمد حلمي~Ahmed Helmy|محمد هنيدي~Mohamed Henedy|محمد سعد~Mohamed Saad|أحمد عز~Ahmed Ezz|أحمد السقا~Ahmed El Sakka|كريم عبد العزيز~Karim Abdel Aziz|أحمد مكي~Ahmed Mekky|محمد رمضان~Mohamed Ramadan|أمير كرارة~Amir Karara
+# screen|kids-channels|arab-screen
+10 قنوات معروفة للأطفال::إم بي سي 3~MBC3|سبيستون~Spacetoon|كرتون نتورك بالعربية~Cartoon Network Arabic|نيكلوديون العربية~Nickelodeon Arabia|ماجد~Majid TV|جيم~Jeem TV|براعم~Baraem|طيور الجنة~Toyor Al Janah|كراميش~Karameesh|وناسة~Wanasah TV
+# screen|television|screen
+10 مسلسلات كوميدية أجنبية::فريندز~Friends|ذا أوفيس~The Office US|بروكلين ناين ناين~Brooklyn Nine-Nine|هاو آي ميت يور ماذر~How I Met Your Mother|ذا بيغ بانغ ثيوري~The Big Bang Theory|مودرن فاميلي~Modern Family|ساينفلد~Seinfeld|تو أند أ هاف مين~Two and a Half Men|يونغ شيلدون~Young Sheldon|فول هاوس~Full House
+10 مسلسلات جريمة وتشويق مشهورة::بريكينغ باد~Breaking Bad|بيتر كول سول~Better Call Saul|بريزن بريك~Prison Break|شيرلوك~Sherlock|ديكستر~Dexter|لاكاسا دي بابيل~Money Heist|ناركوس~Narcos|بيكي بلايندرز~Peaky Blinders|ترو ديتكتيف~True Detective|لوبان~Lupin
+10 مسلسلات خيال ومغامرات::غيم أوف ثرونز~Game of Thrones|هاوس أوف ذا دراغون~House of the Dragon|سترينجر ثينغز~Stranger Things|ذا ويتشر~The Witcher|وينزداي~Wednesday|سوبرناتشورال~Supernatural|ذا فامباير دايريز~The Vampire Diaries|ذا أوريجينالز~The Originals|ذا لاست أوف أس~The Last of Us TV series|ذا رينغز أوف باور~The Lord of the Rings The Rings of Power
+10 مسلسلات كرتون من ديزني::حكايات بطوطية~DuckTales|تيمون وبومبا~Timon and Pumbaa|كيم بوسيبل~Kim Possible|فينياس وفيرب~Phineas and Ferb|غرافيتي فولز~Gravity Falls|الفسحة~Recess|ليلو وستيتش~Lilo and Stitch The Series|التنين الأمريكي جيك لونغ~American Dragon Jake Long|ستار ضد قوى الشر~Star vs the Forces of Evil|بيت البومة~The Owl House
+# sport|football-positions|football
+10 مراكز وأدوار في كرة القدم::حارس مرمى~Goalkeeper|قلب دفاع~Centre-back~Center back|ظهير~Full-back~Fullback|ظهير جناح~Wing-back|وسط دفاعي~Defensive midfielder~محور|وسط مركزي~Central midfielder|صانع ألعاب~Attacking midfielder|جناح~Winger|رأس حربة~Striker|مهاجم ثانٍ~Second striker
+# sport|sports-equipment|football
+10 أشياء نستخدمها في كرة القدم::كرة قدم~Football ball~Soccer ball|مرمى~Goal|شبكة~Goal net|حذاء كرة~Football boots~Cleats|واقي ساق~Shin guards|قفاز حارس~Goalkeeper gloves|قميص فريق~Football jersey|شورت~Shorts|جوارب|راية ركنية~Corner flag
+# sport|clubs|football
+10 أندية إنجليزية مشهورة::مانشستر يونايتد~Manchester United|مانشستر سيتي~Manchester City|ليفربول~Liverpool FC|أرسنال~Arsenal|تشيلسي~Chelsea FC|توتنهام~Tottenham Hotspur|إيفرتون~Everton|نيوكاسل~Newcastle United|أستون فيلا~Aston Villa|ليستر سيتي~Leicester City
+10 أندية إسبانية مشهورة::ريال مدريد~Real Madrid|برشلونة~Barcelona|أتلتيكو مدريد~Atletico Madrid|إشبيلية~Sevilla FC|فالنسيا~Valencia CF|فياريال~Villarreal|ريال بيتيس~Real Betis|أتلتيك بلباو~Athletic Bilbao|ريال سوسيداد~Real Sociedad|إسبانيول~Espanyol
+10 أندية إيطالية مشهورة::يوفنتوس~Juventus|إنتر ميلان~Inter Milan|إيه سي ميلان~AC Milan|روما~AS Roma|لاتسيو~Lazio|نابولي~Napoli|أتالانتا~Atalanta|فيورنتينا~Fiorentina|تورينو~Torino|بولونيا~Bologna FC
+10 أندية ألمانية مشهورة::بايرن ميونخ~Bayern Munich|بوروسيا دورتموند~Borussia Dortmund|باير ليفركوزن~Bayer Leverkusen|لايبزيغ~RB Leipzig|آينتراخت فرانكفورت~Eintracht Frankfurt|شتوتغارت~VfB Stuttgart|فيردر بريمن~Werder Bremen|بوروسيا مونشنغلادباخ~Borussia Monchengladbach|فولفسبورغ~Wolfsburg|هوفنهايم~Hoffenheim
+10 أندية فرنسية مشهورة::باريس سان جيرمان~Paris Saint-Germain|مارسيليا~Olympique Marseille|ليون~Olympique Lyonnais|موناكو~AS Monaco|ليل~Lille OSC|نيس~OGC Nice|رين~Stade Rennais|لانس~RC Lens|نانت~FC Nantes|بوردو~Girondins de Bordeaux
+10 أندية عربية خارج السعودية::الأهلي المصري~Al Ahly|الزمالك~Zamalek|السد~Al Sadd|العين~Al Ain FC|الرجاء~Raja Casablanca|الوداد~Wydad Casablanca|الترجي~Esperance de Tunis|الإفريقي~Club Africain|النجم الساحلي~Etoile du Sahel|الدحيل~Al Duhail
+# sport|athletes|football
+10 لاعبين برازيليين مشهورين::بيليه~Pele|رونالدينيو~Ronaldinho|رونالدو البرازيلي~Ronaldo Nazario~Ronaldo Brazil|نيمار~Neymar|كاكا~Kaka|ريفالدو~Rivaldo|روبرتو كارلوس~Roberto Carlos|كافو~Cafu|مارسيلو~Marcelo Vieira~Marcelo|فينيسيوس~Vinicius Junior
+10 لاعبين أرجنتينيين مشهورين::ليونيل ميسي~Lionel Messi|مارادونا~Diego Maradona|باتيستوتا~Gabriel Batistuta|دي ماريا~Angel Di Maria|أغويرو~Sergio Aguero|تيفيز~Carlos Tevez|ريكيلمي~Juan Roman Riquelme|ماسكيرانو~Javier Mascherano|ديبالا~Paulo Dybala|لاوتارو مارتينيز~Lautaro Martinez
+10 لاعبين برتغاليين مشهورين::كريستيانو رونالدو~Cristiano Ronaldo|لويس فيغو~Luis Figo|روي كوستا~Rui Costa|ديكو~Deco|بيبي~Pepe|ريكاردو كارفاليو~Ricardo Carvalho|برناردو سيلفا~Bernardo Silva|برونو فيرنانديز~Bruno Fernandes|جواو فيليكس~Joao Felix|روبن دياز~Ruben Dias
+10 لاعبين فرنسيين مشهورين::زين الدين زيدان~Zinedine Zidane|تييري هنري~Thierry Henry|كيليان مبابي~Kylian Mbappe|أنطوان غريزمان~Antoine Griezmann|كريم بنزيما~Karim Benzema|فرانك ريبيري~Franck Ribery|نغولو كانتي~N Golo Kante|بول بوغبا~Paul Pogba|باتريك فييرا~Patrick Vieira|ديدييه ديشان~Didier Deschamps
+10 لاعبين إسبان مشهورين::تشافي~Xavi Hernandez~Xavi|إنييستا~Andres Iniesta|سيرخيو راموس~Sergio Ramos|كارليس بويول~Carles Puyol|إيكر كاسياس~Iker Casillas|دافيد فيا~David Villa|فرناندو توريس~Fernando Torres|تشابي ألونسو~Xabi Alonso|بوسكيتس~Sergio Busquets|فابريغاس~Cesc Fabregas
+10 لاعبين ألمان مشهورين::بيكنباور~Franz Beckenbauer|غيرد مولر~Gerd Muller|ميروسلاف كلوزه~Miroslav Klose|فيليب لام~Philipp Lahm|شفاينشتايغر~Bastian Schweinsteiger|توني كروس~Toni Kroos|مسعود أوزيل~Mesut Ozil|مانويل نوير~Manuel Neuer|توماس مولر~Thomas Muller|مايكل بالاك~Michael Ballack
+10 لاعبين مصريين مشهورين::محمد صلاح~Mohamed Salah|تريزيغيه~Mahmoud Trezeguet|محمد النني~Mohamed Elneny|زيزو~Ahmed Sayed Zizo|شيكابالا~Shikabala|محمد أبو تريكة~Mohamed Aboutrika|أحمد حسن~Ahmed Hassan|عصام الحضري~Essam El Hadary|حسام حسن~Hossam Hassan|حسام غالي~Hossam Ghaly
+10 حراس مرمى مشهورين::بوفون~Gianluigi Buffon|إيكر كاسياس|مانويل نوير|بيتر تشيك~Petr Cech|فان دير سار~Edwin van der Sar|بيتر شمايكل~Peter Schmeichel|كورتوا~Thibaut Courtois|أليسون~Alisson Becker|إيدرسون~Ederson|دوناروما~Gianluigi Donnarumma
+# sport|football-managers|football
+10 مدربين مشهورين في كرة القدم::بيب غوارديولا~Pep Guardiola|جوزيه مورينيو~Jose Mourinho|كارلو أنشيلوتي~Carlo Ancelotti|أليكس فيرغسون~Alex Ferguson|أرسين فينغر~Arsene Wenger|يورغن كلوب~Jurgen Klopp|زين الدين زيدان|أنطونيو كونتي~Antonio Conte|دييغو سيميوني~Diego Simeone|توماس توخيل~Thomas Tuchel
+# sport|sports|sports
+10 رياضات تُلعب بالكرة::كرة القدم~Football~Soccer|كرة السلة~Basketball|كرة الطائرة~Volleyball|التنس~Tennis|تنس الطاولة~Table tennis~Ping pong|كرة اليد~Handball|رغبي~Rugby|كريكيت~Cricket|بيسبول~Baseball|غولف~Golf
+10 رياضات قتالية معروفة::ملاكمة~Boxing|كاراتيه~Karate|جودو~Judo|تايكوندو~Taekwondo|مصارعة~Wrestling|كونغ فو~Kung fu|مواي تاي~Muay Thai|كيك بوكسينغ~Kickboxing|جوجيتسو~Jiu-jitsu|مبارزة~Fencing
+10 رياضات وأنشطة مائية::سباحة~Swimming|كرة الماء~Water polo|غطس~Diving|ركوب الأمواج~Surfing|تجديف~Rowing|كانوي~Canoeing|كاياك~Kayaking|إبحار شراعي~Sailing|ركوب أمواج شراعي~Windsurfing|كايت سيرف~Kitesurfing
+# sport|sports-equipment|sports
+10 أشياء في النادي الرياضي::سير جري~Treadmill|دمبل~Dumbbell|بار أثقال~Barbell|بنش~Weight bench|حبل نط~Jump rope|دراجة ثابتة~Exercise bike|عقلة~Pull-up bar|حصيرة تمرين~Exercise mat|حبل مقاومة~Resistance band|كيتل بيل~Kettlebell
+# sport|athletes|sports
+10 نجوم مشهورين في كرة السلة::مايكل جوردان~Michael Jordan|ليبرون جيمس~LeBron James|كوبي براينت~Kobe Bryant|ستيفن كوري~Stephen Curry|شاكيل أونيل~Shaquille O Neal|كيفن دورانت~Kevin Durant|يانيس أنتيتوكونمبو~Giannis Antetokounmpo|لوكا دونتشيتش~Luka Doncic|نيكولا يوكيتش~Nikola Jokic|جيمس هاردن~James Harden
+10 نجوم معروفين خارج كرة القدم::يوسين بولت~Usain Bolt|مايكل فيلبس~Michael Phelps|روجر فيدرر~Roger Federer|رافاييل نادال~Rafael Nadal|نوفاك ديوكوفيتش~Novak Djokovic|لويس هاميلتون~Lewis Hamilton|مايكل شوماخر~Michael Schumacher|سيرينا ويليامز~Serena Williams|محمد علي~Muhammad Ali|مايك تايسون~Mike Tyson
+# sport|wwe-wrestlers|sports
+10 أسماء مشهورة في المصارعة الحرة::جون سينا~John Cena|أندرتيكر~The Undertaker|رومان رينز~Roman Reigns|ذا روك~The Rock|ستون كولد~Stone Cold Steve Austin|راندي أورتن~Randy Orton|تريبل إتش~Triple H|بروك ليسنر~Brock Lesnar|ري ميستيريو~Rey Mysterio|سيث رولينز~Seth Rollins
+# sport|football-competitions|football
+10 بطولات ودوريات كروية::كأس العالم~FIFA World Cup|دوري أبطال أوروبا~UEFA Champions League|الدوري الأوروبي~UEFA Europa League|الدوري الإنجليزي~Premier League|الدوري الإسباني~La Liga|الدوري الإيطالي~Serie A|الدوري الألماني~Bundesliga|الدوري الفرنسي~Ligue 1|دوري أبطال آسيا~AFC Champions League|الدوري السعودي~Saudi Pro League

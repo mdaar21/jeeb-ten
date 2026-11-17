@@ -1,0 +1,103 @@
+# daily|objects|vocabulary
+10 أشياء في غرفة المعيشة::كنبة~Sofa~أريكة|تلفزيون~Television~تلفاز^TV|طاولة~Table|سجادة~Carpet~بساط|ستارة~Curtain|مكيف~Air conditioner~تكييف^AC|مصباح~Lamp~لمبة|مخدة~Cushion~وسادة|ساعة حائط~Wall clock|رف~Shelf
+10 أشياء في غرفة النوم::سرير~Bed|مرتبة~Mattress~فرشة|بطانية~Blanket~لحاف|مخدة|دولاب~Wardrobe~خزانة|تسريحة~Dressing table|مرآة~Mirror~مراية|كومود~Bedside table~كومودينة|منبه~Alarm clock|علاقة ملابس~Clothes hanger~شماعة
+10 أشياء في الحمام::مغسلة~Washbasin~حوض غسيل|دش~Shower~شاور|بانيو~Bathtub~حوض استحمام|مرحاض~Toilet~كرسي حمام|منشفة~Towel~فوطة|صابون~Soap|شامبو~Shampoo|فرشاة أسنان~Toothbrush|معجون أسنان~Toothpaste|مرآة
+10 أدوات ناكل بها::ملعقة~Spoon|شوكة~Fork|سكين~Knife|صحن~Plate~طبق|زبديّة~Bowl~زبدية|كوب~Cup|كأس~Glass|شفاط~Drinking straw~مصاص|عيدان أكل~Chopsticks|مناديل~Napkin~منديل
+10 أدوات للطبخ::قدر~Cooking pot|مقلاة~Frying pan~طاسة|صينية~Baking tray|مصفاة~Colander|مغرفة~Ladle|ملعقة خشب~Wooden spoon|خفاقة~Whisk~مضرب بيض|مبشرة~Grater|لوح تقطيع~Cutting board|مقشرة~Peeler
+10 أجهزة كهربائية في البيت::ثلاجة~Refrigerator~براد^Fridge|غسالة~Washing machine|فرن~Oven|ميكرويف~Microwave|خلاط~Blender|غلاية~Electric kettle|مكنسة كهربائية~Vacuum cleaner|مكواة~Iron|مروحة~Fan|محمصة~Toaster~توستر
+10 أشياء نلبسها::قميص~Shirt|بنطال~Trousers~بنطلون^Pants|تيشيرت~T-shirt~تي شيرت|جاكيت~Jacket|فستان~Dress|تنورة~Skirt|كنزة~Sweater~بلوفر|معطف~Coat|بدلة~Suit|بيجامة~Pajamas~بجامة^Pyjamas
+10 إكسسوارات للملابس::ساعة يد~Wristwatch~Watch|حزام~Belt|قبعة~Hat|نظارة شمسية~Sunglasses|وشاح~Scarf~شال|قفازات~Gloves~قفاز|ربطة عنق~Tie~كرفتة|سلسلة~Necklace~قلادة|خاتم~Ring|حقيبة يد~Handbag~شنطة يد
+10 أشياء في الشنطة المدرسية::كتاب~Book|دفتر~Notebook|قلم رصاص~Pencil|قلم حبر~Pen|ممحاة~Eraser~مساحة^Rubber|براية~Pencil sharpener~مبراة|مسطرة~Ruler|مقلمة~Pencil case|قارورة ماء~Water bottle~مطارة|علبة طعام~Lunch box~لانش بوكس
+10 أشياء في الفصل::سبورة~Whiteboard~لوح|طاولة مدرسية~School desk~ديسك|كرسي~Chair|طباشير~Chalk|قلم سبورة~Whiteboard marker|ممسحة سبورة~Board eraser|بروجكتر~Projector~جهاز عرض|خريطة~Map|كرة أرضية~Globe|جرس~Bell
+10 مواد دراسية معروفة::رياضيات~Mathematics~حساب^Math^Maths|لغة عربية~Arabic language~عربي^Arabic|لغة إنجليزية~English language~إنجليزي^English|علوم~Science|تاريخ~History|جغرافيا~Geography|أحياء~Biology|فيزياء~Physics|كيمياء~Chemistry|تربية بدنية~Physical education~رياضة^PE
+10 أشياء على المكتب::حاسوب~Computer~كمبيوتر|لوحة مفاتيح~Keyboard~كيبورد|فأرة~Computer mouse~ماوس^Mouse|شاشة~Monitor~شاشة كمبيوتر|طابعة~Printer|دباسة~Stapler|مشبك ورق~Paper clip|آلة حاسبة~Calculator|ملفات~File folder~ملف|ورق~Paper
+10 قطع أثاث معروفة::كرسي|طاولة|كنبة|سرير|دولاب|مكتب~Desk|رف|خزانة أحذية~Shoe cabinet|كرسي هزاز~Rocking chair|طاولة طعام~Dining table
+10 أشياء للتنظيف::مكنسة~Broom|ممسحة~Mop|دلو~Bucket~سطل|إسفنجة~Sponge|منظف~Detergent|قفازات|كيس زبالة~Garbage bag~كيس نفايات|جاروف~Dustpan|فرشاة تنظيف~Scrubbing brush|فوطة تنظيف~Cleaning cloth
+10 أدوات في صندوق العدة::مطرقة~Hammer~شاكوش|مفك~Screwdriver|كماشة~Pliers~زرادية|مفتاح ربط~Wrench~مفتاح إنجليزي^Spanner|منشار~Saw|دريل~Drill~مثقاب|شريط قياس~Measuring tape~متر|ميزان ماء~Spirit level|مسمار~Nail|برغي~Screw
+10 أشياء ناخذها للبحر::منشفة|نظارة شمسية|واقي شمس~Sunscreen|ملابس سباحة~Swimsuit~مايوه|عوامة~Swim ring~طوق سباحة|مظلة شاطئ~Beach umbrella|شبشب~Flip-flops|دلو|مجرفة رمل~Sand shovel|كرسي شاطئ~Beach chair
+10 أشياء ناخذها للتخييم::خيمة~Tent|كيس نوم~Sleeping bag|كشاف~Flashlight~مصباح يدوي^Torch|حطب~Firewood|فحم~Charcoal|موقد~Camping stove|بوصلة~Compass|حبل~Rope|ولاعة~Lighter|حقيبة ظهر~Backpack
+10 أشياء في السيارة::مقود~Steering wheel~دركسون|مقعد~Car seat|حزام أمان~Seat belt|مرآة جانبية~Side mirror|زجاج أمامي~Windshield|إطار~Tire~كفر^Tyre|مساحات~Windscreen wipers|بوق~Car horn~بوري|فرامل~Brakes~مكابح|دعسة بنزين~Accelerator~دواسة البنزين
+10 وسائل نقل برية::سيارة~Car|حافلة~Bus~باص|دراجة~Bicycle~سيكل|دراجة نارية~Motorcycle~دباب|قطار~Train|مترو~Metro~Subway|ترام~Tram|شاحنة~Truck|سيارة أجرة~Taxi~تاكسي|عربة~Cart
+10 وسائل نقل في البحر والجو::طائرة~Airplane~طيارة^Plane|مروحية~Helicopter~هليكوبتر|منطاد~Hot air balloon|طائرة شراعية~Glider|سفينة~Ship|قارب~Boat|يخت~Yacht|غواصة~Submarine|عبّارة~Ferry|زورق سريع~Speedboat
+10 أشياء في الحديقة::شجرة~Tree|وردة~Rose|عشب~Grass|سياج~Fence|أرجوحة~Swing|زحليقة~Slide|مقعد حديقة~Park bench|نافورة~Fountain|أصيص~Flowerpot~مركن|خرطوم~Garden hose~لي ماء
+10 أشياء في المطار::طائرة|مدرج~Runway|جواز سفر~Passport|بطاقة صعود~Boarding pass|حقيبة سفر~Suitcase|بوابة~Airport gate|برج مراقبة~Control tower|سير أمتعة~Baggage carousel|عربة أمتعة~Luggage trolley|جهاز تفتيش~Security scanner
+10 أشياء في السوبرماركت::عربة تسوق~Shopping cart|سلة~Basket|كاشير~Cash register~صندوق محاسبة|رف|ثلاجة|ميزان~Weighing scale|باركود~Barcode|فاتورة~Receipt|كيس تسوق~Shopping bag|صندوق~Cardboard box~كرتون
+10 أشياء في المطعم::قائمة طعام~Menu~منيو|طاولة طعام|كرسي|صحن|كوب|ملعقة|شوكة|سكين|مناديل|فاتورة
+10 أدوات الحلاقة والعناية::مشط~Comb|فرشاة شعر~Hairbrush|مقص~Scissors|ماكينة حلاقة~Hair clipper|شفرة~Razor|مجفف شعر~Hair dryer~استشوار|كريم~Cream|عطر~Perfume|مقص أظافر~Nail clipper|مزيل عرق~Deodorant
+10 أشياء في الصيدلية::دواء~Medicine|لاصق جروح~Adhesive bandage~بلاستر|قطن~Cotton wool|شاش~Gauze|كحول طبي~Rubbing alcohol|ميزان حرارة~Thermometer|كمامة~Face mask|فيتامينات~Vitamins|قطرة عين~Eye drops|محلول ملحي~Saline solution
+10 أشياء في المستشفى::سرير مستشفى~Hospital bed|سماعة طبيب~Stethoscope|جهاز أشعة~X-ray machine|كرسي متحرك~Wheelchair|نقالة~Stretcher|إبرة~Syringe|ضمادة~Bandage|جهاز ضغط~Blood pressure monitor|خزان أكسجين~Oxygen cylinder|سيارة إسعاف~Ambulance
+10 وظائف معروفة::طبيب~Doctor|معلم~Teacher|مهندس~Engineer|شرطي~Police officer|طباخ~Chef~Cook|طيار~Pilot|ممرض~Nurse|محاسب~Accountant|نجار~Carpenter|حلاق~Barber
+10 وظائف تشوفها في المدينة::سائق~Driver|بائع~Salesperson~بائع متجر|سباك~Plumber|كهربائي~Electrician|ميكانيكي~Mechanic|إطفائي~Firefighter|حارس أمن~Security guard|ساعي بريد~Postman~Mail carrier|خباز~Baker|عامل نظافة~Cleaner
+10 أشياء في الحفلات::بالونات~Balloons|كعكة~Cake~كيكة|شموع~Candles|هدايا~Gifts|زينة~Decorations|قبعة حفلة~Party hat|مكبر صوت~Speaker|ميكروفون~Microphone|كاميرا~Camera|أضواء~Party lights
+10 ألعاب وأدوات للطفولة::دمية~Doll|دبدوب~Teddy bear|كرة~Ball|مكعبات~Building blocks|سيارة لعبة~Toy car|قطار لعبة~Toy train|طائرة ورقية~Kite|فقاعات صابون~Soap bubbles|يويو~Yo-yo|صلصال~Modeling clay
+10 ألعاب طاولة وأوراق::شطرنج~Chess|دومينو~Dominoes|مونوبولي~Monopoly|أونو~Uno|سكرابل~Scrabble|جينغا~Jenga|سلم وثعبان~Snakes and ladders|لودو~Ludo|بلوت~Baloot|بنك الحظ~The Game of Fortune
+10 ألعاب جماعية في المدرسة::استغماية~Hide-and-seek~غميضة|لعبة الكراسي~Musical chairs|شد الحبل~Tug of war|نط الحبل~Jump rope|الحجلة~Hopscotch|عسكر وحرامية~Cops and robbers|سباق الأكياس~Sack race|لعبة المطاردة~Tag|حجر ورقة مقص~Rock paper scissors|بينج بونج~Table tennis~تنس طاولة^Ping pong
+10 أشياء نستخدمها في الشتاء::معطف|قفازات|وشاح|بطانية|قبعة صوف~Beanie|مدفأة~Heater|حذاء طويل~Boots|مظلة~Umbrella~شمسية|جوارب~Socks|كنزة
+10 أشياء نستخدمها في الصيف::مروحة|مكيف|نظارة شمسية|واقي شمس|قبعة|شبشب|ملابس سباحة|قارورة ماء|تيشيرت~T-shirt|حقيبة تبريد~Cooler bag
+10 أدوات الرسم::قلم رصاص|ألوان خشبية~Colored pencils|ألوان مائية~Watercolors|ألوان شمعية~Crayons|فرشاة رسم~Paintbrush|لوحة رسم~Canvas|باليتة~Palette|كراسة رسم~Sketchbook|فحم رسم~Drawing charcoal|قلم تحديد~Marker
+10 أشكال هندسية بسيطة::دائرة~Circle|مربع~Square|مثلث~Triangle|مستطيل~Rectangle|بيضاوي~Oval|معين~Rhombus~Diamond|خماسي~Pentagon|سداسي~Hexagon|مكعب~Cube|أسطوانة~Cylinder
+10 ألوان أساسية ومشهورة::أحمر~Red|أزرق~Blue|أخضر~Green|أصفر~Yellow|أسود~Black|أبيض~White|برتقالي~Orange|بنفسجي~Purple|وردي~Pink|بني~Brown
+10 أجهزة نستخدمها للترفيه::تلفزيون|بلايستيشن~PlayStation|إكس بوكس~Xbox|نينتندو سويتش~Nintendo Switch|كمبيوتر|جوال~Mobile phone~هاتف^Phone|تابلت~Tablet|راديو~Radio|سماعات~Headphones|جهاز عرض~Projector
+10 أشياء تحتاجها للقيمنق::يد تحكم~Game controller~كنترولر|كيبورد~Gaming keyboard|ماوس~Gaming mouse|شاشة كمبيوتر|سماعة قيمنق~Gaming headset|كرسي قيمنق~Gaming chair|ماوس باد~Mouse pad|مايك~Gaming microphone|كابل HDMI~HDMI cable|ويب كام~Webcam
+10 أماكن في الحي::مدرسة~School|مسجد~Mosque|بقالة~Grocery store|صيدلية~Pharmacy|حديقة~Park|مطعم~Restaurant|مخبز~Bakery|مغسلة ملابس~Laundry|محطة بنزين~Gas station~Petrol station|حلاق~Barbershop
+10 أماكن تزورها في الإجازة::شاطئ~Beach|متحف~Museum|حديقة حيوانات~Zoo|مدينة ملاهٍ~Amusement park|سينما~Cinema|مول~Shopping mall|شلال~Waterfall|جبل~Mountain|قلعة~Castle|بحيرة~Lake
+10 أشياء لها عجلات::سيارة|حافلة|شاحنة|دراجة|دراجة نارية|عربة تسوق|كرسي متحرك|عربة طفل~Baby stroller|سكوتر~Scooter|لوح تزلج~Skateboard
+10 أشياء نفتحها بمفتاح أو رمز::باب~Door|قفل~Lock|سيارة|خزنة~Safe|حقيبة سفر|جوال|كمبيوتر|درج~Drawer|بوابة~Gate|صندوق بريد~Mailbox
+10 أشياء نكتب عليها::ورق|دفتر|سبورة|لوح طباشير~Chalkboard|بطاقة~Card|ظرف~Envelope|ملصق~Sticker|مذكرة~Notepad|لوح إلكتروني~Drawing tablet|تقويم~Calendar
+10 أشياء في المطبخ غير الأجهزة::ملح~Salt|سكر~Sugar|دقيق~Flour|زيت~Cooking oil|بهارات~Spices|وعاء~Mixing bowl|علبة حفظ~Food container|ورق ألمنيوم~Aluminum foil|ورق زبدة~Baking paper|فتاحة علب~Can opener
+10 أشياء في حقيبة السفر::ملابس~Clothes|جواز سفر|شاحن~Charger|حذاء~Shoes|منشفة|فرشاة أسنان|معجون أسنان|مشط|نظارة شمسية|عطر
+10 أدوات وقطع للخياطة::إبرة خياطة~Sewing needle|خيط~Thread|مقص|زر~Button|سحاب~Zipper|قماش~Fabric|شريط قياس|دبوس~Pin|كشتبان~Thimble|ماكينة خياطة~Sewing machine
+10 أشياء نستخدمها للتصوير::كاميرا|عدسة~Camera lens|حامل ثلاثي~Tripod|فلاش~Camera flash|ميكروفون|بطارية~Battery|بطاقة ذاكرة~Memory card|فلتر عدسة~Lens filter|عاكس إضاءة~Reflector|حقيبة كاميرا~Camera bag
+10 أشياء في غرفة الغسيل::غسالة|نشافة~Clothes dryer|مكواة|طاولة كي~Ironing board|سلة غسيل~Laundry basket|مسحوق غسيل~Laundry detergent|منعم ملابس~Fabric softener|مشبك غسيل~Clothes peg|حبل غسيل~Clothesline|علاقة ملابس
+# food|ingredients|food
+10 بهارات في أغلب المطابخ::فلفل أسود~Black pepper|كمون~Cumin|كركم~Turmeric|قرفة~Cinnamon|هيل~Cardamom~حبهان|قرنفل~Cloves|زنجبيل~Ginger|بابريكا~Paprika|كزبرة جافة~Coriander seeds|زعفران~Saffron
+10 أعشاب نضيفها للأكل::نعناع~Mint|بقدونس~Parsley|كزبرة~Cilantro~Coriander leaves|ريحان~Basil|زعتر~Thyme|إكليل الجبل~Rosemary|شبت~Dill|أوريغانو~Oregano|ورق غار~Bay leaves|ميرمية~Sage
+10 أنواع مكسرات وتسالي::لوز~Almond|فستق~Pistachio|كاجو~Cashew|جوز~Walnut~عين جمل|بندق~Hazelnut|فول سوداني~Peanut|بذور دوار الشمس~Sunflower seeds~حب شمسي|بذور قرع~Pumpkin seeds|ذرة محمصة~Roasted corn|فشار~Popcorn
+10 بقول وحبوب في المطبخ::عدس~Lentil|حمص~Chickpea|فول~Fava bean|فاصوليا~Kidney bean|لوبيا~Black-eyed pea|بازلاء~Pea|قمح~Wheat|شعير~Barley|شوفان~Oat|ذرة~Maize~Corn
+10 مكونات للسلطة::خس~Lettuce|خيار~Cucumber|طماطم~Tomato|بصل~Onion|جزر~Carrot|فلفل رومي~Bell pepper|ذرة|زيتون~Olive|جرجير~Arugula~Rocket|ملفوف~Cabbage
+10 إضافات على البيتزا::جبن موزاريلا~Mozzarella|بيبروني~Pepperoni|دجاج~Chicken|مشروم~Mushroom~فطر|زيتون|فلفل رومي|بصل|طماطم|سجق~Sausage|ريحان
+10 إضافات للسندويشات::خس|طماطم|جبن شيدر~Cheddar|مخلل~Pickle|مايونيز~Mayonnaise|كاتشب~Ketchup|خردل~Mustard|شطة~Hot sauce|بصل|خيار
+10 أشياء نفطر بها::بيض~Egg|جبن~Cheese|فول|حمص|فلافل~Falafel|لبنة~Labneh|زبادي~Yogurt~روب|توست~Toast|بان كيك~Pancake|كورنفليكس~Corn flakes
+10 أطعمة فيها بطاطس::بطاطس مقلية~French fries~فرايز|بطاطس مهروسة~Mashed potatoes|بطاطس مشوية~Baked potato|شيبس~Potato chips|هاش براون~Hash browns|سلطة بطاطس~Potato salad|غراتان بطاطس~Potato gratin|كروكيت~Croquette|ودجز~Potato wedges|بطاطس حارة~Batata harra
+10 طرق مشهورة لطبخ البيض::بيض مسلوق~Boiled egg|بيض مقلي~Fried egg|أومليت~Omelette|بيض مخفوق~Scrambled eggs|شكشوكة~Shakshuka|بيض بندكت~Eggs Benedict|بيض مسلوق دون قشر~Poached egg|بيض بالجبن~Cheese omelette|بيض تركي~Cilbir|فرنش توست~French toast
+10 أنواع خبز مشهورة::خبز عربي~Pita|توست|خبز تميس~Tamees|خبز نان~Naan|باغيت~Baguette|خبز برغر~Hamburger bun|خبز صامولي~Samoli|خبز تورتيلا~Tortilla|خبز شباتي~Chapati|خبز بريوش~Brioche
+10 معجنات ومخبوزات::كرواسون~Croissant|دونات~Doughnut~Donut|مافن~Muffin|كعكة|بسكويت~Biscuit~Cookies|سينابون~Cinnamon roll|فطيرة تفاح~Apple pie|وافل~Waffle|بريتزل~Pretzel|دانش~Danish pastry
+10 سندويشات مشهورة::برغر~Hamburger~Burger|شاورما~Shawarma|هوت دوغ~Hot dog|فاهيتا~Fajita|كلوب ساندويش~Club sandwich|سندويش تونة~Tuna sandwich|سندويش جبن~Cheese sandwich|سندويش فلافل~Falafel sandwich|فيلادلفيا~Philly cheesesteak|سندويش دجاج~Chicken sandwich
+10 شوربات مشهورة::شوربة عدس~Lentil soup|شوربة دجاج~Chicken soup|شوربة مشروم~Mushroom soup|شوربة طماطم~Tomato soup|شوربة خضار~Vegetable soup|شوربة بصل~French onion soup|شوربة ذرة~Corn soup|حريرة~Harira|شوربة ميسو~Miso soup|شوربة سي فود~Seafood soup
+10 صلصات مشهورة::كاتشب|مايونيز|خردل|باربكيو~Barbecue sauce~BBQ sauce|رانش~Ranch dressing|صويا صوص~Soy sauce|صلصة طماطم~Tomato sauce|طحينة~Tahini|تشيلي صوص~Sweet chili sauce|بيستو~Pesto
+10 مكونات للحلويات::سكر|دقيق|بيض|حليب~Milk|زبدة~Butter|كاكاو~Cocoa powder|فانيلا~Vanilla|شوكولاتة~Chocolate|كريمة~Cream|بيكنج باودر~Baking powder
+10 إضافات للآيس كريم::شوكولاتة|كراميل~Caramel|فراولة~Strawberry|مكسرات~Mixed nuts|قطع بسكويت~Cookie pieces|كريمة مخفوقة~Whipped cream|مارشميلو~Marshmallow|رشات سكر~Sprinkles|وافل|موز~Banana
+10 حلويات باردة مشهورة::آيس كريم~Ice cream|تشيز كيك~Cheesecake|مهلبية~Muhallebi|كريم كراميل~Creme caramel|جيلي~Jelly|بودينغ~Pudding|تيراميسو~Tiramisu|موس شوكولاتة~Chocolate mousse|بانّا كوتّا~Panna cotta|سلطة فواكه~Fruit salad
+10 حلويات مخبوزة مشهورة::براوني~Brownie|كوكيز~Chocolate chip cookie|كب كيك~Cupcake|تشيز كيك مخبوز~Baked cheesecake|فطيرة تفاح|بسبوسة~Basbousa|معمول~Maamoul|بقلاوة~Baklava|كنافة~Kunafa|كعك~Kaak
+10 أنواع جبن مشهورة::جبن شيدر|جبن موزاريلا|بارميزان~Parmesan|فيتا~Feta|حلوم~Halloumi|قشقوان~Kashkaval|جبن كريمي~Cream cheese|ريكوتا~Ricotta|غودا~Gouda|بري~Brie
+10 فواكه نستخدمها للعصير::برتقال~Orange fruit~Orange|مانجو~Mango|تفاح~Apple|أناناس~Pineapple|رمان~Pomegranate|جوافة~Guava|بطيخ~Watermelon|فراولة|ليمون~Lemon|عنب~Grape
+10 فواكه مجففة ومكسرات حلوة::تمر~Date fruit~Dates|زبيب~Raisin|مشمش مجفف~Dried apricot|تين مجفف~Dried fig|قراصيا~Prune|توت مجفف~Dried berries|جوز هند~Coconut|لوز محلى~Candied almond|فستق مكرمل~Caramelized pistachio|بندق بالشوكولاتة~Chocolate hazelnut
+10 خضار نطبخها في البيت::بطاطس~Potato|كوسا~Zucchini~Courgette|باذنجان~Eggplant~Aubergine|بامية~Okra|قرنبيط~Cauliflower|بروكلي~Broccoli|سبانخ~Spinach|فاصوليا خضراء~Green bean|بازلاء|يقطين~Pumpkin
+10 أكلات من الأرز::كبسة~Kabsa|مندي~Mandi|برياني~Biryani|مقلوبة~Maqluba|محشي~Mahshi|ريزوتو~Risotto|باييّا~Paella|سوشي~Sushi|أرز مقلي~Fried rice|أرز بالحليب~Rice pudding
+10 أكلات دجاج مشهورة::دجاج مقلي~Fried chicken|دجاج مشوي~Grilled chicken|دجاج تندوري~Tandoori chicken|دجاج بالزبدة~Butter chicken|دجاج كاري~Chicken curry|شيش طاووق~Shish tawook|ناجتس~Chicken nuggets|أجنحة دجاج~Chicken wings|دجاج بارميزان~Chicken Parmesan|دجاج ترياكي~Teriyaki chicken
+10 مأكولات بحرية معروفة::سمك مقلي~Fried fish|سمك مشوي~Grilled fish|روبيان~Shrimp~جمبري|حبار~Squid~كاليماري|سلطعون~Crab|جراد بحر~Lobster|محار~Oyster|بلح البحر~Mussel|تونة~Tuna|سلمون~Salmon
+10 قطع وأشكال باستا::سباغيتي~Spaghetti|بيني~Penne|فيتوتشيني~Fettuccine|فوسيلي~Fusilli|لازانيا~Lasagna|رافيولي~Ravioli|تورتيليني~Tortellini|فارفيلي~Farfalle|مكرونة أكواع~Elbow macaroni|نيوكي~Gnocchi
+10 نكهات نشوفها في الحلويات::فانيلا|شوكولاتة|فراولة|كراميل|ليمون|قهوة~Coffee|فستق|جوز هند|قرفة|بندق
+10 مشروبات على مائدة الفطور::شاي~Tea|قهوة|حليب|عصير برتقال~Orange juice|كرك~Karak tea|شاي بحليب~Milk tea|كاكاو ساخن~Hot chocolate|إسبريسو~Espresso|لاتيه~Latte|ماء~Water
+10 مشروبات باردة منعشة::عصير ليمون~Lemon juice|ليمون بالنعناع~Mint lemonade|شاي مثلج~Iced tea|قهوة مثلجة~Iced coffee|سموثي~Smoothie|ميلك شيك~Milkshake|عصير مانجو~Mango juice|ماء غازي~Sparkling water|موهيتو بدون كحول~Virgin mojito|لبن~Laban~Buttermilk
+10 أكلات تؤكل بالخبز::فول|حمص|شكشوكة|فلافل|كبدة~Liver dish|تونة|لبنة|متبل~Mutabbal|بابا غنوج~Baba ghanoush|جبن
+10 أكلات على السفرة السعودية::جريش~Jareesh|قرصان~Qursan|مرقوق~Marqooq|مطازيز~Matazeez|حنيني~Hanini|عريكة~Areekah|معصوب~Masoub|سليق~Saleeg|حنيذ~Haneeth|مفطح~Mufattah
+10 أكلات للعزايم::كبسة|مندي|مفطح|برياني|مقلوبة|مشاوي~Mixed grill|ورق عنب~Stuffed grape leaves~دولمة|دجاج مشوي|كبة~Kibbeh|مسخن~Musakhan
+10 أطعمة نشتريها مثلجة::آيس كريم|خضار مشكلة~Mixed vegetables|بطاطس مقلية|ناجتس|روبيان|سمك فيليه~Fish fillet|بازلاء|توت~Berries|بيتزا~Pizza|عجينة بف باستري~Puff pastry
+10 أشياء في قسم المخبوزات::خبز عربي|باغيت|توست|كرواسون|دونات|مافن|كب كيك|بسكويت|خبز برغر|خبز بريوش
+# nature|animals|animals
+10 حيوانات تعيش في المزرعة::بقرة~Cow|غنم~Sheep|ماعز~Goat|حصان~Horse|حمار~Donkey|دجاجة~Hen|ديك~Rooster|بطة~Duck|إوزة~Goose|أرنب~Rabbit
+10 حيوانات قططية وكلبية::أسد~Lion|نمر~Tiger|فهد~Cheetah|نمر مرقط~Leopard|جاكوار~Jaguar|قط~Cat|كلب~Dog|ذئب~Wolf|ثعلب~Fox|وشق~Lynx
+10 حيوانات كبيرة معروفة::فيل~Elephant|زرافة~Giraffe|وحيد القرن~Rhinoceros~خرتيت|فرس النهر~Hippopotamus|دب~Bear|جاموس~Buffalo|ثور~Bull|جمل~Camel|غوريلا~Gorilla|حوت~Whale
+10 حيوانات صغيرة معروفة::فأر~Mouse|هامستر~Hamster|سنجاب~Squirrel|قنفذ~Hedgehog|أرنب|خفاش~Bat|ابن عرس~Weasel|قضاعة~Otter|سحلية~Lizard|ضفدع~Frog
+10 طيور معروفة::صقر~Falcon|نسر~Eagle|بومة~Owl|ببغاء~Parrot|حمامة~Pigeon|غراب~Crow|عصفور~Sparrow|طاووس~Peacock|نعامة~Ostrich|بطريق~Penguin
+10 حيوانات نراها في حدائق الحيوان::باندا~Giant panda~Panda|كوالا~Koala|كنغر~Kangaroo|حمار وحشي~Zebra|ليمور~Lemur|شمبانزي~Chimpanzee|أورانغوتان~Orangutan|دب قطبي~Polar bear|تمساح~Crocodile|فلامنغو~Flamingo
+10 حشرات معروفة::نملة~Ant|نحلة~Bee|ذبابة~Fly|بعوضة~Mosquito|فراشة~Butterfly|صرصور~Cockroach|جرادة~Grasshopper|دعسوقة~Ladybug|يعسوب~Dragonfly|نملة بيضاء~Termite
+10 حيوانات بحرية بدون أسماك::أخطبوط~Octopus|حبار|سلطعون|جراد بحر|محار|بلح البحر|قنديل بحر~Jellyfish|نجم بحر~Starfish|قنفذ بحر~Sea urchin|إسفنج بحري~Sea sponge
+10 أسماك مشهورة::قرش~Shark|سلمون|تونة|سردين~Sardine|سمكة مهرج~Clownfish|سمكة ذهبية~Goldfish|بلطي~Tilapia|سمكة أبو سيف~Swordfish|سمكة منشار~Sawfish|سمك القد~Cod
+10 زواحف وبرمائيات معروفة::ثعبان~Snake|كوبرا~Cobra|تمساح|قاطور~Alligator~أليغيتور|سلحفاة~Turtle|سلحفاة برية~Tortoise|سحلية|حرباء~Chameleon|ضفدع|سمندل~Salamander
+10 حيوانات تشتهر بالعيش في الصحراء::جمل|ثعلب فنك~Fennec fox|مها عربي~Arabian oryx|غزال~Gazelle|عقرب~Scorpion|ثعبان|ضب~Spiny-tailed lizard|جربوع~Jerboa|نعامة|صقر
+10 حيوانات تعيش في المناطق الباردة::دب قطبي|بطريق|فقمة~Seal|فظ~Walrus|ثعلب قطبي~Arctic fox|رنة~Reindeer|ذئب قطبي~Arctic wolf|أرنب قطبي~Arctic hare|بومة ثلجية~Snowy owl|حوت بيلوغا~Beluga whale
+10 حيوانات لها قرون أو أنياب::فيل|وحيد القرن|خنزير بري~Wild boar|فظ|ناروال~Narwhal|غزال|مها عربي|ماعز|ثور|جاموس
+10 حيوانات تعيش أو تصيد في الماء::دلفين~Dolphin|حوت|فقمة|فظ|قضاعة|قندس~Beaver|تمساح|فرس النهر|سلحفاة بحرية~Sea turtle|بطريق
+10 أنواع شائعة من الحيوانات الأليفة::قط|كلب|أرنب|هامستر|سمكة ذهبية|ببغاء|كناري~Canary|بادجي~Budgerigar~ببغاء الدرة|سلحفاة|خنزير غينيا~Guinea pig

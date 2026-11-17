@@ -1,0 +1,4356 @@
+[
+  {
+    "id": "country:FJ",
+    "type": "country",
+    "english": [
+      "Fiji",
+      "Fiji",
+      "Fiji",
+      "Fiji",
+      "Republic of Fiji",
+      "Fiji"
+    ],
+    "aliases": [
+      "فيجي",
+      "Fiji",
+      "Republic of Fiji",
+      "FJ",
+      "FJI"
+    ]
+  },
+  {
+    "id": "country:TZ",
+    "type": "country",
+    "english": [
+      "Tanzania",
+      "Tanzania",
+      "Tanzania",
+      "United Republic of Tanzania",
+      "United Republic of Tanzania",
+      "Tanzania"
+    ],
+    "aliases": [
+      "تنزانيا",
+      "Tanzania",
+      "United Republic of Tanzania",
+      "TZ",
+      "TZA"
+    ]
+  },
+  {
+    "id": "country:EH",
+    "type": "country",
+    "english": [
+      "Western Sahara",
+      "W. Sahara",
+      "Western Sahara",
+      "Western Sahara",
+      "Sahrawi Arab Democratic Republic",
+      "Western Sahara"
+    ],
+    "aliases": [
+      "الصحراء الغربية",
+      "Western Sahara",
+      "W. Sahara",
+      "Sahrawi Arab Democratic Republic",
+      "EH",
+      "ESH"
+    ]
+  },
+  {
+    "id": "country:CA",
+    "type": "country",
+    "english": [
+      "Canada",
+      "Canada",
+      "Canada",
+      "Canada",
+      "Canada",
+      "Canada"
+    ],
+    "aliases": [
+      "كندا",
+      "Canada",
+      "CA",
+      "CAN"
+    ]
+  },
+  {
+    "id": "country:US",
+    "type": "country",
+    "english": [
+      "United States of America",
+      "United States of America",
+      "United States",
+      "United States of America",
+      "United States of America",
+      "United States",
+      "USA",
+      "US",
+      "U.S.A.",
+      "United States of America",
+      "America"
+    ],
+    "aliases": [
+      "الولايات المتحدة",
+      "United States of America",
+      "United States",
+      "US",
+      "USA",
+      "أمريكا",
+      "امريكا",
+      "أميركا",
+      "الولايات المتحدة الأمريكية",
+      "U.S.A.",
+      "America"
+    ]
+  },
+  {
+    "id": "country:KZ",
+    "type": "country",
+    "english": [
+      "Kazakhstan",
+      "Kazakhstan",
+      "Kazakhstan",
+      "Kazakhstan",
+      "Republic of Kazakhstan",
+      "Kazakhstan"
+    ],
+    "aliases": [
+      "كازاخستان",
+      "Kazakhstan",
+      "Republic of Kazakhstan",
+      "KZ",
+      "KAZ"
+    ]
+  },
+  {
+    "id": "country:UZ",
+    "type": "country",
+    "english": [
+      "Uzbekistan",
+      "Uzbekistan",
+      "Uzbekistan",
+      "Uzbekistan",
+      "Republic of Uzbekistan",
+      "Uzbekistan"
+    ],
+    "aliases": [
+      "أوزبكستان",
+      "Uzbekistan",
+      "Republic of Uzbekistan",
+      "UZ",
+      "UZB"
+    ]
+  },
+  {
+    "id": "country:PG",
+    "type": "country",
+    "english": [
+      "Papua New Guinea",
+      "Papua New Guinea",
+      "Papua New Guinea",
+      "Papua New Guinea",
+      "Independent State of Papua New Guinea",
+      "Papua New Guinea"
+    ],
+    "aliases": [
+      "بابوا غينيا الجديدة",
+      "Papua New Guinea",
+      "Independent State of Papua New Guinea",
+      "PG",
+      "PNG"
+    ]
+  },
+  {
+    "id": "country:ID",
+    "type": "country",
+    "english": [
+      "Indonesia",
+      "Indonesia",
+      "Indonesia",
+      "Indonesia",
+      "Republic of Indonesia",
+      "Indonesia"
+    ],
+    "aliases": [
+      "إندونيسيا",
+      "Indonesia",
+      "Republic of Indonesia",
+      "ID",
+      "IDN"
+    ]
+  },
+  {
+    "id": "country:AR",
+    "type": "country",
+    "english": [
+      "Argentina",
+      "Argentina",
+      "Argentina",
+      "Argentina",
+      "Argentine Republic",
+      "Argentina"
+    ],
+    "aliases": [
+      "الأرجنتين",
+      "Argentina",
+      "Argentine Republic",
+      "AR",
+      "ARG"
+    ]
+  },
+  {
+    "id": "country:CL",
+    "type": "country",
+    "english": [
+      "Chile",
+      "Chile",
+      "Chile",
+      "Chile",
+      "Republic of Chile",
+      "Chile"
+    ],
+    "aliases": [
+      "تشيلي",
+      "Chile",
+      "Republic of Chile",
+      "CL",
+      "CHL"
+    ]
+  },
+  {
+    "id": "country:CD",
+    "type": "country",
+    "english": [
+      "Democratic Republic of the Congo",
+      "Dem. Rep. Congo",
+      "Democratic Republic of the Congo",
+      "Democratic Republic of the Congo",
+      "Democratic Republic of the Congo",
+      "Congo - Kinshasa"
+    ],
+    "aliases": [
+      "جمهورية الكونغو الديمقراطية",
+      "Democratic Republic of the Congo",
+      "Dem. Rep. Congo",
+      "الكونغو - كينشاسا",
+      "Congo - Kinshasa",
+      "CD",
+      "COD"
+    ]
+  },
+  {
+    "id": "country:SO",
+    "type": "country",
+    "english": [
+      "Somalia",
+      "Somalia",
+      "Somalia",
+      "Somalia",
+      "Federal Republic of Somalia",
+      "Somalia"
+    ],
+    "aliases": [
+      "الصومال",
+      "Somalia",
+      "Federal Republic of Somalia",
+      "SO",
+      "SOM"
+    ]
+  },
+  {
+    "id": "country:KE",
+    "type": "country",
+    "english": [
+      "Kenya",
+      "Kenya",
+      "Kenya",
+      "Kenya",
+      "Republic of Kenya",
+      "Kenya"
+    ],
+    "aliases": [
+      "كينيا",
+      "Kenya",
+      "Republic of Kenya",
+      "KE",
+      "KEN"
+    ]
+  },
+  {
+    "id": "country:SD",
+    "type": "country",
+    "english": [
+      "Sudan",
+      "Sudan",
+      "Sudan",
+      "Sudan",
+      "Republic of the Sudan",
+      "Sudan"
+    ],
+    "aliases": [
+      "السودان",
+      "Sudan",
+      "Republic of the Sudan",
+      "SD",
+      "SDN"
+    ]
+  },
+  {
+    "id": "country:TD",
+    "type": "country",
+    "english": [
+      "Chad",
+      "Chad",
+      "Chad",
+      "Chad",
+      "Republic of Chad",
+      "Chad"
+    ],
+    "aliases": [
+      "تشاد",
+      "Chad",
+      "Republic of Chad",
+      "TD",
+      "TCD"
+    ]
+  },
+  {
+    "id": "country:HT",
+    "type": "country",
+    "english": [
+      "Haiti",
+      "Haiti",
+      "Haiti",
+      "Haiti",
+      "Republic of Haiti",
+      "Haiti"
+    ],
+    "aliases": [
+      "هايتي",
+      "Haiti",
+      "Republic of Haiti",
+      "HT",
+      "HTI"
+    ]
+  },
+  {
+    "id": "country:DO",
+    "type": "country",
+    "english": [
+      "Dominican Republic",
+      "Dominican Rep.",
+      "Dominican Republic",
+      "Dominican Republic",
+      "Dominican Republic",
+      "Dominican Republic"
+    ],
+    "aliases": [
+      "جمهورية الدومينيكان",
+      "Dominican Republic",
+      "Dominican Rep.",
+      "DO",
+      "DOM"
+    ]
+  },
+  {
+    "id": "country:RU",
+    "type": "country",
+    "english": [
+      "Russia",
+      "Russia",
+      "Russian Federation",
+      "Russia",
+      "Russian Federation",
+      "Russia",
+      "Russian Federation",
+      "Russia"
+    ],
+    "aliases": [
+      "روسيا",
+      "Russia",
+      "Russian Federation",
+      "RU",
+      "RUS"
+    ]
+  },
+  {
+    "id": "country:BS",
+    "type": "country",
+    "english": [
+      "The Bahamas",
+      "Bahamas",
+      "Bahamas",
+      "The Bahamas",
+      "Commonwealth of the Bahamas",
+      "Bahamas"
+    ],
+    "aliases": [
+      "باهاماس",
+      "The Bahamas",
+      "Bahamas",
+      "Commonwealth of the Bahamas",
+      "جزر البهاما",
+      "BS",
+      "BHS"
+    ]
+  },
+  {
+    "id": "country:FK",
+    "type": "country",
+    "english": [
+      "Falkland Islands",
+      "Falkland Is.",
+      "Falkland Islands / Malvinas",
+      "Falkland Islands",
+      "Falkland Islands",
+      "Falkland Islands"
+    ],
+    "aliases": [
+      "جزر فوكلاند",
+      "Falkland Islands",
+      "Falkland Is.",
+      "Falkland Islands / Malvinas",
+      "FK",
+      "FLK"
+    ]
+  },
+  {
+    "id": "country:NO",
+    "type": "country",
+    "english": [
+      "Norway",
+      "Norway",
+      "Norway",
+      "Norway",
+      "Kingdom of Norway",
+      "Norway"
+    ],
+    "aliases": [
+      "النرويج",
+      "Norway",
+      "Kingdom of Norway",
+      "NO",
+      "NOR"
+    ]
+  },
+  {
+    "id": "country:GL",
+    "type": "country",
+    "english": [
+      "Greenland",
+      "Greenland",
+      "Greenland",
+      "Greenland",
+      "Greenland",
+      "Greenland"
+    ],
+    "aliases": [
+      "جرينلاند",
+      "Greenland",
+      "غرينلاند",
+      "GL",
+      "GRL"
+    ]
+  },
+  {
+    "id": "country:TF",
+    "type": "country",
+    "english": [
+      "French Southern and Antarctic Lands",
+      "Fr. S. Antarctic Lands",
+      "French Southern and Antarctic Lands",
+      "French Southern and Antarctic Lands",
+      "Territory of the French Southern and Antarctic Lands",
+      "French Southern Territories"
+    ],
+    "aliases": [
+      "أراض فرنسية جنوبية وأنتارتيكية",
+      "French Southern and Antarctic Lands",
+      "Fr. S. Antarctic Lands",
+      "Territory of the French Southern and Antarctic Lands",
+      "الأقاليم الجنوبية الفرنسية",
+      "French Southern Territories",
+      "TF",
+      "ATF"
+    ]
+  },
+  {
+    "id": "country:TL",
+    "type": "country",
+    "english": [
+      "East Timor",
+      "Timor-Leste",
+      "Timor-Leste",
+      "East Timor",
+      "Democratic Republic of Timor-Leste",
+      "Timor-Leste"
+    ],
+    "aliases": [
+      "تيمور الشرقية",
+      "East Timor",
+      "Timor-Leste",
+      "Democratic Republic of Timor-Leste",
+      "تيمور - ليشتي",
+      "TL",
+      "TLS"
+    ]
+  },
+  {
+    "id": "country:ZA",
+    "type": "country",
+    "english": [
+      "South Africa",
+      "South Africa",
+      "South Africa",
+      "South Africa",
+      "Republic of South Africa",
+      "South Africa",
+      "South Africa"
+    ],
+    "aliases": [
+      "جنوب أفريقيا",
+      "South Africa",
+      "Republic of South Africa",
+      "ZA",
+      "ZAF",
+      "جنوب افريقيا"
+    ]
+  },
+  {
+    "id": "country:LS",
+    "type": "country",
+    "english": [
+      "Lesotho",
+      "Lesotho",
+      "Lesotho",
+      "Lesotho",
+      "Kingdom of Lesotho",
+      "Lesotho"
+    ],
+    "aliases": [
+      "ليسوتو",
+      "Lesotho",
+      "Kingdom of Lesotho",
+      "LS",
+      "LSO"
+    ]
+  },
+  {
+    "id": "country:MX",
+    "type": "country",
+    "english": [
+      "Mexico",
+      "Mexico",
+      "Mexico",
+      "Mexico",
+      "United Mexican States",
+      "Mexico"
+    ],
+    "aliases": [
+      "المكسيك",
+      "Mexico",
+      "United Mexican States",
+      "MX",
+      "MEX"
+    ]
+  },
+  {
+    "id": "country:UY",
+    "type": "country",
+    "english": [
+      "Uruguay",
+      "Uruguay",
+      "Uruguay",
+      "Uruguay",
+      "Oriental Republic of Uruguay",
+      "Uruguay"
+    ],
+    "aliases": [
+      "الأوروغواي",
+      "Uruguay",
+      "Oriental Republic of Uruguay",
+      "أورغواي",
+      "UY",
+      "URY"
+    ]
+  },
+  {
+    "id": "country:BR",
+    "type": "country",
+    "english": [
+      "Brazil",
+      "Brazil",
+      "Brazil",
+      "Brazil",
+      "Federative Republic of Brazil",
+      "Brazil"
+    ],
+    "aliases": [
+      "البرازيل",
+      "Brazil",
+      "Federative Republic of Brazil",
+      "BR",
+      "BRA"
+    ]
+  },
+  {
+    "id": "country:BO",
+    "type": "country",
+    "english": [
+      "Bolivia",
+      "Bolivia",
+      "Bolivia",
+      "Bolivia",
+      "Plurinational State of Bolivia",
+      "Bolivia"
+    ],
+    "aliases": [
+      "بوليفيا",
+      "Bolivia",
+      "Plurinational State of Bolivia",
+      "BO",
+      "BOL"
+    ]
+  },
+  {
+    "id": "country:PE",
+    "type": "country",
+    "english": [
+      "Peru",
+      "Peru",
+      "Peru",
+      "Peru",
+      "Republic of Peru",
+      "Peru"
+    ],
+    "aliases": [
+      "بيرو",
+      "Peru",
+      "Republic of Peru",
+      "PE",
+      "PER"
+    ]
+  },
+  {
+    "id": "country:CO",
+    "type": "country",
+    "english": [
+      "Colombia",
+      "Colombia",
+      "Colombia",
+      "Colombia",
+      "Republic of Colombia",
+      "Colombia"
+    ],
+    "aliases": [
+      "كولومبيا",
+      "Colombia",
+      "Republic of Colombia",
+      "CO",
+      "COL"
+    ]
+  },
+  {
+    "id": "country:PA",
+    "type": "country",
+    "english": [
+      "Panama",
+      "Panama",
+      "Panama",
+      "Panama",
+      "Republic of Panama",
+      "Panama"
+    ],
+    "aliases": [
+      "بنما",
+      "Panama",
+      "Republic of Panama",
+      "PA",
+      "PAN"
+    ]
+  },
+  {
+    "id": "country:CR",
+    "type": "country",
+    "english": [
+      "Costa Rica",
+      "Costa Rica",
+      "Costa Rica",
+      "Costa Rica",
+      "Republic of Costa Rica",
+      "Costa Rica"
+    ],
+    "aliases": [
+      "كوستاريكا",
+      "Costa Rica",
+      "Republic of Costa Rica",
+      "CR",
+      "CRI"
+    ]
+  },
+  {
+    "id": "country:NI",
+    "type": "country",
+    "english": [
+      "Nicaragua",
+      "Nicaragua",
+      "Nicaragua",
+      "Nicaragua",
+      "Republic of Nicaragua",
+      "Nicaragua"
+    ],
+    "aliases": [
+      "نيكاراغوا",
+      "Nicaragua",
+      "Republic of Nicaragua",
+      "NI",
+      "NIC"
+    ]
+  },
+  {
+    "id": "country:HN",
+    "type": "country",
+    "english": [
+      "Honduras",
+      "Honduras",
+      "Honduras",
+      "Honduras",
+      "Republic of Honduras",
+      "Honduras"
+    ],
+    "aliases": [
+      "هندوراس",
+      "Honduras",
+      "Republic of Honduras",
+      "HN",
+      "HND"
+    ]
+  },
+  {
+    "id": "country:SV",
+    "type": "country",
+    "english": [
+      "El Salvador",
+      "El Salvador",
+      "El Salvador",
+      "El Salvador",
+      "Republic of El Salvador",
+      "El Salvador"
+    ],
+    "aliases": [
+      "السلفادور",
+      "El Salvador",
+      "Republic of El Salvador",
+      "SV",
+      "SLV"
+    ]
+  },
+  {
+    "id": "country:GT",
+    "type": "country",
+    "english": [
+      "Guatemala",
+      "Guatemala",
+      "Guatemala",
+      "Guatemala",
+      "Republic of Guatemala",
+      "Guatemala"
+    ],
+    "aliases": [
+      "غواتيمالا",
+      "Guatemala",
+      "Republic of Guatemala",
+      "GT",
+      "GTM"
+    ]
+  },
+  {
+    "id": "country:BZ",
+    "type": "country",
+    "english": [
+      "Belize",
+      "Belize",
+      "Belize",
+      "Belize",
+      "Belize",
+      "Belize"
+    ],
+    "aliases": [
+      "بليز",
+      "Belize",
+      "BZ",
+      "BLZ"
+    ]
+  },
+  {
+    "id": "country:VE",
+    "type": "country",
+    "english": [
+      "Venezuela",
+      "Venezuela",
+      "Venezuela",
+      "Venezuela",
+      "Bolivarian Republic of Venezuela",
+      "Venezuela"
+    ],
+    "aliases": [
+      "فنزويلا",
+      "Venezuela",
+      "Bolivarian Republic of Venezuela",
+      "VE",
+      "VEN"
+    ]
+  },
+  {
+    "id": "country:GY",
+    "type": "country",
+    "english": [
+      "Guyana",
+      "Guyana",
+      "Guyana",
+      "Guyana",
+      "Co-operative Republic of Guyana",
+      "Guyana"
+    ],
+    "aliases": [
+      "غيانا",
+      "Guyana",
+      "Co-operative Republic of Guyana",
+      "GY",
+      "GUY"
+    ]
+  },
+  {
+    "id": "country:SR",
+    "type": "country",
+    "english": [
+      "Suriname",
+      "Suriname",
+      "Suriname",
+      "Suriname",
+      "Republic of Suriname",
+      "Suriname"
+    ],
+    "aliases": [
+      "سورينام",
+      "Suriname",
+      "Republic of Suriname",
+      "SR",
+      "SUR"
+    ]
+  },
+  {
+    "id": "country:FR",
+    "type": "country",
+    "english": [
+      "France",
+      "France",
+      "France",
+      "France",
+      "French Republic",
+      "France"
+    ],
+    "aliases": [
+      "فرنسا",
+      "France",
+      "French Republic",
+      "FR",
+      "FRA"
+    ]
+  },
+  {
+    "id": "country:EC",
+    "type": "country",
+    "english": [
+      "Ecuador",
+      "Ecuador",
+      "Ecuador",
+      "Ecuador",
+      "Republic of Ecuador",
+      "Ecuador"
+    ],
+    "aliases": [
+      "الإكوادور",
+      "Ecuador",
+      "Republic of Ecuador",
+      "EC",
+      "ECU"
+    ]
+  },
+  {
+    "id": "country:PR",
+    "type": "country",
+    "english": [
+      "Puerto Rico",
+      "Puerto Rico",
+      "Puerto Rico",
+      "Puerto Rico",
+      "Commonwealth of Puerto Rico",
+      "Puerto Rico"
+    ],
+    "aliases": [
+      "بورتوريكو",
+      "Puerto Rico",
+      "Commonwealth of Puerto Rico",
+      "PR",
+      "PRI"
+    ]
+  },
+  {
+    "id": "country:JM",
+    "type": "country",
+    "english": [
+      "Jamaica",
+      "Jamaica",
+      "Jamaica",
+      "Jamaica",
+      "Jamaica",
+      "Jamaica"
+    ],
+    "aliases": [
+      "جامايكا",
+      "Jamaica",
+      "JM",
+      "JAM"
+    ]
+  },
+  {
+    "id": "country:CU",
+    "type": "country",
+    "english": [
+      "Cuba",
+      "Cuba",
+      "Cuba",
+      "Cuba",
+      "Republic of Cuba",
+      "Cuba"
+    ],
+    "aliases": [
+      "كوبا",
+      "Cuba",
+      "Republic of Cuba",
+      "CU",
+      "CUB"
+    ]
+  },
+  {
+    "id": "country:ZW",
+    "type": "country",
+    "english": [
+      "Zimbabwe",
+      "Zimbabwe",
+      "Zimbabwe",
+      "Zimbabwe",
+      "Republic of Zimbabwe",
+      "Zimbabwe"
+    ],
+    "aliases": [
+      "زيمبابوي",
+      "Zimbabwe",
+      "Republic of Zimbabwe",
+      "ZW",
+      "ZWE"
+    ]
+  },
+  {
+    "id": "country:BW",
+    "type": "country",
+    "english": [
+      "Botswana",
+      "Botswana",
+      "Botswana",
+      "Botswana",
+      "Republic of Botswana",
+      "Botswana"
+    ],
+    "aliases": [
+      "بوتسوانا",
+      "Botswana",
+      "Republic of Botswana",
+      "BW",
+      "BWA"
+    ]
+  },
+  {
+    "id": "country:NA",
+    "type": "country",
+    "english": [
+      "Namibia",
+      "Namibia",
+      "Namibia",
+      "Namibia",
+      "Republic of Namibia",
+      "Namibia"
+    ],
+    "aliases": [
+      "ناميبيا",
+      "Namibia",
+      "Republic of Namibia",
+      "NA",
+      "NAM"
+    ]
+  },
+  {
+    "id": "country:SN",
+    "type": "country",
+    "english": [
+      "Senegal",
+      "Senegal",
+      "Senegal",
+      "Senegal",
+      "Republic of Senegal",
+      "Senegal"
+    ],
+    "aliases": [
+      "السنغال",
+      "Senegal",
+      "Republic of Senegal",
+      "SN",
+      "SEN"
+    ]
+  },
+  {
+    "id": "country:ML",
+    "type": "country",
+    "english": [
+      "Mali",
+      "Mali",
+      "Mali",
+      "Mali",
+      "Republic of Mali",
+      "Mali"
+    ],
+    "aliases": [
+      "مالي",
+      "Mali",
+      "Republic of Mali",
+      "ML",
+      "MLI"
+    ]
+  },
+  {
+    "id": "country:MR",
+    "type": "country",
+    "english": [
+      "Mauritania",
+      "Mauritania",
+      "Mauritania",
+      "Mauritania",
+      "Islamic Republic of Mauritania",
+      "Mauritania"
+    ],
+    "aliases": [
+      "موريتانيا",
+      "Mauritania",
+      "Islamic Republic of Mauritania",
+      "MR",
+      "MRT"
+    ]
+  },
+  {
+    "id": "country:BJ",
+    "type": "country",
+    "english": [
+      "Benin",
+      "Benin",
+      "Benin",
+      "Benin",
+      "Republic of Benin",
+      "Benin"
+    ],
+    "aliases": [
+      "بنين",
+      "Benin",
+      "Republic of Benin",
+      "BJ",
+      "BEN"
+    ]
+  },
+  {
+    "id": "country:NE",
+    "type": "country",
+    "english": [
+      "Niger",
+      "Niger",
+      "Niger",
+      "Niger",
+      "Republic of Niger",
+      "Niger"
+    ],
+    "aliases": [
+      "النيجر",
+      "Niger",
+      "Republic of Niger",
+      "NE",
+      "NER"
+    ]
+  },
+  {
+    "id": "country:NG",
+    "type": "country",
+    "english": [
+      "Nigeria",
+      "Nigeria",
+      "Nigeria",
+      "Nigeria",
+      "Federal Republic of Nigeria",
+      "Nigeria"
+    ],
+    "aliases": [
+      "نيجيريا",
+      "Nigeria",
+      "Federal Republic of Nigeria",
+      "NG",
+      "NGA"
+    ]
+  },
+  {
+    "id": "country:CM",
+    "type": "country",
+    "english": [
+      "Cameroon",
+      "Cameroon",
+      "Cameroon",
+      "Cameroon",
+      "Republic of Cameroon",
+      "Cameroon"
+    ],
+    "aliases": [
+      "الكاميرون",
+      "Cameroon",
+      "Republic of Cameroon",
+      "CM",
+      "CMR"
+    ]
+  },
+  {
+    "id": "country:TG",
+    "type": "country",
+    "english": [
+      "Togo",
+      "Togo",
+      "Togo",
+      "Togo",
+      "Togolese Republic",
+      "Togo"
+    ],
+    "aliases": [
+      "توغو",
+      "Togo",
+      "Togolese Republic",
+      "TG",
+      "TGO"
+    ]
+  },
+  {
+    "id": "country:GH",
+    "type": "country",
+    "english": [
+      "Ghana",
+      "Ghana",
+      "Ghana",
+      "Ghana",
+      "Republic of Ghana",
+      "Ghana"
+    ],
+    "aliases": [
+      "غانا",
+      "Ghana",
+      "Republic of Ghana",
+      "GH",
+      "GHA"
+    ]
+  },
+  {
+    "id": "country:CI",
+    "type": "country",
+    "english": [
+      "Ivory Coast",
+      "Côte d'Ivoire",
+      "Côte d'Ivoire",
+      "Ivory Coast",
+      "Republic of Ivory Coast",
+      "Côte d’Ivoire",
+      "Ivory Coast",
+      "Cote d Ivoire"
+    ],
+    "aliases": [
+      "ساحل العاج",
+      "Ivory Coast",
+      "Côte d'Ivoire",
+      "Republic of Ivory Coast",
+      "Côte d’Ivoire",
+      "CI",
+      "CIV",
+      "Cote d Ivoire"
+    ]
+  },
+  {
+    "id": "country:GN",
+    "type": "country",
+    "english": [
+      "Guinea",
+      "Guinea",
+      "Guinea",
+      "Guinea",
+      "Republic of Guinea",
+      "Guinea"
+    ],
+    "aliases": [
+      "غينيا",
+      "Guinea",
+      "Republic of Guinea",
+      "GN",
+      "GIN"
+    ]
+  },
+  {
+    "id": "country:GW",
+    "type": "country",
+    "english": [
+      "Guinea-Bissau",
+      "Guinea-Bissau",
+      "Guinea-Bissau",
+      "Guinea-Bissau",
+      "Republic of Guinea-Bissau",
+      "Guinea-Bissau"
+    ],
+    "aliases": [
+      "غينيا بيساو",
+      "Guinea-Bissau",
+      "Republic of Guinea-Bissau",
+      "GW",
+      "GNB"
+    ]
+  },
+  {
+    "id": "country:LR",
+    "type": "country",
+    "english": [
+      "Liberia",
+      "Liberia",
+      "Liberia",
+      "Liberia",
+      "Republic of Liberia",
+      "Liberia"
+    ],
+    "aliases": [
+      "ليبيريا",
+      "Liberia",
+      "Republic of Liberia",
+      "LR",
+      "LBR"
+    ]
+  },
+  {
+    "id": "country:SL",
+    "type": "country",
+    "english": [
+      "Sierra Leone",
+      "Sierra Leone",
+      "Sierra Leone",
+      "Sierra Leone",
+      "Republic of Sierra Leone",
+      "Sierra Leone"
+    ],
+    "aliases": [
+      "سيراليون",
+      "Sierra Leone",
+      "Republic of Sierra Leone",
+      "SL",
+      "SLE"
+    ]
+  },
+  {
+    "id": "country:BF",
+    "type": "country",
+    "english": [
+      "Burkina Faso",
+      "Burkina Faso",
+      "Burkina Faso",
+      "Burkina Faso",
+      "Burkina Faso",
+      "Burkina Faso"
+    ],
+    "aliases": [
+      "بوركينا فاسو",
+      "Burkina Faso",
+      "BF",
+      "BFA"
+    ]
+  },
+  {
+    "id": "country:CF",
+    "type": "country",
+    "english": [
+      "Central African Republic",
+      "Central African Rep.",
+      "Central African Republic",
+      "Central African Republic",
+      "Central African Republic",
+      "Central African Republic"
+    ],
+    "aliases": [
+      "جمهورية أفريقيا الوسطى",
+      "Central African Republic",
+      "Central African Rep.",
+      "CF",
+      "CAF"
+    ]
+  },
+  {
+    "id": "country:CG",
+    "type": "country",
+    "english": [
+      "Republic of the Congo",
+      "Congo",
+      "Republic of the Congo",
+      "Republic of the Congo",
+      "Republic of the Congo",
+      "Congo - Brazzaville"
+    ],
+    "aliases": [
+      "جمهورية الكونغو",
+      "Republic of the Congo",
+      "Congo",
+      "الكونغو - برازافيل",
+      "Congo - Brazzaville",
+      "CG",
+      "COG"
+    ]
+  },
+  {
+    "id": "country:GA",
+    "type": "country",
+    "english": [
+      "Gabon",
+      "Gabon",
+      "Gabon",
+      "Gabon",
+      "Gabonese Republic",
+      "Gabon"
+    ],
+    "aliases": [
+      "الغابون",
+      "Gabon",
+      "Gabonese Republic",
+      "GA",
+      "GAB"
+    ]
+  },
+  {
+    "id": "country:GQ",
+    "type": "country",
+    "english": [
+      "Equatorial Guinea",
+      "Eq. Guinea",
+      "Equatorial Guinea",
+      "Equatorial Guinea",
+      "Republic of Equatorial Guinea",
+      "Equatorial Guinea"
+    ],
+    "aliases": [
+      "غينيا الاستوائية",
+      "Equatorial Guinea",
+      "Eq. Guinea",
+      "Republic of Equatorial Guinea",
+      "GQ",
+      "GNQ"
+    ]
+  },
+  {
+    "id": "country:ZM",
+    "type": "country",
+    "english": [
+      "Zambia",
+      "Zambia",
+      "Zambia",
+      "Zambia",
+      "Republic of Zambia",
+      "Zambia"
+    ],
+    "aliases": [
+      "زامبيا",
+      "Zambia",
+      "Republic of Zambia",
+      "ZM",
+      "ZMB"
+    ]
+  },
+  {
+    "id": "country:MW",
+    "type": "country",
+    "english": [
+      "Malawi",
+      "Malawi",
+      "Malawi",
+      "Malawi",
+      "Republic of Malawi",
+      "Malawi"
+    ],
+    "aliases": [
+      "مالاوي",
+      "Malawi",
+      "Republic of Malawi",
+      "ملاوي",
+      "MW",
+      "MWI"
+    ]
+  },
+  {
+    "id": "country:MZ",
+    "type": "country",
+    "english": [
+      "Mozambique",
+      "Mozambique",
+      "Mozambique",
+      "Mozambique",
+      "Republic of Mozambique",
+      "Mozambique"
+    ],
+    "aliases": [
+      "موزمبيق",
+      "Mozambique",
+      "Republic of Mozambique",
+      "MZ",
+      "MOZ"
+    ]
+  },
+  {
+    "id": "country:SZ",
+    "type": "country",
+    "english": [
+      "Eswatini",
+      "eSwatini",
+      "Kingdom of eSwatini",
+      "eSwatini",
+      "Kingdom of eSwatini",
+      "Eswatini",
+      "Eswatini",
+      "Swaziland"
+    ],
+    "aliases": [
+      "إسواتيني",
+      "Eswatini",
+      "eSwatini",
+      "Kingdom of eSwatini",
+      "SZ",
+      "SWZ",
+      "اسواتيني",
+      "سوازيلاند",
+      "Swaziland"
+    ]
+  },
+  {
+    "id": "country:AO",
+    "type": "country",
+    "english": [
+      "Angola",
+      "Angola",
+      "Angola",
+      "Angola",
+      "People's Republic of Angola",
+      "Angola"
+    ],
+    "aliases": [
+      "أنغولا",
+      "Angola",
+      "People's Republic of Angola",
+      "AO",
+      "AGO"
+    ]
+  },
+  {
+    "id": "country:BI",
+    "type": "country",
+    "english": [
+      "Burundi",
+      "Burundi",
+      "Burundi",
+      "Burundi",
+      "Republic of Burundi",
+      "Burundi"
+    ],
+    "aliases": [
+      "بوروندي",
+      "Burundi",
+      "Republic of Burundi",
+      "BI",
+      "BDI"
+    ]
+  },
+  {
+    "id": "country:IL",
+    "type": "country",
+    "english": [
+      "Israel",
+      "Israel",
+      "Israel",
+      "Israel",
+      "State of Israel",
+      "Israel"
+    ],
+    "aliases": [
+      "إسرائيل",
+      "Israel",
+      "State of Israel",
+      "IL",
+      "ISR"
+    ]
+  },
+  {
+    "id": "country:LB",
+    "type": "country",
+    "english": [
+      "Lebanon",
+      "Lebanon",
+      "Lebanon",
+      "Lebanon",
+      "Lebanese Republic",
+      "Lebanon"
+    ],
+    "aliases": [
+      "لبنان",
+      "Lebanon",
+      "Lebanese Republic",
+      "LB",
+      "LBN"
+    ]
+  },
+  {
+    "id": "country:MG",
+    "type": "country",
+    "english": [
+      "Madagascar",
+      "Madagascar",
+      "Madagascar",
+      "Madagascar",
+      "Republic of Madagascar",
+      "Madagascar"
+    ],
+    "aliases": [
+      "مدغشقر",
+      "Madagascar",
+      "Republic of Madagascar",
+      "MG",
+      "MDG"
+    ]
+  },
+  {
+    "id": "country:PS",
+    "type": "country",
+    "english": [
+      "Palestine",
+      "Palestine",
+      "Palestine",
+      "Palestine",
+      "West Bank and Gaza",
+      "Palestinian Territories"
+    ],
+    "aliases": [
+      "فلسطين",
+      "Palestine",
+      "West Bank and Gaza",
+      "الأراضي الفلسطينية",
+      "Palestinian Territories",
+      "PS",
+      "PSE"
+    ]
+  },
+  {
+    "id": "country:GM",
+    "type": "country",
+    "english": [
+      "The Gambia",
+      "Gambia",
+      "The Gambia",
+      "Gambia",
+      "Republic of the Gambia",
+      "Gambia"
+    ],
+    "aliases": [
+      "غامبيا",
+      "The Gambia",
+      "Gambia",
+      "Republic of the Gambia",
+      "GM",
+      "GMB"
+    ]
+  },
+  {
+    "id": "country:TN",
+    "type": "country",
+    "english": [
+      "Tunisia",
+      "Tunisia",
+      "Tunisia",
+      "Tunisia",
+      "Republic of Tunisia",
+      "Tunisia"
+    ],
+    "aliases": [
+      "تونس",
+      "Tunisia",
+      "Republic of Tunisia",
+      "TN",
+      "TUN"
+    ]
+  },
+  {
+    "id": "country:DZ",
+    "type": "country",
+    "english": [
+      "Algeria",
+      "Algeria",
+      "Algeria",
+      "Algeria",
+      "People's Democratic Republic of Algeria",
+      "Algeria"
+    ],
+    "aliases": [
+      "الجزائر",
+      "Algeria",
+      "People's Democratic Republic of Algeria",
+      "DZ",
+      "DZA"
+    ]
+  },
+  {
+    "id": "country:JO",
+    "type": "country",
+    "english": [
+      "Jordan",
+      "Jordan",
+      "Jordan",
+      "Jordan",
+      "Hashemite Kingdom of Jordan",
+      "Jordan"
+    ],
+    "aliases": [
+      "الأردن",
+      "Jordan",
+      "Hashemite Kingdom of Jordan",
+      "JO",
+      "JOR"
+    ]
+  },
+  {
+    "id": "country:AE",
+    "type": "country",
+    "english": [
+      "United Arab Emirates",
+      "United Arab Emirates",
+      "United Arab Emirates",
+      "United Arab Emirates",
+      "United Arab Emirates",
+      "United Arab Emirates",
+      "UAE",
+      "Emirates"
+    ],
+    "aliases": [
+      "الإمارات العربية المتحدة",
+      "United Arab Emirates",
+      "AE",
+      "ARE",
+      "الإمارات",
+      "الامارات",
+      "UAE",
+      "Emirates"
+    ]
+  },
+  {
+    "id": "country:QA",
+    "type": "country",
+    "english": [
+      "Qatar",
+      "Qatar",
+      "Qatar",
+      "Qatar",
+      "State of Qatar",
+      "Qatar"
+    ],
+    "aliases": [
+      "قطر",
+      "Qatar",
+      "State of Qatar",
+      "QA",
+      "QAT"
+    ]
+  },
+  {
+    "id": "country:KW",
+    "type": "country",
+    "english": [
+      "Kuwait",
+      "Kuwait",
+      "Kuwait",
+      "Kuwait",
+      "State of Kuwait",
+      "Kuwait"
+    ],
+    "aliases": [
+      "الكويت",
+      "Kuwait",
+      "State of Kuwait",
+      "KW",
+      "KWT"
+    ]
+  },
+  {
+    "id": "country:IQ",
+    "type": "country",
+    "english": [
+      "Iraq",
+      "Iraq",
+      "Iraq",
+      "Iraq",
+      "Republic of Iraq",
+      "Iraq"
+    ],
+    "aliases": [
+      "العراق",
+      "Iraq",
+      "Republic of Iraq",
+      "IQ",
+      "IRQ"
+    ]
+  },
+  {
+    "id": "country:OM",
+    "type": "country",
+    "english": [
+      "Oman",
+      "Oman",
+      "Oman",
+      "Oman",
+      "Sultanate of Oman",
+      "Oman"
+    ],
+    "aliases": [
+      "سلطنة عمان",
+      "Oman",
+      "Sultanate of Oman",
+      "عُمان",
+      "OM",
+      "OMN"
+    ]
+  },
+  {
+    "id": "country:VU",
+    "type": "country",
+    "english": [
+      "Vanuatu",
+      "Vanuatu",
+      "Vanuatu",
+      "Vanuatu",
+      "Republic of Vanuatu",
+      "Vanuatu"
+    ],
+    "aliases": [
+      "فانواتو",
+      "Vanuatu",
+      "Republic of Vanuatu",
+      "VU",
+      "VUT"
+    ]
+  },
+  {
+    "id": "country:KH",
+    "type": "country",
+    "english": [
+      "Cambodia",
+      "Cambodia",
+      "Cambodia",
+      "Cambodia",
+      "Kingdom of Cambodia",
+      "Cambodia"
+    ],
+    "aliases": [
+      "كمبوديا",
+      "Cambodia",
+      "Kingdom of Cambodia",
+      "KH",
+      "KHM"
+    ]
+  },
+  {
+    "id": "country:TH",
+    "type": "country",
+    "english": [
+      "Thailand",
+      "Thailand",
+      "Thailand",
+      "Thailand",
+      "Kingdom of Thailand",
+      "Thailand"
+    ],
+    "aliases": [
+      "تايلاند",
+      "Thailand",
+      "Kingdom of Thailand",
+      "TH",
+      "THA"
+    ]
+  },
+  {
+    "id": "country:LA",
+    "type": "country",
+    "english": [
+      "Laos",
+      "Laos",
+      "Lao PDR",
+      "Laos",
+      "Lao People's Democratic Republic",
+      "Laos"
+    ],
+    "aliases": [
+      "لاوس",
+      "Laos",
+      "Lao PDR",
+      "Lao People's Democratic Republic",
+      "LA",
+      "LAO"
+    ]
+  },
+  {
+    "id": "country:MM",
+    "type": "country",
+    "english": [
+      "Myanmar",
+      "Myanmar",
+      "Myanmar",
+      "Myanmar",
+      "Republic of the Union of Myanmar",
+      "Myanmar (Burma)"
+    ],
+    "aliases": [
+      "ميانمار",
+      "Myanmar",
+      "Republic of the Union of Myanmar",
+      "ميانمار (بورما)",
+      "Myanmar (Burma)",
+      "MM",
+      "MMR"
+    ]
+  },
+  {
+    "id": "country:VN",
+    "type": "country",
+    "english": [
+      "Vietnam",
+      "Vietnam",
+      "Vietnam",
+      "Vietnam",
+      "Socialist Republic of Vietnam",
+      "Vietnam"
+    ],
+    "aliases": [
+      "فيتنام",
+      "Vietnam",
+      "Socialist Republic of Vietnam",
+      "VN",
+      "VNM"
+    ]
+  },
+  {
+    "id": "country:KP",
+    "type": "country",
+    "english": [
+      "North Korea",
+      "North Korea",
+      "Dem. Rep. Korea",
+      "North Korea",
+      "Democratic People's Republic of Korea",
+      "North Korea",
+      "North Korea"
+    ],
+    "aliases": [
+      "كوريا الشمالية",
+      "North Korea",
+      "Dem. Rep. Korea",
+      "Democratic People's Republic of Korea",
+      "KP",
+      "PRK",
+      "كوريا الشماليه"
+    ]
+  },
+  {
+    "id": "country:KR",
+    "type": "country",
+    "english": [
+      "South Korea",
+      "South Korea",
+      "Republic of Korea",
+      "South Korea",
+      "Republic of Korea",
+      "South Korea",
+      "South Korea",
+      "Republic of Korea"
+    ],
+    "aliases": [
+      "كوريا الجنوبية",
+      "South Korea",
+      "Republic of Korea",
+      "KR",
+      "KOR",
+      "كوريا الجنوبيه"
+    ]
+  },
+  {
+    "id": "country:MN",
+    "type": "country",
+    "english": [
+      "Mongolia",
+      "Mongolia",
+      "Mongolia",
+      "Mongolia",
+      "Mongolia",
+      "Mongolia"
+    ],
+    "aliases": [
+      "منغوليا",
+      "Mongolia",
+      "MN",
+      "MNG"
+    ]
+  },
+  {
+    "id": "country:IN",
+    "type": "country",
+    "english": [
+      "India",
+      "India",
+      "India",
+      "India",
+      "Republic of India",
+      "India"
+    ],
+    "aliases": [
+      "الهند",
+      "India",
+      "Republic of India",
+      "IN",
+      "IND"
+    ]
+  },
+  {
+    "id": "country:BD",
+    "type": "country",
+    "english": [
+      "Bangladesh",
+      "Bangladesh",
+      "Bangladesh",
+      "Bangladesh",
+      "People's Republic of Bangladesh",
+      "Bangladesh"
+    ],
+    "aliases": [
+      "بنغلاديش",
+      "Bangladesh",
+      "People's Republic of Bangladesh",
+      "BD",
+      "BGD"
+    ]
+  },
+  {
+    "id": "country:BT",
+    "type": "country",
+    "english": [
+      "Bhutan",
+      "Bhutan",
+      "Bhutan",
+      "Bhutan",
+      "Kingdom of Bhutan",
+      "Bhutan"
+    ],
+    "aliases": [
+      "بوتان",
+      "Bhutan",
+      "Kingdom of Bhutan",
+      "BT",
+      "BTN"
+    ]
+  },
+  {
+    "id": "country:NP",
+    "type": "country",
+    "english": [
+      "Nepal",
+      "Nepal",
+      "Nepal",
+      "Nepal",
+      "Nepal",
+      "Nepal"
+    ],
+    "aliases": [
+      "نيبال",
+      "Nepal",
+      "NP",
+      "NPL"
+    ]
+  },
+  {
+    "id": "country:PK",
+    "type": "country",
+    "english": [
+      "Pakistan",
+      "Pakistan",
+      "Pakistan",
+      "Pakistan",
+      "Islamic Republic of Pakistan",
+      "Pakistan"
+    ],
+    "aliases": [
+      "باكستان",
+      "Pakistan",
+      "Islamic Republic of Pakistan",
+      "PK",
+      "PAK"
+    ]
+  },
+  {
+    "id": "country:AF",
+    "type": "country",
+    "english": [
+      "Afghanistan",
+      "Afghanistan",
+      "Afghanistan",
+      "Afghanistan",
+      "Islamic State of Afghanistan",
+      "Afghanistan"
+    ],
+    "aliases": [
+      "أفغانستان",
+      "Afghanistan",
+      "Islamic State of Afghanistan",
+      "AF",
+      "AFG"
+    ]
+  },
+  {
+    "id": "country:TJ",
+    "type": "country",
+    "english": [
+      "Tajikistan",
+      "Tajikistan",
+      "Tajikistan",
+      "Tajikistan",
+      "Republic of Tajikistan",
+      "Tajikistan"
+    ],
+    "aliases": [
+      "طاجيكستان",
+      "Tajikistan",
+      "Republic of Tajikistan",
+      "TJ",
+      "TJK"
+    ]
+  },
+  {
+    "id": "country:KG",
+    "type": "country",
+    "english": [
+      "Kyrgyzstan",
+      "Kyrgyzstan",
+      "Kyrgyzstan",
+      "Kyrgyzstan",
+      "Kyrgyz Republic",
+      "Kyrgyzstan"
+    ],
+    "aliases": [
+      "قيرغيزستان",
+      "Kyrgyzstan",
+      "Kyrgyz Republic",
+      "KG",
+      "KGZ"
+    ]
+  },
+  {
+    "id": "country:TM",
+    "type": "country",
+    "english": [
+      "Turkmenistan",
+      "Turkmenistan",
+      "Turkmenistan",
+      "Turkmenistan",
+      "Turkmenistan",
+      "Turkmenistan"
+    ],
+    "aliases": [
+      "تركمانستان",
+      "Turkmenistan",
+      "TM",
+      "TKM"
+    ]
+  },
+  {
+    "id": "country:IR",
+    "type": "country",
+    "english": [
+      "Iran",
+      "Iran",
+      "Iran",
+      "Iran",
+      "Islamic Republic of Iran",
+      "Iran"
+    ],
+    "aliases": [
+      "إيران",
+      "Iran",
+      "Islamic Republic of Iran",
+      "IR",
+      "IRN"
+    ]
+  },
+  {
+    "id": "country:SY",
+    "type": "country",
+    "english": [
+      "Syria",
+      "Syria",
+      "Syria",
+      "Syria",
+      "Syrian Arab Republic",
+      "Syria"
+    ],
+    "aliases": [
+      "سوريا",
+      "Syria",
+      "Syrian Arab Republic",
+      "SY",
+      "SYR"
+    ]
+  },
+  {
+    "id": "country:AM",
+    "type": "country",
+    "english": [
+      "Armenia",
+      "Armenia",
+      "Armenia",
+      "Armenia",
+      "Republic of Armenia",
+      "Armenia"
+    ],
+    "aliases": [
+      "أرمينيا",
+      "Armenia",
+      "Republic of Armenia",
+      "AM",
+      "ARM"
+    ]
+  },
+  {
+    "id": "country:SE",
+    "type": "country",
+    "english": [
+      "Sweden",
+      "Sweden",
+      "Sweden",
+      "Sweden",
+      "Kingdom of Sweden",
+      "Sweden"
+    ],
+    "aliases": [
+      "السويد",
+      "Sweden",
+      "Kingdom of Sweden",
+      "SE",
+      "SWE"
+    ]
+  },
+  {
+    "id": "country:BY",
+    "type": "country",
+    "english": [
+      "Belarus",
+      "Belarus",
+      "Belarus",
+      "Belarus",
+      "Republic of Belarus",
+      "Belarus"
+    ],
+    "aliases": [
+      "بيلاروسيا",
+      "Belarus",
+      "Republic of Belarus",
+      "بيلاروس",
+      "BY",
+      "BLR"
+    ]
+  },
+  {
+    "id": "country:UA",
+    "type": "country",
+    "english": [
+      "Ukraine",
+      "Ukraine",
+      "Ukraine",
+      "Ukraine",
+      "Ukraine",
+      "Ukraine"
+    ],
+    "aliases": [
+      "أوكرانيا",
+      "Ukraine",
+      "UA",
+      "UKR"
+    ]
+  },
+  {
+    "id": "country:PL",
+    "type": "country",
+    "english": [
+      "Poland",
+      "Poland",
+      "Poland",
+      "Poland",
+      "Republic of Poland",
+      "Poland"
+    ],
+    "aliases": [
+      "بولندا",
+      "Poland",
+      "Republic of Poland",
+      "PL",
+      "POL"
+    ]
+  },
+  {
+    "id": "country:AT",
+    "type": "country",
+    "english": [
+      "Austria",
+      "Austria",
+      "Austria",
+      "Austria",
+      "Republic of Austria",
+      "Austria"
+    ],
+    "aliases": [
+      "النمسا",
+      "Austria",
+      "Republic of Austria",
+      "AT",
+      "AUT"
+    ]
+  },
+  {
+    "id": "country:HU",
+    "type": "country",
+    "english": [
+      "Hungary",
+      "Hungary",
+      "Hungary",
+      "Hungary",
+      "Republic of Hungary",
+      "Hungary"
+    ],
+    "aliases": [
+      "المجر",
+      "Hungary",
+      "Republic of Hungary",
+      "هنغاريا",
+      "HU",
+      "HUN"
+    ]
+  },
+  {
+    "id": "country:MD",
+    "type": "country",
+    "english": [
+      "Moldova",
+      "Moldova",
+      "Moldova",
+      "Moldova",
+      "Republic of Moldova",
+      "Moldova"
+    ],
+    "aliases": [
+      "مولدوفا",
+      "Moldova",
+      "Republic of Moldova",
+      "MD",
+      "MDA"
+    ]
+  },
+  {
+    "id": "country:RO",
+    "type": "country",
+    "english": [
+      "Romania",
+      "Romania",
+      "Romania",
+      "Romania",
+      "Romania",
+      "Romania"
+    ],
+    "aliases": [
+      "رومانيا",
+      "Romania",
+      "RO",
+      "ROU"
+    ]
+  },
+  {
+    "id": "country:LT",
+    "type": "country",
+    "english": [
+      "Lithuania",
+      "Lithuania",
+      "Lithuania",
+      "Lithuania",
+      "Republic of Lithuania",
+      "Lithuania"
+    ],
+    "aliases": [
+      "ليتوانيا",
+      "Lithuania",
+      "Republic of Lithuania",
+      "LT",
+      "LTU"
+    ]
+  },
+  {
+    "id": "country:LV",
+    "type": "country",
+    "english": [
+      "Latvia",
+      "Latvia",
+      "Latvia",
+      "Latvia",
+      "Republic of Latvia",
+      "Latvia"
+    ],
+    "aliases": [
+      "لاتفيا",
+      "Latvia",
+      "Republic of Latvia",
+      "LV",
+      "LVA"
+    ]
+  },
+  {
+    "id": "country:EE",
+    "type": "country",
+    "english": [
+      "Estonia",
+      "Estonia",
+      "Estonia",
+      "Estonia",
+      "Republic of Estonia",
+      "Estonia"
+    ],
+    "aliases": [
+      "إستونيا",
+      "Estonia",
+      "Republic of Estonia",
+      "EE",
+      "EST"
+    ]
+  },
+  {
+    "id": "country:DE",
+    "type": "country",
+    "english": [
+      "Germany",
+      "Germany",
+      "Germany",
+      "Germany",
+      "Federal Republic of Germany",
+      "Germany"
+    ],
+    "aliases": [
+      "ألمانيا",
+      "Germany",
+      "Federal Republic of Germany",
+      "DE",
+      "DEU"
+    ]
+  },
+  {
+    "id": "country:BG",
+    "type": "country",
+    "english": [
+      "Bulgaria",
+      "Bulgaria",
+      "Bulgaria",
+      "Bulgaria",
+      "Republic of Bulgaria",
+      "Bulgaria"
+    ],
+    "aliases": [
+      "بلغاريا",
+      "Bulgaria",
+      "Republic of Bulgaria",
+      "BG",
+      "BGR"
+    ]
+  },
+  {
+    "id": "country:GR",
+    "type": "country",
+    "english": [
+      "Greece",
+      "Greece",
+      "Greece",
+      "Greece",
+      "Hellenic Republic",
+      "Greece"
+    ],
+    "aliases": [
+      "اليونان",
+      "Greece",
+      "Hellenic Republic",
+      "GR",
+      "GRC"
+    ]
+  },
+  {
+    "id": "country:TR",
+    "type": "country",
+    "english": [
+      "Turkey",
+      "Turkey",
+      "Turkey",
+      "Turkey",
+      "Republic of Turkey",
+      "Türkiye",
+      "Turkey",
+      "Turkiye",
+      "Türkiye"
+    ],
+    "aliases": [
+      "تركيا",
+      "Turkey",
+      "Republic of Turkey",
+      "Türkiye",
+      "TR",
+      "TUR",
+      "Turkiye"
+    ]
+  },
+  {
+    "id": "country:AL",
+    "type": "country",
+    "english": [
+      "Albania",
+      "Albania",
+      "Albania",
+      "Albania",
+      "Republic of Albania",
+      "Albania"
+    ],
+    "aliases": [
+      "ألبانيا",
+      "Albania",
+      "Republic of Albania",
+      "AL",
+      "ALB"
+    ]
+  },
+  {
+    "id": "country:HR",
+    "type": "country",
+    "english": [
+      "Croatia",
+      "Croatia",
+      "Croatia",
+      "Croatia",
+      "Republic of Croatia",
+      "Croatia"
+    ],
+    "aliases": [
+      "كرواتيا",
+      "Croatia",
+      "Republic of Croatia",
+      "HR",
+      "HRV"
+    ]
+  },
+  {
+    "id": "country:CH",
+    "type": "country",
+    "english": [
+      "Switzerland",
+      "Switzerland",
+      "Switzerland",
+      "Switzerland",
+      "Swiss Confederation",
+      "Switzerland"
+    ],
+    "aliases": [
+      "سويسرا",
+      "Switzerland",
+      "Swiss Confederation",
+      "CH",
+      "CHE"
+    ]
+  },
+  {
+    "id": "country:LU",
+    "type": "country",
+    "english": [
+      "Luxembourg",
+      "Luxembourg",
+      "Luxembourg",
+      "Luxembourg",
+      "Grand Duchy of Luxembourg",
+      "Luxembourg"
+    ],
+    "aliases": [
+      "لوكسمبورغ",
+      "Luxembourg",
+      "Grand Duchy of Luxembourg",
+      "LU",
+      "LUX"
+    ]
+  },
+  {
+    "id": "country:BE",
+    "type": "country",
+    "english": [
+      "Belgium",
+      "Belgium",
+      "Belgium",
+      "Belgium",
+      "Kingdom of Belgium",
+      "Belgium"
+    ],
+    "aliases": [
+      "بلجيكا",
+      "Belgium",
+      "Kingdom of Belgium",
+      "BE",
+      "BEL"
+    ]
+  },
+  {
+    "id": "country:NL",
+    "type": "country",
+    "english": [
+      "Netherlands",
+      "Netherlands",
+      "Netherlands",
+      "Netherlands",
+      "Kingdom of the Netherlands",
+      "Netherlands",
+      "Netherlands",
+      "Holland"
+    ],
+    "aliases": [
+      "هولندا",
+      "Netherlands",
+      "Kingdom of the Netherlands",
+      "NL",
+      "NLD",
+      "Holland"
+    ]
+  },
+  {
+    "id": "country:PT",
+    "type": "country",
+    "english": [
+      "Portugal",
+      "Portugal",
+      "Portugal",
+      "Portugal",
+      "Portuguese Republic",
+      "Portugal"
+    ],
+    "aliases": [
+      "البرتغال",
+      "Portugal",
+      "Portuguese Republic",
+      "PT",
+      "PRT"
+    ]
+  },
+  {
+    "id": "country:ES",
+    "type": "country",
+    "english": [
+      "Spain",
+      "Spain",
+      "Spain",
+      "Spain",
+      "Kingdom of Spain",
+      "Spain"
+    ],
+    "aliases": [
+      "إسبانيا",
+      "Spain",
+      "Kingdom of Spain",
+      "ES",
+      "ESP"
+    ]
+  },
+  {
+    "id": "country:IE",
+    "type": "country",
+    "english": [
+      "Ireland",
+      "Ireland",
+      "Ireland",
+      "Ireland",
+      "Ireland",
+      "Ireland"
+    ],
+    "aliases": [
+      "جمهورية أيرلندا",
+      "Ireland",
+      "أيرلندا",
+      "IE",
+      "IRL"
+    ]
+  },
+  {
+    "id": "country:NC",
+    "type": "country",
+    "english": [
+      "New Caledonia",
+      "New Caledonia",
+      "New Caledonia",
+      "New Caledonia",
+      "New Caledonia",
+      "New Caledonia"
+    ],
+    "aliases": [
+      "كاليدونيا الجديدة",
+      "New Caledonia",
+      "NC",
+      "NCL"
+    ]
+  },
+  {
+    "id": "country:SB",
+    "type": "country",
+    "english": [
+      "Solomon Islands",
+      "Solomon Is.",
+      "Solomon Islands",
+      "Solomon Islands",
+      "Solomon Islands"
+    ],
+    "aliases": [
+      "جزر سليمان",
+      "Solomon Islands",
+      "Solomon Is.",
+      "SB",
+      "SLB"
+    ]
+  },
+  {
+    "id": "country:NZ",
+    "type": "country",
+    "english": [
+      "New Zealand",
+      "New Zealand",
+      "New Zealand",
+      "New Zealand",
+      "New Zealand",
+      "New Zealand"
+    ],
+    "aliases": [
+      "نيوزيلندا",
+      "New Zealand",
+      "NZ",
+      "NZL"
+    ]
+  },
+  {
+    "id": "country:AU",
+    "type": "country",
+    "english": [
+      "Australia",
+      "Australia",
+      "Australia",
+      "Australia",
+      "Commonwealth of Australia",
+      "Australia"
+    ],
+    "aliases": [
+      "أستراليا",
+      "Australia",
+      "Commonwealth of Australia",
+      "AU",
+      "AUS"
+    ]
+  },
+  {
+    "id": "country:LK",
+    "type": "country",
+    "english": [
+      "Sri Lanka",
+      "Sri Lanka",
+      "Sri Lanka",
+      "Sri Lanka",
+      "Democratic Socialist Republic of Sri Lanka",
+      "Sri Lanka"
+    ],
+    "aliases": [
+      "سريلانكا",
+      "Sri Lanka",
+      "Democratic Socialist Republic of Sri Lanka",
+      "LK",
+      "LKA"
+    ]
+  },
+  {
+    "id": "country:CN",
+    "type": "country",
+    "english": [
+      "People's Republic of China",
+      "China",
+      "China",
+      "China",
+      "People's Republic of China",
+      "China",
+      "China",
+      "People s Republic of China"
+    ],
+    "aliases": [
+      "الصين",
+      "People's Republic of China",
+      "China",
+      "CN",
+      "CHN",
+      "People s Republic of China"
+    ]
+  },
+  {
+    "id": "country:TW",
+    "type": "country",
+    "english": [
+      "Taiwan",
+      "Taiwan",
+      "Taiwan",
+      "Taiwan",
+      "Taiwan"
+    ],
+    "aliases": [
+      "تايوان",
+      "Taiwan",
+      "TW",
+      "TWN"
+    ]
+  },
+  {
+    "id": "country:IT",
+    "type": "country",
+    "english": [
+      "Italy",
+      "Italy",
+      "Italy",
+      "Italy",
+      "Italian Republic",
+      "Italy"
+    ],
+    "aliases": [
+      "إيطاليا",
+      "Italy",
+      "Italian Republic",
+      "IT",
+      "ITA"
+    ]
+  },
+  {
+    "id": "country:DK",
+    "type": "country",
+    "english": [
+      "Denmark",
+      "Denmark",
+      "Denmark",
+      "Denmark",
+      "Kingdom of Denmark",
+      "Denmark"
+    ],
+    "aliases": [
+      "الدنمارك",
+      "Denmark",
+      "Kingdom of Denmark",
+      "الدانمرك",
+      "DK",
+      "DNK"
+    ]
+  },
+  {
+    "id": "country:GB",
+    "type": "country",
+    "english": [
+      "United Kingdom",
+      "United Kingdom",
+      "United Kingdom",
+      "United Kingdom",
+      "United Kingdom of Great Britain and Northern Ireland",
+      "United Kingdom",
+      "UK",
+      "Britain",
+      "Great Britain",
+      "United Kingdom"
+    ],
+    "aliases": [
+      "المملكة المتحدة",
+      "United Kingdom",
+      "United Kingdom of Great Britain and Northern Ireland",
+      "GB",
+      "GBR",
+      "بريطانيا",
+      "المملكة المتحده",
+      "بريطانيا العظمى",
+      "UK",
+      "Britain",
+      "Great Britain"
+    ]
+  },
+  {
+    "id": "country:IS",
+    "type": "country",
+    "english": [
+      "Iceland",
+      "Iceland",
+      "Iceland",
+      "Iceland",
+      "Republic of Iceland",
+      "Iceland"
+    ],
+    "aliases": [
+      "آيسلندا",
+      "Iceland",
+      "Republic of Iceland",
+      "IS",
+      "ISL"
+    ]
+  },
+  {
+    "id": "country:AZ",
+    "type": "country",
+    "english": [
+      "Azerbaijan",
+      "Azerbaijan",
+      "Azerbaijan",
+      "Azerbaijan",
+      "Republic of Azerbaijan",
+      "Azerbaijan"
+    ],
+    "aliases": [
+      "أذربيجان",
+      "Azerbaijan",
+      "Republic of Azerbaijan",
+      "AZ",
+      "AZE"
+    ]
+  },
+  {
+    "id": "country:GE",
+    "type": "country",
+    "english": [
+      "Georgia",
+      "Georgia",
+      "Georgia",
+      "Georgia",
+      "Georgia",
+      "Georgia"
+    ],
+    "aliases": [
+      "جورجيا",
+      "Georgia",
+      "GE",
+      "GEO"
+    ]
+  },
+  {
+    "id": "country:PH",
+    "type": "country",
+    "english": [
+      "Philippines",
+      "Philippines",
+      "Philippines",
+      "Philippines",
+      "Republic of the Philippines",
+      "Philippines"
+    ],
+    "aliases": [
+      "الفلبين",
+      "Philippines",
+      "Republic of the Philippines",
+      "PH",
+      "PHL"
+    ]
+  },
+  {
+    "id": "country:MY",
+    "type": "country",
+    "english": [
+      "Malaysia",
+      "Malaysia",
+      "Malaysia",
+      "Malaysia",
+      "Malaysia",
+      "Malaysia"
+    ],
+    "aliases": [
+      "ماليزيا",
+      "Malaysia",
+      "MY",
+      "MYS"
+    ]
+  },
+  {
+    "id": "country:BN",
+    "type": "country",
+    "english": [
+      "Brunei",
+      "Brunei",
+      "Brunei Darussalam",
+      "Brunei",
+      "Negara Brunei Darussalam",
+      "Brunei"
+    ],
+    "aliases": [
+      "بروناي",
+      "Brunei",
+      "Brunei Darussalam",
+      "Negara Brunei Darussalam",
+      "BN",
+      "BRN"
+    ]
+  },
+  {
+    "id": "country:SI",
+    "type": "country",
+    "english": [
+      "Slovenia",
+      "Slovenia",
+      "Slovenia",
+      "Slovenia",
+      "Republic of Slovenia",
+      "Slovenia"
+    ],
+    "aliases": [
+      "سلوفينيا",
+      "Slovenia",
+      "Republic of Slovenia",
+      "SI",
+      "SVN"
+    ]
+  },
+  {
+    "id": "country:FI",
+    "type": "country",
+    "english": [
+      "Finland",
+      "Finland",
+      "Finland",
+      "Finland",
+      "Republic of Finland",
+      "Finland"
+    ],
+    "aliases": [
+      "فنلندا",
+      "Finland",
+      "Republic of Finland",
+      "FI",
+      "FIN"
+    ]
+  },
+  {
+    "id": "country:SK",
+    "type": "country",
+    "english": [
+      "Slovakia",
+      "Slovakia",
+      "Slovakia",
+      "Slovakia",
+      "Slovak Republic",
+      "Slovakia"
+    ],
+    "aliases": [
+      "سلوفاكيا",
+      "Slovakia",
+      "Slovak Republic",
+      "SK",
+      "SVK"
+    ]
+  },
+  {
+    "id": "country:CZ",
+    "type": "country",
+    "english": [
+      "Czech Republic",
+      "Czechia",
+      "Czech Republic",
+      "Czechia",
+      "Czech Republic",
+      "Czechia",
+      "Czech Republic",
+      "Czechia"
+    ],
+    "aliases": [
+      "التشيك",
+      "Czech Republic",
+      "Czechia",
+      "CZ",
+      "CZE"
+    ]
+  },
+  {
+    "id": "country:ER",
+    "type": "country",
+    "english": [
+      "Eritrea",
+      "Eritrea",
+      "Eritrea",
+      "Eritrea",
+      "State of Eritrea",
+      "Eritrea"
+    ],
+    "aliases": [
+      "إريتريا",
+      "Eritrea",
+      "State of Eritrea",
+      "ER",
+      "ERI"
+    ]
+  },
+  {
+    "id": "country:JP",
+    "type": "country",
+    "english": [
+      "Japan",
+      "Japan",
+      "Japan",
+      "Japan",
+      "Japan",
+      "Japan"
+    ],
+    "aliases": [
+      "اليابان",
+      "Japan",
+      "JP",
+      "JPN"
+    ]
+  },
+  {
+    "id": "country:PY",
+    "type": "country",
+    "english": [
+      "Paraguay",
+      "Paraguay",
+      "Paraguay",
+      "Paraguay",
+      "Republic of Paraguay",
+      "Paraguay"
+    ],
+    "aliases": [
+      "باراغواي",
+      "Paraguay",
+      "Republic of Paraguay",
+      "PY",
+      "PRY"
+    ]
+  },
+  {
+    "id": "country:YE",
+    "type": "country",
+    "english": [
+      "Yemen",
+      "Yemen",
+      "Yemen",
+      "Yemen",
+      "Republic of Yemen",
+      "Yemen"
+    ],
+    "aliases": [
+      "اليمن",
+      "Yemen",
+      "Republic of Yemen",
+      "YE",
+      "YEM"
+    ]
+  },
+  {
+    "id": "country:SA",
+    "type": "country",
+    "english": [
+      "Saudi Arabia",
+      "Saudi Arabia",
+      "Saudi Arabia",
+      "Saudi Arabia",
+      "Kingdom of Saudi Arabia",
+      "Saudi Arabia",
+      "Saudi",
+      "KSA",
+      "Kingdom of Saudi Arabia"
+    ],
+    "aliases": [
+      "السعودية",
+      "Saudi Arabia",
+      "Kingdom of Saudi Arabia",
+      "المملكة العربية السعودية",
+      "SA",
+      "SAU",
+      "السعوديه",
+      "سعودية",
+      "سعوديه",
+      "المملكة السعودية",
+      "المملكه السعوديه",
+      "السعودية العربية",
+      "Saudi",
+      "KSA"
+    ]
+  },
+  {
+    "id": "country:AQ",
+    "type": "country",
+    "english": [
+      "Antarctica",
+      "Antarctica",
+      "Antarctica",
+      "Antarctica",
+      "Antarctica"
+    ],
+    "aliases": [
+      "القارة القطبية الجنوبية",
+      "Antarctica",
+      "أنتاركتيكا",
+      "AQ",
+      "ATA"
+    ]
+  },
+  {
+    "id": "country:CY",
+    "type": "country",
+    "english": [
+      "Cyprus",
+      "Cyprus",
+      "Cyprus",
+      "Cyprus",
+      "Republic of Cyprus",
+      "Cyprus"
+    ],
+    "aliases": [
+      "قبرص",
+      "Cyprus",
+      "Republic of Cyprus",
+      "CY",
+      "CYP"
+    ]
+  },
+  {
+    "id": "country:MA",
+    "type": "country",
+    "english": [
+      "Morocco",
+      "Morocco",
+      "Morocco",
+      "Morocco",
+      "Kingdom of Morocco",
+      "Morocco"
+    ],
+    "aliases": [
+      "المغرب",
+      "Morocco",
+      "Kingdom of Morocco",
+      "MA",
+      "MAR"
+    ]
+  },
+  {
+    "id": "country:EG",
+    "type": "country",
+    "english": [
+      "Egypt",
+      "Egypt",
+      "Egypt",
+      "Egypt",
+      "Arab Republic of Egypt",
+      "Egypt",
+      "Egypt"
+    ],
+    "aliases": [
+      "مصر",
+      "Egypt",
+      "Arab Republic of Egypt",
+      "EG",
+      "EGY",
+      "جمهورية مصر العربية"
+    ]
+  },
+  {
+    "id": "country:LY",
+    "type": "country",
+    "english": [
+      "Libya",
+      "Libya",
+      "Libya",
+      "Libya",
+      "Libya",
+      "Libya"
+    ],
+    "aliases": [
+      "ليبيا",
+      "Libya",
+      "LY",
+      "LBY"
+    ]
+  },
+  {
+    "id": "country:ET",
+    "type": "country",
+    "english": [
+      "Ethiopia",
+      "Ethiopia",
+      "Ethiopia",
+      "Ethiopia",
+      "Federal Democratic Republic of Ethiopia",
+      "Ethiopia"
+    ],
+    "aliases": [
+      "إثيوبيا",
+      "Ethiopia",
+      "Federal Democratic Republic of Ethiopia",
+      "ET",
+      "ETH"
+    ]
+  },
+  {
+    "id": "country:DJ",
+    "type": "country",
+    "english": [
+      "Djibouti",
+      "Djibouti",
+      "Djibouti",
+      "Djibouti",
+      "Republic of Djibouti",
+      "Djibouti"
+    ],
+    "aliases": [
+      "جيبوتي",
+      "Djibouti",
+      "Republic of Djibouti",
+      "DJ",
+      "DJI"
+    ]
+  },
+  {
+    "id": "country:UG",
+    "type": "country",
+    "english": [
+      "Uganda",
+      "Uganda",
+      "Uganda",
+      "Uganda",
+      "Republic of Uganda",
+      "Uganda"
+    ],
+    "aliases": [
+      "أوغندا",
+      "Uganda",
+      "Republic of Uganda",
+      "UG",
+      "UGA"
+    ]
+  },
+  {
+    "id": "country:RW",
+    "type": "country",
+    "english": [
+      "Rwanda",
+      "Rwanda",
+      "Rwanda",
+      "Rwanda",
+      "Republic of Rwanda",
+      "Rwanda"
+    ],
+    "aliases": [
+      "رواندا",
+      "Rwanda",
+      "Republic of Rwanda",
+      "RW",
+      "RWA"
+    ]
+  },
+  {
+    "id": "country:BA",
+    "type": "country",
+    "english": [
+      "Bosnia and Herzegovina",
+      "Bosnia and Herz.",
+      "Bosnia and Herzegovina",
+      "Bosnia and Herzegovina",
+      "Bosnia and Herzegovina",
+      "Bosnia & Herzegovina",
+      "Bosnia",
+      "Bosnia and Herzegovina"
+    ],
+    "aliases": [
+      "البوسنة والهرسك",
+      "Bosnia and Herzegovina",
+      "Bosnia and Herz.",
+      "Bosnia & Herzegovina",
+      "BA",
+      "BIH",
+      "البوسنه",
+      "Bosnia"
+    ]
+  },
+  {
+    "id": "country:MK",
+    "type": "country",
+    "english": [
+      "North Macedonia",
+      "North Macedonia",
+      "North Macedonia",
+      "North Macedonia",
+      "Republic of North Macedonia",
+      "North Macedonia"
+    ],
+    "aliases": [
+      "مقدونيا الشمالية",
+      "North Macedonia",
+      "Republic of North Macedonia",
+      "MK",
+      "MKD"
+    ]
+  },
+  {
+    "id": "country:RS",
+    "type": "country",
+    "english": [
+      "Serbia",
+      "Serbia",
+      "Serbia",
+      "Republic of Serbia",
+      "Republic of Serbia",
+      "Serbia"
+    ],
+    "aliases": [
+      "صربيا",
+      "Serbia",
+      "Republic of Serbia",
+      "RS",
+      "SRB"
+    ]
+  },
+  {
+    "id": "country:ME",
+    "type": "country",
+    "english": [
+      "Montenegro",
+      "Montenegro",
+      "Montenegro",
+      "Montenegro",
+      "Montenegro",
+      "Montenegro"
+    ],
+    "aliases": [
+      "الجبل الأسود",
+      "Montenegro",
+      "ME",
+      "MNE"
+    ]
+  },
+  {
+    "id": "country:XK",
+    "type": "country",
+    "english": [
+      "Kosovo",
+      "Kosovo",
+      "Kosovo",
+      "Kosovo",
+      "Republic of Kosovo",
+      "Kosovo"
+    ],
+    "aliases": [
+      "كوسوفو",
+      "Kosovo",
+      "Republic of Kosovo",
+      "XK"
+    ]
+  },
+  {
+    "id": "country:TT",
+    "type": "country",
+    "english": [
+      "Trinidad and Tobago",
+      "Trinidad and Tobago",
+      "Trinidad and Tobago",
+      "Trinidad and Tobago",
+      "Republic of Trinidad and Tobago",
+      "Trinidad & Tobago"
+    ],
+    "aliases": [
+      "ترينيداد وتوباغو",
+      "Trinidad and Tobago",
+      "Republic of Trinidad and Tobago",
+      "Trinidad & Tobago",
+      "TT",
+      "TTO"
+    ]
+  },
+  {
+    "id": "country:SS",
+    "type": "country",
+    "english": [
+      "South Sudan",
+      "S. Sudan",
+      "South Sudan",
+      "South Sudan",
+      "Republic of South Sudan",
+      "South Sudan"
+    ],
+    "aliases": [
+      "جنوب السودان",
+      "South Sudan",
+      "S. Sudan",
+      "Republic of South Sudan",
+      "SS",
+      "SSD"
+    ]
+  },
+  {
+    "id": "name:reddit",
+    "type": "name",
+    "english": [
+      "Reddit",
+      "reddit.com",
+      "red it"
+    ],
+    "aliases": [
+      "Reddit",
+      "ريديت",
+      "ريدت",
+      "ريد ات",
+      "رديت",
+      "رد ات",
+      "reddit.com",
+      "red it"
+    ]
+  },
+  {
+    "id": "name:youtube",
+    "type": "name",
+    "english": [
+      "YouTube",
+      "youtube.com",
+      "yt"
+    ],
+    "aliases": [
+      "YouTube",
+      "يوتيوب",
+      "يو تيوب",
+      "يوتوب",
+      "يوتيب",
+      "youtube.com",
+      "yt"
+    ]
+  },
+  {
+    "id": "name:whatsapp",
+    "type": "name",
+    "english": [
+      "WhatsApp",
+      "what s app"
+    ],
+    "aliases": [
+      "WhatsApp",
+      "واتساب",
+      "واتس اب",
+      "واتس آب",
+      "وتساب",
+      "واتس",
+      "what s app"
+    ]
+  },
+  {
+    "id": "name:instagram",
+    "type": "name",
+    "english": [
+      "Instagram",
+      "insta",
+      "ig"
+    ],
+    "aliases": [
+      "Instagram",
+      "انستقرام",
+      "انستغرام",
+      "انستجرام",
+      "إنستغرام",
+      "انستا",
+      "insta",
+      "ig"
+    ]
+  },
+  {
+    "id": "name:tiktok",
+    "type": "name",
+    "english": [
+      "TikTok",
+      "tik tok"
+    ],
+    "aliases": [
+      "TikTok",
+      "تيك توك",
+      "تيكتوك",
+      "تك توك",
+      "tik tok"
+    ]
+  },
+  {
+    "id": "name:snapchat",
+    "type": "name",
+    "english": [
+      "Snapchat",
+      "snap chat"
+    ],
+    "aliases": [
+      "Snapchat",
+      "سناب شات",
+      "سنابشات",
+      "سناب",
+      "snap chat"
+    ]
+  },
+  {
+    "id": "name:twitter",
+    "type": "name",
+    "english": [
+      "Twitter",
+      "X",
+      "twitter.com"
+    ],
+    "aliases": [
+      "Twitter",
+      "تويتر",
+      "اكس",
+      "إكس",
+      "X",
+      "twitter.com"
+    ]
+  },
+  {
+    "id": "name:facebook",
+    "type": "name",
+    "english": [
+      "Facebook",
+      "fb",
+      "face book"
+    ],
+    "aliases": [
+      "Facebook",
+      "فيسبوك",
+      "فيس بوك",
+      "فيسبووك",
+      "fb",
+      "face book"
+    ]
+  },
+  {
+    "id": "name:telegram",
+    "type": "name",
+    "english": [
+      "Telegram"
+    ],
+    "aliases": [
+      "Telegram",
+      "تيليجرام",
+      "تلجرام",
+      "تليجرام",
+      "تليغرام",
+      "تيليغرام"
+    ]
+  },
+  {
+    "id": "name:discord",
+    "type": "name",
+    "english": [
+      "Discord",
+      "discord.com"
+    ],
+    "aliases": [
+      "Discord",
+      "ديسكورد",
+      "دسكورد",
+      "ديس كورد",
+      "discord.com"
+    ]
+  },
+  {
+    "id": "name:twitch",
+    "type": "name",
+    "english": [
+      "Twitch",
+      "twitch.tv"
+    ],
+    "aliases": [
+      "Twitch",
+      "تويتش",
+      "تويتش تي في",
+      "twitch.tv"
+    ]
+  },
+  {
+    "id": "name:netflix",
+    "type": "name",
+    "english": [
+      "Netflix",
+      "net flix"
+    ],
+    "aliases": [
+      "Netflix",
+      "نتفلكس",
+      "نتفليكس",
+      "نتفليكس",
+      "net flix"
+    ]
+  },
+  {
+    "id": "name:spotify",
+    "type": "name",
+    "english": [
+      "Spotify"
+    ],
+    "aliases": [
+      "Spotify",
+      "سبوتيفاي",
+      "سبوتفاي",
+      "سبوتي فاي"
+    ]
+  },
+  {
+    "id": "name:playstation",
+    "type": "name",
+    "english": [
+      "PlayStation",
+      "ps"
+    ],
+    "aliases": [
+      "PlayStation",
+      "بلايستيشن",
+      "بلاي ستيشن",
+      "بليستيشن",
+      "بلي ستيشن",
+      "ps"
+    ]
+  },
+  {
+    "id": "name:xbox",
+    "type": "name",
+    "english": [
+      "Xbox",
+      "x box"
+    ],
+    "aliases": [
+      "Xbox",
+      "إكس بوكس",
+      "اكس بوكس",
+      "اكسبوكس",
+      "x box"
+    ]
+  },
+  {
+    "id": "name:minecraft",
+    "type": "name",
+    "english": [
+      "Minecraft",
+      "minecraft"
+    ],
+    "aliases": [
+      "Minecraft",
+      "ماينكرافت",
+      "ماين كرافت",
+      "مينكرافت",
+      "minecraft"
+    ]
+  },
+  {
+    "id": "name:roblox",
+    "type": "name",
+    "english": [
+      "Roblox",
+      "roblox"
+    ],
+    "aliases": [
+      "Roblox",
+      "روبلوكس",
+      "روبلكس",
+      "روبلکس",
+      "roblox"
+    ]
+  },
+  {
+    "id": "name:fortnite",
+    "type": "name",
+    "english": [
+      "Fortnite",
+      "fort nite"
+    ],
+    "aliases": [
+      "Fortnite",
+      "فورتنايت",
+      "فورت نايت",
+      "فورنايت",
+      "fort nite"
+    ]
+  },
+  {
+    "id": "name:pubgbattlegrounds",
+    "type": "name",
+    "english": [
+      "PUBG: Battlegrounds",
+      "PUBG",
+      "PlayerUnknown s Battlegrounds"
+    ],
+    "aliases": [
+      "PUBG: Battlegrounds",
+      "ببجي",
+      "بابجي",
+      "بوبجي",
+      "PUBG",
+      "PlayerUnknown s Battlegrounds"
+    ]
+  },
+  {
+    "id": "name:mcdonalds",
+    "type": "name",
+    "english": [
+      "McDonald's",
+      "McDonalds",
+      "McDonald’s"
+    ],
+    "aliases": [
+      "McDonald's",
+      "ماكدونالدز",
+      "مكدونالدز",
+      "ماك دونالدز",
+      "ماك",
+      "McDonalds",
+      "McDonald’s"
+    ]
+  },
+  {
+    "id": "name:kfc",
+    "type": "name",
+    "english": [
+      "KFC",
+      "Kentucky Fried Chicken"
+    ],
+    "aliases": [
+      "KFC",
+      "كنتاكي",
+      "كينتاكي",
+      "Kentucky Fried Chicken"
+    ]
+  },
+  {
+    "id": "name:albaik",
+    "type": "name",
+    "english": [
+      "Albaik",
+      "Al Baik",
+      "Al-Baik"
+    ],
+    "aliases": [
+      "Albaik",
+      "البيك",
+      "بيك",
+      "Al Baik",
+      "Al-Baik"
+    ]
+  },
+  {
+    "id": "name:burgerking",
+    "type": "name",
+    "english": [
+      "Burger King",
+      "burgerking"
+    ],
+    "aliases": [
+      "Burger King",
+      "برجر كينج",
+      "برغر كينغ",
+      "برجر كنج",
+      "burgerking"
+    ]
+  },
+  {
+    "id": "name:cocacola",
+    "type": "name",
+    "english": [
+      "Coca-Cola",
+      "coca cola",
+      "coke"
+    ],
+    "aliases": [
+      "Coca-Cola",
+      "كوكاكولا",
+      "كوكا كولا",
+      "كوكا",
+      "coca cola",
+      "coke"
+    ]
+  },
+  {
+    "id": "name:pepsi",
+    "type": "name",
+    "english": [
+      "Pepsi",
+      "pepsi"
+    ],
+    "aliases": [
+      "Pepsi",
+      "بيبسي",
+      "ببسي",
+      "pepsi"
+    ]
+  },
+  {
+    "id": "name:nutella",
+    "type": "name",
+    "english": [
+      "Nutella",
+      "nutella"
+    ],
+    "aliases": [
+      "Nutella",
+      "نوتيلا",
+      "نوتيلا",
+      "nutella"
+    ]
+  },
+  {
+    "id": "name:pokemon",
+    "type": "name",
+    "english": [
+      "Pokemon",
+      "Pokémon"
+    ],
+    "aliases": [
+      "Pokemon",
+      "بوكيمون",
+      "بوكيمون",
+      "Pokémon"
+    ]
+  },
+  {
+    "id": "name:pikachu",
+    "type": "name",
+    "english": [
+      "Pikachu"
+    ],
+    "aliases": [
+      "Pikachu",
+      "بيكاتشو",
+      "بيكاشو",
+      "بيكا تشو"
+    ]
+  },
+  {
+    "id": "name:spongebobsquarepants",
+    "type": "name",
+    "english": [
+      "SpongeBob SquarePants",
+      "SpongeBob",
+      "Sponge Bob"
+    ],
+    "aliases": [
+      "SpongeBob SquarePants",
+      "سبونج بوب",
+      "سبونجبوب",
+      "سبونج بوب سكوير بانتس",
+      "SpongeBob",
+      "Sponge Bob"
+    ]
+  },
+  {
+    "id": "name:cristianoronaldo",
+    "type": "person",
+    "english": [
+      "Cristiano Ronaldo",
+      "CR7"
+    ],
+    "aliases": [
+      "Cristiano Ronaldo",
+      "كريستيانو رونالدو",
+      "كريستيانو",
+      "كرستيانو رونالدو",
+      "CR7"
+    ]
+  },
+  {
+    "id": "name:lionelmessi",
+    "type": "person",
+    "english": [
+      "Lionel Messi",
+      "Messi"
+    ],
+    "aliases": [
+      "Lionel Messi",
+      "ليونيل ميسي",
+      "ليونل ميسي",
+      "ميسي",
+      "Messi"
+    ]
+  },
+  {
+    "id": "name:parissaintgermain",
+    "type": "club",
+    "english": [
+      "Paris Saint-Germain",
+      "PSG",
+      "Paris Saint Germain"
+    ],
+    "aliases": [
+      "Paris Saint-Germain",
+      "باريس سان جيرمان",
+      "باريس سان جرمان",
+      "بي اس جي",
+      "PSG",
+      "Paris Saint Germain"
+    ]
+  },
+  {
+    "id": "name:manchesterunited",
+    "type": "club",
+    "english": [
+      "Manchester United",
+      "Man United",
+      "Man Utd"
+    ],
+    "aliases": [
+      "Manchester United",
+      "مانشستر يونايتد",
+      "مان يونايتد",
+      "مانشستر يونايتيد",
+      "Man United",
+      "Man Utd"
+    ]
+  },
+  {
+    "id": "name:manchestercity",
+    "type": "club",
+    "english": [
+      "Manchester City",
+      "Man City"
+    ],
+    "aliases": [
+      "Manchester City",
+      "مانشستر سيتي",
+      "مان سيتي",
+      "Man City"
+    ]
+  },
+  {
+    "id": "name:realmadrid",
+    "type": "club",
+    "english": [
+      "Real Madrid",
+      "RealMadrid"
+    ],
+    "aliases": [
+      "Real Madrid",
+      "ريال مدريد",
+      "ريال مدريذ",
+      "ريال",
+      "RealMadrid"
+    ]
+  },
+  {
+    "id": "name:barcelona",
+    "type": "club",
+    "english": [
+      "Barcelona",
+      "FC Barcelona",
+      "Barca",
+      "Barça"
+    ],
+    "aliases": [
+      "Barcelona",
+      "برشلونة",
+      "برشلونه",
+      "برشا",
+      "برسا",
+      "FC Barcelona",
+      "Barca",
+      "Barça"
+    ]
+  },
+  {
+    "id": "name:bayernmunich",
+    "type": "club",
+    "english": [
+      "Bayern Munich",
+      "Bayern Munchen",
+      "Bayern München"
+    ],
+    "aliases": [
+      "Bayern Munich",
+      "بايرن ميونخ",
+      "بايرن",
+      "Bayern Munchen",
+      "Bayern München"
+    ]
+  },
+  {
+    "id": "name:intermilan",
+    "type": "club",
+    "english": [
+      "Inter Milan",
+      "Internazionale",
+      "Inter"
+    ],
+    "aliases": [
+      "Inter Milan",
+      "إنتر ميلان",
+      "انتر ميلان",
+      "انتر",
+      "Internazionale",
+      "Inter"
+    ]
+  },
+  {
+    "id": "name:acmilan",
+    "type": "club",
+    "english": [
+      "AC Milan",
+      "A.C. Milan"
+    ],
+    "aliases": [
+      "AC Milan",
+      "اي سي ميلان",
+      "إيه سي ميلان",
+      "ميلان",
+      "A.C. Milan"
+    ]
+  },
+  {
+    "id": "name:juventus",
+    "type": "club",
+    "english": [
+      "Juventus",
+      "Juve"
+    ],
+    "aliases": [
+      "Juventus",
+      "يوفنتوس",
+      "جوفنتوس",
+      "اليوفي",
+      "Juve"
+    ]
+  },
+  {
+    "id": "name:mohamedsalah",
+    "type": "person",
+    "english": [
+      "Mohamed Salah",
+      "Mohammed Salah",
+      "Mo Salah"
+    ],
+    "aliases": [
+      "Mohamed Salah",
+      "محمد صلاح",
+      "صلاح",
+      "Mohammed Salah",
+      "Mo Salah"
+    ]
+  },
+  {
+    "id": "common:cat",
+    "type": "common",
+    "english": [
+      "Cat",
+      "Cats"
+    ],
+    "aliases": [
+      "Cat",
+      "قط",
+      "قطة",
+      "قطه",
+      "بسة",
+      "بسه",
+      "Cats"
+    ]
+  },
+  {
+    "id": "common:dog",
+    "type": "common",
+    "english": [
+      "Dog",
+      "Dogs"
+    ],
+    "aliases": [
+      "Dog",
+      "كلب",
+      "كلاب",
+      "Dogs"
+    ]
+  },
+  {
+    "id": "common:chicken",
+    "type": "common",
+    "english": [
+      "Chicken",
+      "Hen",
+      "Chicken"
+    ],
+    "aliases": [
+      "Chicken",
+      "دجاج",
+      "دجاجة",
+      "دجاجه",
+      "فرخة",
+      "فرخه",
+      "Hen",
+      "Chicken"
+    ]
+  },
+  {
+    "id": "common:cow",
+    "type": "common",
+    "english": [
+      "Cow",
+      "Cow"
+    ],
+    "aliases": [
+      "Cow",
+      "بقرة",
+      "بقره",
+      "بقر",
+      "Cow"
+    ]
+  },
+  {
+    "id": "common:tomato",
+    "type": "common",
+    "english": [
+      "Tomato",
+      "Tomatoes"
+    ],
+    "aliases": [
+      "Tomato",
+      "طماطم",
+      "طماط",
+      "بندورة",
+      "بندوره",
+      "Tomatoes"
+    ]
+  },
+  {
+    "id": "common:potato",
+    "type": "common",
+    "english": [
+      "Potato",
+      "Potatoes"
+    ],
+    "aliases": [
+      "Potato",
+      "بطاطس",
+      "بطاطا",
+      "Potatoes"
+    ]
+  },
+  {
+    "id": "common:egg",
+    "type": "common",
+    "english": [
+      "Egg",
+      "Eggs"
+    ],
+    "aliases": [
+      "Egg",
+      "بيض",
+      "بيضة",
+      "بيضه",
+      "Eggs"
+    ]
+  },
+  {
+    "id": "common:onion",
+    "type": "common",
+    "english": [
+      "Onion",
+      "Onions"
+    ],
+    "aliases": [
+      "Onion",
+      "بصل",
+      "بصلة",
+      "بصله",
+      "Onions"
+    ]
+  },
+  {
+    "id": "common:keyboard",
+    "type": "common",
+    "english": [
+      "Keyboard",
+      "Gaming keyboard"
+    ],
+    "aliases": [
+      "Keyboard",
+      "لوحة مفاتيح",
+      "كيبورد",
+      "كيبورد قيمنق",
+      "Gaming keyboard"
+    ]
+  },
+  {
+    "id": "common:computermouse",
+    "type": "common",
+    "english": [
+      "Computer mouse",
+      "Mouse",
+      "Gaming mouse"
+    ],
+    "aliases": [
+      "Computer mouse",
+      "ماوس",
+      "فأرة",
+      "فارة",
+      "Mouse",
+      "Gaming mouse"
+    ]
+  },
+  {
+    "id": "common:microphone",
+    "type": "common",
+    "english": [
+      "Microphone",
+      "Mic",
+      "Gaming microphone"
+    ],
+    "aliases": [
+      "Microphone",
+      "مايك",
+      "ميكروفون",
+      "ميكرفون",
+      "Mic",
+      "Gaming microphone"
+    ]
+  },
+  {
+    "id": "common:wardrobe",
+    "type": "common",
+    "english": [
+      "Wardrobe"
+    ],
+    "aliases": [
+      "Wardrobe",
+      "دولاب",
+      "خزانة ملابس",
+      "خزانه ملابس"
+    ]
+  },
+  {
+    "id": "common:sofa",
+    "type": "common",
+    "english": [
+      "Sofa",
+      "Couch"
+    ],
+    "aliases": [
+      "Sofa",
+      "كنبة",
+      "كنبه",
+      "أريكة",
+      "اريكة",
+      "اريكه",
+      "Couch"
+    ]
+  },
+  {
+    "id": "person:mohamedhenedi",
+    "type": "person",
+    "english": [
+      "Mohamed Henedi",
+      "Mohamed Henedy",
+      "Henedi",
+      "Henedy"
+    ],
+    "aliases": [
+      "Mohamed Henedi",
+      "Mohamed Henedy",
+      "محمد هنيدي",
+      "هنيدي",
+      "Henedi",
+      "Henedy"
+    ]
+  },
+  {
+    "id": "club:alahlysc",
+    "type": "club",
+    "english": [
+      "Al Ahly SC",
+      "Al Ahly"
+    ],
+    "aliases": [
+      "Al Ahly SC",
+      "Al Ahly",
+      "الأهلي المصري",
+      "اهلي مصر",
+      "الأهلي القاهري"
+    ]
+  },
+  {
+    "id": "club:zamaleksc",
+    "type": "club",
+    "english": [
+      "Zamalek SC",
+      "Zamalek"
+    ],
+    "aliases": [
+      "Zamalek SC",
+      "Zamalek",
+      "الزمالك"
+    ]
+  },
+  {
+    "id": "club:alsaddsc",
+    "type": "club",
+    "english": [
+      "Al Sadd SC",
+      "Al Sadd"
+    ],
+    "aliases": [
+      "Al Sadd SC",
+      "Al Sadd",
+      "السد",
+      "السد القطري"
+    ]
+  },
+  {
+    "id": "club:rajaca",
+    "type": "club",
+    "english": [
+      "Raja CA",
+      "Raja Casablanca",
+      "Raja"
+    ],
+    "aliases": [
+      "Raja CA",
+      "Raja Casablanca",
+      "Raja",
+      "الرجاء",
+      "الرجاء المغربي"
+    ]
+  },
+  {
+    "id": "club:wydadac",
+    "type": "club",
+    "english": [
+      "Wydad AC",
+      "Wydad Casablanca",
+      "Wydad"
+    ],
+    "aliases": [
+      "Wydad AC",
+      "Wydad Casablanca",
+      "Wydad",
+      "الوداد",
+      "الوداد المغربي"
+    ]
+  }
+]
