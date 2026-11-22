@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-22",
+  "northStar": "شارع المحلات بالليل",
+  "colorMeta": {
+    "wall-cobalt": {"role": "ground", "displayName": "أزرق جدار الكوبالت"},
+    "saffron": {"role": "primary-action", "displayName": "زعفران اللوحات"},
+    "signal-red": {"role": "accent", "displayName": "أحمر الإشارة"},
+    "ink-navy": {"role": "text-and-borders", "displayName": "حبر كحلي"}
+  },
+  "shadows": {
+    "lift": "0 2px 3px rgb(5 9 38/.28), 0 18px 30px -14px rgb(5 9 38/.65)",
+    "lift-sm": "0 1px 2px rgb(5 9 38/.3), 0 8px 16px -8px rgb(5 9 38/.5)"
+  },
+  "motion": {
+    "ease": "cubic-bezier(.16,1,.3,1)",
+    "signature": "شريط المصابيح يتبادل الإضاءة، ويتجمد مع prefers-reduced-motion"
+  },
+  "breakpoints": {"tablet": "1000px", "phone": "760px"},
+  "narrative": {
+    "dos": ["حبر كحلي للنص على اللوحات", "إطار مزدوج وظل ناعم للوحات الكبرى"],
+    "donts": ["لا تدرجات نص", "لا هالات متوهجة", "لا eyebrow فوق العناوين"]
+  }
+}

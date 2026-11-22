@@ -1,0 +1,63 @@
+# daily|home-rooms|vocabulary
+10 أشياء في غرفة الأطفال::سرير بطابقين~Bunk bed|دمية~Doll|مكعبات~Building blocks|كتاب قصص~Storybook|سلة ألعاب~Toy basket|قطار لعبة~Toy train|سجادة لعب~Play mat|مصباح ليلي~Night light|دب محشو~Teddy bear|ملصقات~Stickers
+10 أشياء في الشرفة والبلكونة::كرسي~Chair|طاولة صغيرة~Small table|نبتة~Plant|مظلة~Umbrella|مصباح~Lantern~فانوس|سجادة~Rug|حبل غسيل~Clothesline|سور~Railing|حوض زرع~Planter|مروحة~Fan
+10 أشياء في المجلس العربي::فرشة أرضية~Floor cushion~مفرش|مخدة~Pillow|دلة~Dallah~دلة قهوة|فنجان~Coffee cup|مبخرة~Incense burner|تمر~Dates|ماء ورد~Rose water|سفرة~Dining spread|ستارة~Curtain|سجادة~Carpet
+10 أشياء في استراحة الأصدقاء::شواية~Grill|كراسي~Chairs|طاولة~Table|براد شاي~Teapot|فحم~Charcoal|مسبح صغير~Small pool|شاشة~Screen|سماعة~Speaker|خيمة~Tent|ثلاجة~Fridge
+# daily|occasions|vocabulary
+10 أشياء ترتبط بالعيد::عيدية~Eidiya~عيدية الأطفال|ملابس جديدة~New clothes|حلويات~Sweets|قهوة~Coffee|بخور~Incense|زيارة الأهل~Family visit|مصافحة~Handshake|ألعاب~Toys|صلاة العيد~Eid prayer|تهنئة~Greeting
+10 أشياء ترتبط برمضان::فانوس~Fanous~فانوس رمضان|تمر~Dates|مدفع الإفطار~Iftar cannon|سحور~Suhoor|إفطار~Iftar|تراويح~Taraweeh|مصحف~Quran|هلال~Crescent|قطايف~Qatayef|عصير~Juice
+10 أشياء في المسجد::محراب~Mihrab|منبر~Minbar|مئذنة~Minaret|قبة~Dome|سجادة~Prayer rug|ميكروفون~Microphone|مصحف~Quran copy|مكان الوضوء~Ablution area|رف أحذية~Shoe rack|ساعة~Clock
+10 أشياء في الحج والعمرة::إحرام~Ihram|كعبة~Kaaba|حجر أسود~Black Stone|مقام إبراهيم~Maqam Ibrahim|زمزم~Zamzam|صفا ومروة~Safa and Marwa|منى~Mina|عرفات~Arafat|مزدلفة~Muzdalifah|حلق~Hair shaving
+10 أشياء في العرس::فستان~Wedding dress|بدلة~Suit|كوشة~Kosha|زهور~Flowers|كيك~Cake|زفة~Zaffa~زفة العروس|دعوات~Invitations|دي جي~DJ|تصوير~Photography|عود~Oud
+10 أشياء في حقيبة اليد::محفظة~Wallet|مفاتيح~Keys|جوال~Phone|مرآة~Mirror|أحمر شفاه~Lipstick|مناديل~Tissues|عطر~Perfume|مشط~Comb|سماعات~Earphones|نظارة~Sunglasses
+10 أشياء في جيبك::مفاتيح~Keys|محفظة~Wallet|جوال~Phone|منديل~Handkerchief|قلم~Pen|عملة معدنية~Coin|بطاقة~Card|علكة~Chewing gum|شاحن~Charger|سماعة~Earbuds
+# daily|places|vocabulary
+10 أشياء في الجامعة::قاعة محاضرات~Lecture hall|مكتبة~Library|مختبر~Laboratory|كافتيريا~Cafeteria|بوابة~Gate|سكن طلاب~Dormitory|ملعب~Sports field|دكتور~Professor|جدول~Schedule|شهادة~Certificate
+10 أشياء في المكتبة::رف~Shelf|كتاب~Book|موسوعة~Encyclopedia|روايات~Novels|طاولة قراءة~Reading table|كمبيوتر~Computer|أمين مكتبة~Librarian|بطاقة استعارة~Library card|مجلات~Magazines|قاموس~Dictionary
+10 أشياء في المقهى::قهوة~Coffee|ماكينة اسبريسو~Espresso machine|فنجان~Cup|كاشير~Cashier|كراسي~Seats|قائمة~Menu|كعك~Cake slice|مصاص~Straw|مقاعد خارجية~Outdoor seating|باريستا~Barista
+10 أشياء في صالون الحلاقة::كرسي حلاقة~Barber chair|مقص~Scissors|ماكينة~Clipper|مرآة~Mirror|مشط~Comb|منشفة~Towel|رغوة~Shaving foam|موس~Razor|شامبو~Shampoo|عطر~Cologne
+10 أشياء في محطة البنزين::مضخة~Fuel pump|بنزين~Gasoline|ديزل~Diesel|هواء الإطارات~Tire air|بقالة~Convenience store|غسيل سيارات~Car wash|كاشير~Cashier|مسجد~Mosque|منظف زجاج~Windshield cleaner|عامل~Attendant
+10 أشياء في المول::سلم كهربائي~Escalator|مطعم~Restaurant|محل ملابس~Clothing store|سينما~Cinema|ساحة أكل~Food court|مصعد~Elevator|موقف~Parking|مكتب خدمة~Information desk|ألعاب~Arcade|نافورة~Fountain
+10 أشياء في مدينة الألعاب::قطار الموت~Roller coaster|دولاب هواء~Ferris wheel|سيارات تصادم~Bumper cars|مرجيحة~Swing ride|بيت الرعب~Haunted house|قطن الحلوى~Cotton candy|ألعاب أركيد~Arcade games|بالونات~Balloons|دمية جائزة~Prize toy|تذكرة~Ticket
+10 أشياء في السينما::شاشة~Screen|مقعد~Seat|فشار~Popcorn|تذكرة~Ticket|نظارة ثلاثية الأبعاد~3D glasses|مشروب~Soda|إعلان~Trailer|مكيف~Air conditioning|ظلام~Darkness|ملصق فيلم~Poster
+10 أشياء في المسبح::ماء~Water|منشفة~Towel|نظارة سباحة~Goggles|سترة نجاة~Life jacket|عوامة~Float|سلم~Ladder|منقذ~Lifeguard|كرسي استلقاء~Lounge chair|مظلة~Umbrella|صافرة~Whistle
+10 أشياء نسويها في الصباح::نغسل وجهنا~Wash face|نفطر~Eat breakfast|نلبس~Get dressed|ننظف أسناننا~Brush teeth|نصلي~Pray|نشرب قهوة~Drink coffee|نشوف الجوال~Check phone|نركب السيارة~Drive|نصحى~Wake up|نرتب السرير~Make the bed
+10 أشياء نسويها قبل النوم::نغسل أسناننا~Brush teeth|نطفي النور~Turn off lights|نحط المنبه~Set alarm|نقرأ~Read|نشحن الجوال~Charge phone|نلبس البجامة~Wear pajamas|نشرب ماء~Drink water|نغطي نفسنا~Cover up|نغلق الباب~Lock door|نصلي~Pray
+10 أشياء في البنك::صراف~ATM|موظف~Bank employee|بطاقة~Bank card|دفتر شيكات~Checkbook|خزنة~Vault|حساب~Account|رقم سري~PIN|طابور~Queue|تحويل~Transfer|قرض~Loan
+10 أشياء في مكتب البريد والشحن::طرد~Parcel|ظرف~Envelope|طابع~Stamp|ميزان~Scale|صندوق~Box|شريط لاصق~Tape|عنوان~Address|ساعي~Courier|رقم تتبع~Tracking number|كرتون~Cardboard
+10 أشياء في ورشة السيارات::رافعة~Car lift|مفتاح ربط~Wrench|زيت~Engine oil|إطار~Tire|بطارية~Battery|فلتر~Filter|مفك~Screwdriver|مطرقة~Hammer|جاك~Jack|كمبيوتر فحص~Diagnostic scanner
+10 أشياء في الاجتماع::طاولة~Meeting table|شاشة عرض~Projector screen|جدول أعمال~Agenda|قلم~Pen|دفتر~Notebook|ماء~Water|محضر~Minutes|لابتوب~Laptop|عرض تقديمي~Presentation|قهوة~Coffee
+10 أشياء نشتريها من العطار::عود~Oud|مسك~Musk|بخور~Bukhoor|زعفران~Saffron|هيل~Cardamom|عسل~Honey|ماء ورد~Rose water|حبة البركة~Black seed|زعتر~Thyme|سدر~Sidr
+10 أشياء في محل الذهب::خاتم~Ring|سوار~Bracelet|عقد~Necklace|حلق~Earrings|سلسلة~Chain|دبلة~Wedding band|ساعة~Watch|ميزان~Scale|فاترينة~Display case|صائغ~Jeweler
+10 أشياء في القطار::مقعد~Seat|تذكرة~Ticket|رصيف~Platform|سكة~Rail|محطة~Station|قاطع تذاكر~Conductor|شباك~Window|حقيبة~Luggage|صافرة~Whistle|عربة~Carriage
+10 أشياء نستخدمها في الفرن::صينية~Baking tray|قفاز~Oven mitt|مؤقت~Timer|ورق خبز~Baking paper|رف~Rack|عجين~Dough|زبدة~Butter|ترمومتر~Thermometer|قالب~Mold|شوكة~Fork
+# food|drinks|food
+10 أنواع الشاي::شاي أحمر~Black tea|شاي أخضر~Green tea|شاي كرك~Karak tea~كرك|شاي بالنعناع~Mint tea|شاي مثلج~Iced tea|شاي بالحليب~Milk tea|شاي أبيض~White tea|شاي أعشاب~Herbal tea|شاي ياسمين~Jasmine tea|شاي ماتشا~Matcha
+10 أنواع الحليب::حليب بقر~Cow milk|حليب ماعز~Goat milk|حليب لوز~Almond milk|حليب صويا~Soy milk|حليب شوفان~Oat milk|حليب جوز الهند~Coconut milk|حليب مبخر~Evaporated milk|حليب مكثف~Condensed milk|حليب ناقة~Camel milk|حليب بودرة~Powdered milk
+10 أنواع اللحوم::دجاج~Chicken|لحم بقر~Beef|لحم غنم~Lamb~خروف|لحم جمل~Camel meat|ديك رومي~Turkey|لحم ماعز~Goat meat|بط~Duck|حمام~Pigeon|أرنب~Rabbit|لحم عجل~Veal
+10 أكلات يمنية مشهورة::مندي~Mandi|سلتة~Saltah|فحسة~Fahsa|عصيدة~Asida|مضغوط~Madghout|شفوت~Shafoot|زربيان~Zurbian|حنيذ~Haneeth|مطبق~Mutabbaq|بنت الصحن~Bint al-sahn
+10 أكلات عراقية مشهورة::دولمة~Dolma|كبة~Kubba|تمن ومرق~Timman wa marag|مسگوف~Masgouf|باجة~Pacha|قيمر~Qaimar|كباب عراقي~Iraqi kebab|برياني~Biryani|شوربة عدس~Lentil soup|كليجة~Kleicha
+10 أكلات إماراتية مشهورة::هريس~Harees|ثريد~Thareed|مجبوس~Machboos|لقيمات~Luqaimat|مضروبة~Madrooba|بلاليط~Balaleet|خنفروش~Khanfaroosh|رقاق~Regag|عصيدة~Aseeda|مدروبة~Madrouba
+10 أكلات أمريكية مشهورة::برغر~Burger|هوت دوغ~Hot dog|بان كيك~Pancakes|ماك آند تشيز~Mac and cheese|دجاج مقلي~Fried chicken|ستيك~Steak|ناتشوز~Nachos|بيتزا نيويورك~New York pizza|فطيرة تفاح~Apple pie|كوكيز~Cookies
+10 أكلات فرنسية مشهورة::كرواسون~Croissant|باغيت~Baguette|كريب~Crepe|كيش~Quiche|ماكارون~Macaron|إكلير~Eclair|رتاتوي~Ratatouille|سوفليه~Souffle|فوندو~Fondue|كريم بروليه~Creme brulee
+10 أكلات إسبانية مشهورة::باييا~Paella|تورتيا~Tortilla|غازباتشو~Gazpacho|تاباس~Tapas|تشوريزو~Chorizo|كروكيت~Croquettes|تشورو~Churros|سانغريا~Sangria|فلان~Flan|بطاطس برافاس~Patatas bravas
+10 أكلات تايلندية مشهورة::باد تاي~Pad Thai|توم يام~Tom Yum|كاري أخضر~Green curry|أرز مقلي~Fried rice|ساتاي~Satay|مانجو أرز لزج~Mango sticky rice|سلطة بابايا~Papaya salad|كاري أحمر~Red curry|فطيرة~Spring rolls|شاي تايلندي~Thai tea
+10 أشياء نحطها على الخبز::زبدة فول سوداني~Peanut butter|شوكولاتة تدهين~Chocolate spread~نوتيلا|مربى~Jam|عسل~Honey|جبنة مثلثات~Cheese triangles|لبنة~Labneh|زبدة~Butter|حمص~Hummus|بيض~Egg|زعتر~Zaatar
+10 أنواع الدقيق والنشويات::دقيق أبيض~White flour|دقيق أسمر~Whole wheat flour|نشا~Starch|سميد~Semolina|برغل~Bulgur|فريكة~Freekeh|شوفان~Oats|ذرة~Corn|أرز~Rice|شعير~Barley
+10 مكونات الكبسة::رز~Rice|دجاج~Chicken|لحم~Meat|بصل~Onion|طماطم~Tomato|لومي~Dried lime|هيل~Cardamom|قرفة~Cinnamon|قرنفل~Clove|زعفران~Saffron
+10 أشياء مع القهوة العربية::دلة~Dallah|فنجان~Finjan|هيل~Cardamom|زعفران~Saffron|تمر~Dates|حمّاسة~Roasting pan|مبخرة~Incense burner|فحم~Coals|قرنفل~Clove|مهباج~Mihbaj
+10 خضار ورقية::خس~Lettuce|سبانخ~Spinach|جرجير~Arugula|ملفوف~Cabbage|سلق~Chard|كيل~Kale|بقدونس~Parsley|نعناع~Mint|كزبرة~Coriander|بقلة~Purslane
+10 خضار تنمو تحت الأرض::جزر~Carrot|بطاطس~Potato|لفت~Turnip|شمندر~Beetroot|فجل~Radish|بطاطا حلوة~Sweet potato|بصل~Onion|ثوم~Garlic|زنجبيل~Ginger|كرفس~Celery root
+10 أنواع المشاوي::كباب~Kebab|شيش طاووق~Shish tawook|ريش غنم~Lamb chops|تكا~Tikka|كفتة~Kofta|ستيك~Steak|دجاج مشوي~Grilled chicken|سمك مشوي~Grilled fish|لحم مشوي~Grilled meat|سجق~Sausage
+10 سلطات مشهورة::تبولة~Tabbouleh|فتوش~Fattoush|سلطة يونانية~Greek salad|سيزر~Caesar salad|كولسلو~Coleslaw|سلطة جرجير~Arugula salad|سلطة بطاطس~Potato salad|سلطة فواكه~Fruit salad|سلطة تونة~Tuna salad|سلطة زبادي~Yogurt salad
+10 فطائر وحلويات حلوة::بان كيك~Pancake|وافل~Waffle|كريب~Crepe|دونات~Donut|تشورو~Churros|فرنش توست~French toast|مافن~Muffin|كب كيك~Cupcake|براوني~Brownie|رول قرفة~Cinnamon roll
+10 أكلات يحبها الأطفال::ناجتس~Nuggets|بيتزا~Pizza|بطاطس~Fries|برغر~Burger|مكرونة~Pasta|آيس كريم~Ice cream|شوكولاتة~Chocolate|فشار~Popcorn|عصير~Juice|كورن فليكس~Corn flakes
+10 أطعمة غنية بالبروتين::دجاج~Chicken|بيض~Egg|سمك~Fish|عدس~Lentils|حمص~Chickpeas|لبن~Yogurt|لحم~Meat|فول~Fava beans|جبن~Cheese|تونة~Tuna
+10 أشياء نأكلها بالملعقة::شوربة~Soup|زبادي~Yogurt|آيس كريم~Ice cream|عصيدة~Porridge|شوفان~Oatmeal|بودينغ~Pudding|أرز بحليب~Rice pudding|سلطة~Salad|مهلبية~Muhallabia|حبوب الفطور~Cereal
+10 مشروبات الطاقة والرياضة::ريد بول~Red Bull|مونستر~Monster|جاتوريد~Gatorade|باور هورس~Power Horse|بوم بوم~Boom Boom|باوراد~Powerade|ماكس~Max|كارابو~Carabao|ريزور~Rockstar|إكسترا~Extra
+10 ماركات المياه::أكوافينا~Aquafina|دازاني~Dasani|إيفيان~Evian|بيرييه~Perrier|نستله بيور لايف~Nestle Pure Life|فولفيك~Volvic|سان بيليغرينو~San Pellegrino|فوس~Voss|فيجي~Fiji|نوفا~Nova
+10 فواكه الصيف::بطيخ~Watermelon|شمام~Melon|مانجو~Mango|خوخ~Peach|عنب~Grapes|تين~Fig|كرز~Cherry|فراولة~Strawberry|مشمش~Apricot|برقوق~Plum
+10 أنواع الحمضيات::برتقال~Orange|يوسفي~Mandarin|ليمون~Lemon|ليمون أخضر~Lime|جريب فروت~Grapefruit|برتقال دموي~Blood orange|كلمنتين~Clementine|بوميلو~Pomelo|كمكوات~Kumquat|يوسف أفندي~Tangerine
+10 أنواع التوت::فراولة~Strawberry|توت أزرق~Blueberry|توت أسود~Blackberry|توت العليق~Raspberry|توت بري~Cranberry|كرز~Cherry|عنب~Grapes|كشمش~Currant|توت أحمر~Red mulberry|عنبية~Bilberry
+10 أنواع الشوكولاتة::شوكولاتة داكنة~Dark chocolate|شوكولاتة حليب~Milk chocolate|شوكولاتة بيضاء~White chocolate|شوكولاتة بالبندق~Hazelnut chocolate|شوكولاتة بالكراميل~Caramel chocolate|شوكولاتة بالنعناع~Mint chocolate|شوكولاتة باللوز~Almond chocolate|شوكولاتة بالبرتقال~Orange chocolate|شوكولاتة روبي~Ruby chocolate|شوكولاتة بالكوكيز~Cookies chocolate
+10 حلويات رمضان::قطايف~Qatayef|كنافة~Kunafa|لقيمات~Luqaimat|بسبوسة~Basbousa|أم علي~Um Ali|قمر الدين~Qamar al-din|بلح الشام~Balah el sham|زلابية~Zalabia|مهلبية~Muhallabia|عوامة~Awwama

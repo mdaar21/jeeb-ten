@@ -1,6 +1,6 @@
 import fs from 'node:fs';
-const files=['a','b','c'].map(name=>`data/easy-categories-${name}.txt`);
-const sections={daily:'حياة يومية',food:'أكل ومشروبات',nature:'علوم وطبيعة',games:'ألعاب وشخصيات',cartoons:'كرتون وأنمي',screen:'أفلام ومسلسلات',sport:'رياضة',travel:'دول وسفر',tech:'ماركات وتطبيقات'};
+const files=['a','b','c','d1','d2','d3','d4','d5'].map(name=>`data/easy-categories-${name}.txt`);
+const sections={daily:'حياة يومية',food:'أكل ومشروبات',nature:'علوم وطبيعة',culture:'تاريخ وثقافة',games:'ألعاب وشخصيات',cartoons:'كرتون وأنمي',screen:'أفلام ومسلسلات',sport:'رياضة',travel:'دول وسفر',tech:'ماركات وتطبيقات'};
 const references={
   vocabulary:['British Council — مفردات الحياة اليومية','https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2'],
   food:['موسوعة الأطعمة ومكوناتها','https://en.wikipedia.org/wiki/Lists_of_foods'],
@@ -38,6 +38,7 @@ const references={
   brands:['موسوعة العلامات التجارية','https://en.wikipedia.org/wiki/Lists_of_brands'],
   music:['الآلات الموسيقية','https://en.wikipedia.org/wiki/Musical_instrument'],
   science:['Britannica — العلوم والطبيعة','https://www.britannica.com/science/science'],
+  culture:['Britannica — التاريخ والثقافة','https://www.britannica.com/'],
 };
 const fold=s=>String(s).normalize('NFKD').replace(/\p{M}|ـ/gu,'').replace(/[أإآٱ]/g,'ا').replace(/[ىی]/g,'ي').replace(/ة/g,'ه').replace(/[^\p{L}\p{N}]/gu,'').toLowerCase();
 const oldFiles=fs.readdirSync('data').filter(f=>/^lists-(?:01-35|36-70|71-100|101-135|136-170|171-200)\.json$/.test(f));
@@ -46,7 +47,7 @@ function remember(entity,domain=''){for(const name of [entity.nameAr,...(entity.
 for(const category of old)for(const answer of [...category.answers,...(category.distractors||[])])remember(answer,category.domain||'');
 for(const question of JSON.parse(fs.readFileSync('data/geo-bank.json','utf8')))remember({nameAr:question.name,nameEn:question.nameEn,aliases:[]},question.kind==='city'?'cities':question.kind==='country'?'countries':'landmarks');
 for(const file of files){let metadata;for(const raw of fs.readFileSync(file,'utf8').split(/\r?\n/)){const line=raw.trim();if(!line)continue;if(line.startsWith('#')){metadata=line.slice(1).trim().split('|');continue;}const [title,answers]=line.split('::');if(!metadata||!answers)throw Error('Invalid row: '+line);const [section,domain,source]=metadata;rows.push({title,section,domain,source,answers:answers.split('|').map(value=>value.trim())});}}
-if(rows.length!==300)throw Error(`Expected 300 authored topics, got ${rows.length}`);
+if(rows.length!==550)throw Error(`Expected 550 authored topics, got ${rows.length}`);
 for(const row of rows)for(const value of row.answers){const [nameAr,nameEn,aliases]=value.split('~');if(nameEn)remember({nameAr,nameEn,aliases:aliases?aliases.split('^'):[]},row.domain);}
 const qualifiers={'cars-characters':'Cars','nemo-characters':'Finding Nemo','shrek-characters':'Shrek','kung-fu-panda-characters':'Kung Fu Panda','madagascar-characters':'Madagascar','ice-age-characters':'Ice Age','regular-show-characters':'Regular Show','ben10-characters':'Ben 10','tmnt-characters':'TMNT','disney-characters':'Disney','batman-characters':'DC','naruto-characters':'Naruto','one-piece-characters':'One Piece','dragon-ball-characters':'Dragon Ball'};
 const missing=[],duplicates=[],sets=new Map(old.map(c=>[c.answers.map(a=>fold(a.nameEn)).sort().join('|'),c.title]));
@@ -76,9 +77,10 @@ const categories=rows.map((row,index)=>{
   if(answers.length!==10)throw Error(`${id} ${row.title}: ${answers.length} answers`);
   if(new Set(answers.map(a=>fold(a.nameEn))).size!==10)duplicates.push(`${id}: duplicate answer in ${row.title}`);
   const set=answers.map(a=>fold(a.nameEn)).sort().join('|');if(sets.has(set))duplicates.push(`${id}: ${row.title} duplicates ${sets.get(set)}`);sets.set(set,row.title);
-  return{id,title:row.title,section:row.section,group:sections[row.section],icon:'',domain:row.domain,rankingType:'editorial',difficulty:'easy',region:row.source==='arab-screen'||/سعود|عربي|خليج|مصري|لبناني|شامي|مغرب|السفرة الخليجية/.test(row.title)?'arab':'global',description:`${row.title}. اكشف الأسماء العشرة بأي ترتيب.`,metric:'قائمة تحدٍّ بأسماء مألوفة. ترتيب المراكز خاص باللعبة، والمرجع يشرح الموضوع والأسماء، ولا يمثل تصويتًا أو إحصاءً عالميًا.',source:{title:sourceTitle,url:sourceUrl,asOf:'نوفمبر 2026',checkedAt:'2026-11-17'},answers};
+  return{id,title:row.title,section:row.section,group:sections[row.section],icon:'',domain:row.domain,rankingType:'editorial',difficulty:'easy',region:row.source==='arab-screen'||/سعود|عربي|عربية|خليج|إمارات|إماراتي|يمني|عراقي|مصري|لبناني|شامي|مغرب|السفرة الخليجية/.test(row.title)?'arab':'global',description:`${row.title}. اكشف الأسماء العشرة بأي ترتيب.`,metric:'قائمة تحدٍّ بأسماء مألوفة. ترتيب المراكز خاص باللعبة، والمرجع يشرح الموضوع والأسماء، ولا يمثل تصويتًا أو إحصاءً عالميًا.',source:{title:sourceTitle,url:sourceUrl,asOf:'نوفمبر 2026',checkedAt:'2026-11-17'},answers};
 });
 if(missing.length||duplicates.length){console.log(JSON.stringify({missing,duplicates},null,2));process.exit(1);}
 for(let i=0;i<3;i++)fs.writeFileSync(`data/lists-${201+i*100}-${300+i*100}.json`,JSON.stringify(categories.slice(i*100,(i+1)*100),null,2)+'\n');
-fs.writeFileSync('data/research-201-500.md',`# قوائم الحياة اليومية والمواضيع المألوفة\n\n300 موضوع مؤلف يدويًا، ولكل موضوع عشرة أسماء عربية وإنجليزية وبدائل شائعة. لا تُنشأ المواضيع بتبديل ترتيب القائمة نفسها؛ يفحص البناء عدم تكرار مجموعة الإجابات كاملة. بعض المواضيع مترابطة، مثل أدوات البيت وأدوات المدرسة. المراكز من إعداد اللعبة وليست ترتيبًا منقولًا عن المرجع.\n\nالمراجع المستخدمة لتعريف الموضوع والأسماء:\n${Object.values(references).map(([title,url])=>'- '+title+': '+url).join('\n')}\n\nتُراجع الأسماء والأجزاء والأرقام في اختبارات مطابقة الإجابات. مصادر الدول والمدن من بيانات Natural Earth الموثقة أيضًا في geo-sources.md. تاريخ المراجعة: 2026-11-17.\n`);
+fs.writeFileSync(`data/lists-501-750.json`,JSON.stringify(categories.slice(300),null,2)+'\n');
+fs.writeFileSync('data/research-201-500.md',`# قوائم الحياة اليومية والمواضيع المألوفة\n\n550 موضوع مؤلف يدويًا، ولكل موضوع عشرة أسماء عربية وإنجليزية وبدائل شائعة. لا تُنشأ المواضيع بتبديل ترتيب القائمة نفسها؛ يفحص البناء عدم تكرار مجموعة الإجابات كاملة. بعض المواضيع مترابطة، مثل أدوات البيت وأدوات المدرسة. المراكز من إعداد اللعبة وليست ترتيبًا منقولًا عن المرجع.\n\nالمراجع المستخدمة لتعريف الموضوع والأسماء:\n${Object.values(references).map(([title,url])=>'- '+title+': '+url).join('\n')}\n\nتُراجع الأسماء والأجزاء والأرقام في اختبارات مطابقة الإجابات. مصادر الدول والمدن من بيانات Natural Earth الموثقة أيضًا في geo-sources.md. تاريخ المراجعة: 2026-11-17.\n`);
 console.log(JSON.stringify({categories:categories.length,answers:categories.length*10,sections:Object.fromEntries(Object.keys(sections).map(s=>[s,categories.filter(c=>c.section===s).length]))}));

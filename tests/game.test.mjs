@@ -5,8 +5,8 @@ import { createGame, makeAttempt, publicGame, getResults, resolveAnswer, normali
 const catalog=JSON.parse(fs.readFileSync(new URL('../data/catalog.json',import.meta.url),'utf8'));
 const category=id=>catalog.find(c=>c.id===id);
 
-test('500 categories and 5000 ranked answers',()=>{
-  assert.equal(catalog.length,500);assert.equal(new Set(catalog.map(c=>c.id)).size,500);
+test('750 categories and 7500 ranked answers',()=>{
+  assert.equal(catalog.length,750);assert.equal(new Set(catalog.map(c=>c.id)).size,750);
   for(const c of catalog){assert.equal(c.answers.length,10);assert.deepEqual(c.answers.map(a=>a.rank).sort((a,b)=>a-b),[1,2,3,4,5,6,7,8,9,10]);assert.ok(c.source.url.startsWith('https://'));assert.ok(c.source.asOf);}
 });
 test('Arabic normalization and numeric parts retain identity',()=>{
@@ -64,7 +64,7 @@ test('every ranked English name is identifiable or genuinely ambiguous',()=>{
   for(const c of catalog)for(const a of c.answers){const m=resolveAnswer(a.nameEn,c,catalog);if(m.kind==='unknown'||m.kind==='suggest')failed.push(`${c.id}: ${a.nameEn} => ${m.kind}`);else if(m.kind==='exact'&&key(m.entity)!==key(a))failed.push(`${c.id}: mismatched ${a.nameEn}`);}
   assert.deepEqual(failed,[]);
 });
-test('all 5000 answers can be reached with an explicit accepted name',()=>{
+test('all 7500 answers can be reached with an explicit accepted name',()=>{
   const failed=[];
   for(const c of catalog)for(const a of c.answers){
     const queries=[a.nameEn,a.nameAr,...a.aliases,`${a.series||a.nameEn} ${a.part||a.year||''}`,`${a.nameAr} ${a.part||a.year||''}`];

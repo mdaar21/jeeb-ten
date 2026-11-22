@@ -1,0 +1,54 @@
+# sport|football-terms|football
+10 مصطلحات كرة القدم::ركلة جزاء~Penalty|تسلل~Offside|ركلة حرة~Free kick|ركنية~Corner kick|رمية تماس~Throw-in|بطاقة صفراء~Yellow card|بطاقة حمراء~Red card|هدف~Goal|تمريرة~Pass|تسديدة~Shot
+10 منتخبات مشهورة في كأس العالم::البرازيل~Brazil|ألمانيا~Germany|إيطاليا~Italy|الأرجنتين~Argentina|فرنسا~France|إنجلترا~England|إسبانيا~Spain|هولندا~Netherlands|البرتغال~Portugal|كرواتيا~Croatia
+10 منتخبات عربية مشهورة::السعودية~Saudi Arabia|المغرب~Morocco|تونس~Tunisia|مصر~Egypt|الجزائر~Algeria|قطر~Qatar|الإمارات~United Arab Emirates|الأردن~Jordan|العراق~Iraq|الكويت~Kuwait
+10 ملاعب كرة قدم شهيرة::كامب نو~Camp Nou|سانتياغو برنابيو~Santiago Bernabeu|أولد ترافورد~Old Trafford|أنفيلد~Anfield|ويمبلي~Wembley|ماراكانا~Maracana|سان سيرو~San Siro|أليانز أرينا~Allianz Arena|الاتحاد~Etihad Stadium|ويستفالن~Signal Iduna Park
+10 منتخبات أفريقية::مصر~Egypt|نيجيريا~Nigeria|السنغال~Senegal|المغرب~Morocco|الكاميرون~Cameroon|غانا~Ghana|ساحل العاج~Ivory Coast|الجزائر~Algeria|تونس~Tunisia|جنوب أفريقيا~South Africa
+10 أندية أوروبية مشهورة أخرى::أياكس~Ajax|بورتو~Porto|بنفيكا~Benfica|سبورتينغ~Sporting CP|بي إس في~PSV|سلتيك~Celtic|غلطة سراي~Galatasaray|فنربخشة~Fenerbahce|بشكتاش~Besiktas|فينورد~Feyenoord
+10 أندية أمريكا الجنوبية::بوكا جونيورز~Boca Juniors|ريفر بليت~River Plate|فلامنغو~Flamengo|سانتوس~Santos|بالميراس~Palmeiras|كورنثيانز~Corinthians|بينارول~Penarol|ناسيونال~Nacional|إنديبندينتي~Independiente|ساو باولو~Sao Paulo
+10 نجوم كرة قدم إيطاليين::توتي~Totti|بيرلو~Pirlo|مالديني~Maldini|بوفون~Buffon|باجيو~Baggio|ديل بييرو~Del Piero|كانافارو~Cannavaro|نيستا~Nesta|إنزاغي~Inzaghi|كييليني~Chiellini
+10 نجوم كرة قدم إنجليز::بيكهام~Beckham|روني~Rooney|جيرارد~Gerrard|لامبارد~Lampard|هاري كين~Harry Kane|أوين~Owen|شيرر~Shearer|بيلينغهام~Bellingham|ساكا~Saka|تيري~Terry
+10 نجوم الدوري السعودي الأجانب::رونالدو~Ronaldo|بنزيما~Benzema|نيمار~Neymar|محرز~Mahrez|كانتي~Kante|ماني~Mane|فيرمينو~Firmino|ميتروفيتش~Mitrovic|كوليبالي~Koulibaly|بروزوفيتش~Brozovic
+10 لاعبين مغاربة مشهورين::حكيمي~Hakimi|زياش~Ziyech|النصيري~En-Nesyri|أمرابط~Amrabat|بونو~Bounou|أوناحي~Ounahi|مزراوي~Mazraoui|بوفال~Boufal|سايس~Saiss|الكعبي~El Kaabi
+10 نجوم برشلونة::ميسي~Messi|تشافي~Xavi|إنييستا~Iniesta|بويول~Puyol|بيكيه~Pique|رونالدينيو~Ronaldinho|إيتو~Eto'o|بوسكيتس~Busquets|سواريز~Suarez|نيمار~Neymar
+10 نجوم ريال مدريد::رونالدو~Cristiano Ronaldo|زيدان~Zidane|راؤول~Raul|كاسياس~Casillas|راموس~Ramos|مودريتش~Modric|بنزيما~Benzema|كروس~Kroos|فيغو~Figo|روبرتو كارلوس~Roberto Carlos
+# sport|athletics|sports
+10 أنواع ألعاب القوى::سباق 100 متر~100 meters|ماراثون~Marathon|قفز طويل~Long jump|قفز عالي~High jump|رمي الجلة~Shot put|رمي الرمح~Javelin|رمي القرص~Discus|حواجز~Hurdles|تتابع~Relay|قفز بالزانة~Pole vault
+10 رياضات شتوية::تزلج~Skiing|تزلج على الثلج~Snowboarding|هوكي الجليد~Ice hockey|تزلج على الجليد~Ice skating|كيرلنغ~Curling|بوبسلاي~Bobsled|زلاجة~Luge|بياثلون~Biathlon|تسلق الجليد~Ice climbing|تزلج قفز~Ski jumping
+10 رياضات بمضرب أو عصا::تنس~Tennis|ريشة طائرة~Badminton|اسكواش~Squash|تنس طاولة~Table tennis|بادل~Padel|كريكيت~Cricket|بيسبول~Baseball|غولف~Golf|هوكي~Hockey|بولو~Polo
+10 لاعبي تنس مشهورين::فيدرر~Federer|نادال~Nadal|ديوكوفيتش~Djokovic|سيرينا ويليامز~Serena Williams|موراي~Murray|سامبراس~Sampras|أغاسي~Agassi|ألكاراز~Alcaraz|سينر~Sinner|فينوس ويليامز~Venus Williams
+10 أبطال الفورمولا 1::هاميلتون~Hamilton|شوماخر~Schumacher|فيرستابن~Verstappen|سينا~Senna|فيتل~Vettel|ألونسو~Alonso|بروست~Prost|رايكونن~Raikkonen|لوكلير~Leclerc|نوريس~Norris
+10 فرق الفورمولا 1::فيراري~Ferrari|مرسيدس~Mercedes|ريد بول~Red Bull|مكلارين~McLaren|ويليامز~Williams|أستون مارتن~Aston Martin|ألبين~Alpine|هاس~Haas|ساوبر~Sauber|رايسينغ بولز~Racing Bulls
+10 سباقات مشهورة::رالي داكار~Dakar Rally|طواف فرنسا~Tour de France|لومان~Le Mans|موناكو~Monaco Grand Prix|إنديانابوليس 500~Indy 500|ماراثون بوسطن~Boston Marathon|آيرون مان~Ironman|طواف إيطاليا~Giro d'Italia|طواف إسبانيا~Vuelta|ماراثون لندن~London Marathon
+10 رياضات مغامرة::قفز بالمظلات~Skydiving|طيران شراعي~Paragliding|قفز بالحبل~Bungee jumping|زيب لاين~Zipline|منطاد~Hot air balloon|تسلق جبال~Mountain climbing|غوص~Scuba diving|رافتنغ~Rafting|ركوب أمواج~Surfing|تزلج مائي~Water skiing
+10 أبطال الملاكمة::محمد علي كلاي~Muhammad Ali|مايك تايسون~Mike Tyson|فلويد مايويذر~Floyd Mayweather|ماني باكياو~Manny Pacquiao|تايسون فيوري~Tyson Fury|أنتوني جوشوا~Anthony Joshua|كانيلو~Canelo|أوليكساندر أوسيك~Oleksandr Usyk|جو فريزر~Joe Frazier|جورج فورمان~George Foreman
+10 مقاتلون في الفنون القتالية المختلطة::خبيب نورمحمدوف~Khabib Nurmagomedov|كونور ماكجريجور~Conor McGregor|جون جونز~Jon Jones|إسرائيل أديسانيا~Israel Adesanya|فرانسيس نغانو~Francis Ngannou|أندرسون سيلفا~Anderson Silva|جورج سان بيير~Georges St-Pierre|إسلام ماخاتشيف~Islam Makhachev|دستن بورييه~Dustin Poirier|ألكسندر فولكانوفسكي~Alexander Volkanovski
+10 أبطال أولمبيين::أوسين بولت~Usain Bolt|مايكل فيلبس~Michael Phelps|كارل لويس~Carl Lewis|محمد فرح~Mo Farah|سيمون بايلز~Simone Biles|إليود كيبشوجي~Eliud Kipchoge|فلورنس غريفيث~Florence Griffith|أليسون فيليكس~Allyson Felix|مايكل جونسون~Michael Johnson|جيسي أوينز~Jesse Owens
+10 مصطلحات كرة السلة::دانك~Dunk|ثلاثية~Three-pointer|ريباوند~Rebound|أسيست~Assist|بلوك~Block|ستيل~Steal|رمية حرة~Free throw|ليب~Layup|خطأ~Foul|كرة قفز~Jump ball
+# travel|airports|travel
+10 مطارات كبيرة::دبي~Dubai International|هيثرو~Heathrow|شانغي~Changi|حمد~Hamad International|الملك خالد~King Khalid International|كينيدي~JFK|إسطنبول~Istanbul Airport|شارل ديغول~Charles de Gaulle|القاهرة~Cairo International|فرانكفورت~Frankfurt
+# travel|cities-uae|geography
+10 مدن إماراتية::دبي~Dubai|أبوظبي~Abu Dhabi|الشارقة~Sharjah|عجمان~Ajman|رأس الخيمة~Ras Al Khaimah|الفجيرة~Fujairah|أم القيوين~Umm Al Quwain|العين~Al Ain|خورفكان~Khor Fakkan|دبا~Dibba
+10 مدن خليجية::الرياض~Riyadh|الدوحة~Doha|مدينة الكويت~Kuwait City|المنامة~Manama|مسقط~Muscat|دبي~Dubai|أبوظبي~Abu Dhabi|جدة~Jeddah|صلالة~Salalah|الدمام~Dammam
+10 مدن شامية::عمّان~Amman|بيروت~Beirut|دمشق~Damascus|حلب~Aleppo|القدس~Jerusalem|طرابلس~Tripoli Lebanon|صيدا~Sidon|العقبة~Aqaba|حمص~Homs|إربد~Irbid
+10 مدن في وسط وشمال السعودية::الرياض~Riyadh|بريدة~Buraydah|حائل~Hail|تبوك~Tabuk|سكاكا~Sakaka|عرعر~Arar|عنيزة~Unaizah|المجمعة~Al Majmaah|الخرج~Al Kharj|حفر الباطن~Hafar Al Batin
+10 مدن في جنوب السعودية::أبها~Abha|جازان~Jazan|نجران~Najran|خميس مشيط~Khamis Mushait|الباحة~Al Baha|بيشة~Bisha|صبيا~Sabya|محايل~Muhayil|رجال ألمع~Rijal Alma|النماص~Al Namas
+10 جزر مشهورة::بالي~Bali|المالديف~Maldives|هاواي~Hawaii|سانتوريني~Santorini|مايوركا~Mallorca|بوكيت~Phuket|زنجبار~Zanzibar|صقلية~Sicily|كريت~Crete|سيشل~Seychelles
+10 دول شمال أوروبا والجزر البريطانية::النرويج~Norway|السويد~Sweden|فنلندا~Finland|الدنمارك~Denmark|آيسلندا~Iceland|إستونيا~Estonia|لاتفيا~Latvia|ليتوانيا~Lithuania|أيرلندا~Ireland|بريطانيا~United Kingdom
+10 دول جنوب ووسط آسيا::الهند~India|باكستان~Pakistan|بنغلاديش~Bangladesh|نيبال~Nepal|سريلانكا~Sri Lanka|بوتان~Bhutan|أفغانستان~Afghanistan|المالديف~Maldives|كازاخستان~Kazakhstan|أوزبكستان~Uzbekistan
+10 دول جنوب شرق آسيا::تايلند~Thailand|فيتنام~Vietnam|ماليزيا~Malaysia|إندونيسيا~Indonesia|الفلبين~Philippines|سنغافورة~Singapore|كمبوديا~Cambodia|لاوس~Laos|ميانمار~Myanmar|بروناي~Brunei
+10 ولايات أمريكية مشهورة::كاليفورنيا~California|تكساس~Texas|فلوريدا~Florida|نيويورك~New York|نيفادا~Nevada|هاواي~Hawaii|ألاسكا~Alaska|واشنطن~Washington|إلينوي~Illinois|أريزونا~Arizona
+10 مدن إيطالية::روما~Rome|ميلانو~Milan|البندقية~Venice|فلورنسا~Florence|نابولي~Naples|تورينو~Turin|بولونيا~Bologna|فيرونا~Verona|بيزا~Pisa|جنوة~Genoa
+10 مدن إسبانية::مدريد~Madrid|برشلونة~Barcelona|إشبيلية~Seville|فالنسيا~Valencia|غرناطة~Granada|ملقا~Malaga|بلباو~Bilbao|طليطلة~Toledo|قرطبة~Cordoba|سرقسطة~Zaragoza
+10 مدن يابانية::طوكيو~Tokyo|كيوتو~Kyoto|أوساكا~Osaka|هيروشيما~Hiroshima|ناغويا~Nagoya|سابورو~Sapporo|يوكوهاما~Yokohama|نارا~Nara|كوبي~Kobe|فوكوكا~Fukuoka
+10 مدن صينية وكورية::بكين~Beijing|شنغهاي~Shanghai|هونغ كونغ~Hong Kong|شنزن~Shenzhen|قوانغتشو~Guangzhou|سيول~Seoul|بوسان~Busan|ماكاو~Macau|تشنغدو~Chengdu|إنتشون~Incheon
+10 مدن أفريقية::القاهرة~Cairo|لاغوس~Lagos|نيروبي~Nairobi|كيب تاون~Cape Town|الدار البيضاء~Casablanca|أديس أبابا~Addis Ababa|جوهانسبرغ~Johannesburg|أكرا~Accra|داكار~Dakar|دار السلام~Dar es Salaam
+10 مدن أمريكا اللاتينية::ريو دي جانيرو~Rio de Janeiro|ساو باولو~Sao Paulo|بوينس آيرس~Buenos Aires|ليما~Lima|بوغوتا~Bogota|سانتياغو~Santiago|مكسيكو سيتي~Mexico City|هافانا~Havana|كاراكاس~Caracas|كيتو~Quito
+10 مدن عراقية ويمنية::بغداد~Baghdad|البصرة~Basra|الموصل~Mosul|أربيل~Erbil|النجف~Najaf|كربلاء~Karbala|صنعاء~Sanaa|عدن~Aden|تعز~Taiz|المكلا~Mukalla
+10 مدن ليبية وجزائرية وتونسية::طرابلس~Tripoli Libya|بنغازي~Benghazi|الجزائر~Algiers|وهران~Oran|تونس~Tunis|صفاقس~Sfax|سوسة~Sousse|قسنطينة~Constantine|مصراتة~Misrata|عنابة~Annaba
+10 معالم باريس::برج إيفل~Eiffel Tower|اللوفر~Louvre|نوتردام~Notre-Dame|قوس النصر~Arc de Triomphe|مونمارتر~Montmartre|كنيسة القلب المقدس~Sacre-Coeur|الشانزليزيه~Champs-Elysees|قصر فرساي~Versailles|نهر السين~Seine|مولان روج~Moulin Rouge
+10 معالم لندن::بيغ بن~Big Ben|جسر البرج~Tower Bridge|عين لندن~London Eye|قصر باكنغهام~Buckingham Palace|برج لندن~Tower of London|هايد بارك~Hyde Park|وستمنستر~Westminster Abbey|ميدان ترافالغار~Trafalgar Square|المتحف البريطاني~British Museum|بيكاديلي~Piccadilly Circus
+10 معالم نيويورك::تمثال الحرية~Statue of Liberty|تايمز سكوير~Times Square|سنترال بارك~Central Park|إمباير ستيت~Empire State Building|جسر بروكلين~Brooklyn Bridge|برج التجارة العالمي~One World Trade Center|برودواي~Broadway|وول ستريت~Wall Street|هاي لاين~High Line|روكفلر~Rockefeller Center
+10 معالم دبي::برج خليفة~Burj Khalifa|دبي مول~Dubai Mall|نخلة جميرا~Palm Jumeirah|برج العرب~Burj Al Arab|إطار دبي~Dubai Frame|نافورة دبي~Dubai Fountain|متحف المستقبل~Museum of the Future|القرية العالمية~Global Village|دبي مارينا~Dubai Marina|حديقة الورود~Miracle Garden
+10 معالم إسطنبول::آيا صوفيا~Hagia Sophia|المسجد الأزرق~Blue Mosque|توبكابي~Topkapi Palace|برج غلطة~Galata Tower|البازار الكبير~Grand Bazaar|البوسفور~Bosphorus|الصهريج الغارق~Basilica Cistern|تقسيم~Taksim Square|برج الفتاة~Maiden's Tower|دولمة بهتشة~Dolmabahce Palace
+10 مدن ألمانية وفرنسية::برلين~Berlin|ميونخ~Munich|هامبورغ~Hamburg|فرانكفورت~Frankfurt|باريس~Paris|مرسيليا~Marseille|ليون~Lyon|نيس~Nice|كولونيا~Cologne|تولوز~Toulouse

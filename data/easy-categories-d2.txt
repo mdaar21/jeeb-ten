@@ -1,0 +1,49 @@
+# food|oils|food
+10 أنواع الزيوت والدهون::زيت زيتون~Olive oil|زيت ذرة~Corn oil|زيت دوار الشمس~Sunflower oil|سمن~Ghee|زبدة~Butter|زيت جوز الهند~Coconut oil|زيت سمسم~Sesame oil|زيت كانولا~Canola oil|خل تفاح~Apple vinegar|دهن~Animal fat
+# nature|wild-animals|animals
+10 حيوانات الغابة المطيرة::جاغوار~Jaguar|قرد العنكبوت~Spider monkey|ببغاء~Parrot|كسلان~Sloth|أناكوندا~Anaconda|توكان~Toucan|ضفدع سام~Poison dart frog|تابير~Tapir|فراشة مورفو~Blue morpho butterfly|نمر~Tiger
+10 حيوانات السافانا::أسد~Lion|فيل~Elephant|زرافة~Giraffe|حمار وحشي~Zebra|وحيد القرن~Rhinoceros|فهد~Cheetah|ضبع~Hyena|جاموس~Buffalo|نعامة~Ostrich|ظبي~Gazelle
+10 أنواع القطط::شيرازي~Persian cat|سيامي~Siamese cat|بنغال~Bengal cat|مين كون~Maine Coon|سفنكس~Sphynx|بريطاني قصير الشعر~British Shorthair|روسي أزرق~Russian Blue|رجدول~Ragdoll|حبشي~Abyssinian|سكوتش فولد~Scottish Fold
+10 أنواع الكلاب::بوكسر~Boxer|هاسكي~Husky|جولدن ريتريفر~Golden Retriever|بلدوغ~Bulldog|شيواوا~Chihuahua|بودل~Poodle|راعي ألماني~German Shepherd|لابرادور~Labrador|دالميشن~Dalmatian|بيغل~Beagle
+10 طيور مائية::بط~Duck|إوز~Goose|بجع~Pelican|فلامنغو~Flamingo|بطريق~Penguin|نورس~Seagull|لقلق~Stork|مالك الحزين~Heron|بجعة~Swan|كركي~Crane
+10 حيوانات مشهورة بالقفز::كنغر~Kangaroo|أرنب~Rabbit|ضفدع~Frog|جرادة~Grasshopper|برغوث~Flea|جربوع~Jerboa|غزال~Springbok|صرصور الليل~Cricket|والابي~Wallaby|دلفين~Dolphin
+10 أسرع الحيوانات::فهد صياد~Cheetah|صقر شاهين~Peregrine falcon|ظبي أمريكي~Pronghorn|نعامة~Ostrich|كلب السباق~Greyhound|حصان~Horse|أسد~Lion|غزال~Springbok|سمكة الشراع~Sailfish|أرنب بري~Hare
+10 أضخم الحيوانات::حوت أزرق~Blue whale|فيل~Elephant|زرافة~Giraffe|فرس النهر~Hippopotamus|وحيد القرن~Rhinoceros|قرش الحوت~Whale shark|دب قطبي~Polar bear|فظ~Walrus|تمساح~Crocodile|بيسون~Bison
+10 حيوانات نأخذ منها منتجات::نحلة~Bee|دودة القز~Silkworm|خروف~Sheep|بقرة~Cow|دجاجة~Hen|ماعز~Goat|ناقة~Camel|بطة~Duck|ألباكا~Alpaca|لاما~Llama
+10 نباتات وأشجار الصحراء::نخلة~Date palm|صبار~Cactus|سدر~Sidr|غاف~Ghaf|أكاسيا~Acacia|ألوفيرا~Aloe vera|أثل~Tamarisk|أغاف~Agave|تين شوكي~Prickly pear|يوكا~Yucca
+10 نباتات الزينة المنزلية::صبار~Cactus|ألوفيرا~Aloe vera|بوتس~Pothos|سنسفيريا~Snake plant|سرخس~Fern|مطاط~Rubber plant|نبات العنكبوت~Spider plant|زنبق السلام~Peace lily|مونستيرا~Monstera|نبات اليشم~Jade plant
+10 أحجار كريمة::ألماس~Diamond|ياقوت أحمر~Ruby|زمرد~Emerald|عقيق~Agate|فيروز~Turquoise|ياقوت أزرق~Sapphire|توباز~Topaz|جمشت~Amethyst|أوبال~Opal|لؤلؤ~Pearl
+10 معادن معروفة::ذهب~Gold|فضة~Silver|نحاس~Copper|حديد~Iron|ألومنيوم~Aluminium|زنك~Zinc|رصاص~Lead|قصدير~Tin|بلاتين~Platinum|نيكل~Nickel
+10 القارات والمحيطات::آسيا~Asia|أفريقيا~Africa|أوروبا~Europe|أمريكا الشمالية~North America|أمريكا الجنوبية~South America|القطب الجنوبي~Antarctica|أستراليا~Australia|المحيط الهادئ~Pacific Ocean|المحيط الأطلسي~Atlantic Ocean|المحيط الهندي~Indian Ocean
+10 أشياء نشوفها في السماء بالليل::قمر~Moon|نجوم~Stars|مذنب~Comet|شهاب~Meteor|كوكب~Planet|مجرة~Galaxy|قمر صناعي~Satellite|شفق قطبي~Aurora|كوكبة~Constellation|درب التبانة~Milky Way
+10 أنواع الطقس::مطر~Rain|ثلج~Snow|برد~Hail|ضباب~Fog|عاصفة رعدية~Thunderstorm|رياح~Wind|غبار~Dust|صقيع~Frost|قوس قزح~Rainbow|حر~Heat wave
+10 أجزاء النبات::جذر~Root|ساق~Stem|ورقة~Leaf|زهرة~Flower|ثمرة~Fruit|بذرة~Seed|برعم~Bud|غصن~Branch|شوكة~Thorn|بتلة~Petal
+10 مصادر الطاقة::طاقة شمسية~Solar energy|طاقة الرياح~Wind energy|نفط~Oil|غاز طبيعي~Natural gas|فحم~Coal|طاقة نووية~Nuclear energy|كهرومائية~Hydropower|طاقة حرارية أرضية~Geothermal energy|وقود حيوي~Biofuel|هيدروجين~Hydrogen
+10 أجزاء الوجه::عين~Eye|أنف~Nose|فم~Mouth|أذن~Ear|حاجب~Eyebrow|جبهة~Forehead|خد~Cheek|ذقن~Chin|رمش~Eyelash|شفة~Lip
+10 أجزاء اليد والقدم::إبهام~Thumb|سبابة~Index finger|وسطى~Middle finger|بنصر~Ring finger|خنصر~Little finger|كف~Palm|معصم~Wrist|كاحل~Ankle|ركبة~Knee|كعب~Heel
+10 كوارث طبيعية::زلزال~Earthquake|بركان~Volcano|فيضان~Flood|إعصار~Hurricane|تسونامي~Tsunami|حريق غابات~Wildfire|انهيار أرضي~Landslide|جفاف~Drought|عاصفة رملية~Sandstorm|عاصفة ثلجية~Blizzard
+10 أشياء نشوفها في الصحراء::رمال~Sand|كثبان~Dunes|نخل~Palm trees|جمل~Camel|خيمة~Tent|واحة~Oasis|سراب~Mirage|شمس~Sun|نجوم~Stars|صقر~Falcon
+10 أسماك الزينة::سمكة ذهبية~Goldfish|بيتا~Betta|غوبي~Guppy|أنجل~Angelfish|سمكة المهرج~Clownfish|نيون تترا~Neon tetra|أوسكار~Oscar|مولي~Molly|ديسكس~Discus|كوي~Koi
+10 حيوانات ليلية::بومة~Owl|خفاش~Bat|ثعلب~Fox|قنفذ~Hedgehog|راكون~Raccoon|ذئب~Wolf|ضبع~Hyena|قط بري~Wild cat|أبو بريص~Gecko|فأر~Mouse
+10 غازات معروفة::أكسجين~Oxygen|نيتروجين~Nitrogen|هيدروجين~Hydrogen|هيليوم~Helium|ثاني أكسيد الكربون~Carbon dioxide|ميثان~Methane|أرغون~Argon|نيون~Neon|أوزون~Ozone|كلور~Chlorine
+# games|shooters|games
+10 أسلحة مألوفة في ألعاب الإطلاق::كلاشنكوف~AK-47|إم فور~M4A1|قناصة~AWP|ديزرت إيجل~Desert Eagle|شوتغن~Shotgun|سكين~Knife|قنبلة~Grenade|مسدس~Pistol|رشاش~SMG|بندقية قنص~Sniper rifle
+10 ألعاب باتل رويال::فورتنايت~Fortnite|ببجي~PUBG|فري فاير~Free Fire|أبكس ليجندز~Apex Legends|وارزون~Warzone|فول جايز~Fall Guys|إتش ون زد ون~H1Z1|ريلم رويال~Realm Royale|سبيلبريك~Spellbreak|ناراكا~Naraka Bladepoint
+10 ألعاب مشهورة على الكمبيوتر::ماينكرافت~Minecraft|فورتنايت~Fortnite|دوتا 2~Dota 2|كاونتر سترايك~Counter-Strike|فالورانت~Valorant|ليج أوف ليجندز~League of Legends|روبلوكس~Roblox|تيراريا~Terraria|أمونج أس~Among Us|ستاردو فالي~Stardew Valley
+10 ألعاب المحاكاة::ذا سيمز~The Sims|فارمنج سيميوليتر~Farming Simulator|يورو ترك~Euro Truck Simulator|فلايت سيميوليتر~Flight Simulator|سيتيز سكايلاينز~Cities Skylines|بلانيت زو~Planet Zoo|أنيمال كروسينغ~Animal Crossing|باور واش سيميوليتر~PowerWash Simulator|جست دانس~Just Dance|ثيم بارك~Theme Park
+10 ألعاب القتال::مورتال كومبات~Mortal Kombat|ستريت فايتر~Street Fighter|تيكن~Tekken|سوبر سماش براذرز~Super Smash Bros|إنجستس~Injustice|دراغون بول فايترز~Dragon Ball FighterZ|سول كاليبر~Soulcalibur|جيلتي جير~Guilty Gear|كيلر إنستنكت~Killer Instinct|براولهالا~Brawlhalla
+10 ألعاب الاستراتيجية::إيج أوف إمباير~Age of Empires|سيفيلايزيشن~Civilization|كلاش أوف كلانس~Clash of Clans|كوماند آند كونكر~Command and Conquer|ستاركرافت~StarCraft|وور كرافت~Warcraft|توتال وور~Total War|رايز أوف كينغدمز~Rise of Kingdoms|هارتس أوف آيرون~Hearts of Iron|ستروهولد~Stronghold
+10 ألعاب الطبخ والإدارة::أوفركوكد~Overcooked|ديني داش~Diner Dash|كوكينغ فيفر~Cooking Fever|بابا بيتزيريا~Papa's Pizzeria|هاي داي~Hay Day|كوكينغ ماما~Cooking Mama|بيرغر شوب~Burger Shop|بيزا تاور~Pizza Tower|ريستورانت ستوري~Restaurant Story|دريم دينر~Dream Diner
+10 ألعاب روبلوكس::أدوبت مي~Adopt Me|بروك هافن~Brookhaven|بلوكس فروتس~Blox Fruits|مرد ميستري~Murder Mystery 2|تاور أوف هيل~Tower of Hell|جيل بريك~Jailbreak|بت سيميوليتر~Pet Simulator|رويال هاي~Royale High|أرسنال~Arsenal|بي سوارم~Bee Swarm Simulator
+10 ألعاب العالم المفتوح::جي تي أيه~GTA|ريد ديد~Red Dead Redemption|سكايريم~Skyrim|ذا ويتشر~The Witcher|زيلدا~Zelda Breath of the Wild|أساسنز كريد~Assassin's Creed|سايبربنك~Cyberpunk 2077|إلدن رينغ~Elden Ring|جوست أوف تسوشيما~Ghost of Tsushima|هورايزن~Horizon
+10 أزرار الكيبورد في الألعاب::دبليو~W|إيه~A|إس~S|دي~D|مسافة~Space|شيفت~Shift|كنترول~Ctrl|إي~E|تاب~Tab|إيسكيب~Esc
+10 ملحقات الألعاب::سماعة~Headset|يد تحكم~Controller|كيبورد~Keyboard|ماوس~Mouse|ماوس باد~Mouse pad|كرسي قيمنق~Gaming chair|شاشة~Monitor|كارت التقاط~Capture card|نظارة واقع افتراضي~VR headset|عصا تحكم~Joystick
+10 بطولات وأحداث الألعاب::إيفو~EVO|ذا إنترناشونال~The International|بطولة العالم~Worlds|كأس العالم للرياضات الإلكترونية~Esports World Cup|جيمزكوم~Gamescom|إي ثري~E3|بليزكون~BlizzCon|تويتش كون~TwitchCon|جيمرز إيت~Gamers8|دريم هاك~DreamHack
+10 رتب الألعاب التنافسية::برونزي~Bronze|فضي~Silver|ذهبي~Gold|بلاتيني~Platinum|ألماسي~Diamond|ماستر~Master|جراند ماستر~Grandmaster|تشالنجر~Challenger|أسطوري~Legend|كونكرر~Conqueror
+10 أنواع الألعاب::أكشن~Action|مغامرات~Adventure|رياضية~Sports|سباق~Racing|استراتيجية~Strategy|ألغاز~Puzzle|رعب~Horror|محاكاة~Simulation|لعب أدوار~RPG|قتال~Fighting
+10 ألوان شخصيات أمونج أس::أحمر~Red|أزرق~Blue|أخضر~Green|وردي~Pink|برتقالي~Orange|أصفر~Yellow|أسود~Black|أبيض~White|سماوي~Cyan|ليموني~Lime
+10 شخصيات ألعاب الفيديو الكلاسيكية::باك مان~Pac-Man|لينك~Link|دونكي كونغ~Donkey Kong|لارا كروفت~Lara Croft|ماستر تشيف~Master Chief|كريتوس~Kratos|سوليد سنيك~Solid Snake|سامس~Samus Aran|ميغا مان~Mega Man|كراش~Crash Bandicoot
+10 ألعاب لعب الأدوار::فاينل فانتسي~Final Fantasy|دراغون كويست~Dragon Quest|جينشن إمباكت~Genshin Impact|ديابلو~Diablo|ماس إفكت~Mass Effect|بيرسونا~Persona|فولاوت~Fallout|بالدرز غيت~Baldur's Gate|ذا ويتشر~The Witcher|كينغدوم كم~Kingdom Come
+10 ألعاب الحفلات والجلسات::جاكبوكس~Jackbox|ماريو بارتي~Mario Party|جست دانس~Just Dance|أمونج أس~Among Us|أونو~Uno|هيدز أب~Heads Up|مافيا~Mafia|كودنيمز~Codenames|كاهوت~Kahoot|لودو~Ludo
+10 ألعاب الجري على الجوال::سب واي سيرفرز~Subway Surfers|تمبل رن~Temple Run|جيتباك جوي رايد~Jetpack Joyride|سونيك داش~Sonic Dash|مينيون رش~Minion Rush|كروسي رود~Crossy Road|فلابي بيرد~Flappy Bird|ألتو~Alto's Adventure|جيومتري داش~Geometry Dash|فروت نينجا~Fruit Ninja
+10 ألعاب الجوال المشهورة::كاندي كراش~Candy Crush|بجي موبايل~PUBG Mobile|كلاش رويال~Clash Royale|براول ستارز~Brawl Stars|فري فاير~Free Fire|موبايل ليجندز~Mobile Legends|ألتو~Alto's Adventure|أنغري بيردز~Angry Birds|بلانتس فس زومبي~Plants vs Zombies|جينشن~Genshin Impact
