@@ -34,15 +34,15 @@ test('different editions and places are not silently merged by broad aliases',()
   makeAttempt(g,c,catalog,0,'2');assert.notEqual(g.notice.kind,'correct');assert.equal(g.players[0].errors,1);
   const cities=category(410);assert.notEqual(resolveAnswer('FC Barcelona',cities,catalog).kind==='exact'&&resolveAnswer('FC Barcelona',cities,catalog).entity.nameEn==='Barcelona',true);
 });
-test('all 5000 canonical Arabic names are recognized or clarified without a wrong guess',()=>{
+test('all 7500 canonical Arabic names are recognized or clarified without a wrong guess',()=>{
   const failures=[];
   for(const c of catalog)for(const a of c.answers){const match=resolveAnswer(a.nameAr,c,catalog);if(!['exact','clarify'].includes(match.kind))failures.push(`${c.id}: ${a.nameAr} => ${match.kind}`);}
   assert.deepEqual(failures,[]);
 });
-test('500 unique categories keep all original IDs and group into ten usable sections',()=>{
-  assert.deepEqual(catalog.map(c=>c.id),Array.from({length:500},(_,i)=>i+1));
-  assert.equal(catalog.filter(c=>c.difficulty==='easy').length,400);
+test('750 unique categories keep all original IDs and group into ten usable sections',()=>{
+  assert.deepEqual(catalog.map(c=>c.id),Array.from({length:750},(_,i)=>i+1));
+  assert.equal(catalog.filter(c=>c.difficulty==='easy').length,650);
   for(const s of SECTIONS)assert.ok(catalog.some(c=>c.difficulty==='easy'&&sectionFor(c)===s.id),s.id);
   const sets=catalog.filter(c=>c.id>200).map(c=>c.answers.map(a=>a.nameEn.toLowerCase()).sort().join('|'));
-  assert.equal(new Set(sets).size,300);
+  assert.equal(new Set(sets).size,550);
 });

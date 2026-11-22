@@ -19,8 +19,9 @@ export type Game = {
   pending: { player: number; entityKey: string; name: string } | null;
   clarifying: { player: number; query: string } | null;
   notice: Notice | null; reason: 'complete' | 'mistakes' | null;
-  requests: string[]; created: number;
+  requests: string[]; created: number; turnStartedAt?: number;
 };
+export const TURN_SECONDS = 30;
 
 const arabicDigits = '٠١٢٣٤٥٦٧٨٩';
 const persianDigits = '۰۱۲۳۴۵۶۷۸۹';
@@ -116,7 +117,7 @@ export function createGame(id: string, categoryId: number, mode: Game['mode'], n
   for(const p of players)if(!p.members.length)p.members=['لاعب 1'];
   return { id, categoryId, mode, status: 'playing',
     players, current: mode === 'teams' ? crypto.getRandomValues(new Uint8Array(1))[0] % 2 : 0,
-    found: [], pending: null, clarifying: null, notice: null, reason: null, requests: [], created: Date.now() };
+    found: [], pending: null, clarifying: null, notice: null, reason: null, requests: [], created: Date.now(), turnStartedAt: Date.now() };
 }
 export function getResults(game: Game) {
   const totals = game.players.map((p, i) => ({ name: p.name, members: p.members, found: game.found.filter(f => f.player === i).length,
@@ -147,11 +148,21 @@ function settle(game: Game, category: Category, player: number, raw: string, ent
   game.players[player].turns++;
   if (game.players[player].errors === 5) { game.status = 'finished'; game.reason = 'mistakes'; }
   else if (game.found.length === 10) { game.status = 'finished'; game.reason = 'complete'; }
-  else if (game.mode !== 'solo') game.current = 1 - game.current;
+  else if (game.mode !== 'solo') { game.current = 1 - game.current; game.turnStartedAt = Date.now(); }
 }
 export function makeAttempt(game: Game, category: Category, catalog: Category[], player: number, raw: string,
-  action: 'guess' | 'confirm' | 'cancel' = 'guess'): Game {
+  action: 'guess' | 'confirm' | 'cancel' | 'timeout' = 'guess'): Game {
   if (game.status !== 'playing' || game.current !== player) return game;
+  if (action === 'timeout') {
+    if (game.mode !== 'teams' || Date.now() - (game.turnStartedAt ?? game.created) < (TURN_SECONDS - 1) * 1000) return game;
+    const team = game.players[player];
+    game.pending = null; game.clarifying = null;
+    team.errors++; team.wrong.push('انتهى الوقت'); team.turns++;
+    game.notice = { kind: 'wrong', text: `انتهى وقت ${team.name}. حُسبت غلطة والدور انتقل.` };
+    if (team.errors === 5) { game.status = 'finished'; game.reason = 'mistakes'; }
+    else { game.current = 1 - game.current; game.turnStartedAt = Date.now(); }
+    return game;
+  }
   if (action === 'cancel') { game.pending = null; game.notice = { kind: 'info', text: 'عدّل إجابتك، ما انخصمت محاولة.' }; return game; }
   if (action === 'confirm') {
     if (game.pending?.player !== player) return game;
@@ -190,6 +201,7 @@ export function publicGame(game: Game, category: Category, viewer: number, versi
   return { id: game.id, categoryId: game.categoryId, mode: game.mode, status: game.status, current: game.current,
     you: viewer, version, players: game.players.map(p => ({ name: p.name, members: p.members, activeMember: activeMember(p), activeMemberIndex: p.turns % p.members.length, errors: p.errors, wrong: p.wrong })),
     foundCount: game.found.length, notice: game.notice, reason: game.reason,
+    timer: game.mode === 'teams' && !over ? { limit: TURN_SECONDS, startedAt: game.turnStartedAt ?? game.created } : null,
     canPlay: game.status === 'playing',
     slots: Array.from({ length: 10 }, (_, i) => {
       const rank = i + 1, found = game.found.find(f => f.rank === rank), a = category.answers.find(x => x.rank === rank)!;

@@ -1,0 +1,53 @@
+# games|gaming-terms|games
+10 عناصر نجمعها في الألعاب::عملة~Coin|نجمة~Star|مفتاح~Key|صندوق كنز~Treasure chest|درع~Shield|جرعة~Potion|ذخيرة~Ammo|حزمة صحة~Health pack|تعزيز~Power-up|قلب~Heart
+10 مصطلحات في الألعاب::مستوى~Level|زعيم~Boss|إعادة ظهور~Respawn|تأخير~Lag|مبتدئ~Noob|مهمة~Quest|غنيمة~Loot|سكن~Skin|سلسلة~Combo|نقطة حفظ~Checkpoint
+10 ألعاب أطفال على الجوال::توكا بوكا~Toca Boca|بو~Pou|توكينغ توم~Talking Tom|ماي توكينغ أنجيلا~My Talking Angela|هنغري شارك~Hungry Shark|كت ذا روب~Cut the Rope|بوكيمون غو~Pokemon GO|روبلوكس~Roblox|ماينكرافت~Minecraft|كروسي رود~Crossy Road
+10 أدوار في ألعاب الفريق::تانك~Tank|هيلر~Healer|سابورت~Support|أساسن~Assassin|قناص~Sniper|كاري~Carry|ساحر~Mage|جانجلر~Jungler|رامي~Marksman|محارب~Warrior
+10 ألعاب كرة القدم::فيفا~FIFA|إي إيه إف سي~EA FC|بيس~PES~eFootball|فوتبول مانجر~Football Manager|دريم ليج~Dream League Soccer|روكيت ليغ~Rocket League|توب إليفن~Top Eleven|سكور هيرو~Score Hero|فيفا موبايل~FIFA Mobile|كابتن تسوباسا~Captain Tsubasa
+# cartoons|characters-kids|cartoons
+10 شخصيات توم وجيري::توم~Tom|جيري~Jerry|سبايك~Spike|تايك~Tyke|بوتش~Butch|نيبلز~Nibbles|توداليس~Toodles|ماما~Mammy Two Shoes|ليتنغ~Lightning|كواكر~Quacker
+10 شخصيات فروزن::إلسا~Elsa|آنا~Anna|أولاف~Olaf|كريستوف~Kristoff|سفن~Sven|هانز~Hans|ماشمالو~Marshmallow|أوكن~Oaken|بابي~Pabbie|ديوك ويسلتون~Duke of Weselton
+10 شخصيات باو باترول::تشيز~Chase|مارشال~Marshall|سكاي~Skye|رابل~Rubble|روكي~Rocky|زوما~Zuma|إيفرست~Everest|تراكر~Tracker|رايدر~Ryder|العمدة~Mayor Goodway
+10 شخصيات بيبا بيغ::بيبا~Peppa|جورج~George|ماما بيغ~Mummy Pig|بابا بيغ~Daddy Pig|سوزي~Suzy Sheep|ريبيكا~Rebecca Rabbit|داني~Danny Dog|بيدرو~Pedro Pony|كاندي~Candy Cat|مدام غزال~Madame Gazelle
+10 شخصيات بلوي::بلوي~Bluey|بينغو~Bingo|باندت~Bandit|تشيلي~Chilli|مافن~Muffin|سوكس~Socks|كلو~Chloe|لاكي~Lucky|راستي~Rusty|جاك~Jack
+10 شخصيات السنافر::بابا سنفور~Papa Smurf|سنفورة~Smurfette|سنفور مغرور~Vanity Smurf|سنفور أخرق~Clumsy Smurf|سنفور قوي~Hefty Smurf|سنفور عابس~Grouchy Smurf|سنفور مهرج~Jokey Smurf|سنفور ذكي~Brainy Smurf|غرغامل~Gargamel|أزرائيل~Azrael
+10 شخصيات ويني الدبدوب::ويني~Winnie the Pooh|بيغلت~Piglet|تيغر~Tigger|إيور~Eeyore|رابيت~Rabbit|أول~Owl|كانغا~Kanga|رو~Roo|كريستوفر~Christopher Robin|غوفر~Gopher
+10 شخصيات إنسايد أوت::جوي~Joy|سادنس~Sadness|أنغر~Anger|فير~Fear|ديسغست~Disgust|أنكزايتي~Anxiety|إنفي~Envy|إنوي~Ennui|إمباراسمنت~Embarrassment|بينغ بونغ~Bing Bong
+10 شخصيات فيلم أنا الحقير::غرو~Gru|كيفن~Kevin|ستيوارت~Stuart|بوب~Bob|أغنيس~Agnes|مارغو~Margo|إديث~Edith|الدكتور نيفاريو~Dr. Nefario|فيكتور~Vector|لوسي~Lucy
+10 شخصيات ميراكلوس::ليدي باغ~Ladybug|كات نوار~Cat Noir|هوك موث~Hawk Moth|تيكي~Tikki|بلاغ~Plagg|ألية~Alya|نينو~Nino|كلوي~Chloe|ماريناته~Marinette|أدريان~Adrien
+10 شخصيات موانا::موانا~Moana|ماوي~Maui|هي هاي~Heihei|بوا~Pua|تاماتوا~Tamatoa|تي فيتي~Te Fiti|تالا~Gramma Tala|توي~Chief Tui|سينا~Sina|كاكامورا~Kakamora
+10 شخصيات من هجوم العمالقة::إيرين~Eren|ميكاسا~Mikasa|أرمين~Armin|ليفاي~Levi|إروين~Erwin|هانجي~Hange|راينر~Reiner|آني~Annie|ساشا~Sasha|جان~Jean
+10 شخصيات بطلي الأكاديمية::ديكو~Deku|باكوغو~Bakugo|تودوروكي~Todoroki|أول مايت~All Might|أورارا~Uraraka|إيدا~Iida|شيغاراكي~Shigaraki|إندفور~Endeavor|ميريو~Mirio|هوكس~Hawks
+10 شخصيات من مذكرة الموت::لايت~Light|إل~L|ريوك~Ryuk|ميسا~Misa|نير~Near|ميلو~Mello|سويتشيرو~Soichiro|ريم~Rem|ماتسودا~Matsuda|واتاري~Watari
+10 شخصيات جوجوتسو كايسن::يوجي~Yuji|ميغومي~Megumi|نوبارا~Nobara|غوجو~Gojo|سوكونا~Sukuna|نانامي~Nanami|مايي~Maki|توجي~Toji|ماهيتو~Mahito|توغي~Toge
+10 شخصيات خيميائي الصلب::إدوارد~Edward|ألفونس~Alphonse|روي~Roy Mustang|وينري~Winry|ريزا~Riza|إنفي~Envy|سكار~Scar|غريد~Greed|لاست~Lust|هوهنهايم~Hohenheim
+10 شخصيات هنتر × هنتر::غون~Gon|كيلوا~Killua|كورابيكا~Kurapika|ليوريو~Leorio|هيسوكا~Hisoka|كايت~Kite|نيتيرو~Netero|ميروم~Meruem|إيلومي~Illumi|زولديك~Zoldyck
+10 شخصيات ون بنش مان::سايتاما~Saitama|جينوس~Genos|تاتسوماكي~Tatsumaki|فبمان~Fubuki|بانغ~Bang|ميتال نايت~Metal Knight|غارو~Garou|كينغ~King|موبيت~Mumen Rider|بوروس~Boros
+10 شخصيات بوكيمون مشهورة::بيكاتشو~Pikachu|تشارماندر~Charmander|سكويرتل~Squirtle|بولباسور~Bulbasaur|إيفي~Eevee|سنورلاكس~Snorlax|ميوتو~Mewtwo|جيغلي بف~Jigglypuff|ميوث~Meowth|غينغار~Gengar
+10 شخصيات ميكي ماوس::ميكي~Mickey Mouse|ميني~Minnie Mouse|دونالد~Donald Duck|ديزي~Daisy Duck|غوفي~Goofy|بلوتو~Pluto|تشيب~Chip|ديل~Dale|بيت~Pete|كلارابيل~Clarabelle
+# screen|movies|screen
+10 أفلام أنيميشن حديثة::إنكانتو~Encanto|كوكو~Coco|موانا~Moana|فروزن~Frozen|زوتوبيا~Zootopia|لوكا~Luca|تيرنينج ريد~Turning Red|سول~Soul|إليمنتال~Elemental|ويش~Wish
+10 أفلام مارفل::آيرون مان~Iron Man|ثور~Thor|بلاك بانثر~Black Panther|كابتن أمريكا~Captain America|دكتور سترينج~Doctor Strange|حراس المجرة~Guardians of the Galaxy|أنت مان~Ant-Man|المنتقمون~Avengers|الأبديون~Eternals|كابتن مارفل~Captain Marvel
+10 أفلام خيال علمي::ماتريكس~The Matrix|إنترستيلر~Interstellar|بداية~Inception|أفاتار~Avatar|ستار وورز~Star Wars|المبيد~Terminator|حديقة الديناصورات~Jurassic Park|العودة للمستقبل~Back to the Future|بليد رانر~Blade Runner|ألين~Alien
+10 أفلام رعب::ذا إت~It|كونجرينج~The Conjuring|أنابيل~Annabelle|سكريم~Scream|هالوين~Halloween|سو~Saw|إنسيديوس~Insidious|سينستر~Sinister|نشاط خارق للطبيعة~Paranormal Activity|اخرج~Get Out
+10 أفلام عصابات وجريمة::العراب~The Godfather|سكارفيس~Scarface|غودفيلاز~Goodfellas|هيت~Heat|بالب فيكشن~Pulp Fiction|كازينو~Casino|ريزيرفوار دوغز~Reservoir Dogs|عصابات نيويورك~Gangs of New York|رجل العصابات الأمريكي~American Gangster|المغادرون~The Departed
+10 أفلام سباقات وسيارات::فاست آند فيوريس~Fast and Furious|سيارات~Cars|فورد ضد فيراري~Ford v Ferrari|راش~Rush|نيد فور سبيد~Need for Speed|غران توريزمو~Gran Turismo|أيام الرعد~Days of Thunder|سبيد ريسر~Speed Racer|سباق الموت~Death Race|ماد ماكس~Mad Max
+10 أفلام حرب::إنقاذ الجندي رايان~Saving Private Ryan|دانكيرك~Dunkirk|1917~1917|فصيلة~Platoon|مجموعة معدنية~Full Metal Jacket|نهاية العالم الآن~Apocalypse Now|سقوط الصقر الأسود~Black Hawk Down|هاكسو ريدج~Hacksaw Ridge|فيوري~Fury|بيرل هاربر~Pearl Harbor
+10 أفلام فازت بالأوسكار::تايتانيك~Titanic|فورست غامب~Forrest Gump|المصارع~Gladiator|طفيلي~Parasite|أوبنهايمر~Oppenheimer|عودة الملك~The Return of the King|مليونير العشوائي~Slumdog Millionaire|ضوء القمر~Moonlight|الكتاب الأخضر~Green Book|كل شيء في كل مكان~Everything Everywhere All at Once
+10 أفلام كوميدية أجنبية::وحدي في المنزل~Home Alone|مستر بين~Mr. Bean|ذا هانغ أوفر~The Hangover|جومانجي~Jumanji|القناع~The Mask|غبي وأغبى~Dumb and Dumber|زولاندر~Zoolander|سوبر باد~Superbad|21 جامب ستريت~21 Jump Street|أمريكان باي~American Pie
+10 أفلام توم كروز::توب غان~Top Gun|مهمة مستحيلة~Mission Impossible|جيري ماغواير~Jerry Maguire|رجل المطر~Rain Man|أيام الرعد~Days of Thunder|حافة الغد~Edge of Tomorrow|كولاترال~Collateral|تقرير الأقلية~Minority Report|جاك ريتشر~Jack Reacher|كوكتيل~Cocktail
+10 أفلام ويل سميث::رجال بالأسود~Men in Black|أنا أسطورة~I Am Legend|هيتش~Hitch|أولاد أشرار~Bad Boys|يوم الاستقلال~Independence Day|علاء الدين~Aladdin|الملك ريتشارد~King Richard|فوكس~Focus|جيميني مان~Gemini Man|أنا روبوت~I Robot
+10 أفلام جاكي شان::ساعة الذروة~Rush Hour|قصة شرطة~Police Story|المعلم السكران~Drunken Master|شنغهاي ظهراً~Shanghai Noon|الاندفاع في برونكس~Rumble in the Bronx|كاراتيه كيد~The Karate Kid|الغريب~The Foreigner|درع الله~Armour of God|مشروع إيه~Project A|من أنا؟~Who Am I?
+10 أفلام ديزني الحية::الأسد الملك~The Lion King|علاء الدين~Aladdin|الجميلة والوحش~Beauty and the Beast|سندريلا~Cinderella|ماليفسنت~Maleficent|كتاب الأدغال~The Jungle Book|مولان~Mulan|كروييلا~Cruella|دامبو~Dumbo|بيتر بان~Peter Pan and Wendy
+10 أفلام ستوديو جيبلي::المتاهة~Spirited Away|جاري توتورو~My Neighbor Totoro|قلعة هاول~Howl's Moving Castle|الأميرة مونونوكي~Princess Mononoke|خدمة التوصيل~Kiki's Delivery Service|بونيو~Ponyo|قلعة في السماء~Castle in the Sky|قبر اليراعات~Grave of the Fireflies|الريح تشتد~The Wind Rises|أريتي~Arrietty
+10 مسلسلات نتفليكس::أشياء غريبة~Stranger Things|لعبة الحبار~Squid Game|لا كاسا دي بابل~Money Heist~La Casa de Papel^بيت الورق|ويندزداي~Wednesday|ذا ويتشر~The Witcher|ناركوس~Narcos|دارك~Dark|أوزارك~Ozark|بريدجرتون~Bridgerton|التاج~The Crown
+10 مسلسلات أجنبية مشهورة::لعبة العروش~Game of Thrones|بريكنج باد~Breaking Bad|فريندز~Friends|ذا أوفيس~The Office|بريزون بريك~Prison Break|لوست~Lost|نظرية الانفجار الكبير~The Big Bang Theory|كيف قابلت أمكم~How I Met Your Mother|فايكنغز~Vikings|بيكي بلايندرز~Peaky Blinders
+10 مسلسلات تركية معروفة::نور~Noor~Gumus|العشق الممنوع~Forbidden Love|حريم السلطان~Magnificent Century|وادي الذئاب~Valley of the Wolves|قيامة أرطغرل~Resurrection Ertugrul|المؤسس عثمان~Kurulus Osman|فاطمة~Fatmagul|إيزل~Ezel|الحفرة~The Pit|حب للإيجار~Love for Rent
+10 نجوم بوليوود::شاروخان~Shah Rukh Khan|سلمان خان~Salman Khan|عامر خان~Aamir Khan|أميتاب باتشان~Amitabh Bachchan|ديبيكا بادوكون~Deepika Padukone|بريانكا شوبرا~Priyanka Chopra|هريثيك روشان~Hrithik Roshan|أكشاي كومار~Akshay Kumar|رانبير كابور~Ranbir Kapoor|أيشواريا راي~Aishwarya Rai
+10 أفلام بوليوود::ثلاثة أغبياء~3 Idiots|دانغال~Dangal|بي كي~PK|شولاي~Sholay|ديلوالي~Dilwale Dulhania Le Jayenge|كوتش كوتش هوتا هاي~Kuch Kuch Hota Hai|لاغان~Lagaan|بجرنغي بهايجان~Bajrangi Bhaijaan|دوم~Dhoom|كابي خوشي كابي غم~Kabhi Khushi Kabhie Gham
+10 أفلام عن الفضاء::جرافيتي~Gravity|إنترستيلر~Interstellar|أبولو 13~Apollo 13|المريخي~The Martian|هرمجدون~Armageddon|مون~Moon|ألين~Alien|إد أسترا~Ad Astra|الشخصيات المخفية~Hidden Figures|الرجل الأول~First Man
+10 نجوم هوليوود::توم هانكس~Tom Hanks|ليوناردو دي كابريو~Leonardo DiCaprio|براد بيت~Brad Pitt|جوني ديب~Johnny Depp|روبرت داوني جونيور~Robert Downey Jr.|ويل سميث~Will Smith|دواين جونسون~Dwayne Johnson|كيانو ريفز~Keanu Reeves|مورغان فريمان~Morgan Freeman|دنزل واشنطن~Denzel Washington
+10 أفلام مغامرات::إنديانا جونز~Indiana Jones|قراصنة الكاريبي~Pirates of the Caribbean|جومانجي~Jumanji|كنز الأمة~National Treasure|سيد الخواتم~The Lord of the Rings|المومياء~The Mummy|توم رايدر~Tomb Raider|حديقة الديناصورات~Jurassic Park|أنشارتد~Uncharted|رجل العنكبوت~Spider-Man
+10 أفلام مأخوذة من روايات::هاري بوتر~Harry Potter|ألعاب الجوع~The Hunger Games|الشفق~Twilight|بيرسي جاكسون~Percy Jackson|سيد الخواتم~The Lord of the Rings|نارنيا~Narnia|ديفرجنت~Divergent|ماز رانر~The Maze Runner|كثيب~Dune|الهوبيت~The Hobbit
+10 مخرجين مشهورين::ستيفن سبيلبرغ~Steven Spielberg|كريستوفر نولان~Christopher Nolan|كوينتين تارانتينو~Quentin Tarantino|مارتن سكورسيزي~Martin Scorsese|جيمس كاميرون~James Cameron|ستانلي كوبريك~Stanley Kubrick|ألفريد هيتشكوك~Alfred Hitchcock|تيم برتون~Tim Burton|ريدلي سكوت~Ridley Scott|بيتر جاكسون~Peter Jackson
+10 ملحنين لموسيقى الأفلام::هانز زيمر~Hans Zimmer|جون ويليامز~John Williams|إنيو موريكوني~Ennio Morricone|هوارد شور~Howard Shore|داني إلفمان~Danny Elfman|آلان منكن~Alan Menken|لودفيغ غورانسون~Ludwig Goransson|ألكسندر ديسبلات~Alexandre Desplat|جيمس هورنر~James Horner|مايكل جياكينو~Michael Giacchino

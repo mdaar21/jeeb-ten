@@ -1,0 +1,47 @@
+# tech|tech-companies|brands
+10 شركات التقنية الكبرى::آبل~Apple|غوغل~Google|مايكروسوفت~Microsoft|أمازون~Amazon|ميتا~Meta|تسلا~Tesla|سامسونج~Samsung|إنفيديا~Nvidia|إنتل~Intel|آي بي إم~IBM
+10 أجزاء الجوال::شاشة~Screen|بطارية~Battery|كاميرا~Camera|منفذ الشحن~Charging port|سماعة~Speaker|ميكروفون~Microphone|شريحة~SIM card|زر التشغيل~Power button|أزرار الصوت~Volume buttons|بصمة~Fingerprint sensor
+10 تطبيقات الصور والفيديو::إنستغرام~Instagram|تيك توك~TikTok|سناب شات~Snapchat|يوتيوب~YouTube|كاب كات~CapCut|في إس سي أو~VSCO|كانفا~Canva|لايت روم~Lightroom|بيكس آرت~PicsArt|سناب سيد~Snapseed
+10 تطبيقات الدفع::أبل باي~Apple Pay|إس تي سي باي~STC Pay|غوغل باي~Google Pay|باي بال~PayPal|فيزا~Visa|ماستركارد~Mastercard|مدى~Mada|سامسونج باي~Samsung Pay|تابي~Tabby|تمارا~Tamara
+10 تطبيقات المشاوير::أوبر~Uber|كريم~Careem|بولت~Bolt|إن درايف~inDrive|ليفت~Lyft|ديدي~DiDi|غراب~Grab|أولا~Ola|ياندكس~Yandex Go|جيت~Gett
+10 تطبيقات التعلم::دولينغو~Duolingo|خان أكاديمي~Khan Academy|كورسيرا~Coursera|يوديمي~Udemy|منصة مدرستي~Madrasati|كويزلت~Quizlet|كاهوت~Kahoot|غوغل كلاس روم~Google Classroom|برينلي~Brainly|فوتوماث~Photomath
+10 أنظمة التشغيل::ويندوز~Windows|ماك~macOS|لينكس~Linux|أندرويد~Android|آي أو إس~iOS|أوبونتو~Ubuntu|كروم أو إس~ChromeOS|هارموني~HarmonyOS|فيدورا~Fedora|ديبيان~Debian
+10 لغات برمجة::بايثون~Python|جافاسكريبت~JavaScript|جافا~Java|سي بلس بلس~C plus plus~C++|سي شارب~C sharp~C#|بي إتش بي~PHP|سويفت~Swift|كوتلن~Kotlin|غو~Go|رست~Rust
+10 متصفحات الإنترنت::كروم~Chrome|سفاري~Safari|فايرفوكس~Firefox|إيدج~Edge|أوبرا~Opera|بريف~Brave|سامسونج إنترنت~Samsung Internet|فيفالدي~Vivaldi|تور~Tor|دك دك غو~DuckDuckGo
+10 منصات البث::نتفليكس~Netflix|ديزني بلس~Disney+|شاهد~Shahid|يوتيوب~YouTube|أمازون برايم~Amazon Prime Video|أو إس إن بلس~OSN+|أبل تي في~Apple TV+|إتش بي أو ماكس~HBO Max|هولو~Hulu|ستارزبلاي~Starzplay
+10 ماركات الكاميرات::كانون~Canon|نيكون~Nikon|سوني~Sony|فوجي فيلم~Fujifilm|غو برو~GoPro|دي جي آي~DJI|لايكا~Leica|باناسونيك~Panasonic|أوليمبوس~Olympus|كوداك~Kodak
+10 ماركات ملحقات الألعاب::لوجيتك~Logitech|رايزر~Razer|كورسير~Corsair|ستيل سيريز~SteelSeries|هايبر إكس~HyperX|آسوس روج~Asus ROG|أليينوير~Alienware|إم إس آي~MSI|تيرتل بيتش~Turtle Beach|سوني~Sony
+10 ماركات الأزياء الفاخرة::لويس فيتون~Louis Vuitton|غوتشي~Gucci|شانيل~Chanel|ديور~Dior|برادا~Prada|هيرميس~Hermes|فيرساتشي~Versace|بربري~Burberry|أرماني~Armani|بالنسياغا~Balenciaga
+10 ماركات العطور::شانيل~Chanel|ديور~Dior|توم فورد~Tom Ford|أرماني~Armani|فيرساتشي~Versace|كريد~Creed|دانهيل~Dunhill|هوغو بوس~Hugo Boss|غوتشي~Gucci|باكو رابان~Paco Rabanne
+10 شركات الاتصالات العربية::إس تي سي~STC|زين~Zain|موبايلي~Mobily|اتصالات~Etisalat|دو~du|أوريدو~Ooredoo|أورنج~Orange|فودافون~Vodafone|بتلكو~Batelco|عمانتل~Omantel
+10 شركات الطيران العربية::السعودية~Saudia|الإمارات~Emirates|القطرية~Qatar Airways|الاتحاد~Etihad|طيران ناس~flynas|طيران أديل~flyadeal|طيران الخليج~Gulf Air|الخطوط الكويتية~Kuwait Airways|الملكية الأردنية~Royal Jordanian|مصر للطيران~EgyptAir
+10 بنوك سعودية::الراجحي~Al Rajhi|الأهلي~SNB~بنك الأهلي^Saudi National Bank|بنك الرياض~Riyad Bank|ساب~SABB|الإنماء~Alinma|البلاد~Albilad|الفرنسي~Banque Saudi Fransi|العربي~Arab National Bank|الجزيرة~Bank Aljazira|السعودي للاستثمار~Saudi Investment Bank
+10 أجهزة ذكية::ساعة ذكية~Smartwatch|تلفزيون ذكي~Smart TV|سماعة ذكية~Smart speaker|تابلت~Tablet|درون~Drone|نظارة واقع افتراضي~VR headset|قارئ كتب~E-reader|قفل ذكي~Smart lock|مكنسة روبوت~Robot vacuum|سماعات لاسلكية~Earbuds
+10 أزرار الكيبورد::إنتر~Enter|شيفت~Shift|كنترول~Ctrl|ألت~Alt|تاب~Tab|إيسكيب~Esc|مسافة~Space|باك سبيس~Backspace|كابس لوك~Caps Lock|ديليت~Delete
+10 امتدادات الملفات::بي دي إف~PDF|جيه بي جي~JPG|بي إن جي~PNG|إم بي ثري~MP3|إم بي فور~MP4|وورد~DOCX|إكسل~XLSX|زيب~ZIP|جيف~GIF|تكست~TXT
+# culture|science-history|culture
+10 علماء مشهورون::نيوتن~Newton|أينشتاين~Einstein|داروين~Darwin|غاليليو~Galileo|ماري كوري~Marie Curie|تسلا~Tesla|إديسون~Edison|هوكينغ~Hawking|باستور~Pasteur|أرخميدس~Archimedes
+10 علماء عرب ومسلمون::ابن الهيثم~Ibn al-Haytham|الخوارزمي~Al-Khwarizmi|ابن سينا~Ibn Sina|الرازي~Al-Razi|جابر بن حيان~Jabir ibn Hayyan|ابن خلدون~Ibn Khaldun|البيروني~Al-Biruni|ابن النفيس~Ibn al-Nafis|الزهراوي~Al-Zahrawi|فاطمة الفهرية~Fatima al-Fihri
+10 مخترعون مشهورون::إديسون~Thomas Edison|غراهام بيل~Alexander Graham Bell|الأخوان رايت~Wright Brothers|نيكولا تسلا~Nikola Tesla|غوتنبرغ~Gutenberg|ماركوني~Marconi|جيمس وات~James Watt|بنز~Karl Benz|هنري فورد~Henry Ford|ستيف جوبز~Steve Jobs
+10 فنانين تشكيليين::دافنشي~Da Vinci|بيكاسو~Picasso|فان غوخ~Van Gogh|مونيه~Monet|مايكل أنجلو~Michelangelo|رامبرانت~Rembrandt|دالي~Dali|فريدا كاهلو~Frida Kahlo|وارهول~Warhol|مونش~Munch
+10 لوحات مشهورة::الموناليزا~Mona Lisa|ليلة النجوم~The Starry Night|الصرخة~The Scream|غيرنيكا~Guernica|العشاء الأخير~The Last Supper|فتاة بقرط اللؤلؤ~Girl with a Pearl Earring|إصرار الذاكرة~The Persistence of Memory|عباد الشمس~Sunflowers|ولادة فينوس~The Birth of Venus|القبلة~The Kiss
+10 ملحنين كلاسيكيين::موزارت~Mozart|بيتهوفن~Beethoven|باخ~Bach|شوبان~Chopin|تشايكوفسكي~Tchaikovsky|فيفالدي~Vivaldi|شوبرت~Schubert|ليست~Liszt|هاندل~Handel|دوبيسي~Debussy
+10 فنانين عالميين::مايكل جاكسون~Michael Jackson|البيتلز~The Beatles|كوين~Queen|إيمينيم~Eminem|تايلور سويفت~Taylor Swift|بيونسيه~Beyonce|ريهانا~Rihanna|إد شيران~Ed Sheeran|أديل~Adele|كولدبلاي~Coldplay
+10 أدباء عالميون::شكسبير~Shakespeare|تولستوي~Tolstoy|دوستويفسكي~Dostoevsky|همنغواي~Hemingway|ديكنز~Dickens|فيكتور هوغو~Victor Hugo|جورج أورويل~George Orwell|مارك توين~Mark Twain|أجاثا كريستي~Agatha Christie|جي كي رولينغ~J.K. Rowling
+10 روايات وكتب مشهورة::دون كيشوت~Don Quixote|البؤساء~Les Miserables|1984~1984|هاملت~Hamlet|كبرياء وتحامل~Pride and Prejudice|الأمير الصغير~The Little Prince|موبي ديك~Moby Dick|الحرب والسلام~War and Peace|أليس في بلاد العجائب~Alice in Wonderland|هاري بوتر~Harry Potter
+10 حضارات قديمة::الفرعونية~Ancient Egypt|الرومانية~Rome|الإغريقية~Greece|البابلية~Babylon|الفارسية~Persia|المايا~Maya|الأزتك~Aztec|الإنكا~Inca|الفينيقية~Phoenicia|السومرية~Sumer
+10 عجائب الدنيا::أهرامات الجيزة~Pyramids of Giza|البتراء~Petra|ماتشو بيتشو~Machu Picchu|تاج محل~Taj Mahal|الكولوسيوم~Colosseum|تشيتشن إيتزا~Chichen Itza|المسيح المخلص~Christ the Redeemer|سور الصين العظيم~Great Wall of China|حدائق بابل المعلقة~Hanging Gardens of Babylon|منارة الإسكندرية~Lighthouse of Alexandria
+10 عملات معروفة::دولار~Dollar|يورو~Euro|ريال~Riyal|درهم~Dirham|دينار~Dinar|جنيه~Pound|ين~Yen|يوان~Yuan|روبية~Rupee|ليرة~Lira
+10 أبجديات الكتابة::العربية~Arabic|اللاتينية~Latin|السيريلية~Cyrillic|اليونانية~Greek|العبرية~Hebrew|الديفاناغارية~Devanagari|الصينية~Chinese characters|الهانغول~Hangul|الكانا~Japanese Kana|التايلندية~Thai
+10 أشهر هجرية::محرم~Muharram|صفر~Safar|ربيع الأول~Rabi al-Awwal|ربيع الآخر~Rabi al-Thani|جمادى الأولى~Jumada al-Awwal|جمادى الآخرة~Jumada al-Thani|رجب~Rajab|شعبان~Shaban|رمضان~Ramadan|شوال~Shawwal
+10 أشهر ميلادية::يناير~January~كانون الثاني|فبراير~February~شباط|مارس~March~آذار|أبريل~April~نيسان|مايو~May~أيار|يونيو~June~حزيران|يوليو~July~تموز|أغسطس~August~آب|سبتمبر~September~أيلول|أكتوبر~October~تشرين الأول
+10 آلات موسيقية عربية::عود~Oud|قانون~Qanun|ناي~Ney|ربابة~Rebab|دربكة~Darbuka|طبل~Tabl|رق~Riq|مزمار~Mizmar|سنطور~Santur|بزق~Buzuq
+10 فنون شعبية عربية::دبكة~Dabke|عرضة~Ardah|تنورة~Tanoura|ليوا~Liwa|يولة~Yowla|رقص شرقي~Raqs Sharqi|خليجي~Khaleegi|مولوية~Mawlawiya|سامري~Samri|زار~Zar
+10 أطول المباني في العالم::برج خليفة~Burj Khalifa|مرديكا 118~Merdeka 118|برج شنغهاي~Shanghai Tower|أبراج البيت~Abraj Al Bait|بينغ آن~Ping An Finance Center|لوتي ورلد~Lotte World Tower|مركز التجارة العالمي~One World Trade Center|تايبيه 101~Taipei 101|أبراج بتروناس~Petronas Towers|مركز قوانغتشو المالي~Guangzhou CTF Finance Centre
+10 اختراعات غيّرت العالم::عجلة~Wheel|مطبعة~Printing press|هاتف~Telephone|مصباح كهربائي~Light bulb|طائرة~Airplane|إنترنت~Internet|سيارة~Car|كمبيوتر~Computer|راديو~Radio|تلفزيون~Television
+10 وحدات القياس::متر~Meter|كيلوغرام~Kilogram|لتر~Liter|ثانية~Second|درجة مئوية~Celsius|كيلومتر~Kilometer|غرام~Gram|ساعة~Hour|هكتار~Hectare|أمبير~Ampere
+10 جوائز مشهورة::جائزة نوبل~Nobel Prize|الأوسكار~Oscar|غرامي~Grammy|الكرة الذهبية~Ballon d'Or|بوليتزر~Pulitzer Prize|إيمي~Emmy|غولدن غلوب~Golden Globe|بوكر~Booker Prize|السعفة الذهبية~Palme d'Or|ميدالية فيلدز~Fields Medal
+10 أنواع الفنون::رسم~Painting|نحت~Sculpture|تصوير~Photography|عمارة~Architecture|خط عربي~Calligraphy|موسيقى~Music|مسرح~Theatre|سينما~Cinema|رقص~Dance|شعر~Poetry
+10 جامعات مشهورة::هارفارد~Harvard|إم آي تي~MIT|ستانفورد~Stanford|أكسفورد~Oxford|كامبريدج~Cambridge|ييل~Yale|برينستون~Princeton|كالتك~Caltech|جامعة الملك سعود~King Saud University|كاوست~KAUST
+10 منظمات عالمية::الأمم المتحدة~United Nations|اليونسكو~UNESCO|منظمة الصحة~World Health Organization|فيفا~FIFA|ناسا~NASA|أوبك~OPEC|يونيسف~UNICEF|الصليب الأحمر~Red Cross|منظمة التجارة~World Trade Organization|صندوق النقد~IMF
+10 لافتات المرور::قف~Stop|أعطِ الأولوية~Yield|ممنوع الدخول~No entry|تحديد السرعة~Speed limit|عبور مشاة~Pedestrian crossing|موقف~Parking|اتجاه واحد~One way|إشارة مرور~Traffic light|دوار~Roundabout|دوران للخلف~U-turn

@@ -5,8 +5,8 @@ import { createGame, makeAttempt, publicGame, getResults, resolveAnswer, normali
 const catalog=JSON.parse(fs.readFileSync(new URL('../data/catalog.json',import.meta.url),'utf8'));
 const category=id=>catalog.find(c=>c.id===id);
 
-test('500 categories and 5000 ranked answers',()=>{
-  assert.equal(catalog.length,500);assert.equal(new Set(catalog.map(c=>c.id)).size,500);
+test('750 categories and 7500 ranked answers',()=>{
+  assert.equal(catalog.length,750);assert.equal(new Set(catalog.map(c=>c.id)).size,750);
   for(const c of catalog){assert.equal(c.answers.length,10);assert.deepEqual(c.answers.map(a=>a.rank).sort((a,b)=>a-b),[1,2,3,4,5,6,7,8,9,10]);assert.ok(c.source.url.startsWith('https://'));assert.ok(c.source.asOf);}
 });
 test('Arabic normalization and numeric parts retain identity',()=>{
@@ -64,7 +64,7 @@ test('every ranked English name is identifiable or genuinely ambiguous',()=>{
   for(const c of catalog)for(const a of c.answers){const m=resolveAnswer(a.nameEn,c,catalog);if(m.kind==='unknown'||m.kind==='suggest')failed.push(`${c.id}: ${a.nameEn} => ${m.kind}`);else if(m.kind==='exact'&&key(m.entity)!==key(a))failed.push(`${c.id}: mismatched ${a.nameEn}`);}
   assert.deepEqual(failed,[]);
 });
-test('all 5000 answers can be reached with an explicit accepted name',()=>{
+test('all 7500 answers can be reached with an explicit accepted name',()=>{
   const failed=[];
   for(const c of catalog)for(const a of c.answers){
     const queries=[a.nameEn,a.nameAr,...a.aliases,`${a.series||a.nameEn} ${a.part||a.year||''}`,`${a.nameAr} ${a.part||a.year||''}`];
@@ -89,4 +89,23 @@ test('location clarification accepts a city reply without losing a guess',()=>{
   const g=createGame('ABC123',195,'solo',[]);
   makeAttempt(g,c,catalog,0,'Disneyland');assert.equal(g.notice.kind,'clarify');assert.equal(g.players[0].errors,0);
   makeAttempt(g,c,catalog,0,'Paris');assert.equal(g.notice.kind,'correct');assert.equal(g.found[0].rank,target.rank);assert.equal(g.players[0].errors,0);
+});
+
+test('team turns have a 30 second limit: timeout counts a mistake, passes the turn and can end the round',()=>{
+  const c=category(47),g=createGame('TIME01',c.id,'teams',['أ','ب'],[['س'],['ص']]);
+  const first=g.current,realNow=Date.now;
+  try{
+    makeAttempt(g,c,catalog,first,'','timeout');
+    assert.equal(g.players[first].errors,0,'too early: ignored');
+    Date.now=()=>realNow()+31000;
+    makeAttempt(g,c,catalog,1-first,'','timeout');
+    assert.equal(g.players[1-first].errors,0,'only the active team can time out');
+    makeAttempt(g,c,catalog,first,'','timeout');
+    assert.equal(g.players[first].errors,1);assert.equal(g.current,1-first);assert.deepEqual(g.players[first].wrong,['انتهى الوقت']);
+    const out=publicGame(g,c,0,1);assert.equal(out.timer.limit,30);
+    Date.now=()=>realNow()+70000;
+    g.players[1-first].errors=4;makeAttempt(g,c,catalog,1-first,'','timeout');
+    assert.equal(g.status,'finished');assert.equal(g.reason,'mistakes');
+  }finally{Date.now=realNow;}
+  const solo=createGame('TIME02',c.id,'solo',['أنت']);assert.equal(publicGame(solo,c,0,0).timer,null);
 });
