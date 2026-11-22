@@ -1,24 +1,34 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-22",
-  "northStar": "شارع المحلات بالليل",
+  "northStar": "قاعة عرض هادئة بالليل",
   "colorMeta": {
-    "wall-cobalt": {"role": "ground", "displayName": "أزرق جدار الكوبالت"},
-    "saffron": {"role": "primary-action", "displayName": "زعفران اللوحات"},
-    "signal-red": {"role": "accent", "displayName": "أحمر الإشارة"},
-    "ink-navy": {"role": "text-and-borders", "displayName": "حبر كحلي"}
+    "gold": {
+      "role": "accent",
+      "displayName": "ذهبي مطفي"
+    },
+    "bg": {
+      "role": "ground",
+      "displayName": "خلفية داكنة"
+    }
   },
   "shadows": {
-    "lift": "0 2px 3px rgb(5 9 38/.28), 0 18px 30px -14px rgb(5 9 38/.65)",
-    "lift-sm": "0 1px 2px rgb(5 9 38/.3), 0 8px 16px -8px rgb(5 9 38/.5)"
+    "panel": "0 1px 0 rgb(255 255 255/.04) inset, 0 24px 48px -24px rgb(0 0 0/.7)"
   },
   "motion": {
-    "ease": "cubic-bezier(.16,1,.3,1)",
-    "signature": "شريط المصابيح يتبادل الإضاءة، ويتجمد مع prefers-reduced-motion"
+    "ease": "cubic-bezier(.16,1,.3,1)"
   },
-  "breakpoints": {"tablet": "1000px", "phone": "760px"},
+  "breakpoints": {
+    "tablet": "1000px",
+    "phone": "760px"
+  },
   "narrative": {
-    "dos": ["حبر كحلي للنص على اللوحات", "إطار مزدوج وظل ناعم للوحات الكبرى"],
-    "donts": ["لا تدرجات نص", "لا هالات متوهجة", "لا eyebrow فوق العناوين"]
+    "dos": [
+      "ذهبي للإجراء الأهم فقط",
+      "حدود 1px"
+    ],
+    "donts": [
+      "لا ألوان صارخة",
+      "لا تدرجات"
+    ]
   }
 }
