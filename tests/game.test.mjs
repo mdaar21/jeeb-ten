@@ -90,3 +90,22 @@ test('location clarification accepts a city reply without losing a guess',()=>{
   makeAttempt(g,c,catalog,0,'Disneyland');assert.equal(g.notice.kind,'clarify');assert.equal(g.players[0].errors,0);
   makeAttempt(g,c,catalog,0,'Paris');assert.equal(g.notice.kind,'correct');assert.equal(g.found[0].rank,target.rank);assert.equal(g.players[0].errors,0);
 });
+
+test('team turns have a 30 second limit: timeout counts a mistake, passes the turn and can end the round',()=>{
+  const c=category(47),g=createGame('TIME01',c.id,'teams',['أ','ب'],[['س'],['ص']]);
+  const first=g.current,realNow=Date.now;
+  try{
+    makeAttempt(g,c,catalog,first,'','timeout');
+    assert.equal(g.players[first].errors,0,'too early: ignored');
+    Date.now=()=>realNow()+31000;
+    makeAttempt(g,c,catalog,1-first,'','timeout');
+    assert.equal(g.players[1-first].errors,0,'only the active team can time out');
+    makeAttempt(g,c,catalog,first,'','timeout');
+    assert.equal(g.players[first].errors,1);assert.equal(g.current,1-first);assert.deepEqual(g.players[first].wrong,['انتهى الوقت']);
+    const out=publicGame(g,c,0,1);assert.equal(out.timer.limit,30);
+    Date.now=()=>realNow()+70000;
+    g.players[1-first].errors=4;makeAttempt(g,c,catalog,1-first,'','timeout');
+    assert.equal(g.status,'finished');assert.equal(g.reason,'mistakes');
+  }finally{Date.now=realNow;}
+  const solo=createGame('TIME02',c.id,'solo',['أنت']);assert.equal(publicGame(solo,c,0,0).timer,null);
+});

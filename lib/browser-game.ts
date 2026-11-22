@@ -48,12 +48,12 @@ export function createLocalGameService(catalog: Category[], storage: StorageLike
       save({ schema: 1, game, version: 0 });
       return { game: publicGame(game, category, 0, 0), token: game.players[0].token };
     }
-    if (!['guess', 'confirm', 'cancel'].includes(action)) throw Error('محاولة غير معروفة.');
+    if (!['guess', 'confirm', 'cancel', 'timeout'].includes(action)) throw Error('محاولة غير معروفة.');
     const saved = load(conn), game = saved.game, category = categoryFor(game.categoryId);
     if (String(input.id || '') !== game.id) throw Error('الجولة غير صالحة.');
     const requestId = String(input.requestId || crypto.randomUUID()).slice(0, 80);
     if (!game.requests.includes(requestId) && game.status === 'playing') {
-      makeAttempt(game, category, catalog, game.current, String(input.guess || ''), action as 'guess' | 'confirm' | 'cancel');
+      makeAttempt(game, category, catalog, game.current, String(input.guess || ''), action as 'guess' | 'confirm' | 'cancel' | 'timeout');
       game.requests = [...game.requests.slice(-49), requestId];
       saved.version++;
       save(saved);
