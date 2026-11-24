@@ -200,6 +200,9 @@ h1,h2,h3{font-family:var(--font-display);font-weight:600;text-wrap:balance;lette
 .card-arrow{display:grid;place-items:center;width:34px;height:34px;border-radius:50%;border:1px solid var(--line-2);color:var(--muted);transition:transform .3s var(--ease),background .2s,color .2s,border-color .2s}
 .category-card:hover .card-arrow{transform:translate(-2px,-2px);background:var(--gold);border-color:var(--gold);color:var(--on-gold)}
 .load-more{display:flex;align-items:center;justify-content:center;gap:18px;flex-wrap:wrap;padding:34px 0 6px;font-size:14px;color:var(--muted)}
+.played-badge{justify-self:start;padding:2px 10px;border:1px solid var(--gold-line);border-radius:999px;font-size:12px;color:var(--gold)}
+.played-reset{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:10px;margin-top:24px;color:var(--muted);font-size:14px}
+.played-note{padding:8px 14px;border:1px solid var(--gold-line);border-radius:12px;font-size:14px;color:var(--gold)}
 .empty{display:grid;justify-items:center;gap:10px;padding:56px 20px;text-align:center;color:var(--muted)}
 .empty h3{font-size:26px;color:var(--text)}
 
